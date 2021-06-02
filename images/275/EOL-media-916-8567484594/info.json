@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-916-8567484594",
+  "dataObjectVersionID": 10846012,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-06-04T10:41:54.000Z",
+  "modified": "2020-06-04T10:41:54.000Z",
+  "title": "Pyrus calleryana,_2013-03-15-14.26.15 ZS PMax",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "USGS Bee Inventory and Monitoring Lab",
+  "source": "https://www.flickr.com/photos/usgsbiml/8567484594/",
+  "mediaURL": "https://live.staticflickr.com/8387/8567484594_432238a9cf_o.jpg",
+  "description": "Beltsville, Maryland, United States",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/d5/9f/916.8567484594.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/d5/9f/916.8567484594.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54563451@N08'>USGS Bee Inventory and Monitoring Lab</a>",
+      "homepage": "http://www.flickr.com/photos/54563451@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "USGS Bee Inventory and Monitoring Lab",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

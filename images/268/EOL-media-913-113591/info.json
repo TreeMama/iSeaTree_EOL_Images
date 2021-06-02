@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-913-113591",
+  "dataObjectVersionID": 10789178,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 425,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-05-19T19:37:57.000Z",
+  "modified": "2020-05-19T19:37:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "S Drozd Lund",
+  "source": "http://www.biopix.com/sweet-chestnut-spanish-chest-castanea-sativa_photo-113591.aspx",
+  "mediaURL": "http://www.biopix.com/photos/SDL-Castanea-sativa-00001.jpg",
+  "description": "Falsterbo, Sweden",
+  "eolMediaURL": "https://content.eol.org/data/media/a0/f5/ac/913.113591.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a0/f5/ac/913.113591.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

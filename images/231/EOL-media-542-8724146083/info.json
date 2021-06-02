@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8724146083",
+  "dataObjectVersionID": 6656090,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:14:24.000Z",
+  "modified": "2018-10-20T02:32:46.000Z",
+  "title": "Yucca aloifolia; Spanish Bayonet",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sharpj99",
+  "source": "https://www.flickr.com/photos/78235221@N05/8724146083/",
+  "mediaURL": "https://farm8.staticflickr.com/7359/8724146083_a15304f2c6_o.jpg",
+  "description": "Jason Sharp;De Soto National Monument, Manatee County, Florida",
+  "eolMediaURL": "https://content.eol.org/data/media/81/71/d6/542.8724146083.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/71/d6/542.8724146083.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/78235221@N05'>Sharpj99</a>",
+      "homepage": "http://www.flickr.com/photos/78235221@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

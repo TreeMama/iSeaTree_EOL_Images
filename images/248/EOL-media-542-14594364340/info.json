@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-14594364340",
+  "dataObjectVersionID": 6797771,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:32.000Z",
+  "modified": "2018-10-20T03:00:18.000Z",
+  "title": "Alhagi maurorum",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Juniperus_scopulorum",
+  "source": "https://www.flickr.com/photos/82244653@N08/14594364340/",
+  "mediaURL": "https://farm4.staticflickr.com/3925/14594364340_14ed8455a8_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/85/33/542.14594364340.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/85/33/542.14594364340.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/82244653@N08'>Juniperus_scopulorum</a>",
+      "homepage": "http://www.flickr.com/photos/82244653@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-55244767",
+  "dataObjectVersionID": 7568795,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2018-10-24T13:08:18.000Z",
+  "title": "Pinus arizonica (Arizona Pine) (32080173712).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_arizonica_(Arizona_Pine)_(32080173712).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pinus_arizonica_(Arizona_Pine)_(32080173712).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Pinus arizonica (Arizona Pine) stem with leaf scars    Date 10 January 2017, 09:38   Source <a href=\"https://www.flickr.com/photos/138014579@N08/32080173712/\">Pinus arizonica (Arizona Pine)</a>   Author <a href=\"https://www.flickr.com/people/138014579@N08\">Plant Image Library</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/64/c4/f0/509.55244767.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/64/c4/f0/509.55244767.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:DePlusJean'>DePlusJean</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:DePlusJean",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:DePlusJean'>DePlusJean</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:DePlusJean",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

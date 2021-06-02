@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10227530",
+  "dataObjectVersionID": 7141166,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2044,
+  "width": 2872,
+  "created": "2018-04-05T09:39:25.000Z",
+  "modified": "2019-08-20T18:56:16.000Z",
+  "title": "Yucca aloifolia - Palmengarten Frankfurt.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jutta234",
+  "source": "https://commons.wikimedia.org/wiki/File:Yucca_aloifolia_-_Palmengarten_Frankfurt.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Yucca_aloifolia_-_Palmengarten_Frankfurt.jpg",
+  "description": "DescriptionAPI  <i>Yucca aloifolia</i> Deutsch: Graue Palmlilie im Palmengarten Frankfurt    Date 27 April 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jutta234\" title=\"User:Jutta234\">Jutta234</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">Attribution-Share Alike 3.0 Germany</a> license.         https://creativecommons.org/licenses/by-sa/3.0/de/deed.en CC BY-SA 3.0 de Creative Commons Attribution-Share Alike 3.0 de truetrue         Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=050.122590_N_0008.657837_E_globe:Earth_type:camera_&amp;language=en\">50Â° 07â² 21.32â³ N, 8Â° 39â² 28.21â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/50.12259/8.657837\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=050.122590&amp;lon=0008.657837\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=050.122590&amp;londegdec=0008.657837&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 50.122590; 8.657837  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/36/7e/509.10227530.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/36/7e/509.10227530.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jutta234",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jutta234",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

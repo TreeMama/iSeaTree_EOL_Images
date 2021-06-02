@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-121528",
+  "dataObjectVersionID": 10778301,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:37:45.000Z",
+  "modified": "2020-05-19T19:37:45.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "J Madsen",
+  "source": "http://www.biopix.com/horse-chestnut-aesculus-hippocastanum_photo-121528.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JOM-Aesculus-hippocastanum-00001.jpg",
+  "description": "Jægersborg Dyrehave, Danmark",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/03/a2/913.121528.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/03/a2/913.121528.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

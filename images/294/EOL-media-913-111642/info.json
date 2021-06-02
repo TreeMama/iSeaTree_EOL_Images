@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-913-111642",
+  "dataObjectVersionID": 10823226,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 423,
+  "width": 640,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-05-19T19:38:44.000Z",
+  "modified": "2020-05-19T19:38:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/london-planetree-platanus-acerifolia_photo-111642.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Platanus-acerifolia-65360.JPG",
+  "description": "Maribo. Lolland, Danmark",
+  "eolMediaURL": "https://content.eol.org/data/media/a0/f0/6e/913.111642.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a0/f0/6e/913.111642.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

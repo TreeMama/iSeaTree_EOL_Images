@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-15180686",
+  "dataObjectVersionID": 7243889,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:59:21.000Z",
+  "modified": "2018-10-24T12:54:36.000Z",
+  "title": "Abelia chinensis - Villa Taranto (Verbania) - DSC03858.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Abelia_chinensis_-_Villa_Taranto_(Verbania)_-_DSC03858.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Abelia_chinensis_-_Villa_Taranto_(Verbania)_-_DSC03858.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Abelia chinensis</i>. Botanical specimen on the grounds of the Villa Taranto (Verbania), Lake Maggiore, Italy.    Date 19 April 2011, 08:37:28   Source I took this photograph.   Author Daderot   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public domain.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/3a/65/509.15180686.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/3a/65/509.15180686.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:YaCBot'>YaCBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:YaCBot",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:YaCBot'>YaCBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:YaCBot",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

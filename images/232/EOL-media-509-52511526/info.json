@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-52511526",
+  "dataObjectVersionID": 7988369,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:50:17.000Z",
+  "modified": "2018-10-24T13:25:32.000Z",
+  "title": "Prosopis pubescens range map.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Prosopis_pubescens_range_map.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Prosopis_pubescens_range_map.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Range map of <i>Prosopis pubescens</i>    Date 1999   Source Digital representation of \"Atlas of United States Trees\" by Elbert L. Little, Jr. <a href=\"http://esp.cr.usgs.gov/data/atlas/little/\">[1]</a>   Author Elbert L. Little, Jr. // U.S. Geological Survey  ",
+  "eolMediaURL": "https://content.eol.org/data/media/64/41/72/509.52511526.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/64/41/72/509.52511526.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Elbert L. Little, Jr. // U.S. Geological Survey",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Digital representation of \"Atlas of United States Trees\" by Elbert L. Little, Jr. [1]",
+      "homepage": "http://esp.cr.usgs.gov/data/atlas/little/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-221722471",
+  "dataObjectVersionID": 6847670,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:39.000Z",
+  "modified": "2018-10-24T12:39:35.000Z",
+  "title": "20060805 - Assateague 2006 - 103-0356 - pine cones on the loblolly pine were so varied in age",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Clio CJS",
+  "source": "https://www.flickr.com/photos/clintjcl/221722471/",
+  "mediaURL": "https://farm1.staticflickr.com/79/221722471_f5f7f7231c_o.jpg",
+  "description": "pine cone, tree.loblolly.overlook, Nature Trail, Assateague, Maryland.... Read my blog at <a href=\"http://clintjcl.wordpress.com\">clintjcl.wordpress.com</a>.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/df/e9/542.221722471.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/df/e9/542.221722471.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/31355686@N00'>Clio CJS</a>",
+      "homepage": "http://www.flickr.com/photos/31355686@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

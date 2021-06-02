@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-16940122",
+  "dataObjectVersionID": 7337903,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:07:17.000Z",
+  "modified": "2018-10-24T12:58:34.000Z",
+  "title": "Abelia mosanensis - J. C. Raulston Arboretum - DSC06202.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Abelia_mosanensis_-_J._C._Raulston_Arboretum_-_DSC06202.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Abelia_mosanensis_-_J._C._Raulston_Arboretum_-_DSC06202.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Abelia mosanensis</i> specimen in the J. C. Raulston Arboretum (North Carolina State University), 4415 Beryl Road, Raleigh, North Carolina, USA.    Date 5 October 2011, 15:53:16   Source I took this photograph.   Author Daderot   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public domain.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/9c/dc/509.16940122.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/9c/dc/509.16940122.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Daderot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Daderot",
+      "role": "creator"
+    },
+    {
+      "full_name": "I took this photograph.",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

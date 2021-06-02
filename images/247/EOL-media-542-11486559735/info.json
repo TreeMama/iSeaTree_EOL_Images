@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-11486559735",
+  "dataObjectVersionID": 6771465,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:34:33.000Z",
+  "modified": "2018-10-24T12:38:43.000Z",
+  "title": "Alchorneopsis floribunda (Benth.) Mll. Arg.",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Reinaldo Aguilar",
+  "source": "https://www.flickr.com/photos/plantaspinunsulaosa/11486559735/",
+  "mediaURL": "https://farm6.staticflickr.com/5480/11486559735_7ce2e6a1e7_o.jpg",
+  "description": "Vascular Plants of the Osa Peninsula, Costa Rica<a href=\"http://sweetgum.nybg.org/osa/index.php\">sweetgum.nybg.org/osa/index.php</a>Los Charcos de Osa<a href=\"http://www.osaresearch.org/\">www.osaresearch.org/</a>RA#14727",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/4c/73/542.11486559735.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/4c/73/542.11486559735.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/56339362@N03'>Reinaldo Aguilar</a>",
+      "homepage": "http://www.flickr.com/photos/56339362@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

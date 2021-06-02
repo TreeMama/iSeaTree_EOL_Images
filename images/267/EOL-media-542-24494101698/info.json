@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-24494101698",
+  "dataObjectVersionID": 6704995,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:23:10.000Z",
+  "modified": "2018-10-20T02:42:44.000Z",
+  "title": "Scrub Hickory (Carya floridana)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/24494101698/",
+  "mediaURL": "https://farm5.staticflickr.com/4585/24494101698_1578d9134f_o.jpg",
+  "description": "Morman Branch Area of Ocala National Forest, Marion County, FL, November 2017",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f1/dd/542.24494101698.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f1/dd/542.24494101698.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

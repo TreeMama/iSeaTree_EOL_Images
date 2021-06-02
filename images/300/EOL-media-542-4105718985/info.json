@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4105718985",
+  "dataObjectVersionID": 6842487,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:04.000Z",
+  "modified": "2018-10-20T03:16:31.000Z",
+  "title": "Red Pine cone and needles",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Kent McFarland",
+  "source": "https://www.flickr.com/photos/vtebird/4105718985/",
+  "mediaURL": "https://farm3.staticflickr.com/2757/4105718985_1ea1f0abd2_o.jpg",
+  "description": "Marsh-Billings-Rockefeller NHP, Woodstock, VT",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/d9/2a/542.4105718985.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/d9/2a/542.4105718985.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/32750264@N02'>Kent McFarland</a>",
+      "homepage": "http://www.flickr.com/photos/32750264@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

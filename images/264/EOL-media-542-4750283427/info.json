@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4750283427",
+  "dataObjectVersionID": 6811717,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:41:09.000Z",
+  "modified": "2018-10-20T03:07:08.000Z",
+  "title": "Eagle Spotting",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "HeyGabe WW",
+  "source": "https://www.flickr.com/photos/heygabe/4750283427/",
+  "mediaURL": "https://farm5.staticflickr.com/4075/4750283427_031e614ce7_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/10/5b/542.4750283427.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/10/5b/542.4750283427.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/30681283@N00'>HeyGabe WW</a>",
+      "homepage": "http://www.flickr.com/photos/30681283@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

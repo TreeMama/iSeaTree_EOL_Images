@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-11996215",
+  "dataObjectVersionID": 7242738,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:59:19.000Z",
+  "modified": "2018-10-24T12:54:33.000Z",
+  "title": "Abelia x grandiflora enfoque 2010-11-05 ParqueElPilarCiudadReal.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Abelia_x_grandiflora_enfoque_2010-11-05_ParqueElPilarCiudadReal.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abelia_x_grandiflora_enfoque_2010-11-05_ParqueElPilarCiudadReal.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  EspaÃ±ol: <i><a href=\"https://commons.wikimedia.org/wiki/Abelia_x_grandiflora\" title=\"Abelia x grandiflora\">Abelia x grandiflora</a></i> 'Conti', enfoque flores, <a href=\"https://commons.wikimedia.org/w/index.php?title=Parque_El_Pilar_de_Ciudad_Real&amp;action=edit&amp;redlink=1\" title=\"Parque El Pilar de Ciudad Real\">Parque El Pilar de Ciudad Real</a>, <a href=\"https://commons.wikimedia.org/wiki/Espa%C3%B1a\" title=\"EspaÃ±a\">EspaÃ±a</a> English: <i><a href=\"https://commons.wikimedia.org/wiki/Abelia_x_grandiflora\" title=\"Abelia x grandiflora\">Abelia x grandiflora</a></i> 'Conti', flowers close up, <a href=\"https://commons.wikimedia.org/w/index.php?title=Parque_El_Pilar_de_Ciudad_Real&amp;action=edit&amp;redlink=1\" title=\"Parque El Pilar de Ciudad Real\">Parque El Pilar de Ciudad Real</a>, <a href=\"https://commons.wikimedia.org/wiki/Spain\" title=\"Spain\">Spain</a>    Date 5 November 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Javier_martin\" title=\"User:Javier martin\">Javier martin</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    Public domainPublic domainfalsefalse      I, the copyright holder of this work, release this work into the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" title=\"w:en:public domain\">public domain</a>. This applies worldwide.<br> In some countries this may not be legally possible; if so:<br> <i>I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.</i> Public domainPublic domainfalsefalse      ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/a2/02/509.11996215.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/a2/02/509.11996215.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Javier martin",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Javier_martin",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

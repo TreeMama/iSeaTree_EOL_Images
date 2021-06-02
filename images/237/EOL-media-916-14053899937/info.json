@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-916-14053899937",
+  "dataObjectVersionID": 10845297,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-06-04T10:41:52.000Z",
+  "modified": "2020-06-04T10:41:52.000Z",
+  "title": "silver maple, samara head, pg county, md_2014-05-19-18.36.56 ZS PMax",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "USGS Bee Inventory and Monitoring Lab",
+  "source": "https://www.flickr.com/photos/usgsbiml/14053899937/",
+  "mediaURL": "https://live.staticflickr.com/5191/14053899937_10f4683034_o.jpg",
+  "description": "Acer saccharinum\nSeed head\nCanon Mark II 5D, Zerene Stacker, Stackshot Sled, 65mm Canon MP-E 1-5X macro lens,  Twin Macro Flash in Styrofoam Cooler,  F5.0,  ISO 100,  Shutter Speed 200, link to a .pdf of our set up is located in our profile",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/c9/57/916.14053899937.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/c9/57/916.14053899937.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54563451@N08'>USGS Bee Inventory and Monitoring Lab</a>",
+      "homepage": "http://www.flickr.com/photos/54563451@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "USGS Bee Inventory and Monitoring Lab",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

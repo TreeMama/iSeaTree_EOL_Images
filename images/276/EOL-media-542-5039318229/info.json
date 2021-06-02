@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5039318229",
+  "dataObjectVersionID": 6639072,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:14.000Z",
+  "modified": "2018-10-20T02:29:38.000Z",
+  "title": "Sassafras",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Katja Schulz",
+  "source": "https://www.flickr.com/photos/treegrow/5039318229/",
+  "mediaURL": "https://farm5.staticflickr.com/4112/5039318229_78d5b1593e_o.jpg",
+  "description": "<em>Sassafras albidum</em>.  Growing near an Atlantic White Cedar Swamp, Woods Hole, Woods Hole, Massachusetts, USA.  29 September 2010.  Seen during the TDWG TechnoBioblitz.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/25/31/542.5039318229.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/25/31/542.5039318229.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/86548370@N00'>Katja Schulz</a>",
+      "homepage": "http://www.flickr.com/photos/86548370@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

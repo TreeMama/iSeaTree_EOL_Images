@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-5332",
+  "dataObjectVersionID": 10824479,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:46.000Z",
+  "modified": "2020-05-19T19:38:46.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/white-poplar-populus-alba_photo-5332.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Populus-alba-12521.jpg",
+  "description": "Den Jyske Skovhave, Rold Skov",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/69/2c/913.5332.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/69/2c/913.5332.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

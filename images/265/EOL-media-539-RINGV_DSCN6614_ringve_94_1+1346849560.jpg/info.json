@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-RINGV/DSCN6614_ringve_94_1+1346849560.jpg",
+  "dataObjectVersionID": 11714156,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:27:13.000Z",
+  "modified": "2020-12-22T05:27:13.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "NTNU Museum of Natural History and Archaeology. NTNU Museum of Natural History and Archaeology. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=179529",
+  "mediaURL": "http://www.boldsystems.org/pics/RINGV/DSCN6614_ringve_94_1+1346849560.jpg",
+  "description": "Plant, in situ..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/ba/7b/539.RINGV_DSCN6614_ringve_94_1_1346849560_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/ba/7b/539.RINGV_DSCN6614_ringve_94_1_1346849560_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Sondre Dahle",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

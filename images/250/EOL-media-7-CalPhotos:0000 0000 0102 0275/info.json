@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0102 0275",
+  "dataObjectVersionID": 8867129,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 768,
+  "width": 513,
+  "created": "2018-06-05T11:43:54.000Z",
+  "modified": "2018-10-20T12:19:38.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2000 Dean Wm. Taylor",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=108763&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0102/0275.jpeg",
+  "description": "vouchered by #17595 (JEPS101112, JEPS 101124)",
+  "eolMediaURL": "https://content.eol.org/data/media/84/d4/2a/7.CalPhotos_0000_0000_0102_0275.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/84/d4/2a/7.CalPhotos_0000_0000_0102_0275.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Dean+Wm.+Taylor&one=T'>Dean Wm. Taylor</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Dean+Wm.+Taylor&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

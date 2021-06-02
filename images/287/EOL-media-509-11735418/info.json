@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-11735418",
+  "dataObjectVersionID": 8057910,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 480,
+  "created": "2018-04-05T12:05:48.000Z",
+  "modified": "2018-10-24T13:28:17.000Z",
+  "title": "Jamaican snack.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Jamaican_snack.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jamaican_snack.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Tamarind Balls æ¥æ¬èª: ã¸ã£ãã¤ã«ã®èå­ã    Date jonpenet   Source jonpenet   Author jonpenet   jonpenet Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]   Public domainPublic domainfalsefalse      I, the copyright holder of this work, release this work into the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" title=\"w:en:public domain\">public domain</a>. This applies worldwide.<br> In some countries this may not be legally possible; if so:<br> <i>I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.</i> Public domainPublic domainfalsefalse   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/95/30/509.11735418.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/95/30/509.11735418.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "jonpenet",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "jonpenet",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

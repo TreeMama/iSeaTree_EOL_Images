@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-55244758",
+  "dataObjectVersionID": 7568794,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2019-05-28T19:47:29.000Z",
+  "title": "Pinus arizonica (Arizona Pine) (32080173792).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Plant Image Library",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_arizonica_(Arizona_Pine)_(32080173792).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pinus_arizonica_(Arizona_Pine)_(32080173792).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Pinus arizonica (Arizona Pine) foliage and dormant buds    Date 10 January 2017, 09:38   Source <a href=\"https://www.flickr.com/photos/138014579@N08/32080173792/\">Pinus arizonica (Arizona Pine)</a>   Author <a href=\"https://www.flickr.com/people/138014579@N08\">Plant Image Library</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/64/c4/ee/509.55244758.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/64/c4/ee/509.55244758.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Plant Image Library",
+      "homepage": "https://www.flickr.com/people/138014579@N08",
+      "role": "creator"
+    },
+    {
+      "full_name": "Plant Image Library (138014579@N08)",
+      "homepage": "https://www.flickr.com/photos/138014579@N08/27294641673/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

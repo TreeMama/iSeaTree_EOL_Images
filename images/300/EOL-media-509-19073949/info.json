@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-19073949",
+  "dataObjectVersionID": 7409412,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:24:09.000Z",
+  "modified": "2019-03-29T21:37:21.000Z",
+  "title": "Manitoba old growth red pine.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Krazytea",
+  "source": "https://commons.wikimedia.org/wiki/File:Manitoba_old_growth_red_pine.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Manitoba_old_growth_red_pine.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Old growth red pine forest in the Spur Woods Wildlife Management Area, part of the Sandilands Provincial Forest in Manitoba.    Date 13 April 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Krazytea\" title=\"User:Krazytea\">Krazytea</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/17/f2/509.19073949.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/17/f2/509.19073949.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Krazytea",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Krazytea",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

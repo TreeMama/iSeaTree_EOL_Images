@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-MKTRT/TRT00012392+1413471032.JPG",
+  "dataObjectVersionID": 11948896,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:54:19.000Z",
+  "modified": "2020-12-22T05:54:19.000Z",
+  "license": "No known copyright restrictions",
+  "license_id": 31,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Royal Ontario Museum. Deb Metsger. Year: 2014.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=427101",
+  "mediaURL": "http://www.boldsystems.org/pics/MKTRT/TRT00012392+1413471032.JPG",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/b0/a9/68/539.MKTRT_TRT00012392_1413471032_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b0/a9/68/539.MKTRT_TRT00012392_1413471032_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Green Plant Herbarium (TRT) staff",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-1291126",
+  "dataObjectVersionID": 7409410,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:24:09.000Z",
+  "modified": "2018-10-24T13:01:32.000Z",
+  "title": "Pinus resinosa NOAA1.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_resinosa_NOAA1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pinus_resinosa_NOAA1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_resinosa\" title=\"Pinus resinosa\">Pinus resinosa</a></i>, Great Lakes area - NOAA photo <a href=\"http://www.csc.noaa.gov/crs/lca/class_groups/ef.html\">[1]</a> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]   Public domainPublic domainfalsefalse      <i>This work is in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" title=\"w:Public domain\">public domain</a> in the United States because it is a <a href=\"https://en.wikipedia.org/wiki/Copyright_status_of_work_by_the_U.S._government\" title=\"en:Copyright status of work by the U.S. government\">work prepared by an officer or employee of the United States Government as part of that personâs official duties</a> under the terms of</i> Title 17, Chapter 1, Section 105 of the <a href=\"https://en.wikipedia.org/wiki/United_States_Code\" title=\"w:United States Code\">US Code</a><i>. See <a href=\"https://en.wikipedia.org/wiki/Copyright\" title=\"en:Copyright\">Copyright</a>.</i> Note: This only applies to original works of the Federal Government and not to the work of any individual <a href=\"https://en.wikipedia.org/wiki/U.S._state\" title=\"en:U.S. state\">U.S. state</a>, <a href=\"https://en.wikipedia.org/wiki/United_States_Territory\" title=\"w:United States Territory\">territory</a>, commonwealth, county, municipality, or any other subdivision. This template also does not apply to postage stamp designs published by the <a href=\"https://en.wikipedia.org/wiki/United_States_Postal_Service\" title=\"w:United States Postal Service\">United States Postal Service</a> <a href=\"https://commons.wikimedia.org/wiki/Stamps_of_the_United_States#Copyright-Note_up_to_1978\" title=\"Stamps of the United States\">since 1978</a>. (See Â§ <a href=\"http://copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf\">313.6(C)(1)</a> of Compendium of U.S. Copyright Office Practices). It also does not apply to certain US coins; see <a href=\"http://www.usmint.gov/policy/?action=TermsOfUse\">The US Mint Terms of Use</a>.       <a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/e1/f1/509.1291126.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/e1/f1/509.1291126.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "JarektBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:JarektBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

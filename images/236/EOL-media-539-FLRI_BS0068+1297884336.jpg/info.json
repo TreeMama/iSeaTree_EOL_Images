@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-539-FLRI/BS0068+1297884336.jpg",
+  "dataObjectVersionID": 11787371,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 1019,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-12-22T05:34:47.000Z",
+  "modified": "2020-12-22T05:34:47.000Z",
+  "license": "No known copyright restrictions",
+  "license_id": 31,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "University of Johannesburg. Olivier Maurin.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=254162",
+  "mediaURL": "http://www.boldsystems.org/pics/FLRI/BS0068+1297884336.jpg",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/ae/22/d4/539.FLRI_BS0068_1297884336_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/ae/22/d4/539.FLRI_BS0068_1297884336_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Olivier Maurin",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

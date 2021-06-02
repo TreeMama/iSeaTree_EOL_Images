@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-22556175",
+  "dataObjectVersionID": 8129781,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:11:50.000Z",
+  "modified": "2019-05-26T05:25:43.000Z",
+  "title": "Pinus aristata P1010383.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jeremiah LaRocco",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_aristata_P1010383.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pinus_aristata_P1010383.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_aristata\" title=\"Pinus aristata\">Pinus aristata</a></i> between Mt. Hope (4247 m) and Quail Mountain (4103 m), San Isabel National Forest, Buena Vista, Colorado.    Date 27 June 2010, 08:42   Source <a href=\"http://www.flickr.com/photos/jl_2/4740689034/\">P1010383</a>   Author <a href=\"http://www.flickr.com/people/45448242@N02\">Jeremiah LaRocco</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=039.009956_N_-106.403270_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">39Â° 00â² 35.84â³ N, 106Â° 24â² 11.77â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/39.009956/-106.40327\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=039.009956&amp;lon=-106.403270\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=039.009956&amp;londegdec=-106.403270&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 39.009956; -106.403270  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/c9/3c/509.22556175.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/c9/3c/509.22556175.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jeremiah LaRocco",
+      "homepage": "http://www.flickr.com/people/45448242@N02",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID jl_2",
+      "homepage": "http://www.flickr.com/photos/jl_2/4740689034/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

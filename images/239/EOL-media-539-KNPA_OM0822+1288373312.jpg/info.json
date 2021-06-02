@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-539-KNPA/OM0822+1288373312.jpg",
+  "dataObjectVersionID": 11751089,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:30:08.000Z",
+  "modified": "2020-12-22T05:30:08.000Z",
+  "license": "No known copyright restrictions",
+  "license_id": 31,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=204943",
+  "mediaURL": "http://www.boldsystems.org/pics/KNPA/OM0822+1288373312.jpg",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/af/2a/88/539.KNPA_OM0822_1288373312_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/af/2a/88/539.KNPA_OM0822_1288373312_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

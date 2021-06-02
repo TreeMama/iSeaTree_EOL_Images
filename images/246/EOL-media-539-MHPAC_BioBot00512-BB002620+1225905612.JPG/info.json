@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-MHPAC/BioBot00512-BB002620+1225905612.JPG",
+  "dataObjectVersionID": 11749802,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:30:06.000Z",
+  "modified": "2020-12-22T05:30:06.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Guanacaste Dry Forest Conservation Fund. Daniel H. Janzen. Year: 2010.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=204648",
+  "mediaURL": "http://www.boldsystems.org/pics/MHPAC/BioBot00512-BB002620+1225905612.JPG",
+  "description": "Bark..",
+  "eolMediaURL": "https://content.eol.org/data/media/b0/68/db/539.MHPAC_BioBot00512-BB002620_1225905612_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b0/68/db/539.MHPAC_BioBot00512-BB002620_1225905612_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Daniel H. Janzen",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

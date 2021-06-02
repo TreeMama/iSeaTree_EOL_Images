@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-851-167420-2.jpg",
+  "dataObjectVersionID": 10554211,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2019-12-28T02:22:55.000Z",
+  "modified": "2019-12-28T02:22:55.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=25427",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/16/167420-2.jpg",
+  "description": "Species: Castanea sativa Mill. Date: 2007-01-16 Location: By the Nyamheni Road, near turn-off to Seldomseen, Vumba Habitat: Planted trees",
+  "eolMediaURL": "https://content.eol.org/data/media/9e/02/4c/851.167420-2_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9e/02/4c/851.167420-2_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

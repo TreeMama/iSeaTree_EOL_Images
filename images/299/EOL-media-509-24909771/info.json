@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-24909771",
+  "dataObjectVersionID": 7569059,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2018-10-24T13:08:19.000Z",
+  "title": "A beautiful pocosin pine forest lines the shore of a lake.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:A_beautiful_pocosin_pine_forest_lines_the_shore_of_a_lake.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/A_beautiful_pocosin_pine_forest_lines_the_shore_of_a_lake.jpg",
+  "description": "DescriptionAPI  English:<br> Image title: A beautiful pocosin pine forest lines the shore of a lake Image from Public domain images website, <a href=\"http://www.public-domain-image.com/full-image/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg.html\">http://www.public-domain-image.com/full-image/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg.html</a>    Date Not given Transferred by <a href=\"https://commons.wikimedia.org/wiki/User:F%C3%A6\" title=\"User:FÃ¦\">FÃ¦</a> on 2013-02-28    Source <a href=\"http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg\">http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg</a>   Author Hillebrand Steve, U.S. Fish and Wildlife Service   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  This file is in public domain, not copyrighted, no rights reserved, free for any use. You can use this picture for any use including commercial purposes without the prior written permission and without fee or obligation.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/52/24/509.24909771.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/52/24/509.24909771.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Hillebrand Steve, U.S. Fish and Wildlife Service",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg",
+      "homepage": "http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/nature-landscapes-public-domain-images-pictures/lake-public-domain-images-pictures/a-beautiful-pocosin-pine-forest-lines-the-shore-of-a-lake.jpg",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

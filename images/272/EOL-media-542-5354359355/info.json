@@ -1,0 +1,31 @@
+{
+  "identifier": "EOL-media-542-5354359355",
+  "dataObjectVersionID": 6820993,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:17.000Z",
+  "modified": "2018-10-20T03:11:12.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "source": "https://www.flickr.com/photos/tuchkov/5354359355/",
+  "mediaURL": "https://farm6.staticflickr.com/5244/5354359355_773cfabc66_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/41/71/542.5354359355.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/41/71/542.5354359355.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "[<a href='http://www.flickr.com/photos/58076377@N04'>website</a>]",
+      "homepage": "http://www.flickr.com/photos/58076377@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

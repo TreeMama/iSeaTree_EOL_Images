@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-PIM/MT00179753+1342618254.jpg",
+  "dataObjectVersionID": 11657714,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:20:03.000Z",
+  "modified": "2020-12-22T05:20:03.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Herbier Marie-Victorin. MT. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=126487",
+  "mediaURL": "http://www.boldsystems.org/pics/PIM/MT00179753+1342618254.jpg",
+  "description": "Plant..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/6f/52/539.PIM_MT00179753_1342618254_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/6f/52/539.PIM_MT00179753_1342618254_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Francois Lambert",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

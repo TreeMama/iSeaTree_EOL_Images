@@ -1,0 +1,46 @@
+{
+  "identifier": "EOL-media-643-17764003",
+  "dataObjectVersionID": 12281549,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2021-01-22T10:45:30.000Z",
+  "modified": "2021-01-22T10:45:30.000Z",
+  "title": "Cupressus gigantea",
+  "license": "http://creativecommons.org/licenses/publicdomain/3.0/",
+  "license_id": 21,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "",
+  "source": "http://eolspecies.lifedesks.org/node/3192",
+  "mediaURL": "https://editors.eol.org/other_files/EOL_media/03/17764003.jpg",
+  "description": "Cupressus gigantea<br><p><span class=\"classification-tag-text\"><em>Cupressus gigantea</em>, </span>Bayi, Nyingchi County, Tibet.</p><p>Source: <a href=\"http://en.wikipedia.org/wiki/File:KingCypressTree50%25.jpg\">Wikipedia</a> (colour corrected from original)</p><p> </p>",
+  "eolMediaURL": "https://content.eol.org/data/media/b4/ac/c8/643.17764003.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b4/ac/c8/643.17764003.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Frаnkis, Michаel",
+      "homepage": "",
+      "role": "publisher"
+    },
+    {
+      "full_name": "Kosi Gramatikoff",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "<a href='http://eolspecies.lifedesks.org/'>EOL Rapid Response Team</a>",
+      "homepage": "http://eolspecies.lifedesks.org/",
+      "role": "provider"
+    },
+    {
+      "full_name": "EOL staff",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

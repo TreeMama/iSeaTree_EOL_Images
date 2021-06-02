@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-13244074693",
+  "dataObjectVersionID": 6847666,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:39.000Z",
+  "modified": "2018-10-20T03:17:35.000Z",
+  "title": "Pine,Loblolly_Assateague,MD_DaveSpier_D071419flickr",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Dave Spier",
+  "source": "https://www.flickr.com/photos/dave_spier/13244074693/",
+  "mediaURL": "https://farm8.staticflickr.com/7043/13244074693_8e23d52ab4_o.jpg",
+  "description": "Maryland Biodiversity Project: Loblolly Pine (Pinus taeda), the dominant conifer of the Maritime Forest on the Life of the Dunes Trail in Assateague Island National Seashore, MD, taken at 1:47 pm EST. Submitted to the Maryland Biodiversity Project through their flickr group, and used as an observation on iNaturalist. Photo filename: Pine,Loblolly_Assateague,MD_DaveSpier_D071419flickr (uncropped, but resolution reduced to 864 pixels for faster web use; 10 mp original available by request)",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/60/0a/542.13244074693.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/60/0a/542.13244074693.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/78124146@N00'>Dave Spier</a>",
+      "homepage": "http://www.flickr.com/photos/78124146@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

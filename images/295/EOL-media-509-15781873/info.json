@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-15781873",
+  "dataObjectVersionID": 7190243,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2018-10-24T12:52:14.000Z",
+  "title": "Sycamore SW of Great Lawn jeh.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Sycamore_SW_of_Great_Lawn_jeh.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sycamore_SW_of_Great_Lawn_jeh.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Looking north at a large Sycamore between Great Lawn and West Road (W81) on a sunny late morning.    Date 7 May 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jim.henderson\" title=\"User:Jim.henderson\">Jim.henderson</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=040.780833_N_-073.968944_E_globe:Earth_type:camera_source:exif_heading:NbE&amp;language=en\">40Â° 46â² 51â³ N, 73Â° 58â² 08.2â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/40.780833/-73.968944\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=040.780833&amp;lon=-073.968944\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=040.780833&amp;londegdec=-073.968944&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 40.780833; -73.968944  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/60/7e/509.15781873.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/60/7e/509.15781873.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jim.henderson",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jim.henderson",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3200194632",
+  "dataObjectVersionID": 6638825,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:12.000Z",
+  "modified": "2018-10-20T02:29:35.000Z",
+  "title": "ouzoud drive ifrane 5",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "damian entwistle",
+  "source": "https://www.flickr.com/photos/damiavos/3200194632/",
+  "mediaURL": "https://farm4.staticflickr.com/3358/3200194632_2f11bbe3a2_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/59/9b/542.3200194632.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/59/9b/542.3200194632.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/14878709@N00'>damian entwistle</a>",
+      "homepage": "http://www.flickr.com/photos/14878709@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

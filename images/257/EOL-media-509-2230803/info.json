@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-2230803",
+  "dataObjectVersionID": 8030237,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:03:39.000Z",
+  "modified": "2018-10-24T13:27:14.000Z",
+  "title": "Eucalyptus cinerea.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Eucalyptus_cinerea.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Eucalyptus_cinerea.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Photographed at <a href=\"https://en.wikipedia.org/wiki/Maranoa_Gardens\" title=\"en:Maranoa Gardens\">Maranoa Gardens</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" title=\"en:Victoria (Australia)\">Victoria</a>, <a href=\"https://en.wikipedia.org/wiki/Australia\" title=\"en:Australia\">Australia</a>    Date 6 April 2007 (original upload date)   Source Transferred from <a href=\"http://en.wikipedia.org/\">en.wikipedia</a>.   Author <a href=\"https://en.wikipedia.org/wiki/User:HelloMojo\" title=\"en:User:HelloMojo\">HelloMojo</a> at <a href=\"http://en.wikipedia.org/\">en.wikipedia</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/ba/56/509.2230803.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/ba/56/509.2230803.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "HelloMojo at en.wikipedia",
+      "homepage": "https://en.wikipedia.org/wiki/User:HelloMojo",
+      "role": "creator"
+    },
+    {
+      "full_name": "Transferred from en.wikipedia.",
+      "homepage": "http://en.wikipedia.org",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-1277907807",
+  "dataObjectVersionID": 6764594,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:36.000Z",
+  "modified": "2018-10-24T12:38:38.000Z",
+  "title": "4a. Mount Diablo Manzanita (Arctostaphylos auriculata)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "kqedquest",
+  "source": "https://www.flickr.com/photos/kqedquest/1277907807/",
+  "mediaURL": "https://farm2.staticflickr.com/1358/1277907807_3cf0aa4f5f_o.jpg",
+  "description": "Botanically, Mount Diablo is an \"island mountain\" isolated on a relatively flat plain. The mountain is home to many endemic plant and animal species, including the Mount Diablo manzanita (Arctostaphylos auriculata), found nowhere else in the world. Some botanists think the peeling red bark of the manzanita is the trees way of shedding harmful molds and fungi. The plant flowers early to take advantage of winter rains in our Mediterranean climate.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/5b/c2/542.1277907807.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/5b/c2/542.1277907807.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/48372717@N00'>kqedquest</a>",
+      "homepage": "http://www.flickr.com/photos/48372717@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

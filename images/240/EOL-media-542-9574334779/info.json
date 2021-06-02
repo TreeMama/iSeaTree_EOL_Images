@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-9574334779",
+  "dataObjectVersionID": 6642267,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:39.000Z",
+  "modified": "2018-10-20T02:30:16.000Z",
+  "title": "Baobabs in love Adansonia fony",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Bernard DUPONT",
+  "source": "https://www.flickr.com/photos/berniedup/9574334779/",
+  "mediaURL": "https://farm4.staticflickr.com/3762/9574334779_853b7cee09_o.jpg",
+  "description": "Andranomena, MADAGASCAR",
+  "eolMediaURL": "https://content.eol.org/data/media/81/92/4e/542.9574334779.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/92/4e/542.9574334779.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/65695019@N07'>Bernard DUPONT</a>",
+      "homepage": "http://www.flickr.com/photos/65695019@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

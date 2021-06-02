@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-8342192652",
+  "dataObjectVersionID": 14969,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:37:37.000Z",
+  "title": "n63_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm9.staticflickr.com/8079/8342192652_f2aa327aee_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/8342192652/",
+  "description": "Plants of the coast of Coromandel :.London :Printed by W. Bulmer and Co. for G. Nicol, Bookseller,1795-1819..<a href=\"http://biodiversitylibrary.org/page/280102\">biodiversitylibrary.org/page/280102</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/3a/79/8.8342192652.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/3a/79/8.8342192652.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

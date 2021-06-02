@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-38234864",
+  "dataObjectVersionID": 6930318,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:05.000Z",
+  "modified": "2019-06-07T13:26:14.000Z",
+  "title": "Mexican fan palm (3128198236).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "John Tann",
+  "source": "https://commons.wikimedia.org/wiki/File:Mexican_fan_palm_(3128198236).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mexican_fan_palm_(3128198236).jpg",
+  "description": "DescriptionAPI  Mexican fan palm (Washingtonia robusta) in flower. Como, NSW Australia, December 2008.    Date 22 December 2008, 19:34   Source <a href=\"https://www.flickr.com/photos/31031835@N08/3128198236/\">Mexican fan palm</a>   Author <a href=\"https://www.flickr.com/people/31031835@N08\">John Tann</a> from Sydney, Australia     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=-33.999112_N_0151.061367_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">33Â° 59â² 56.8â³ S, 151Â° 03â² 40.92â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/-33.999112/151.061367\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=-33.999112&amp;lon=0151.061367\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=-33.999112&amp;londegdec=0151.061367&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a>-33.999112; 151.061367  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5f/e1/bc/509.38234864.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5f/e1/bc/509.38234864.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "John Tann",
+      "homepage": "https://www.flickr.com/people/31031835@N08",
+      "role": "creator"
+    },
+    {
+      "full_name": "John Tann (31031835@N08)",
+      "homepage": "https://www.flickr.com/photos/31031835@N08/8975462230/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

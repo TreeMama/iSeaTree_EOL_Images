@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-539-TSA/OM1034.1+1289421394.jpg",
+  "dataObjectVersionID": 11804002,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:37:01.000Z",
+  "modified": "2020-12-22T05:37:01.000Z",
+  "license": "No known copyright restrictions",
+  "license_id": 31,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=269366",
+  "mediaURL": "http://www.boldsystems.org/pics/TSA/OM1034.1+1289421394.jpg",
+  "description": "..",
+  "eolMediaURL": "https://content.eol.org/data/media/b2/57/35/539.TSA_OM1034_1_1289421394_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b2/57/35/539.TSA_OM1034_1_1289421394_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0217 0441",
+  "dataObjectVersionID": 8948438,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:52:26.000Z",
+  "modified": "2018-10-20T12:45:19.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2017 Wynn Anderson",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=761645&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0217/0441.jpeg",
+  "description": "in thorny shrub thicket on sandy, igneous, alluvial soils of gently sloping coastal plain. SYN: A. virgata",
+  "eolMediaURL": "https://content.eol.org/data/media/85/4b/9b/7.CalPhotos_0000_0000_0217_0441.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/85/4b/9b/7.CalPhotos_0000_0000_0217_0441.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Wynn+Anderson&one=T'>Wynn Anderson</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Wynn+Anderson&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

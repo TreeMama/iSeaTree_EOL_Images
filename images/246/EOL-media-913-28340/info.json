@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-28340",
+  "dataObjectVersionID": 10779300,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:37:46.000Z",
+  "modified": "2020-05-19T19:37:46.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "N Sloth",
+  "source": "http://www.biopix.com/pink-siris-albizia-julibrissin_photo-28340.aspx",
+  "mediaURL": "http://www.biopix.com/photos/Albizia-julibrissin-00001.JPG",
+  "description": "Kroatien",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/3d/3e/913.28340.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/3d/3e/913.28340.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

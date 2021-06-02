@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-20087018",
+  "dataObjectVersionID": 7190245,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2019-07-13T16:31:38.000Z",
+  "title": "Inosculation of Sycamore (Platanus occidentalis).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jon and Claudette Hoffman",
+  "source": "https://commons.wikimedia.org/wiki/File:Inosculation_of_Sycamore_(Platanus_occidentalis).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Inosculation_of_Sycamore_(Platanus_occidentalis).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Two Sycamore trees growing together to form one trunk at Rowe Woods (Cincinnati Nature Center) in Clermont County Ohio.    Date 11 March 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Jon45150&amp;action=edit&amp;redlink=1\" title=\"User:Jon45150\">Jon and Claudette Hoffman</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=039.121304_N_-084.253120_E_globe:Earth_type:camera_&amp;language=en\">39Â° 07â² 16.69â³ N, 84Â° 15â² 11.23â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/39.121304/-84.25312\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=039.121304&amp;lon=-084.253120\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=039.121304&amp;londegdec=-084.253120&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 39.121304; -84.253120  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/51/92/509.20087018.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/51/92/509.20087018.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jon and Claudette Hoffman",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Jon45150&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

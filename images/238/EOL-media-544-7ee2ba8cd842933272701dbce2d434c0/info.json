@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-544-7ee2ba8cd842933272701dbce2d434c0",
+  "dataObjectVersionID": 8735277,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:44:45.000Z",
+  "modified": "2018-10-20T11:38:40.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "President and Fellows of Harvard College",
+  "source": "http://www.arboretum.harvard.edu/plants/image-search/?keyword=7ee2ba8cd842933272701dbce2d434c0&search_type=indiv_img&image_key=7ee2ba8cd842933272701dbce2d434c0",
+  "mediaURL": "http://labs.arboretum.harvard.edu/plant/img/aaimg/7ee2ba8cd842933272701dbce2d434c0.lg.jpg",
+  "description": "Plant Accession Number: 1023-85*A",
+  "eolMediaURL": "https://content.eol.org/data/media/81/df/fe/544.7ee2ba8cd842933272701dbce2d434c0.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/df/fe/544.7ee2ba8cd842933272701dbce2d434c0.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Arnold Arboretum Photo Gallery",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

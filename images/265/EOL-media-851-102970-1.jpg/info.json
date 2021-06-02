@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-102970-1.jpg",
+  "dataObjectVersionID": 10538638,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 800,
+  "width": 600,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:21:26.000Z",
+  "modified": "2019-12-28T02:21:26.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=3741",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/10/102970-1.jpg",
+  "description": "Species: Pinus patula Schltdl. &amp; Cham. Date: 2005-10-15 Location: World's View, Nyanga Habitat: Windswept pine on exposed ridge",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/c5/77/851.102970-1_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/c5/77/851.102970-1_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Mark Hyde",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

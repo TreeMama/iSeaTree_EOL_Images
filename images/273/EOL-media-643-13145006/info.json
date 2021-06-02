@@ -1,0 +1,51 @@
+{
+  "identifier": "EOL-media-643-13145006",
+  "dataObjectVersionID": 12282156,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3008,
+  "width": 1693,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2021-01-22T10:45:32.000Z",
+  "modified": "2021-01-22T10:45:32.000Z",
+  "title": "Abies fabri",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Darren Donahue",
+  "source": "http://eolspecies.lifedesks.org/node/3104",
+  "mediaURL": "https://editors.eol.org/other_files/EOL_media/06/13145006.jpg",
+  "description": "Abies fabri<br><p><em>Abies fabri</em>, by Golden Puxian Buddha statue on summit of Emei Shan, Sichuan, China, 29°31'30\"N 103°20'10\"E, 3090 m altitude.</p><p>Source: <a href=\"http://www.flickr.com/photos/darrendonahue/2726049155/\">Flickr</a>. Cropped and brightened from original.</p>",
+  "eolMediaURL": "https://content.eol.org/data/media/b4/ab/ab/643.13145006.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b4/ab/ab/643.13145006.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Frаnkis, Michаel",
+      "homepage": "",
+      "role": "publisher"
+    },
+    {
+      "full_name": "Darren Donahue",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "<a href='http://eolspecies.lifedesks.org/'>EOL Rapid Response Team</a>",
+      "homepage": "http://eolspecies.lifedesks.org/",
+      "role": "provider"
+    },
+    {
+      "full_name": "EOL staff",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

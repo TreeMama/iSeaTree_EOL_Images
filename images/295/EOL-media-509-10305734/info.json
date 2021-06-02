@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10305734",
+  "dataObjectVersionID": 7190238,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1752,
+  "width": 1176,
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2019-07-13T16:31:32.000Z",
+  "title": "Flood damage, tree in Blue Hole Park, Georgetown, TX Nov 2001.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Ahodges7",
+  "source": "https://commons.wikimedia.org/wiki/File:Flood_damage,_tree_in_Blue_Hole_Park,_Georgetown,_TX_Nov_2001.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flood_damage,_tree_in_Blue_Hole_Park,_Georgetown,_TX_Nov_2001.jpg",
+  "description": "DescriptionAPI  English: Flood damage to a <i><a href=\"https://commons.wikimedia.org/wiki/Platanus_occidentalis\" title=\"Platanus occidentalis\">Platanus occidentalis</a></i> tree on the banks of the South San Gabriel River, Blue Hole Park, Georgetown, TX    Date 17 November 2001   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Ahodges7\" title=\"User:Ahodges7\">Ahodges7</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)     I, the copyright holder of this work, hereby publish it under the following licenses:   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue       Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue   <i>You may select the license of your choice.</i>      ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3a/c3/509.10305734.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3a/c3/509.10305734.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Ahodges7",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Ahodges7",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

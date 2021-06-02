@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6872776289",
+  "dataObjectVersionID": 6648770,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:17.000Z",
+  "modified": "2018-10-20T02:31:30.000Z",
+  "title": "Coastalplain Willow (Salix caroliniana)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/6872776289/",
+  "mediaURL": "https://farm8.staticflickr.com/7207/6872776289_d49aa7e638_o.jpg",
+  "description": "Orlando Wetlands Park, Orange County, FL, February 2012.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/d7/17/542.6872776289.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/d7/17/542.6872776289.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

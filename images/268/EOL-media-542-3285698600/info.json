@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3285698600",
+  "dataObjectVersionID": 6685232,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:19:35.000Z",
+  "modified": "2018-10-20T02:38:19.000Z",
+  "title": "Tall American Chestnut Trees",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3285698600/",
+  "mediaURL": "https://farm4.staticflickr.com/3535/3285698600_6ec072dd56_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6e/5c/542.3285698600.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6e/5c/542.3285698600.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

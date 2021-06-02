@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-24608834246",
+  "dataObjectVersionID": 6764597,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:36.000Z",
+  "modified": "2018-10-20T02:54:14.000Z",
+  "title": "J20160126-0031Arctostaphylos auriculataRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/24608834246/",
+  "mediaURL": "https://farm2.staticflickr.com/1453/24608834246_93061ee91a_o.jpg",
+  "description": "Arctostaphylos auriculataMt. Diablo manzanita.  Included in the CNPS Inventory of Rare and Endangered Plants on list 1B.3 (rare, threatened, or endangered in CA and elsewhere). An attractive manzanita from the western slopes of Mount Diablo and environs.  17 populations exist in the wild.  Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f2/f2/542.24608834246.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f2/f2/542.24608834246.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

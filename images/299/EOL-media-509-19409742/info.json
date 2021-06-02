@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-19409742",
+  "dataObjectVersionID": 7569056,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2019-08-22T01:32:44.000Z",
+  "title": "Pinus serotina.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "James Steakley",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_serotina.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pinus_serotina.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Pinus serotina</i> in the United States Botanic Garden    Date 7 May 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jdsteakley\" title=\"User:Jdsteakley\">James Steakley</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/28/47/509.19409742.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/28/47/509.19409742.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "James Steakley",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jdsteakley",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "identifier": "EOL-media-643-13145022",
+  "dataObjectVersionID": 12282155,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2589,
+  "width": 3349,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2021-01-22T10:45:32.000Z",
+  "modified": "2021-01-22T10:45:32.000Z",
+  "title": "Taxodium mucronatum",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Pepe Antonio",
+  "source": "http://eolspecies.lifedesks.org/node/3162",
+  "mediaURL": "https://editors.eol.org/other_files/EOL_media/22/13145022.jpg",
+  "description": "Taxodium mucronatum<br><p><em>Taxodium mucronatum</em> foliage, Rio Verde, Temacapulin, Jalisco, Mexico; 21.197571°N 102.720376°W, 1600m.</p><p>Source: <a href=\"http://www.flickr.com/photos/jahernandez/5552558948\">Flickr</a> (cropped and saturation reduced from original)</p>",
+  "eolMediaURL": "https://content.eol.org/data/media/b4/ab/ba/643.13145022.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b4/ab/ba/643.13145022.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Frаnkis, Michаel",
+      "homepage": "",
+      "role": "publisher"
+    },
+    {
+      "full_name": "Pepe Antonio",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "<a href='http://eolspecies.lifedesks.org/'>EOL Rapid Response Team</a>",
+      "homepage": "http://eolspecies.lifedesks.org/",
+      "role": "provider"
+    },
+    {
+      "full_name": "EOL staff",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

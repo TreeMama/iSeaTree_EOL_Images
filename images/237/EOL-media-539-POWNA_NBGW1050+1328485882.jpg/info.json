@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-539-POWNA/NBGW1050+1328485882.jpg",
+  "dataObjectVersionID": 11656400,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:20:00.000Z",
+  "modified": "2020-12-22T05:20:00.000Z",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "National Botanic Garden of Wales. National Botanic Garden of Wales. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=125732",
+  "mediaURL": "http://www.boldsystems.org/pics/POWNA/NBGW1050+1328485882.jpg",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/84/a6/539.POWNA_NBGW1050_1328485882_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/84/a6/539.POWNA_NBGW1050_1328485882_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

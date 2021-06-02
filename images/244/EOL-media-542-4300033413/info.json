@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4300033413",
+  "dataObjectVersionID": 6681633,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:19:04.000Z",
+  "modified": "2018-10-20T02:37:39.000Z",
+  "title": "0007_04172005-(26)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Ron Thomas",
+  "source": "https://www.flickr.com/photos/41543632@N03/4300033413/",
+  "mediaURL": "https://farm3.staticflickr.com/2766/4300033413_613e1a67a8_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/e7/25/542.4300033413.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/e7/25/542.4300033413.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/41543632@N03'>Ron Thomas</a>",
+      "homepage": "http://www.flickr.com/photos/41543632@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

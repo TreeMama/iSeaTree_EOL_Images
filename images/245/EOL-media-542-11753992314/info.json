@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-11753992314",
+  "dataObjectVersionID": 6725283,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:26:47.000Z",
+  "modified": "2018-10-20T02:46:47.000Z",
+  "title": "Ailanthus-altissima_567-850_6",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Amadej Trnkoczy",
+  "source": "https://www.flickr.com/photos/atrnkoczy/11753992314/",
+  "mediaURL": "https://farm6.staticflickr.com/5507/11753992314_34b6c8995f_o.jpg",
+  "description": "Ailanthus altissima, syn.: Ailanthus glandulosaTree of Heaven, Chinese sumac, Stinking sumac, DE GtterbaumSlo.:veliki pajesen, primorska smrdljivkaDat.: Aug. 04. 2013Lat.: 46.36171  Long.: 13.70444Code: Bot_738/2013_IMG3784Habitat: Overgrown former garden and grassland; dominant species Ailanthus altissima, Fraxinus ornus, Corylus avellana; next to an abandoned farmhouse; flat terrain, calcareous ground; relatively dry and warm place; average precipitation ~ 3.000 mm/year, average temperature 7-9 deg C, elevation 600 m (2.000 feet), alpine phytogeographical region. Substratum: stony, shallow soil.Place: Lower Trenta valley, between villages Soa and Trenta, near abandoned homestead 'Koc', Trenta 3, East Julian Alps, Posoje, Slovenia ECComment: Growing in dense 'monoculture' thickets. This is probably the invasive plant, which most aggressively changes the cultural landscape in the upper Soa river region today. Now abandoned, but in past centuries man-made, grassland, modes stony fields and gardens around abandoned farmhouses as well as road sides and river banks and all other semi-ruderal ground are under its attack. It doesnt spreads only by seeds (a big tree can produce 300.000 winged, wind dispersed, seeds) but also with fast growing underground root sprouts. Therefore it conquers new land advancing in a tight FWW 'front line'. At the same time the tree prevents growth of other competing plants making the ground poisonous for them. It can overgrow cultural land together with abandoned farmhouses (see Fig. 9) in a decade. It's almost impossible to control it. Cutting it only encourages a plethora of root sprouts. Pulling it doesn't help since each small fragment of the roots left results in new sprouts. Several fungal pathogens are under investigation as possible control agent. In mid eighteen century gardeners, not knowing what they were doing, brought it from China to Europe.Ref.:(1) A. Martini et all., Mala Flora Slovenije, Tehnina Zaloba Slovenije (2007), p 339. (2) M.A. Fischer, W. Adler, K. Oswald, Exkursionsflora sterreich, Liechtenstein und Sdtirol, LO Landesmuseen, Linz, Austria (2005), p 595.(3) K. Lauber and G. Wagner, Flora Helvetica, 5. Auflage, Haupt (2012), p 552.(4) S.R. Kaufman, W. Kaufman, Invasive plants, Stackpole Books (2012), pp 104-107.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/52/00/542.11753992314.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/52/00/542.11753992314.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/32503151@N05'>Amadej Trnkoczy</a>",
+      "homepage": "http://www.flickr.com/photos/32503151@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

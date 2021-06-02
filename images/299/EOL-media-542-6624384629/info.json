@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6624384629",
+  "dataObjectVersionID": 6841663,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:56.000Z",
+  "modified": "2018-10-24T12:39:31.000Z",
+  "title": "Pond Pine (Pinus serotina)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/6624384629/",
+  "mediaURL": "https://farm8.staticflickr.com/7160/6624384629_20624ed0ed_o.jpg",
+  "description": "Rock Springs Run State Reserve, Lake County, FL, December 2011.  Species account:  <a href=\"http://flame.fl-dof.com/apps/trees.php\">flame.fl-dof.com/apps/trees.php</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/80/b1/21/542.6624384629.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/b1/21/542.6624384629.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

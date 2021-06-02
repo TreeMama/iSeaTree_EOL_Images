@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-65897",
+  "dataObjectVersionID": 10799922,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:13.000Z",
+  "modified": "2020-05-19T19:38:13.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "A Neumann",
+  "source": "http://www.biopix.com/heart-leafed-silver-gum-eucalyptus-cordata_photo-65897.aspx",
+  "mediaURL": "http://www.biopix.com/photos/ANE-Eucalyptus-cordata-00396.jpg",
+  "description": "Park, Christchurch, New Zealand",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/7f/9d/913.65897.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/7f/9d/913.65897.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

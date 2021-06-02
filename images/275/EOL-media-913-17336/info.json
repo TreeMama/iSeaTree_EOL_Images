@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-17336",
+  "dataObjectVersionID": 10826472,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:48.000Z",
+  "modified": "2020-05-19T19:38:48.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "N Sloth",
+  "source": "http://www.biopix.com/cultivated-pear-pyrus-communis_photo-17336.aspx",
+  "mediaURL": "http://www.biopix.com/photos/Pyrus-communis-00004.JPG",
+  "description": "Hus Randers",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/2d/d0/913.17336.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/2d/d0/913.17336.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

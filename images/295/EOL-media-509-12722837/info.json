@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-12722837",
+  "dataObjectVersionID": 7190241,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2018-10-24T12:52:14.000Z",
+  "title": "Platanus occidentalis map.png",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_map.png",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Platanus_occidentalis_map.png",
+  "description": "DescriptionAPI  English: Range map of Platanus occidentalis    Date 1999   Source Digital representation of \"Atlas of United States Trees\" by Elbert L. Little, Jr. <a href=\"http://esp.cr.usgs.gov/data/atlas/little/\">[1]</a>   Author U.S. Geological Survey  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/d3/67/509.12722837.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/d3/67/509.12722837.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:OgreBot%202'>OgreBot 2</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:OgreBot%202",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:OgreBot%202'>OgreBot 2</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:OgreBot%202",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

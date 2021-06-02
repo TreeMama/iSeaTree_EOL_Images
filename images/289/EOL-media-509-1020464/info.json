@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-1020464",
+  "dataObjectVersionID": 6940508,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2592,
+  "width": 1944,
+  "created": "2018-04-05T09:17:34.000Z",
+  "modified": "2019-08-20T01:24:20.000Z",
+  "title": "17-Mile Drive The Lone Cypress.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Gartenflo",
+  "source": "https://commons.wikimedia.org/wiki/File:17-Mile_Drive_The_Lone_Cypress.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/17-Mile_Drive_The_Lone_Cypress.JPG",
+  "description": "DescriptionAPI  Deutsch: âDie Einsame Zypresseâ (<i>The Lone Cypress</i>; <i><a href=\"https://commons.wikimedia.org/wiki/Cupressus_macrocarpa\" title=\"Cupressus macrocarpa\">Cupressus macrocarpa</a></i>) am <a href=\"https://de.wikipedia.org/wiki/17-Mile_Drive\" title=\"de:17-Mile Drive\">17-Mile Drive</a>, Kalifornien, USA.    Date 10 July 2005   Source selbst fotografiert von Gartenflo   Author <a href=\"https://de.wikipedia.org/wiki/Benutzer:Gartenflo\" title=\"de:Benutzer:Gartenflo\">Gartenflo</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  GFDL    Other versions  from de.wikipedia <a href=\"http://de.wikipedia.org/wiki/Bild:17-Mile_Drive_The_Lone_Cypress.JPG\">[1]</a> <i>08:59, 16. Jul 2005 . . Gartenflo . . 2592 x 1944 (2.403.973 Bytes)</i>       Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/34/f7/509.1020464.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/34/f7/509.1020464.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Gartenflo",
+      "homepage": "https://de.wikipedia.org/wiki/Benutzer:Gartenflo",
+      "role": "creator"
+    },
+    {
+      "full_name": "selbst fotografiert von Gartenflo",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

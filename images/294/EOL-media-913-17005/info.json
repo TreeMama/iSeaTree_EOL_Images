@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-17005",
+  "dataObjectVersionID": 10823228,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:44.000Z",
+  "modified": "2020-05-19T19:38:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/london-planetree-platanus-acerifolia_photo-17005.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Platanus-acerifolia-22264.jpg",
+  "description": "Moesgård , Århus, Danmark",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/2d/55/913.17005.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/2d/55/913.17005.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-73611",
+  "dataObjectVersionID": 10794742,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:06.000Z",
+  "modified": "2020-05-19T19:38:06.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/cupressus-dupreziana_photo-73611.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Cupressus-dupreziana-50474.JPG",
+  "description": "Botanisk Have, Århus",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/8f/8d/913.73611.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/8f/8d/913.73611.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

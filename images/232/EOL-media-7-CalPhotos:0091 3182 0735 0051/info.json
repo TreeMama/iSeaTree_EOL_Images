@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0091 3182 0735 0051",
+  "dataObjectVersionID": 8861857,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:43:36.000Z",
+  "modified": "2018-10-20T12:18:25.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2002 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=109587&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0091_3182/0735/0051.jpeg",
+  "description": "pods on tree",
+  "eolMediaURL": "https://content.eol.org/data/media/87/cc/32/7.CalPhotos_0091_3182_0735_0051.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/87/cc/32/7.CalPhotos_0091_3182_0735_0051.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Glenn+and+Martha+Vargas&one=T'>Glenn and Martha Vargas</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Glenn+and+Martha+Vargas&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "identifier": "EOL-media-543-pifl2_017_avp.jpg",
+  "dataObjectVersionID": 9352350,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:31:12.000Z",
+  "modified": "2018-10-20T14:06:34.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://plants.usda.gov/java/largeImage?imageID=pifl2_017_avp.jpg",
+  "mediaURL": "http://plants.usda.gov/gallery/large/pifl2_017_lvp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/cc/53/543.pifl2_017_avp_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/cc/53/543.pifl2_017_avp_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

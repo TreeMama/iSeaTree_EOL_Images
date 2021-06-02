@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3991478516",
+  "dataObjectVersionID": 6741344,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:29:49.000Z",
+  "modified": "2018-10-24T12:38:20.000Z",
+  "title": "Cipres o Cedro (Cupressus arizonica)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "CARLOS VELAZCO",
+  "source": "https://www.flickr.com/photos/aztekium/3991478516/",
+  "mediaURL": "https://farm4.staticflickr.com/3489/3991478516_17ba20a0fd_o.jpg",
+  "description": "Este es otro de integrante de nuestros bosques, aunque la verdad es poco frecuente verlo, en Nuevo Len, es un rbol mas bien escaso y solo se encuentra en algunos puntos de la Sierra Madre Oriental donde se mezcla con otras especies como abetos, ayarines, pinos y encinos.<a href=\"http://www.flickr.com/photos/aztekium/3990741157/\">DETALLE DE LOS CONOS.</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/cc/31/542.3991478516.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/cc/31/542.3991478516.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/68033941@N00'>CARLOS VELAZCO</a>",
+      "homepage": "http://www.flickr.com/photos/68033941@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

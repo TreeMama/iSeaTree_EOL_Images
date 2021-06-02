@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4038237416",
+  "dataObjectVersionID": 6811716,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:41:09.000Z",
+  "modified": "2018-10-20T03:07:07.000Z",
+  "title": "Pinus strobus (Eastern White Pine)",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "S. Rae",
+  "source": "https://www.flickr.com/photos/35142635@N05/4038237416/",
+  "mediaURL": "https://farm3.staticflickr.com/2464/4038237416_8cfe190596_o.jpg",
+  "description": "Taken Dawyck Botanic Garden.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/d1/ca/542.4038237416.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/d1/ca/542.4038237416.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/35142635@N05'>S. Rae</a>",
+      "homepage": "http://www.flickr.com/photos/35142635@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

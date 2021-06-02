@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3861092838",
+  "dataObjectVersionID": 6800703,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:56.000Z",
+  "modified": "2018-10-20T03:01:23.000Z",
+  "title": "CAPRIFOLIACEAE  - Glossy abelia (Abelia x grandiflora) ",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Kai Yan,  Joseph Wong",
+  "source": "https://www.flickr.com/photos/33623636@N08/3861092838/",
+  "mediaURL": "https://farm3.staticflickr.com/2569/3861092838_6254326faf_o.jpg",
+  "description": "Glossy abelia was first cultivated in Italy in 1886 and I am happy to find it blooming gloriously in the hot and humid Summer here in Hong Kong.  This photo was captured in the Kadoorie Farm and Botanical Garden here in Hong Kong.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/bc/a1/542.3861092838.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/bc/a1/542.3861092838.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33623636@N08'>Kai Yan,  Joseph Wong</a>",
+      "homepage": "http://www.flickr.com/photos/33623636@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

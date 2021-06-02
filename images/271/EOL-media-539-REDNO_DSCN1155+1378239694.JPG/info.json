@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-REDNO/DSCN1155+1378239694.JPG",
+  "dataObjectVersionID": 12019137,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T06:08:57.000Z",
+  "modified": "2020-12-22T06:08:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "NTNU Museum of Natural History and Archaeology. NTNU Museum of Natural History and Archaeology. Year: 2013.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=546606",
+  "mediaURL": "http://www.boldsystems.org/pics/REDNO/DSCN1155+1378239694.JPG",
+  "description": "Lateral..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/b5/d2/539.REDNO_DSCN1155_1378239694_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/b5/d2/539.REDNO_DSCN1155_1378239694_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Erik Bostrom",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

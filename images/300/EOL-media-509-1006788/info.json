@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-1006788",
+  "dataObjectVersionID": 7409408,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 577,
+  "width": 889,
+  "created": "2018-04-05T10:24:09.000Z",
+  "modified": "2018-10-24T13:01:32.000Z",
+  "title": "Pinus resinosa, Algoma Highlands PP.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_resinosa,_Algoma_Highlands_PP.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pinus_resinosa,_Algoma_Highlands_PP.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_resinosa\" title=\"Pinus resinosa\">Pinus resinosa</a></i> ááááá¯á§áá / Anishinaabemowin:<br> zhingwaak-mskozi English:<br> red pine, old-growth<br> Algoma Highlands Provincial Park<br> Algoma District, Ontario, Canada<br> August 2004. FranÃ§ais:<br> pin rouge, ancien<br> parc provincial des montagnes d'Algoma<br> district d'Algoma, Ontario, Canada<br> aoÃ»t 2004. Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    Fungus Guy, the copyright holder of this work, hereby publishes it under the following license:   Public domainPublic domainfalsefalse      I, the copyright holder of this work, release this work into the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" title=\"w:en:public domain\">public domain</a>. This applies worldwide.<br> In some countries this may not be legally possible; if so:<br> <i>I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.</i> Public domainPublic domainfalsefalse      ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/2e/c6/509.1006788.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/2e/c6/509.1006788.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Fungus Guy",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Fungus_Guy",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

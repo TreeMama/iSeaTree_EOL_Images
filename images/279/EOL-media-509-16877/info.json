@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-16877",
+  "dataObjectVersionID": 6940063,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:34.000Z",
+  "modified": "2018-10-24T12:41:50.000Z",
+  "title": "Crw 1691-web.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Crw_1691-web.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Crw_1691-web.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] Cones from a <i><a href=\"https://commons.wikimedia.org/wiki/Category:Pinus_coulteri\" title=\"Category:Pinus coulteri\">Pinus coulteri</a></i> â Coulter pine, big-cone pine. Taken by Rick Sidwell (the submitter) May 28, 2004. <br>    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/1.0/deed.en\">Attribution-Share Alike 1.0 Generic</a> license.        You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). share alike â If you alter, transform, or build upon this work, you must distribute the resulting work under the same license as the original. https://creativecommons.org/licenses/by-sa/1.0 CC BY-SA 1.0 Creative Commons Attribution-Share Alike 1.0 truetrue    <a href=\"https://en.wikipedia.org/wiki/Pinus_coulteri\" title=\"en:Pinus coulteri\">en:Pinus coulteri</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/56/9a/16/509.16877.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/9a/16/509.16877.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Frank C. Müller",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Frank",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

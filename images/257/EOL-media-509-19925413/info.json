@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-19925413",
+  "dataObjectVersionID": 8030235,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:03:39.000Z",
+  "modified": "2019-05-25T10:59:07.000Z",
+  "title": "Flickr - brewbooks - Eucalyptus cinerea.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "brewbooks",
+  "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_brewbooks_-_Eucalyptus_cinerea.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flickr_-_brewbooks_-_Eucalyptus_cinerea.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Myrtaceae Eucalyptus cinerea Argyle Apple New South Wales Victoria G880512 i040707 056    Date 5 April 2007, 20:35   Source <a href=\"http://www.flickr.com/photos/brewbooks/449982373/\">Eucalyptus cinerea</a>   Author <a href=\"http://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=-34.920633_N_0138.604717_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">34Â° 55â² 14.28â³ S, 138Â° 36â² 16.98â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/-34.920633/138.604717\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=-34.920633&amp;lon=0138.604717\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=-34.920633&amp;londegdec=0138.604717&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a>-34.920633; 138.604717  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/44/c2/509.19925413.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/44/c2/509.19925413.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "brewbooks",
+      "homepage": "http://www.flickr.com/people/93452909@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID brewbooks",
+      "homepage": "https://www.flickr.com/photos/brewbooks/27662471994/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

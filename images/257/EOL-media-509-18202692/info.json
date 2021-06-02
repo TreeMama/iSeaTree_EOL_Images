@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-18202692",
+  "dataObjectVersionID": 8030240,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:03:39.000Z",
+  "modified": "2018-10-24T13:27:14.000Z",
+  "title": "Silver doller plant from lalbagh 1757.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Silver_doller_plant_from_lalbagh_1757.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Silver_doller_plant_from_lalbagh_1757.JPG",
+  "description": "Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=012.949573_N_0077.586172_E_globe:Earth_type:camera_&amp;language=en\">12Â° 56â² 58.46â³ N, 77Â° 35â² 10.22â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/12.949573/77.586172\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=012.949573&amp;lon=0077.586172\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=012.949573&amp;londegdec=0077.586172&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 12.949573; 77.586172   Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Silver doller plant from Lalbagh during flower show, January 2012, Bangalore, India. NOT Lunaria annua!    Date 26 January 2012, 09:22:40   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Rameshng\" title=\"User:Rameshng\">Rameshng</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5b/e7/09/509.18202692.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5b/e7/09/509.18202692.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

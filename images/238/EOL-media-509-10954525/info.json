@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10954525",
+  "dataObjectVersionID": 7791463,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2112,
+  "width": 2816,
+  "created": "2018-04-05T11:25:09.000Z",
+  "modified": "2019-04-07T01:21:33.000Z",
+  "title": "Abelia spathulata 2.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Qwert1234",
+  "source": "https://commons.wikimedia.org/wiki/File:Abelia_spathulata_2.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Abelia_spathulata_2.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Abelia spathulata</i>, Aizu area, Fukushima pref., Japan æ¥æ¬èª: ãã¯ããã¦ãã® ç¦å³¶çä¼æ´¥å°æ¹    Date 28 May 2008   Source Qwert1234's file   Author Qwert1234  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/66/69/509.10954525.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/66/69/509.10954525.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Qwert1234",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Qwert1234's file",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

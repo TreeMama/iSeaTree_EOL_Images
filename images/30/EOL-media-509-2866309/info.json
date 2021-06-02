@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2866309",
+  "dataObjectVersionID": 6968258,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:19:06.000Z",
+  "modified": "2019-06-24T15:45:14.000Z",
+  "title": "Acer triflorum fall leaves.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Abrahami",
+  "source": "https://commons.wikimedia.org/wiki/File:Acer_triflorum_fall_leaves.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Acer_triflorum_fall_leaves.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Acer triflorum fall leaves    Date    Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Abrahami\" title=\"User:Abrahami\">Abrahami</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/1d/19/509.2866309.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/1d/19/509.2866309.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Abrahami",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Abrahami",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

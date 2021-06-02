@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-119980-1.jpg",
+  "dataObjectVersionID": 10541078,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1632,
+  "width": 1224,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:21:46.000Z",
+  "modified": "2019-12-28T02:21:46.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=1070",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/11/119980-1.jpg",
+  "description": "Species: Populus ×  canescens (Aiton) Sm. Date: 2004-05-14 Location: Greystone Park NP, Harare Habitat: In marshy area below dam wall",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/ce/ff/851.119980-1_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/ce/ff/851.119980-1_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

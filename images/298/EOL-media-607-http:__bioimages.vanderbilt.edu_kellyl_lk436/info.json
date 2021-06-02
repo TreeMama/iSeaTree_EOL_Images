@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-607-http://bioimages.vanderbilt.edu/kellyl/lk436",
+  "dataObjectVersionID": 9271699,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-10-02T15:01:49.000Z",
+  "modified": "2018-10-20T13:48:36.000Z",
+  "title": "Pinus palustris (Pinaceae) - whole tree - general",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "license_id": 9,
+  "rightsHolder": "Lisa Kelly",
+  "source": "http://bioimages.vanderbilt.edu/kellyl/lk436",
+  "mediaURL": "http://bioimages.vanderbilt.edu/gq/kellyl/gpipa2-wpgrass-stagelk436.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/29/71/607.http___bioimages_vanderbilt_edu_kellyl_lk436.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/29/71/607.http___bioimages_vanderbilt_edu_kellyl_lk436.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Lisa Kelly",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "Bioimages Vanderbilt DwCA",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-VEMSH/MTMG136937+1403295860.JPG",
+  "dataObjectVersionID": 11947642,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:53:52.000Z",
+  "modified": "2020-12-22T05:53:52.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "McGill University Herbarium. MTMG. Year: 2014.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=418434",
+  "mediaURL": "http://www.boldsystems.org/pics/VEMSH/MTMG136937+1403295860.JPG",
+  "description": "Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/b2/89/7e/539.VEMSH_MTMG136937_1403295860_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b2/89/7e/539.VEMSH_MTMG136937_1403295860_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Tammy Elliott",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-PNCA/COOP01_S+915170400.JPG",
+  "dataObjectVersionID": 11949650,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:56:06.000Z",
+  "modified": "2020-12-22T05:56:06.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Universidad Nacional Autonoma de Mexico, Instituto de Biologia. David Sebastian Gernandt. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=434046",
+  "mediaURL": "http://www.boldsystems.org/pics/PNCA/COOP01_S+915170400.JPG",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/79/f3/539.PNCA_COOP01_S_915170400_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/79/f3/539.PNCA_COOP01_S_915170400_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Miriam Patricia Ramirez de Anda",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

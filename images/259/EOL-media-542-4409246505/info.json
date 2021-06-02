@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4409246505",
+  "dataObjectVersionID": 6818983,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:01.000Z",
+  "modified": "2018-10-20T03:10:44.000Z",
+  "title": "Monterey Pine  (Pinus radiata)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Jerry Kirkhart",
+  "source": "https://www.flickr.com/photos/jkirkhart35/4409246505/",
+  "mediaURL": "https://farm3.staticflickr.com/2512/4409246505_9ab227399c_o.jpg",
+  "description": "1st year female cone, when pollination takes place.  Very few notice this cone.  Their is only one of these on the marina, so when you come to the tree look for each of the three different types of cones.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/f0/35/542.4409246505.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/f0/35/542.4409246505.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33466410@N00'>Jerry Kirkhart</a>",
+      "homepage": "http://www.flickr.com/photos/33466410@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

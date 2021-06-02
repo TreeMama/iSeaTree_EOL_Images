@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-23761173",
+  "dataObjectVersionID": 7569058,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2018-10-24T13:08:19.000Z",
+  "title": "PondPineCone.wmg.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:PondPineCone.wmg.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/PondPineCone.wmg.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: A Pond Pine cone in False Cape State Park, Virginia Beach, Virginia.    Date Taken in April 2007   Source Own work   Author Wyatt Greene (<a href=\"https://en.wikipedia.org/wiki/User:Pytheas\" title=\"en:User:Pytheas\">User:Pytheas</a>)  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/12/f8/509.23761173.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/12/f8/509.23761173.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wyatt Greene (User:Pytheas)",
+      "homepage": "https://en.wikipedia.org/wiki/User:Pytheas",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

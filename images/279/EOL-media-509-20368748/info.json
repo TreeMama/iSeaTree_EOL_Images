@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-20368748",
+  "dataObjectVersionID": 6940066,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:34.000Z",
+  "modified": "2019-08-20T01:22:20.000Z",
+  "title": "Pinus coulteri Strawberry Peak.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Jason Hollinger",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_coulteri_Strawberry_Peak.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pinus_coulteri_Strawberry_Peak.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Category:Pinus_coulteri\" title=\"Category:Pinus coulteri\">Pinus coulteri</a></i> â Coulter pine, big-cone pine; cones and foliage. Strawberry Peak, Front Range of the San Gabriel Mountains, <a href=\"https://commons.wikimedia.org/wiki/Category:Angeles_National_Forest\" title=\"Category:Angeles National Forest\">Angeles National Forest</a>, Southern California Transverse Ranges of California.    Date 25 August 2007, 20:15   Source <a href=\"http://www.flickr.com/photos/7147684@N03/1235983335/\">Coulter Pine</a>   Author <a href=\"http://www.flickr.com/people/7147684@N03\">Jason Hollinger</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/5f/e9/509.20368748.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/5f/e9/509.20368748.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jason Hollinger",
+      "homepage": "https://www.flickr.com/people/7147684@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "Jason Hollinger (7147684@N03)",
+      "homepage": "https://www.flickr.com/photos/7147684@N03/15891312886/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

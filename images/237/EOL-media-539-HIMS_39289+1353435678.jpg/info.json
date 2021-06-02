@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-HIMS/39289+1353435678.jpg",
+  "dataObjectVersionID": 11991528,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T06:02:57.000Z",
+  "modified": "2020-12-22T06:02:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "OAC-BIO Herbarium. University of Guelph, Canada. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=502407",
+  "mediaURL": "http://www.boldsystems.org/pics/HIMS/39289+1353435678.jpg",
+  "description": "Herbarium..",
+  "eolMediaURL": "https://content.eol.org/data/media/ae/c9/52/539.HIMS_39289_1353435678_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/ae/c9/52/539.HIMS_39289_1353435678_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "NA",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

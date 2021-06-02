@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-25208217",
+  "dataObjectVersionID": 7285024,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:02:22.000Z",
+  "modified": "2019-08-16T06:05:52.000Z",
+  "title": "Vesalea floribunda (7850722958).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "peganum",
+  "source": "https://commons.wikimedia.org/wiki/File:Vesalea_floribunda_(7850722958).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vesalea_floribunda_(7850722958).jpg",
+  "description": "DescriptionAPI  Abelia (Vaselea) floribunda    Date 23 August 2012, 11:11   Source <a href=\"http://www.flickr.com/photos/peganum/7850722958/\">Abelia (Vaselea) floribunda</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:Uleli\" title=\"User:Uleli\">uleli</a>    Author <a href=\"http://www.flickr.com/people/26698606@N03\">peganum</a> from Henfield, England  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/6b/ce/509.25208217.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/6b/ce/509.25208217.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "peganum",
+      "homepage": "https://www.flickr.com/people/26698606@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID peganum",
+      "homepage": "https://www.flickr.com/photos/peganum/4036807599/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

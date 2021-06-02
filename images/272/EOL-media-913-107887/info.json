@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-913-107887",
+  "dataObjectVersionID": 10822299,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 423,
+  "width": 640,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-05-19T19:38:43.000Z",
+  "modified": "2020-05-19T19:38:43.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/norway-spruce-picea-abies_photo-107887.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Picea-abies-64429.JPG",
+  "description": "Øksedal, Sebbersund, Jylland, Danmark",
+  "eolMediaURL": "https://content.eol.org/data/media/a0/e6/a0/913.107887.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a0/e6/a0/913.107887.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

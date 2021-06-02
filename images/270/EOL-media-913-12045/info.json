@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-12045",
+  "dataObjectVersionID": 10789819,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:37:58.000Z",
+  "modified": "2020-05-19T19:37:58.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/katsura-tree-cercidiphyllum-japonicum_photo-12045.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Cercidiphyllum-japonicum-17861.jpg",
+  "description": "Hobro",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/02/5e/913.12045.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/02/5e/913.12045.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

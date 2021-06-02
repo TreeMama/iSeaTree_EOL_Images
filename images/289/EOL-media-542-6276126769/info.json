@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6276126769",
+  "dataObjectVersionID": 6828786,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:16.000Z",
+  "modified": "2018-10-24T12:39:22.000Z",
+  "title": "17 Mile Drive_2011 10 17_0109",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Harvey Barrison",
+  "source": "https://www.flickr.com/photos/hbarrison/6276126769/",
+  "mediaURL": "https://farm7.staticflickr.com/6223/6276126769_eb2b452aca_o.jpg",
+  "description": "The Lone Cypress\", a Monterey Cypress (Cupressus macrocarpa)   /  said to be on this point for more than 250 years  /  This is a species of cypress that is endemic to the Central Coast of California and is confined naturally to two small populations, the Del Monte Forest and Pt. Lobos, south of Carmel.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/94/7e/542.6276126769.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/94/7e/542.6276126769.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/10299779@N03'>Harvey Barrison</a>",
+      "homepage": "http://www.flickr.com/photos/10299779@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

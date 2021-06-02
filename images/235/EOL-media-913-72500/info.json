@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-72500",
+  "dataObjectVersionID": 10803093,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:16.000Z",
+  "modified": "2020-05-19T19:38:16.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/ginkgo-tree-ginkgo-biloba_photo-72500.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Ginkgo-biloba-49802.JPG",
+  "description": "Forstbotanisk Have, Århus",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/8c/bb/913.72500.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/8c/bb/913.72500.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

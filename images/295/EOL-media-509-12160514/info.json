@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-12160514",
+  "dataObjectVersionID": 7190240,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2018-10-24T12:52:14.000Z",
+  "title": "Pratt Engineering Bldg rainy jeh.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Pratt_Engineering_Bldg_rainy_jeh.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pratt_Engineering_Bldg_rainy_jeh.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Looking east at Pratt Engineering on a rainy midday, along a <i><a href=\"https://commons.wikimedia.org/wiki/Platanus_occidentalis\" title=\"Platanus occidentalis\">Platanus occidentalis</a></i> avenue.    Date 22 August 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jim.henderson\" title=\"User:Jim.henderson\">Jim.henderson</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=040.691222_N_-073.963500_E_globe:Earth_type:camera_alt:0_source:exif_heading:EbN&amp;language=en\">40Â° 41â² 28.4â³ N, 73Â° 57â² 48.6â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/40.691222/-73.9635\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=040.691222&amp;lon=-073.963500\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=040.691222&amp;londegdec=-073.963500&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 40.691222; -73.963500  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/aa/fc/509.12160514.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/aa/fc/509.12160514.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jim.henderson",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jim.henderson",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-25408528",
+  "dataObjectVersionID": 7141172,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:39:25.000Z",
+  "modified": "2019-08-20T18:56:06.000Z",
+  "title": "Yucca aloifolia - Madeira 1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Emőke Dénes",
+  "source": "https://commons.wikimedia.org/wiki/File:Yucca_aloifolia_-_Madeira_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Yucca_aloifolia_-_Madeira_1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Yucca aloifolia 'Variegata' in Madeira. Magyar: Yucca aloifolia 'Variegata' MadeirÃ¡ban.    Date 26 December 2012   Source kindly granted by the author   Author EmÅke DÃ©nes  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/7b/5f/509.25408528.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/7b/5f/509.25408528.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Emőke Dénes",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "kindly granted by the author",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

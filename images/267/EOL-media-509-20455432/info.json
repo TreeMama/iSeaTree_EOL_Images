@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-20455432",
+  "dataObjectVersionID": 7771535,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:23:32.000Z",
+  "modified": "2019-06-29T03:01:13.000Z",
+  "title": "Kornik Arboretum orzesznik siedmiolistkowy.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Andrzej Otrębski",
+  "source": "https://commons.wikimedia.org/wiki/File:Kornik_Arboretum_orzesznik_siedmiolistkowy.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kornik_Arboretum_orzesznik_siedmiolistkowy.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Polski: KÃ³rnik - Arboretum - orzesznik siedmiolistkowy (Carya laciniosa) English: KÃ³rnik - Arboretum - Shellbark hickory (Carya laciniosa)    Date 3 May 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Andrzej_O\" title=\"User:Andrzej O\">Andrzej OtrÄbski</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/65/a0/509.20455432.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/65/a0/509.20455432.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Andrzej Otrębski",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Andrzej_O",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

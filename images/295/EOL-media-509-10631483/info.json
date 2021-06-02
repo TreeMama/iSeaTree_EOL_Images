@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-10631483",
+  "dataObjectVersionID": 7190239,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2508,
+  "width": 1771,
+  "created": "2018-04-05T09:54:39.000Z",
+  "modified": "2018-10-24T12:52:14.000Z",
+  "title": "Studley AaH HH Pkwy jeh.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Studley_AaH_HH_Pkwy_jeh.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Studley_AaH_HH_Pkwy_jeh.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Looking north at sign naming a New York realty company for beautification.    Date 24 April 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jim.henderson\" title=\"User:Jim.henderson\">Jim.henderson</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=040.799500_N_-073.974617_E_globe:Earth_type:camera_alt:0_source:exif_heading:NbE&amp;language=en\">40Â° 47â² 58.2â³ N, 73Â° 58â² 28.62â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/40.7995/-73.974617\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=040.799500&amp;lon=-073.974617\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=040.799500&amp;londegdec=-073.974617&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 40.799500; -73.974617  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/51/32/509.10631483.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/51/32/509.10631483.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jim.henderson",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jim.henderson",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

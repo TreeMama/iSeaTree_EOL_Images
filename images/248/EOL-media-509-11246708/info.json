@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-11246708",
+  "dataObjectVersionID": 7629279,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2642,
+  "width": 2908,
+  "created": "2018-04-05T10:54:00.000Z",
+  "modified": "2019-04-21T04:35:52.000Z",
+  "title": "Alhagi maurorum bush.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Eitan f",
+  "source": "https://commons.wikimedia.org/wiki/File:Alhagi_maurorum_bush.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alhagi_maurorum_bush.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Alhagi maurorum bush<br> ×Ö´×Öµ× ××¦××    Date aougust 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Eitan_f\" title=\"User:Eitan f\">Eitan f</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/7b/18/509.11246708.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/7b/18/509.11246708.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Eitan f",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Eitan_f",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

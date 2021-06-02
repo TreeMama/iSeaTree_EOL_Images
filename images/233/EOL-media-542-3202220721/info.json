@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3202220721",
+  "dataObjectVersionID": 6689188,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:20:57.000Z",
+  "modified": "2018-10-20T02:39:09.000Z",
+  "title": "Fabaceae - Prosopis chilensis (Mol.) Stuntz Emend. Burkart",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Jardn Botnico Nacional, Via del Mar, Chile",
+  "source": "https://www.flickr.com/photos/fjbn/3202220721/",
+  "mediaURL": "https://farm4.staticflickr.com/3131/3202220721_b54bb40d59_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/59/db/542.3202220721.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/59/db/542.3202220721.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/27255478@N02'>Jardn Botnico Nacional, Via del Mar, Chile</a>",
+      "homepage": "http://www.flickr.com/photos/27255478@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

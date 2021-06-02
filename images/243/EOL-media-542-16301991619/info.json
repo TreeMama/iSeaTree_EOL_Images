@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-16301991619",
+  "dataObjectVersionID": 6833582,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:44:45.000Z",
+  "modified": "2018-10-24T12:39:25.000Z",
+  "title": "H20150209-4034Adolphia californicaRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/16301991619/",
+  "mediaURL": "https://farm8.staticflickr.com/7359/16301991619_10b6fe59cd_o.jpg",
+  "description": "Adolphia californicaCalifornia adolphia. included in the CNPS Inventory of Rare and Endangered Plants on list 2.1 (rare, threatened, or endangered in CA; common elsewhere).  Distribution limited to San Diego county and northern Baja California. \"In contrast to its cousin Ceanothus, A. californica produces flowers that are simple and also very instructive. In this family the flower typically has a disk- or cup-like extension around the ovary, called an hypanthium, and thereon sepals and petals are attached. Sepals are triangular. Petals are clawed (each petal has a stalk)... . These important and diagnosed features are very easily observed and understood in the flowers of Adolphia, which has white sepals and white petals. The ovary has three styles and stigmas and later may form a spherical capsular fruit. At MEMBG, I have not observed mature fruits, although various insects visit the flowers to drink the nectar, which collects on the hypanthium.\"ARTHUR C. GIBSON, UCLA Mildred E. Mathias Botanical Garden (MEMBG) Director. Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/b3/f7/542.16301991619.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/b3/f7/542.16301991619.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

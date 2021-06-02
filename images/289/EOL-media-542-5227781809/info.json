@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5227781809",
+  "dataObjectVersionID": 6828784,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:16.000Z",
+  "modified": "2018-10-20T03:13:06.000Z",
+  "title": "Monterey Cypress (Cupressus macrocarpa) on Point Lobos Cypress Grove Trail",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://www.flickr.com/photos/miguelvieira/5227781809/",
+  "mediaURL": "https://farm6.staticflickr.com/5090/5227781809_4751d27285_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/38/4a/542.5227781809.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/38/4a/542.5227781809.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/11563230@N04'>Miguel Vieira</a>",
+      "homepage": "http://www.flickr.com/photos/11563230@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

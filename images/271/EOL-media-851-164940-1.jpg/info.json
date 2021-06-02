@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-851-164940-1.jpg",
+  "dataObjectVersionID": 10554054,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2019-12-28T02:22:53.000Z",
+  "modified": "2019-12-28T02:22:53.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=48667",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/16/164940-1.jpg",
+  "description": "Species: Ulmus parvifolia Jacq. Date: 2011-01-04 Location: Small Bridge Dam, Penhalonga. Habitat: By a rock in the understorey of a pine plantation.",
+  "eolMediaURL": "https://content.eol.org/data/media/9e/01/af/851.164940-1_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9e/01/af/851.164940-1_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

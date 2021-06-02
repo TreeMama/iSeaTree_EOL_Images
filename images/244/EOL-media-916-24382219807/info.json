@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-916-24382219807",
+  "dataObjectVersionID": 10843905,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-06-04T10:41:46.000Z",
+  "modified": "2020-06-04T10:41:46.000Z",
+  "title": "Aesculus glabra, Ohio Buckeye inflorescence, Howard County, MD, HeLoMetz_2017-05-26-16.48",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "USGS Bee Inventory and Monitoring Lab",
+  "source": "https://www.flickr.com/photos/usgsbiml/24382219807/",
+  "mediaURL": "https://live.staticflickr.com/4594/24382219807_4109dd60cc_o.jpg",
+  "description": "Ohio Buckeye.   Aesculus glabra.  Nice open understory tree you see more towards the west in Maryland and the Eastern U.S.  Attracts a variety of  woodland loving bees...in particular Augochlora pura.  A nice color match.  Picture and specimen by Helen Lowe Metzman.\n<b>               ~~~~~~~~~~{{{{{{0}}}}}}~~~~~~~~~~</b>\n\nAll photographs are public domain, feel free to download and use as you wish.\n\n<b>Photography Information: </b>Canon Mark II 5D, Zerene Stacker, Stackshot Sled, 65mm Canon MP-E 1-5X macro lens,  Twin Macro Flash in Styrofoam Cooler,  F5.0,  ISO 100,  Shutter Speed 200\n\n<i>\nBeauty is truth, truth beauty - that is all\nYe know on earth and all ye need to know\n         &quot; Ode on a Grecian Urn&quot;\n                       John Keats\n</i>\n\nYou can also follow us on Instagram - account = USGSBIML     <b>Want some Useful Links to the Techniques We Use?  Well now here you go Citizen:</b>\n\nFree Field Guide to Bee Genera of Marylandhttp://bio2.elmira.edu/fieldbio/beesofmarylandbookversion1.pdf\nBasic USGSBIML set up:\n<a href=&quot;http://www.youtube.com/watch?v=S-_yvIsucOY&quot;>www.youtube.com/watch?v=S-_yvIsucOY</a>\n\nUSGSBIML Photoshopping Technique:  Note that we now have added using the burn tool at 50% opacity set to shadows to clean up the halos that bleed into the black background from &quot;hot&quot; color sections of the picture.\n<a href=&quot;http://www.youtube.com/watch?v=Bdmx_8zqvN4&quot;>www.youtube.com/watch?v=Bdmx_8zqvN4</a>\n\nBees of Maryland Organized by Taxa with information on each Genus\n<a href=&quot;https://www.flickr.com/photos/usgsbiml/collections&quot;>www.flickr.com/photos/usgsbiml/collections</a>\n\nPDF of Basic USGSBIML Photography Set Up:  \nftp://ftpext.usgs.gov/pub/er/md/laurel/Droege/How%20to%20Take%20MacroPhotographs%20of%20Insects%20BIML%20Lab2.pdf\n\nGoogle Hangout Demonstration of Techniques:\n<a href=&quot;https://plus.google.com/events/c5569losvskrv2nu606ltof8odo&quot;>plus.google.com/events/c5569losvskrv2nu606ltof8odo</a>\nor \n<a href=&quot;http://www.youtube.com/watch?v=4c15neFttoU&quot;>www.youtube.com/watch?v=4c15neFttoU</a>\n\nExcellent Technical Form on Stacking:\n<a href=&quot;http://www.photomacrography.net/&quot;>www.photomacrography.net/</a>\n\n<b>Contact information:</b>  \nSam Droege  \nsdroege@usgs.gov\n301 497 5840\n",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/cc/8d/916.24382219807.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/cc/8d/916.24382219807.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54563451@N08'>USGS Bee Inventory and Monitoring Lab</a>",
+      "homepage": "http://www.flickr.com/photos/54563451@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "USGS Bee Inventory and Monitoring Lab",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

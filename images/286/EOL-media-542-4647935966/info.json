@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4647935966",
+  "dataObjectVersionID": 6723513,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:26:33.000Z",
+  "modified": "2018-10-20T02:46:25.000Z",
+  "title": "Bald-Cypress-bole",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/4647935966/",
+  "mediaURL": "https://farm4.staticflickr.com/3399/4647935966_6acb478da3_o.gif",
+  "eolMediaURL": "https://content.eol.org/data/media/80/08/4d/542.4647935966.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/08/4d/542.4647935966.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

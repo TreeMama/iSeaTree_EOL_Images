@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-20365141",
+  "dataObjectVersionID": 6940065,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:34.000Z",
+  "modified": "2019-08-20T01:21:53.000Z",
+  "title": "Pinus coulteri Ice House Canyon.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Bri Weldon",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_coulteri_Ice_House_Canyon.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pinus_coulteri_Ice_House_Canyon.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Category:Pinus_coulteri\" title=\"Category:Pinus coulteri\">Pinus coulteri</a></i> â Coulter pine, big-cone pine. On Ice House Canyon Trail, on <a href=\"https://commons.wikimedia.org/wiki/Category:Mount_San_Antonio\" title=\"Category:Mount San Antonio\">Mt. Baldy</a> in the San Gabriel Mountains, <a href=\"https://commons.wikimedia.org/wiki/Category:Angeles_National_Forest\" title=\"Category:Angeles National Forest\">Angeles National Forest</a>, Southern California.    Date 29 September 2010, 03:17   Source <a href=\"http://www.flickr.com/photos/briweldon/5051893768/\">Pinus coulteri</a>   Author <a href=\"http://www.flickr.com/people/41184028@N04\">Bri Weldon</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=034.250530_N_-117.634305_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">34Â° 15â² 01.91â³ N, 117Â° 38â² 03.5â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/34.25053/-117.634305\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=034.250530&amp;lon=-117.634305\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=034.250530&amp;londegdec=-117.634305&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 34.250530; -117.634305  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/5f/c4/509.20365141.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/5f/c4/509.20365141.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bri Weldon",
+      "homepage": "https://www.flickr.com/people/41184028@N04",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID briweldon",
+      "homepage": "https://www.flickr.com/photos/briweldon/5572779746/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

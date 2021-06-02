@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-797-26",
+  "dataObjectVersionID": 9846582,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 713,
+  "width": 83,
+  "created": "2019-05-07T22:15:07.000Z",
+  "modified": "2019-05-07T22:15:07.000Z",
+  "title": "Food web model",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "language": "en",
+  "rightsHolder": "Design & Intelligence Lab at the Georgia Institute of Technology",
+  "source": "http://vera.cc.gatech.edu/eol/model/1061648",
+  "mediaURL": "http://vera.cc.gatech.edu/eol/model/1061648/render/png",
+  "description": "a simplified model of a food web containing Picea abies. <a href=\"http://vera.cc.gatech.edu/eol/model/1061648\">VISIT VERA</a> to learn more about the modeling tool and how to run simulations of your own",
+  "eolMediaURL": "https://content.eol.org/data/media/96/78/74/797.26.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/96/78/74/797.26.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "VERA",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

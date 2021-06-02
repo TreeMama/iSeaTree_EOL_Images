@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5746965529",
+  "dataObjectVersionID": 6723521,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:26:33.000Z",
+  "modified": "2018-10-20T02:46:25.000Z",
+  "title": "Bald Cypress",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Chris M Morris",
+  "source": "https://www.flickr.com/photos/79666107@N00/5746965529/",
+  "mediaURL": "https://farm4.staticflickr.com/3157/5746965529_a014648bdb_o.jpg",
+  "description": "Large Bald Cypress (Taxodium distichum) at Corkscrew Swamp",
+  "eolMediaURL": "https://content.eol.org/data/media/80/60/75/542.5746965529.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/60/75/542.5746965529.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/79666107@N00'>Chris M Morris</a>",
+      "homepage": "http://www.flickr.com/photos/79666107@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

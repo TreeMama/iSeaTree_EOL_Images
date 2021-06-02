@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0113 2543",
+  "dataObjectVersionID": 8868199,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:44:11.000Z",
+  "modified": "2018-10-20T12:19:53.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2013 Luca Tringali",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=435586&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0113/2543.jpeg",
+  "description": "the only baobab 'forest' in Asia",
+  "eolMediaURL": "https://content.eol.org/data/media/84/f4/8a/7.CalPhotos_0000_0000_0113_2543.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/84/f4/8a/7.CalPhotos_0000_0000_0113_2543.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Luca+Tringali&one=T'>Luca Tringali</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Luca+Tringali&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

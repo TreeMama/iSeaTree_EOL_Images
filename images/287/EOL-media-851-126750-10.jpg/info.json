@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-126750-10.jpg",
+  "dataObjectVersionID": 10543362,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 733,
+  "width": 1100,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:21:57.000Z",
+  "modified": "2019-12-28T02:21:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=53122",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/12/126750-10.jpg",
+  "description": "Species: Tamarindus indica L. Date: 2011-01-14 Location: Long Pool Viewing Point, Mana Pools Habitat: Riverine vegetation",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/d7/eb/851.126750-10_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/d7/eb/851.126750-10_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

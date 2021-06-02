@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-17839471",
+  "dataObjectVersionID": 7141171,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:39:25.000Z",
+  "modified": "2018-10-24T12:50:06.000Z",
+  "title": "Yucca aloifolia fh 1182.96 GA BB.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Yucca_aloifolia_fh_1182.96_GA_BB.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yucca_aloifolia_fh_1182.96_GA_BB.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Yucca aloifolia</i>    Date 29 March 2008 (original upload date)   Source Self-photographed (Original caption: â<i>selbst fotografiert</i>â)   Author <a href=\"https://de.wikipedia.org/wiki/User:Rebou\" title=\"de:User:Rebou\">Rebou</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)      This work is <a href=\"http://freedomdefined.org/Definition\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page. Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been reviewed by an <a href=\"https://commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"https://commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers as <a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008051610002328\">ticket #2008051610002328</a>. If you have questions about the archived correspondence, please use the <a href=\"https://commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.<br> Ticket link: <a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008051610002328\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2008051610002328</a>      ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/cd/7d/509.17839471.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/cd/7d/509.17839471.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Rebou",
+      "homepage": "https://de.wikipedia.org/wiki/Benutzer:Rebou",
+      "role": "creator"
+    },
+    {
+      "full_name": "Self-photographed (Original caption: “selbst fotografiert”)",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

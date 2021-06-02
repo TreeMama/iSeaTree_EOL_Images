@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-6106878287",
+  "dataObjectVersionID": 6806074,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:39:31.000Z",
+  "modified": "2018-10-20T03:04:13.000Z",
+  "title": "Hiker and limber pine (Pinus flexilis) at Lake Haiyaha in Rocky Mountain National Park",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://www.flickr.com/photos/miguelvieira/6106878287/",
+  "mediaURL": "https://farm7.staticflickr.com/6209/6106878287_15688f1c7c_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/82/f9/542.6106878287.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/82/f9/542.6106878287.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/11563230@N04'>Miguel Vieira</a>",
+      "homepage": "http://www.flickr.com/photos/11563230@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

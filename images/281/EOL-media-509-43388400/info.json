@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-43388400",
+  "dataObjectVersionID": 7568793,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:48:42.000Z",
+  "modified": "2018-10-24T13:08:18.000Z",
+  "title": "The vegetation of a desert mountain range as conditioned by climatic factors",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:The_vegetation_of_a_desert_mountain_range_as_conditioned_by_climatic_factors_(1915)_(14755471226).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_vegetation_of_a_desert_mountain_range_as_conditioned_by_climatic_factors_(1915)_(14755471226).jpg",
+  "description": "<br><b>Identifier</b>: vegetationofdese00shre (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fvegetationofdese00shre%2F\">find matches</a>)<br><b>Title</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidvegetationofdese00shre\">The vegetation of a desert mountain range as conditioned by climatic factors</a><br><b>Year</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1915\">1915</a> (<a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1910\">1910s</a>)<br><b>Authors</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorShreve__Forrest__1878_1950\">Shreve, Forrest, 1878-1950</a><br><b>Subjects</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectDesert_plants\">Desert plants</a><br><b>Publisher</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherWashington__D__C___Carnegie_Institution_of_Washington\">Washington, D. C., Carnegie Institution of Washington</a><br><b>Contributing Library</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorNCSU_Libraries\">NCSU Libraries</a><br><b>Digitizing Sponsor</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorNCSU_Libraries\">NCSU Libraries</a><br><br><b>View Book Page</b>: <a class=\"external text\" href=\"https://archive.org/stream/vegetationofdese00shre/vegetationofdese00shre#page/n160/mode/1up\">Book Viewer</a><br><b>About This Book</b>: <a class=\"external text\" href=\"https://archive.org/details/vegetationofdese00shre\">Catalog Entry</a><br><b>View All Images</b>: <a class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidvegetationofdese00shre\">All Images From Book</a><br> Click here to <a class=\"external text\" href=\"https://archive.org/stream/vegetationofdese00shre/vegetationofdese00shre#page/n160/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br><br><b>Text Appearing Before Image:</b><br>B. Strcamway in Bear Canon at 6,000 feet, with Pinus arizonica, Juglans rupestris, and Vitis arizonica. SHREVE Plate 21<br><b>Text Appearing After Image:</b><br>Open stand of Finns a onica, Finus chihuahuana, and Juniperus pacftyphlwa near floor of Bear Canon at G,100feet. In background are rocky slopes of north wall of Bear Canon. SHREVE Plate 22<br><br><b>Note About Images</b><br> Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+  "eolMediaURL": "https://content.eol.org/data/media/61/40/06/509.43388400.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/61/40/06/509.43388400.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Shreve, Forrest, 1878-1950",
+      "homepage": null,
+      "role": "author"
+    },
+    {
+      "full_name": "Shreve, Forrest, 1878-1950",
+      "homepage": null,
+      "role": "author"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

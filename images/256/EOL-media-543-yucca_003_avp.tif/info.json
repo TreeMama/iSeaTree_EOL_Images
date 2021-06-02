@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-543-yucca_003_avp.tif",
+  "dataObjectVersionID": 9357386,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:34:47.000Z",
+  "modified": "2018-10-20T14:08:04.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "\"<a href=\"\"http://www.nal.usda.gov/\"\">National Agricultural Library</a>. Originally from <a href=\"\"http://www.fs.fed.us/\"\">US Forest Service</a>. United States, SD. 1927.\"",
+  "source": "http://plants.usda.gov/java/largeImage?imageID=yucca_003_avp.tif",
+  "mediaURL": "http://plants.usda.gov/gallery/large/yucca_003_lvp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/df/47/543.yucca_003_avp_tif.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/df/47/543.yucca_003_avp_tif.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "G.A. Duthis",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

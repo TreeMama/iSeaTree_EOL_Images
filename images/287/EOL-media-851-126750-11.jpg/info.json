@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-126750-11.jpg",
+  "dataObjectVersionID": 10543363,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1100,
+  "width": 766,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:21:57.000Z",
+  "modified": "2019-12-28T02:21:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.mozambiqueflora.com/speciesdata/species-record.php?record_id=60415",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/12/126750-11.jpg",
+  "description": "Species: Tamarindus indica L. Date: 2014-06-14 Location: Sandforest loop, Gorongosa National Park\n Habitat: On termite mound at margin of seasonal pan in sandforest\n",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/d7/ec/851.126750-11_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/d7/ec/851.126750-11_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

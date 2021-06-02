@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-26686444445",
+  "dataObjectVersionID": 6842410,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:03.000Z",
+  "modified": "2018-10-20T03:16:30.000Z",
+  "title": "Mexican fan palm (Washingtonia robusta)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Kurt Andreas",
+  "source": "https://www.flickr.com/photos/42227089@N00/26686444445/",
+  "mediaURL": "https://farm2.staticflickr.com/1524/26686444445_bd397feefe_o.jpg",
+  "description": "New York Botanical Garden, Bronx, NY (April 17, 2016)",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/09/ad/542.26686444445.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/09/ad/542.26686444445.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42227089@N00'>Kurt Andreas</a>",
+      "homepage": "http://www.flickr.com/photos/42227089@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

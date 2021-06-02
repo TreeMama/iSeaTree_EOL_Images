@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-20453743",
+  "dataObjectVersionID": 6940067,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:34.000Z",
+  "modified": "2019-03-23T10:27:08.000Z",
+  "title": "Hawk Flying by Pine Tree.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Don DeBold",
+  "source": "https://commons.wikimedia.org/wiki/File:Hawk_Flying_by_Pine_Tree.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hawk_Flying_by_Pine_Tree.jpg",
+  "description": "DescriptionAPI  <a href=\"https://commons.wikimedia.org/wiki/Buteo_jamaicensis\" title=\"Buteo jamaicensis\">Red-tailed Hawk</a> flying by <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_coulteri\" title=\"Pinus coulteri\">Pinus coulteri</a></i> tree; San Jose, California.    Date 14 April 2012, 18:21   Source <a href=\"http://www.flickr.com/photos/ddebold/7083664129/\">Hawk Flying by Pine Tree</a>   Author <a href=\"http://www.flickr.com/people/28156071@N00\">Don DeBold</a> from San Jose, CA, USA     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=037.455333_N_-121.866667_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">37Â° 27â² 19.2â³ N, 121Â° 52â² 00â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/37.455333/-121.866667\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=037.455333&amp;lon=-121.866667\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=037.455333&amp;londegdec=-121.866667&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 37.455333; -121.866667  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/65/82/509.20453743.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/65/82/509.20453743.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Don DeBold",
+      "homepage": "http://www.flickr.com/people/28156071@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID ddebold",
+      "homepage": "http://www.flickr.com/photos/ddebold/7083664129/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

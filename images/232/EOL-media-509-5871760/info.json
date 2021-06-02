@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-5871760",
+  "dataObjectVersionID": 7988370,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:50:17.000Z",
+  "modified": "2019-05-31T06:04:37.000Z",
+  "title": "Prosopis pubescens 1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Stan Shebs",
+  "source": "https://commons.wikimedia.org/wiki/File:Prosopis_pubescens_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Prosopis_pubescens_1.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Prosopis_pubescens\" title=\"Prosopis pubescens\">Prosopis pubescens</a></i> alongside the Colorado River near Avi Casino, at the extreme southern tip of Nevada    Date 23 December 2006   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Stan_Shebs\" title=\"User:Stan Shebs\">Stan Shebs</a>   <br>    <a href=\"https://commons.wikimedia.org/wiki/User:Stan_Shebs\" title=\"User:Stan Shebs\">Stan Shebs</a>, the copyright holder of this work, hereby publishes it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.    Attribution: <a href=\"https://commons.wikimedia.org/wiki/User:Stan_Shebs\" title=\"User:Stan Shebs\">Stan Shebs</a>    https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue      <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.    Attribution: <a href=\"https://commons.wikimedia.org/wiki/User:Stan_Shebs\" title=\"User:Stan Shebs\">Stan Shebs</a>    https://creativecommons.org/licenses/by-sa/2.5 CC BY-SA 2.5 Creative Commons Attribution-Share Alike 2.5 truetrue    <i>You may select the license of your choice.</i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/65/52/b6/509.5871760.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/65/52/b6/509.5871760.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Stan Shebs",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Stan_Shebs",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

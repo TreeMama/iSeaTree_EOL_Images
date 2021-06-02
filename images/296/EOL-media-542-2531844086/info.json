@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-2531844086",
+  "dataObjectVersionID": 6847671,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:39.000Z",
+  "modified": "2018-10-24T12:39:35.000Z",
+  "title": "20070802-05 - Assateague Island beach camping - pine cones - (by Vicky) - 1043482456_95eae45599_o",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Clio CJS",
+  "source": "https://www.flickr.com/photos/clintjcl/2531844086/",
+  "mediaURL": "https://farm3.staticflickr.com/2184/2531844086_217f3f94de_o.jpg",
+  "description": "Not used to seeing so many pine cones at once!pine cone.Assateague, Maryland.  August 2, 2007.  Pic by <a href=\"http://tgaw.wordpress.com/\">Vicky</a>.... Read my blog at <a href=\"http://ClintJCL.wordpress.com\">ClintJCL.wordpress.com</a><b>To read a PDF of the journal that we passed around and let people write in: <a href=\"http://clint.sheer.us/download/filedump/2007/assateague-2007-journal.pdf\">clint.sheer.us/download/filedump/2007/assateague-2...</a>To read my blog entry about this trip: <a href=\"http://clintjcl.wordpress.com/2007/09/06/journal-camping-assateague-island-beach-camping-2007-group-trip-3/\">clintjcl.wordpress.com/2007/09/06/journal-camping-assatea...</a></b>",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f9/3c/542.2531844086.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f9/3c/542.2531844086.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/31355686@N00'>Clio CJS</a>",
+      "homepage": "http://www.flickr.com/photos/31355686@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

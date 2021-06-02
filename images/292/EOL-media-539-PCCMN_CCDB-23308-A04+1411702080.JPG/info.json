@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-PCCMN/CCDB-23308-A04+1411702080.JPG",
+  "dataObjectVersionID": 12050601,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T06:23:13.000Z",
+  "modified": "2020-12-22T06:23:13.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Centre for Biodiversity Genomics. CBG Photography Group. Year: 2014.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=646656",
+  "mediaURL": "http://www.boldsystems.org/pics/PCCMN/CCDB-23308-A04+1411702080.JPG",
+  "description": "Herbarium Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/34/40/539.PCCMN_CCDB-23308-A04_1411702080_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/34/40/539.PCCMN_CCDB-23308-A04_1411702080_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "CBG Photography Group",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

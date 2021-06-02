@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-916-16916113178",
+  "dataObjectVersionID": 10844042,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-06-04T10:41:46.000Z",
+  "modified": "2020-06-04T10:41:46.000Z",
+  "title": "Boxelder, twig upper marlboro_2015-04-10-20.29.25 ZS PMax",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "USGS Bee Inventory and Monitoring Lab",
+  "source": "https://www.flickr.com/photos/usgsbiml/16916113178/",
+  "mediaURL": "https://live.staticflickr.com/8735/16916113178_1a100dacb4_o.jpg",
+  "description": "Acer negundo - The very tip of bud leafing out ... its spring, why not.  Upper Marlboro, Maryland.\n\n\n<b>               ~~~~~~~~~~{{{{{{0}}}}}}~~~~~~~~~~</b>\n\n\nAll photographs are public domain, feel free to download and use as you wish.\n\n\n<b>Photography Information: </b>Canon Mark II 5D, Zerene Stacker, Stackshot Sled, 65mm Canon MP-E 1-5X macro lens,  Twin Macro Flash in Styrofoam Cooler,  F5.0,  ISO 100,  Shutter Speed 200\n\n\n<i>\nThe grass so little has to do, \nA sphere of simple green,\nWith only butterflies to brood,\nAnd bees to entertain,\n   \n          - Emily Dickinson\n</i>\nYou can also follow us on Instagram account USGSBIML     <b>Want some Useful Links to the Techniques We Use?  Well now here you go Citizen:</b>\n\n\nBasic USGSBIML set up:\n<a href=&quot;http://www.youtube.com/watch?v=S-_yvIsucOY&quot;>www.youtube.com/watch?v=S-_yvIsucOY</a>\n\n\nUSGSBIML Photoshopping Technique:  Note that we now have added using the burn tool at 50% opacity set to shadows to clean up the halos that bleed into the black background from &quot;hot&quot; color sections of the picture.\n<a href=&quot;http://www.youtube.com/watch?v=Bdmx_8zqvN4&quot;>www.youtube.com/watch?v=Bdmx_8zqvN4</a>\n\n\nPDF of Basic USGSBIML Photography Set Up:  \nftp://ftpext.usgs.gov/pub/er/md/laurel/Droege/How%20to%20Take%20MacroPhotographs%20of%20Insects%20BIML%20Lab2.pdf\n\n\nGoogle Hangout Demonstration of Techniques:\n<a href=&quot;https://plus.google.com/events/c5569losvskrv2nu606ltof8odo&quot;>plus.google.com/events/c5569losvskrv2nu606ltof8odo</a>\nor \n<a href=&quot;http://www.youtube.com/watch?v=4c15neFttoU&quot;>www.youtube.com/watch?v=4c15neFttoU</a>\n\n\nExcellent Technical Form on Stacking:\n<a href=&quot;http://www.photomacrography.net/&quot;>www.photomacrography.net/</a>\n\n\n<b>Contact information:</b>  \nSam Droege  \nsdroege@usgs.gov\n301 497 5840\n",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/cb/70/916.16916113178.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/cb/70/916.16916113178.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54563451@N08'>USGS Bee Inventory and Monitoring Lab</a>",
+      "homepage": "http://www.flickr.com/photos/54563451@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "USGS Bee Inventory and Monitoring Lab",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

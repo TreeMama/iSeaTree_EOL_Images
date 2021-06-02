@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-15188307397",
+  "dataObjectVersionID": 6690890,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:21:16.000Z",
+  "modified": "2018-10-20T02:39:30.000Z",
+  "title": "Pine Flatwoods with Longleaf Pine (Pinus palustris), Slash Pine (Pinus elliottii) and Saw Palmetto (Serenoa repens)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/15188307397/",
+  "mediaURL": "https://farm3.staticflickr.com/2949/15188307397_0721635894_o.jpg",
+  "description": "Hal Scott Preserve and Regional Park, Orange County, FL, September 2014.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/96/3d/542.15188307397.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/96/3d/542.15188307397.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

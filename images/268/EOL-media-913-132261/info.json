@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-132261",
+  "dataObjectVersionID": 10789183,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:37:57.000Z",
+  "modified": "2020-05-19T19:37:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/sweet-chestnut-spanish-chest-castanea-sativa_photo-132261.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Castanea-sativa-72034.JPG",
+  "description": "Bjergeskov, Rold Skov, Jylland, Danmark",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/1f/49/913.132261.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/1f/49/913.132261.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

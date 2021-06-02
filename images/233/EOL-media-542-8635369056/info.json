@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8635369056",
+  "dataObjectVersionID": 6701962,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:22:44.000Z",
+  "modified": "2018-10-24T12:37:52.000Z",
+  "title": "Prosopis torquata",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Dick Culbert",
+  "source": "https://www.flickr.com/photos/92252798@N07/8635369056/",
+  "mediaURL": "https://farm9.staticflickr.com/8381/8635369056_c9bf1280ae_o.jpg",
+  "description": "Flower of the mesquite known as Tintitaco.In context at <a href=\"http://www.dixpix.ca/sth_cordillera/flora/mimosa/index.html\">www.dixpix.ca/sth_cordillera/flora/mimosa/index.html</a>                            ",
+  "eolMediaURL": "https://content.eol.org/data/media/81/68/ef/542.8635369056.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/68/ef/542.8635369056.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/92252798@N07'>Dick Culbert</a>",
+      "homepage": "http://www.flickr.com/photos/92252798@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

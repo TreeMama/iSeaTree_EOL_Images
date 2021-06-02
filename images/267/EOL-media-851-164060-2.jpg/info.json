@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-851-164060-2.jpg",
+  "dataObjectVersionID": 10553910,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2019-12-28T02:22:52.000Z",
+  "modified": "2019-12-28T02:22:52.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=5624",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/16/164060-2.jpg",
+  "description": "Species: Carya illinoinensis (Wangenh.) K. Koch Date: 2005-10-17 Location: Tiger Kloof, Mutare Habitat: \tDense exotic scrub, woodland and forest",
+  "eolMediaURL": "https://content.eol.org/data/media/9e/01/1f/851.164060-2_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9e/01/1f/851.164060-2_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

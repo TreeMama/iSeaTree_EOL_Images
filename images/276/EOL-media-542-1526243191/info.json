@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-1526243191",
+  "dataObjectVersionID": 6639059,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:14.000Z",
+  "modified": "2018-10-20T02:29:38.000Z",
+  "title": "sassafras leaves",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "liz west",
+  "source": "https://www.flickr.com/photos/calliope/1526243191/",
+  "mediaURL": "https://farm3.staticflickr.com/2309/1526243191_162e614b0b_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/98/54/542.1526243191.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/98/54/542.1526243191.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/53133240@N00'>liz west</a>",
+      "homepage": "http://www.flickr.com/photos/53133240@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

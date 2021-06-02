@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-72515",
+  "dataObjectVersionID": 10834797,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:39:54.000Z",
+  "modified": "2020-05-19T19:39:54.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/swamp-cypress-taxodium-distichum_photo-72515.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Taxodium-distichum-49792.JPG",
+  "description": "Forstbotanisk Have, Århus",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/8c/c7/913.72515.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/8c/c7/913.72515.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

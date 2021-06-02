@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3139171175",
+  "dataObjectVersionID": 6842414,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:03.000Z",
+  "modified": "2018-10-20T03:16:30.000Z",
+  "title": "Mexican fan palm flower",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Tann",
+  "source": "https://www.flickr.com/photos/31031835@N08/3139171175/",
+  "mediaURL": "https://farm4.staticflickr.com/3293/3139171175_196a73b3c7_o.jpg",
+  "description": "On a sunny day the flowers of the Mexican fan palm (Washingtonia robusta) attract lots of honey bees - probably three-striped Italian bees (Apis mellifera). Como, NSW Australia, December 2008.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/50/b5/542.3139171175.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/50/b5/542.3139171175.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/31031835@N08'>John Tann</a>",
+      "homepage": "http://www.flickr.com/photos/31031835@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

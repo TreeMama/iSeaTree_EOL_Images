@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-125580-1.jpg",
+  "dataObjectVersionID": 10542788,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1600,
+  "width": 1817,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:21:55.000Z",
+  "modified": "2019-12-28T02:21:55.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=3836",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/12/125580-1.jpg",
+  "description": "Species: Albizia amara (Roxb.) Boivin<br> subsp. sericocephala (Benth.) Brenan Date: 2005-10-21 Location: Nr Odzani R. bridge Habitat: Open area with shrubs",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/d5/ad/851.125580-1_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/d5/ad/851.125580-1_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

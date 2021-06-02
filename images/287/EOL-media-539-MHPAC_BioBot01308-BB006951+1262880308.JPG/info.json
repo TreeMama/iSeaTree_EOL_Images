@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-MHPAC/BioBot01308-BB006951+1262880308.JPG",
+  "dataObjectVersionID": 11759774,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:30:25.000Z",
+  "modified": "2020-12-22T05:30:25.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Guanacaste Dry Forest Conservation Fund. Daniel H. Janzen. Year: 2010.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=210566",
+  "mediaURL": "http://www.boldsystems.org/pics/MHPAC/BioBot01308-BB006951+1262880308.JPG",
+  "description": "Fruit..",
+  "eolMediaURL": "https://content.eol.org/data/media/b0/71/5a/539.MHPAC_BioBot01308-BB006951_1262880308_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b0/71/5a/539.MHPAC_BioBot01308-BB006951_1262880308_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Daniel H. Janzen",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-17211793968",
+  "dataObjectVersionID": 6798420,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:37.000Z",
+  "modified": "2018-10-20T03:00:31.000Z",
+  "title": "ancient bristlecone pine, Pinus longaeva",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Jim Morefield",
+  "source": "https://www.flickr.com/photos/127605180@N04/17211793968/",
+  "mediaURL": "https://farm8.staticflickr.com/7741/17211793968_07b5c54ff0_o.jpg",
+  "description": "ancient bristlecone pine, Pinus longaeva, White Mountains, elevation 3130 m (10275 ft).  Three different ages of cones.  Nevada state tree.This species is found only at high elevations of dry, isolated, sky-island mountain ranges in the Great Basin of western North America, usually with a preference for nutrient-poor carbonate soils and outcrops, like at this location. Besides reducing competition and available fuel for fires, these severe conditions force very slow growth rates that result in dense, resinous, disease-resistant and highly durable wood.Currently the oldest living individuals are known from here in the White Mountains of eastern California, where the oldest was reported to be 5062 years old as of 2012.  Over this much time, roots become exposed by slow natural erosion, even in this relatively dry cold desert environment, and many branches die, resulting in the picturesque forms of many older trees.Even after death, standing and fallen wood lasts for thousands of years more, and has helped to reconstruct an unbroken tree ring record of climatic variation going back over 9,000 years. This is long enough that the wood of ancient bristlecone pines has been used to help calibrate the Carbon-14 dating process.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/c3/44/542.17211793968.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/c3/44/542.17211793968.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/127605180@N04'>Jim Morefield</a>",
+      "homepage": "http://www.flickr.com/photos/127605180@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

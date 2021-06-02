@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-851-162710-1.jpg",
+  "dataObjectVersionID": 10553811,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2019-12-28T02:22:51.000Z",
+  "modified": "2019-12-28T02:22:51.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=15435",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/16/162710-1.jpg",
+  "description": "Species: Albizia schimperiana Oliv.<br> var. schimperiana  Date: 0000-00-00 Location: Nr Herbarium, National Botanic Garden Habitat:",
+  "eolMediaURL": "https://content.eol.org/data/media/9e/00/bc/851.162710-1_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9e/00/bc/851.162710-1_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

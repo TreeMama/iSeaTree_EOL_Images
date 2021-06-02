@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-PNCA/DSG929-Pinus-cooperi+1223000788.jpg",
+  "dataObjectVersionID": 11949652,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:56:06.000Z",
+  "modified": "2020-12-22T05:56:06.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Universidad Nacional Autonoma de Mexico, Instituto de Biologia. David Sebastian Gernandt. Year: 2008.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=434046",
+  "mediaURL": "http://www.boldsystems.org/pics/PNCA/DSG929-Pinus-cooperi+1223000788.jpg",
+  "description": "Plant..",
+  "eolMediaURL": "https://content.eol.org/data/media/b1/7a/ab/539.PNCA_DSG929-Pinus-cooperi_1223000788_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b1/7a/ab/539.PNCA_DSG929-Pinus-cooperi_1223000788_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "David Sebastian Gernandt",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

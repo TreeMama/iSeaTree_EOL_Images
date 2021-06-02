@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5890363586",
+  "dataObjectVersionID": 6669848,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:17:26.000Z",
+  "modified": "2018-10-20T02:35:26.000Z",
+  "title": "Cedrus deodara, Himalayan cedar",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Tann",
+  "source": "https://www.flickr.com/photos/31031835@N08/5890363586/",
+  "mediaURL": "https://farm6.staticflickr.com/5266/5890363586_7799562e54_o.jpg",
+  "description": "Himalayan cedar, <i>Cedrus deodara</i> is a tall tree that grows at altitudes over 2500 m. Dhanaulti India, June 2011.I took this photo on the day that I was closest to the Himalayas. As you can see, it was foggy, so I didn't see much in the way of snow-capped peaks.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/68/7d/542.5890363586.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/68/7d/542.5890363586.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/31031835@N08'>John Tann</a>",
+      "homepage": "http://www.flickr.com/photos/31031835@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

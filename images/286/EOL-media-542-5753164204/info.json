@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5753164204",
+  "dataObjectVersionID": 6723522,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:26:33.000Z",
+  "modified": "2018-10-20T02:46:25.000Z",
+  "title": "Bald Cypress",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Chris M Morris",
+  "source": "https://www.flickr.com/photos/79666107@N00/5753164204/",
+  "mediaURL": "https://farm4.staticflickr.com/3565/5753164204_0f7b5e4818_o.jpg",
+  "description": "Bald Cypress (Taxodium distichum) along Neuse River at Croatan National Forest ",
+  "eolMediaURL": "https://content.eol.org/data/media/80/61/1f/542.5753164204.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/61/1f/542.5753164204.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/79666107@N00'>Chris M Morris</a>",
+      "homepage": "http://www.flickr.com/photos/79666107@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

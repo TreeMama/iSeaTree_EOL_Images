@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-916-13903158484",
+  "dataObjectVersionID": 10843183,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-06-04T10:41:44.000Z",
+  "modified": "2020-06-04T10:41:44.000Z",
+  "title": "Pinus virginiana, microstrobilus, beltsville, md_2014-04-16-15.51.15 ZS PMax",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "USGS Bee Inventory and Monitoring Lab",
+  "source": "https://www.flickr.com/photos/usgsbiml/13903158484/",
+  "mediaURL": "https://live.staticflickr.com/7080/13903158484_42c110a939_o.jpg",
+  "description": "Maryland, United States",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/c9/3b/916.13903158484.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/c9/3b/916.13903158484.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54563451@N08'>USGS Bee Inventory and Monitoring Lab</a>",
+      "homepage": "http://www.flickr.com/photos/54563451@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "USGS Bee Inventory and Monitoring Lab",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

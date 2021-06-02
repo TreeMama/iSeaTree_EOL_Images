@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10392945",
+  "dataObjectVersionID": 7409409,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2194,
+  "width": 1458,
+  "created": "2018-04-05T10:24:09.000Z",
+  "modified": "2019-03-29T21:37:03.000Z",
+  "title": "Covered bridge at Amnicon Falls.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Randen Pederson",
+  "source": "https://commons.wikimedia.org/wiki/File:Covered_bridge_at_Amnicon_Falls.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Covered_bridge_at_Amnicon_Falls.jpg",
+  "description": "DescriptionAPI  Covered bridge and <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_resinosa\" title=\"Pinus resinosa\">Pinus resinosa</a></i> forest at Amnicon Falls State Park, Wisconsin, USA    Date 16 May 2010, 11:29   Source <a href=\"http://www.flickr.com/photos/48394718@N00/4622637292/\">Covered Bridge</a>   Author <a href=\"http://www.flickr.com/people/48394718@N00\">Randen Pederson</a> from Superior   Other versions  Oversaturation reduced from original      Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=046.610908_N_-091.891304_E_globe:Earth_type:camera_&amp;language=en\">46Â° 36â² 39.27â³ N, 91Â° 53â² 28.69â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/46.610908/-91.891304\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=046.610908&amp;lon=-091.891304\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=046.610908&amp;londegdec=-091.891304&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 46.610908; -91.891304  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/40/20/509.10392945.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/40/20/509.10392945.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Randen Pederson",
+      "homepage": "http://www.flickr.com/people/48394718@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Randen Pederson (48394718@N00)",
+      "homepage": "http://www.flickr.com/photos/48394718@N00/4622637292/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

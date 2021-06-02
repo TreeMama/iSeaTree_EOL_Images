@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-WAT/1_JAG_0687WP+1406819218.jpg",
+  "dataObjectVersionID": 11650257,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:19:46.000Z",
+  "modified": "2020-12-22T05:19:46.000Z",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "OAC BIO Herbarium. University of Guelph. Year: 2012.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=121736",
+  "mediaURL": "http://www.boldsystems.org/pics/WAT/1_JAG_0687WP+1406819218.jpg",
+  "description": "Dorsal..",
+  "eolMediaURL": "https://content.eol.org/data/media/b2/b6/00/539.WAT_1_JAG_0687WP_1406819218_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b2/b6/00/539.WAT_1_JAG_0687WP_1406819218_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "NA",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

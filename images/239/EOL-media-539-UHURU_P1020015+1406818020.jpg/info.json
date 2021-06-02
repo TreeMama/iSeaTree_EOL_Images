@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-UHURU/P1020015+1406818020.jpg",
+  "dataObjectVersionID": 11833432,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-12-22T05:39:57.000Z",
+  "modified": "2020-12-22T05:39:57.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mpala Research Centre. Dr. Robert Pringle. Year: 2014.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=306655",
+  "mediaURL": "http://www.boldsystems.org/pics/UHURU/P1020015+1406818020.jpg",
+  "description": "Branch..",
+  "eolMediaURL": "https://content.eol.org/data/media/b2/7d/6a/539.UHURU_P1020015_1406818020_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/b2/7d/6a/539.UHURU_P1020015_1406818020_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Elyse DeFranco",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

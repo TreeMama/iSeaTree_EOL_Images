@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-542-10772175994",
+  "dataObjectVersionID": 6811711,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1333,
+  "width": 2000,
+  "created": "2018-05-23T13:41:09.000Z",
+  "modified": "2018-10-20T03:07:07.000Z",
+  "title": "Pinus strobus AQXC12-S051",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sarah Gregg",
+  "source": "https://www.flickr.com/photos/wild-eyes/10772175994/",
+  "mediaURL": "https://farm4.staticflickr.com/3686/10772175994_4476bf9026_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/3f/be/542.10772175994.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/3f/be/542.10772175994.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/100815078@N03'>Sarah Gregg</a>",
+      "homepage": "http://www.flickr.com/photos/100815078@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

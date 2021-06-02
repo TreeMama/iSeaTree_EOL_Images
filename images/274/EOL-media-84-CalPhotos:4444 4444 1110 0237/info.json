@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-84-CalPhotos:4444 4444 1110 0237",
+  "dataObjectVersionID": 10084683,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2019-07-05T17:58:14.000Z",
+  "modified": "2019-07-05T17:58:14.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rightsHolder": "2010 Moorea Biocode",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=95151&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/4444_4444/1110/0237.jpeg",
+  "description": "All Biocode files are based on field identifications to the best of the researcher’s ability at the time.",
+  "eolMediaURL": "https://content.eol.org/data/media/99/53/18/84.CalPhotos_4444_4444_1110_0237.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/99/53/18/84.CalPhotos_4444_4444_1110_0237.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Marie+Fourdrigniez&one=T'>Marie Fourdrigniez</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Marie+Fourdrigniez&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "<a href='http://mooreabiocode.org/'>Moorea Biocode</a>",
+      "homepage": "http://mooreabiocode.org/",
+      "role": "project"
+    },
+    {
+      "full_name": "Moorea Biocode",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

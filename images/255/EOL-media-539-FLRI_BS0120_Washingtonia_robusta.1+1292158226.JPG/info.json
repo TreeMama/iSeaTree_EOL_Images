@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-539-FLRI/BS0120_Washingtonia_robusta.1+1292158226.JPG",
+  "dataObjectVersionID": 11878281,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 639,
+  "width": 428,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-12-22T05:44:49.000Z",
+  "modified": "2020-12-22T05:44:49.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "University of Johannesburg. Olivier Maurin. Year: 2011.",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=351315",
+  "mediaURL": "http://www.boldsystems.org/pics/FLRI/BS0120_Washingtonia_robusta.1+1292158226.JPG",
+  "description": "Specimen..",
+  "eolMediaURL": "https://content.eol.org/data/media/ae/23/48/539.FLRI_BS0120_Washingtonia_robusta_1_1292158226_JPG.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/ae/23/48/539.FLRI_BS0120_Washingtonia_robusta_1_1292158226_JPG.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Olivier Maurin",
+      "homepage": "",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

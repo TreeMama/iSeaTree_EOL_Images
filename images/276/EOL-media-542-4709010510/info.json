@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4709010510",
+  "dataObjectVersionID": 6639071,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:14.000Z",
+  "modified": "2018-10-20T02:29:38.000Z",
+  "title": "CAA05264a",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Jerry Oldenettel",
+  "source": "https://www.flickr.com/photos/jroldenettel/4709010510/",
+  "mediaURL": "https://farm5.staticflickr.com/4059/4709010510_48ce9f66aa_o.jpg",
+  "description": "Sassafras near Queen Wilhelmina State Park, AR, 100612.  Sassafras albidum.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/0c/8c/542.4709010510.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/0c/8c/542.4709010510.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/7457894@N04'>Jerry Oldenettel</a>",
+      "homepage": "http://www.flickr.com/photos/7457894@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

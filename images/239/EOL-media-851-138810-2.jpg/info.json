@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-851-138810-2.jpg",
+  "dataObjectVersionID": 10546422,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1200,
+  "width": 888,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2019-12-28T02:22:14.000Z",
+  "modified": "2019-12-28T02:22:14.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "Mark Hyde, Bart Wursten and Petra Ballings",
+  "source": "http://www.mozambiqueflora.com/speciesdata/species-record.php?record_id=42741",
+  "mediaURL": "http://www.zimbabweflora.co.zw/speciesdata/images/13/138810-2.jpg",
+  "description": "Species: Abutilon angulatum (Guill. &amp; Perr.) Mast.<br> var. angulatum  Date: 2007-03-29 Location: Along road no2, Gorongosa National Park. Habitat: Deciduous woodland.",
+  "eolMediaURL": "https://content.eol.org/data/media/9d/e3/df/851.138810-2_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/9d/e3/df/851.138810-2_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bart Wursten",
+      "homepage": "",
+      "role": "author"
+    },
+    {
+      "full_name": "Flora of Zimbabwe",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

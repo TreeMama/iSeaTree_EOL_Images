@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8180470109",
+  "dataObjectVersionID": 6828791,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:16.000Z",
+  "modified": "2018-10-24T12:39:22.000Z",
+  "title": "Cupressus macrocarpa",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "David  Eickhoff",
+  "source": "https://www.flickr.com/photos/dweickhoff/8180470109/",
+  "mediaURL": "https://farm9.staticflickr.com/8343/8180470109_d34da4edec_o.jpg",
+  "description": "Monterey Cypress or MacrocarpaCupressaceae Status: VulnerableEndemic to the Central Coast of California and restricted to two small populations, the Del Monte Forest and Point Lobos State Natural Reserve, south of Carmel-by-the-Sea. However, it is widely used in landscaping outside its natural range in California and other places in the world.This particular individual is known as \"The Lone Cypress,\" part of the 17-mile drive, Pacific Grove Pebble Beach on the Monterey Peninsula. The other trees, including the foliage in the foreground, are also Monterey cypress.",
+  "eolMediaURL": "https://content.eol.org/data/media/81/39/da/542.8180470109.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/39/da/542.8180470109.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/50823119@N08'>David  Eickhoff</a>",
+      "homepage": "http://www.flickr.com/photos/50823119@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

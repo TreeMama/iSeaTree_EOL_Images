@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8488554392",
+  "dataObjectVersionID": 6806075,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:39:31.000Z",
+  "modified": "2018-10-24T12:39:07.000Z",
+  "title": "Tree Rock",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Kent Kanouse",
+  "source": "https://www.flickr.com/photos/kkanouse/8488554392/",
+  "mediaURL": "https://farm9.staticflickr.com/8248/8488554392_01ded4d12e_o.jpg",
+  "description": "At a rest area in the center of Interstate 80 (The Lincoln Highway) in Albany County, Wyoming, February 17, 2013 (by Kent Kanouse).  The sign reads:  This small pine tree that seems to be growing out of solid rock has fascinated travelers since the first train rolled past on the Union Pacific Railroad.  It is said that the builders of the orginal railroad diverted the tracks slightly to pass by the tree as they laid rails across Sherman Mountain in 1867 - 69.  It is also said that trains stopped here while locomotive firemen \"gave the tree a drink\" from their water buckets.  The railroad moved several miles to the south in 1901 and the abandoned qrade became a wagon road.In 1913 the Lincoln Highway Association was formed \"To procure the establishment of a coninuous improved highway from the Atlantic to the Pacific.\"  The Lincoln Highway was an instant success in a nation enamored with the newfangled automobiles and eager for a place to drive them.  The Lincoln passed right by Tree Rock as did U. S. 30 in the 1920s and Interstate 80 in the 1960s.  At this place the road was approaching the 8,835-foot Sherman Summit, the highest point on the Lincoln.  The view of the surrounding mountains was like nothing that westbound easterners had ever seen.  Still, they noticed the little tree, which became the favored subject of many early postcards and photgraphs.  It still is.The tree is a somewhat stunted and twisted limber pine (Pinus Flexilis), a type of tree commonly found in this area where ponderosa and limber pines can live as long as 2,000 years.  The tree grows out of a crack in a boulder of Precambrian era pink Sherman granite formed more than 1-4 billion years ago.",
+  "eolMediaURL": "https://content.eol.org/data/media/81/5b/5e/542.8488554392.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/5b/5e/542.8488554392.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/35946983@N00'>Kent Kanouse</a>",
+      "homepage": "http://www.flickr.com/photos/35946983@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

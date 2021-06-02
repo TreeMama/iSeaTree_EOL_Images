@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-86136",
+  "dataObjectVersionID": 10778041,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:37:44.000Z",
+  "modified": "2020-05-19T19:37:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JK Overgaard",
+  "source": "http://www.biopix.com/adansonia-digitata_photo-86136.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JKO-Adansonia-digitata-00795.JPG",
+  "description": "Tarangire National Park, Tanzania",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/ab/43/913.86136.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/ab/43/913.86136.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

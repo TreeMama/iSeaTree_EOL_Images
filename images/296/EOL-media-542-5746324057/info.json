@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5746324057",
+  "dataObjectVersionID": 6847673,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:39.000Z",
+  "modified": "2018-10-20T03:17:35.000Z",
+  "title": "Loblolly Pine",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Chris M Morris",
+  "source": "https://www.flickr.com/photos/79666107@N00/5746324057/",
+  "mediaURL": "https://farm3.staticflickr.com/2498/5746324057_92347a81f5_o.jpg",
+  "description": "Open Loblolly Pine (Pinus taeda) forest in Oconee National Forest",
+  "eolMediaURL": "https://content.eol.org/data/media/80/60/6a/542.5746324057.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/60/6a/542.5746324057.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/79666107@N00'>Chris M Morris</a>",
+      "homepage": "http://www.flickr.com/photos/79666107@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

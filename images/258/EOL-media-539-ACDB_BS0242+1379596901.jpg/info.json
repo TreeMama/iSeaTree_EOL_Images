@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-539-ACDB/BS0242+1379596901.jpg",
+  "dataObjectVersionID": 11922518,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 922,
+  "crop_x": "0.0",
+  "crop_y": "0.0",
+  "crop_width": "0.0",
+  "created": "2020-12-22T05:49:42.000Z",
+  "modified": "2020-12-22T05:49:42.000Z",
+  "license": "No known copyright restrictions",
+  "license_id": 31,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "",
+  "source": "http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=390081",
+  "mediaURL": "http://www.boldsystems.org/pics/ACDB/BS0242+1379596901.jpg",
+  "description": "Herbarium..",
+  "eolMediaURL": "https://content.eol.org/data/media/aa/f7/2b/539.ACDB_BS0242_1379596901_jpg.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/aa/f7/2b/539.ACDB_BS0242_1379596901_jpg.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Barcode of Life Data Systems",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4689369513",
+  "dataObjectVersionID": 6713928,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:25:22.000Z",
+  "modified": "2018-10-20T02:44:32.000Z",
+  "title": "Pecan Tree",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Katja Schulz",
+  "source": "https://www.flickr.com/photos/treegrow/4689369513/",
+  "mediaURL": "https://farm5.staticflickr.com/4051/4689369513_65be1e6c31_o.jpg",
+  "description": "<em>Carya illinoinensis</em>. Cultivated, US Capitol Grounds, Washington, DC, USA.  Planted 1918 or 1919.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/0b/1c/542.4689369513.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/0b/1c/542.4689369513.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/86548370@N00'>Katja Schulz</a>",
+      "homepage": "http://www.flickr.com/photos/86548370@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

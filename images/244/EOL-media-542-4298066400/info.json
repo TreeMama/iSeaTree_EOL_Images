@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4298066400",
+  "dataObjectVersionID": 6700388,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:22:31.000Z",
+  "modified": "2018-10-24T12:37:51.000Z",
+  "title": "0014_04252005-(1)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Ron Thomas",
+  "source": "https://www.flickr.com/photos/41543632@N03/4298066400/",
+  "mediaURL": "https://farm5.staticflickr.com/4018/4298066400_20aab26ca5_o.jpg",
+  "description": "Carl G. Hunter (Trees, shrubs, &amp; Vines of Arkansas) writes that this plant is \"Usually seen as a shrub in this state...\" (State = Arkansas).",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/e7/17/542.4298066400.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/e7/17/542.4298066400.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/41543632@N03'>Ron Thomas</a>",
+      "homepage": "http://www.flickr.com/photos/41543632@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

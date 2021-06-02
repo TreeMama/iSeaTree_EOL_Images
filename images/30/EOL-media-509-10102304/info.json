@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-10102304",
+  "dataObjectVersionID": 6968260,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:19:06.000Z",
+  "modified": "2018-10-24T12:43:05.000Z",
+  "title": "Acer triflorum, Arnold Arboretum - IMG 5930.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Acer_triflorum,_Arnold_Arboretum_-_IMG_5930.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Acer_triflorum,_Arnold_Arboretum_-_IMG_5930.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Acer triflorum, Arnold Arboretum, Jamaica Plain, Boston, Massachusetts, USA.    Date 21 April 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public domain.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/31/a9/509.10102304.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/31/a9/509.10102304.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

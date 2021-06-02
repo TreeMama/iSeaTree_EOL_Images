@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5171050160",
+  "dataObjectVersionID": 6762957,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:23.000Z",
+  "modified": "2018-10-20T02:53:57.000Z",
+  "title": "Tento-carolina (Adenanthera pavonina)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mauricio Mercadante",
+  "source": "https://www.flickr.com/photos/mercadanteweb/5171050160/",
+  "mediaURL": "https://farm5.staticflickr.com/4153/5171050160_5267fc672e_o.jpg",
+  "description": "Adenanthera pavoninaFABACEAE(LEGUMINOSAE)Fonte: Lorenzi, H. et al. rvores Exticas no Brasil. Plantarum, 2003.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/30/15/542.5171050160.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/30/15/542.5171050160.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/43256055@N03'>Mauricio Mercadante</a>",
+      "homepage": "http://www.flickr.com/photos/43256055@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

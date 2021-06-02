@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-23676445375",
+  "dataObjectVersionID": 6841660,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:56.000Z",
+  "modified": "2018-10-20T03:16:21.000Z",
+  "title": "Pond Pine (Pinus serotina)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/23676445375/",
+  "mediaURL": "https://farm1.staticflickr.com/715/23676445375_9599a8f4c8_o.jpg",
+  "description": "Tosohatchee Wildlife Management Area, Orange County, FL, December 2015.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/ea/58/542.23676445375.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/ea/58/542.23676445375.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

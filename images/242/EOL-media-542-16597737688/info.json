@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-16597737688",
+  "dataObjectVersionID": 6762949,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:23.000Z",
+  "modified": "2018-10-20T02:53:56.000Z",
+  "title": "Adenanthera pavonina, Red Sandalwood Tree. Unripe seed pods",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "gailhampshire",
+  "source": "https://www.flickr.com/photos/gails_pictures/16597737688/",
+  "mediaURL": "https://farm9.staticflickr.com/8700/16597737688_d1ee898bd8_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/ba/a0/542.16597737688.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/ba/a0/542.16597737688.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/43272765@N04'>gailhampshire</a>",
+      "homepage": "http://www.flickr.com/photos/43272765@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-59290769",
+  "dataObjectVersionID": 7733419,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:12:18.000Z",
+  "modified": "2019-08-17T07:05:08.000Z",
+  "title": "2015-02-12-15.20.54 ZS PMax Adolphia californica-1 (15921848564).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "John Rusk",
+  "source": "https://commons.wikimedia.org/wiki/File:2015-02-12-15.20.54_ZS_PMax_Adolphia_californica-1_(15921848564).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2015-02-12-15.20.54_ZS_PMax_Adolphia_californica-1_(15921848564).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Adolphia californicaâCalifornia prickbush. Included in the CNPS Inventory of Rare and Endangered Plants on list 2.1 (rare, threatened, or endangered in CA; common elsewhere). Distribution limited to San Diego county and northern Baja California. \"In contrast to its cousin Ceanothus, A. californica produces flowers that are simple and also very instructive. In this family the flower typically has a disk- or cup-like extension around the ovary, called an hypanthium, and thereon sepals and petals are attached. Sepals are triangular. Petals are clawed (each petal has a stalk)... . These important and diagnosed features are very easily observed and understood in the flowers of Adolphia, which has white sepals and white petals. The ovary has three styles and stigmas and later may form a spherical capsular fruit. At MEMBG, I have not observed mature fruits, although various insects visit the flowers to drink the nectar, which collects on the hypanthium.\"âARTHUR C. GIBSON, UCLA Mildred E. Mathias Botanical Garden (MEMBG) Director. The plant photographed is at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.    Date 15 February 2015, 18:19   Source <a href=\"https://www.flickr.com/photos/john_d_rusk/15921848564/\">2015-02-12-15.20.54 ZS PMax Adolphia californica-1</a>   Author <a href=\"https://www.flickr.com/people/12303842@N00\">John Rusk</a> from Berkeley, CA, United States of America     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=037.894522_N_-122.243959_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">37Â° 53â² 40.28â³ N, 122Â° 14â² 38.25â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/37.894522/-122.243959\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=037.894522&amp;lon=-122.243959\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=037.894522&amp;londegdec=-122.243959&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 37.894522; -122.243959  ",
+  "eolMediaURL": "https://content.eol.org/data/media/65/65/e8/509.59290769.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/65/65/e8/509.59290769.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "John Rusk",
+      "homepage": "https://www.flickr.com/people/12303842@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID john_d_rusk",
+      "homepage": "https://www.flickr.com/photos/john_d_rusk/31450862494/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-543-yucca_002_avp.tif",
+  "dataObjectVersionID": 9357385,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:34:47.000Z",
+  "modified": "2018-10-20T14:08:04.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "\"<a href=\"\"http://www.tx.nrcs.usda.gov/\"\">USDA NRCS Texas State Office</a>.\"",
+  "source": "http://plants.usda.gov/java/largeImage?imageID=yucca_002_avp.tif",
+  "mediaURL": "http://plants.usda.gov/gallery/large/yucca_002_lvp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/df/46/543.yucca_002_avp_tif.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/df/46/543.yucca_002_avp_tif.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Clarence A. Rechenthin",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}
