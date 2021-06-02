@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10002947",
+  "dataObjectVersionID": 7634800,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 900,
+  "width": 675,
+  "created": "2018-04-05T10:54:33.000Z",
+  "modified": "2019-03-19T08:30:34.000Z",
+  "title": "Cercis siliquastrum Tuscany.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Etrusko25",
+  "source": "https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_Tuscany.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cercis_siliquastrum_Tuscany.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Wild <i><a href=\"https://commons.wikimedia.org/wiki/Cercis_siliquastrum\" title=\"Cercis siliquastrum\">Cercis siliquastrum</a></i> photographed near <a href=\"https://commons.wikimedia.org/w/index.php?title=Magliano_in_Toscana&amp;action=edit&amp;redlink=1\" title=\"Magliano in Toscana\">Magliano in Toscana</a>, Tuscany (central Italy).    Date 06/04/2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Etrusko25\" title=\"User:Etrusko25\">Etrusko25</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/2a/a4/509.10002947.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/2a/a4/509.10002947.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Etrusko25",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Etrusko25",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

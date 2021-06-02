@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4717835298",
+  "dataObjectVersionID": 6666127,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:16:49.000Z",
+  "modified": "2018-10-20T02:34:41.000Z",
+  "title": "White-Oak-leaves",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/4717835298/",
+  "mediaURL": "https://farm5.staticflickr.com/4072/4717835298_fd55f71d33_o.gif",
+  "eolMediaURL": "https://content.eol.org/data/media/80/0d/16/542.4717835298.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/0d/16/542.4717835298.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

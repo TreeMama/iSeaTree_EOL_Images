@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4061632986",
+  "dataObjectVersionID": 6748883,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:39.000Z",
+  "modified": "2018-10-20T02:51:27.000Z",
+  "title": "Fagus sylvatica (4748' N  1548' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/4061632986/",
+  "mediaURL": "https://farm3.staticflickr.com/2685/4061632986_418b98b3d8_o.jpg",
+  "description": "2009.10.31: Austria, Lower Austria, district Wiener Neustadt Land, mixed forest (mostly beech and spruce), 880 m AMSL: leaves (fall colour).Note that the tree trunk you see just behind the beech leaves is not of beach but of spruce - but on the right hand side there's also a beech trunk.German name: Buche.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/d3/fb/542.4061632986.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/d3/fb/542.4061632986.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3068658232",
+  "dataObjectVersionID": 6850956,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:59.000Z",
+  "modified": "2018-10-20T03:18:16.000Z",
+  "title": "Paper birch",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "djpmapleferryman",
+  "source": "https://www.flickr.com/photos/63319497@N00/3068658232/",
+  "mediaURL": "https://farm4.staticflickr.com/3155/3068658232_b42c848966_o.jpg",
+  "description": "Betula papyrifera, paper birch or American white birch.  Maine, 28th November 2008, mixed coastal forest.  The identification by Bob Andersen (thanks Bob) is tentative and I would welcome confirmation or correction.  This is the birch that was used for the skins of canoes.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/46/ac/542.3068658232.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/46/ac/542.3068658232.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/63319497@N00'>djpmapleferryman</a>",
+      "homepage": "http://www.flickr.com/photos/63319497@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

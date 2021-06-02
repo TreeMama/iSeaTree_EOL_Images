@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-7560775866",
+  "dataObjectVersionID": 6683953,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:19:23.000Z",
+  "modified": "2018-10-20T02:38:05.000Z",
+  "title": "Carpinus betulus",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Michael Wunderli",
+  "source": "https://www.flickr.com/photos/nameitapp/7560775866/",
+  "mediaURL": "https://farm9.staticflickr.com/8286/7560775866_52e0845bde_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/0a/71/542.7560775866.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/0a/71/542.7560775866.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/56006259@N06'>Michael Wunderli</a>",
+      "homepage": "http://www.flickr.com/photos/56006259@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

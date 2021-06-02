@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-10048237",
+  "dataObjectVersionID": 7293378,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 900,
+  "width": 600,
+  "created": "2018-04-05T10:02:58.000Z",
+  "modified": "2018-10-24T12:56:46.000Z",
+  "title": "Amelanchier alnifolia var. semmiintegrifolia berries.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Amelanchier_alnifolia_var._semmiintegrifolia_berries.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Amelanchier_alnifolia_var._semmiintegrifolia_berries.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Berries of Amelanchier alnifolia var. semiintegrifolia Deutsch: Beeren von Amelanchier alnifolia var. semiintegrifolia    Date    Source <a href=\"http://plants.usda.gov/java/profile?symbol=AMALS&amp;photoID=amfl_002_ahp.tif\">http://plants.usda.gov/java/profile?symbol=AMALS&amp;photoID=amfl_002_ahp.tif</a>   Author Tracey Slotta @ USDA-NRCS PLANTS Database  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/2d/79/509.10048237.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/2d/79/509.10048237.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Tracey Slotta @ USDA-NRCS PLANTS Database",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "http://plants.usda.gov/java/profile?symbol=AMALS&photoID=amfl_002_ahp.tif",
+      "homepage": "http://plants.usda.gov/java/profile?symbol=AMALS&photoID=amfl_002_ahp.tif",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

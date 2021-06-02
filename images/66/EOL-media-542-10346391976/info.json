@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-10346391976",
+  "dataObjectVersionID": 6766446,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas BT060413-194",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sarah Gregg",
+  "source": "https://www.flickr.com/photos/wild-eyes/10346391976/",
+  "mediaURL": "https://farm8.staticflickr.com/7405/10346391976_f8155d5e7a_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/38/50/542.10346391976.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/38/50/542.10346391976.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/100815078@N03'>Sarah Gregg</a>",
+      "homepage": "http://www.flickr.com/photos/100815078@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

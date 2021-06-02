@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-36130872300",
+  "dataObjectVersionID": 6669840,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:17:26.000Z",
+  "modified": "2018-10-20T02:35:26.000Z",
+  "title": "Himalayan cedar (Cedrus deodara)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Kurt Andreas",
+  "source": "https://www.flickr.com/photos/42227089@N00/36130872300/",
+  "mediaURL": "https://farm5.staticflickr.com/4413/36130872300_090b17a6a7_o.jpg",
+  "description": "Queens Botanical Garden, Flushing, NY (July 22, 2017)",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/9c/cc/542.36130872300.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/9c/cc/542.36130872300.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42227089@N00'>Kurt Andreas</a>",
+      "homepage": "http://www.flickr.com/photos/42227089@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

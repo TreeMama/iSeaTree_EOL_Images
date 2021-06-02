@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-7167208338",
+  "dataObjectVersionID": 6704467,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:23:05.000Z",
+  "modified": "2018-10-20T02:42:38.000Z",
+  "title": "Aesculus hippocastanum",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/7167208338/",
+  "mediaURL": "https://farm8.staticflickr.com/7229/7167208338_2d282a3d68_o.jpg",
+  "description": "2012-05-09 Lower Austria, district Schwechat - bordering on Vienna XI. districtGerman name: (Balkan)-Rosskastanie.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/f1/0c/542.7167208338.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/f1/0c/542.7167208338.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-11756907",
+  "dataObjectVersionID": 8118826,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:11:04.000Z",
+  "modified": "2018-10-24T13:30:48.000Z",
+  "title": "Crataegus, various species, fruit.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus,_various_species,_fruit.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Crataegus,_various_species,_fruit.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Fruit of four species of Crataegus, clockwise from top left: Crataegus coccinea, C. punctata var. aurea, C, ambigua, C. douglasii    Date 11 October 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Nadiatalent\" title=\"User:Nadiatalent\">Nadiatalent</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/97/92/509.11756907.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/97/92/509.11756907.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

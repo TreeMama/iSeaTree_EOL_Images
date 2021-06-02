@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-1779289",
+  "dataObjectVersionID": 7495044,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:31:52.000Z",
+  "modified": "2018-10-24T13:05:11.000Z",
+  "title": "Xylocopa 9789.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Xylocopa_9789.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Xylocopa_9789.JPG",
+  "description": "Eastern Carpenter Bee Image taken by me, released under GFDL <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Pollinator&amp;action=edit&amp;redlink=1\" title=\"User:Pollinator\">Pollinator</a> 04:03, 24 Feb 2004 (UTC)    NOTE: \"subject to disclaimers\" below may not actually apply, this was tagged with {{<a href=\"https://commons.wikimedia.org/wiki/Template:GFDL-user-en\" title=\"Template:GFDL-user-en\">GFDL-user-en</a>}}, and after May 2007, <a href=\"https://en.wikipedia.org/wiki/Template:GFDL-self\" title=\"en:Template:GFDL-self\">en:Template:GFDL-self</a> did not require disclaimers. Please check the image description page on the English Wikipedia (or, if it has been deleted, <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard\" title=\"en:Wikipedia:Administrators' noticeboard\">ask an English Wikipedia administrator</a>). See <a href=\"https://en.wikipedia.org/wiki/Project:GFDL_standardization\" title=\"en:Project:GFDL standardization\">Wikipedia:GFDL standardization</a> for details.        <a href=\"https://en.wikipedia.org/wiki/User:Pollinator\" title=\"en:User:Pollinator\">Pollinator</a> at the <a href=\"https://en.wikipedia.org/wiki/\" title=\"w:\">English language Wikipedia</a>, the copyright holder of this work, hereby publishes it under the following license:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.    Attribution: <a href=\"https://en.wikipedia.org/wiki/User:Pollinator\" title=\"en:User:Pollinator\">Pollinator</a> at the <a href=\"https://en.wikipedia.org/wiki/\" title=\"w:\">English language Wikipedia</a>       This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue          Note: This tag <i>should not be used</i>. For images that were released on the English Wikipedia using either <a href=\"https://en.wikipedia.org/wiki/Template:GFDL-en\" title=\"en:Template:GFDL-en\">GFDL</a> or <a href=\"https://en.wikipedia.org/wiki/Template:GFDL-self-with-disclaimers\" title=\"en:Template:GFDL-self-with-disclaimers\">GFDL-self</a> with disclaimers, use {{<a href=\"https://commons.wikimedia.org/wiki/Template:GFDL-user-en-with-disclaimers\" title=\"Template:GFDL-user-en-with-disclaimers\">GFDL-user-en-with-disclaimers</a>}}. For images without disclaimers please use {{<a href=\"https://commons.wikimedia.org/wiki/Template:GFDL-user-en-no-disclaimers\" title=\"Template:GFDL-user-en-no-disclaimers\">GFDL-user-en-no-disclaimers</a>}} instead. If you are the copyright holder of files that were released on Wikipedia, please consider <a href=\"https://en.wikipedia.org/wiki/Wikipedia:GFDL_standardization\" title=\"en:Wikipedia:GFDL standardization\">removing the disclaimers</a>.    Original upload log[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Original upload log\">edit</a>] (All user names refer to en.wikipedia) 06:08, October 23, 2003 . . <a href=\"https://en.wikipedia.org/wiki/User:Pollinator\" title=\"en:User:Pollinator\">Pollinator</a> . . 300Ã228 (21,603 bytes) (Eastern Carpenter Bee)",
+  "eolMediaURL": "https://content.eol.org/data/media/56/cb/6e/509.1779289.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/cb/6e/509.1779289.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Liné1",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Liné1",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

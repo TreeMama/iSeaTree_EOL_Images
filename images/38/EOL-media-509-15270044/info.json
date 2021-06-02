@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-15270044",
+  "dataObjectVersionID": 7293379,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:02:58.000Z",
+  "modified": "2019-05-22T15:34:20.000Z",
+  "title": "Amelanchier alnifolia 4103.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Walter Siegmund (talk)",
+  "source": "https://commons.wikimedia.org/wiki/File:Amelanchier_alnifolia_4103.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Amelanchier_alnifolia_4103.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI <i><a href=\"https://commons.wikimedia.org/wiki/Amelanchier_alnifolia\" title=\"Amelanchier alnifolia\">Amelanchier alnifolia</a></i> English: Saskatoon Serviceberry, Western Serviceberry    Date <a href=\"https://en.wikipedia.org/wiki/ISO_8601\" title=\"en:ISO 8601\">2011:05:04T21:02:41Z</a>   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Wsiegmund\" title=\"User:Wsiegmund\">Walter Siegmund</a> <a href=\"https://commons.wikimedia.org/wiki/User_talk:Wsiegmund\" title=\"User talk:Wsiegmund\">(talk)</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=046.860600_N_-120.502300_E_globe:Earth_type:camera_type:forest_region:US&amp;language=en\">46Â° 51â² 38.16â³ N, 120Â° 30â² 08.28â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/46.8606/-120.5023\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=046.860600&amp;lon=-120.502300\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=046.860600&amp;londegdec=-120.502300&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 46.860600; -120.502300   Location source: Garmin GPSmap 60CSx <a href=\"https://en.wikipedia.org/wiki/World_Geodetic_System\" title=\"en:World Geodetic System\">Location Datum</a>: WGS84 Viewpoint location: Umtanum Creek Trail, <a href=\"https://commons.wikimedia.org/wiki/Wenas_Wildlife_Area\" title=\"Wenas Wildlife Area\">Wenas Wildlife Area</a>, <a href=\"https://commons.wikimedia.org/wiki/Umtanum_Creek_Recreation_Area\" title=\"Umtanum Creek Recreation Area\">Umtanum Creek Recreation Area</a> Viewpoint elevation: 469 <a href=\"https://en.wikipedia.org/wiki/meter\" title=\"en:meter\">meter</a> (1538 ft) Camera: Canon EOS DIGITAL REBEL XSi Exposure Time: 1/800 F Number: f/11.0 Focal Length: 55.0 ISO Speed Rating: 400 Â©2011 Walter Siegmund <br> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a href=\"http://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/41/1c/509.15270044.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/41/1c/509.15270044.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Walter Siegmund (talk)",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Wsiegmund",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

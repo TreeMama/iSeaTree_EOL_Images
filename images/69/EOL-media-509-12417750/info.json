@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-12417750",
+  "dataObjectVersionID": 7121756,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:37:41.000Z",
+  "modified": "2018-10-24T12:49:16.000Z",
+  "title": "Baumhasel.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Baumhasel.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/db/Baumhasel.jpg",
+  "description": "DescriptionAPI  Deutsch: Baumhasel Pflanze    Date September 2007   Source Own work (Original text: <i>selbst erstellt</i>)   Author <a href=\"https://de.wikipedia.org/wiki/Benutzer:Pyxlyst\" title=\"de:Benutzer:Pyxlyst\">Benutzer:Pyxlyst</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/be/0d/509.12417750.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/be/0d/509.12417750.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Benutzer:Pyxlyst",
+      "homepage": "https://de.wikipedia.org/wiki/Benutzer:Pyxlyst",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work (Original text: selbst erstellt)",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

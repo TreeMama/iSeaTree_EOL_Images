@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-22647603",
+  "dataObjectVersionID": 8005924,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-18T22:10:52.000Z",
+  "title": "Sawajiri no Ohinoki.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "アラツク",
+  "source": "https://commons.wikimedia.org/wiki/File:Sawajiri_no_Ohinoki.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sawajiri_no_Ohinoki.JPG",
+  "description": "DescriptionAPI  English: Sawajiri no Ohinoki(Sawara),<a href=\"https://commons.wikimedia.org/wiki/Fukushima_prefecture\" title=\"Fukushima prefecture\">Fukushima prefecture</a>, Japan æ¥æ¬èª: æ²¢å°»ã®å¤§ããã­ï¼ãµã¯ã©ï¼ãç¦å³¶çãæ¥æ¬    Date 21 September 2012   Source Own work   Author ã¢ã©ãã¯  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/cd/b9/509.22647603.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/cd/b9/509.22647603.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "アラツク",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

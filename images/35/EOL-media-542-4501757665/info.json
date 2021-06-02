@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4501757665",
+  "dataObjectVersionID": 6704465,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:23:05.000Z",
+  "modified": "2018-10-24T12:37:54.000Z",
+  "title": "Aesculus hippocastanum (4812' N 1621' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/4501757665/",
+  "mediaURL": "https://farm5.staticflickr.com/4019/4501757665_6dd5735d0a_o.jpg",
+  "description": "2010.04.01 Vienna I. district (Volksgarten near Hofburg, 177 m AMSL).Branches cut back radically; I suppose that this is done to try and fight <a href=\"http://www.flickr.com/photos/hermannherbarium/3766710338/in/set-72157621936570792/\">Cameraria ohridella</a>, but that's just a guess of mine.German name: Rosskastanie",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/f8/a8/542.4501757665.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/f8/a8/542.4501757665.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

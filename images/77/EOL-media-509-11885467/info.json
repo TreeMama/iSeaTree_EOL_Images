@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-11885467",
+  "dataObjectVersionID": 7710673,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1720,
+  "width": 2580,
+  "created": "2018-04-05T11:10:22.000Z",
+  "modified": "2019-07-16T17:13:41.000Z",
+  "title": "0 Davidia involucrata - Mariemont 1.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Jean-Pol GRANDMONT",
+  "source": "https://commons.wikimedia.org/wiki/File:0_Davidia_involucrata_-_Mariemont_1.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/0_Davidia_involucrata_-_Mariemont_1.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : <a href=\"https://fr.wikipedia.org/wiki/Arbre-aux-mouchoirs\" title=\"fr:Arbre-aux-mouchoirs\">Arbre-aux-mouchoirs</a> ou Arbre-aux-pochettes (<i><a href=\"https://commons.wikimedia.org/wiki/Davidia_involucrata\" title=\"Davidia involucrata\">Davidia involucrata</a></i>). Deutsch: <a href=\"https://de.wikipedia.org/wiki/Taschentuchbaume\" title=\"de:Taschentuchbaume\">Taschentuchbaume</a>. English: <a href=\"https://en.wikipedia.org/wiki/Dove_tree\" title=\"w:Dove tree\">Dove tree</a>. æ¥æ¬èª: <a href=\"https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%E3%83%8E%E3%82%AD\" title=\"ja:ãã³ã«ããã­\">ãã³ã«ããã­</a>. Nederlands: <a href=\"https://nl.wikipedia.org/wiki/Vaantjesboom\" title=\"nl:Vaantjesboom\">Vaantjesboom</a> of Zakdoekenboom . ä¸­æ: <a href=\"https://zh.wikipedia.org/wiki/%E7%8F%99%E6%A1%90\" title=\"zh:çæ¡\">çæ¡</a>. Walon: Aube-a-mokeus ou Ã¨co Aube-a-potchÃ¨tes .    Date 20 April 2009   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <a href=\"https://commons.wikimedia.org/wiki/File:Self_portrait_in_the_darkroom_JPG01.jpg\"></a> This illustration <i>was made by</i> <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> Please credit this : <i>Jean-Pol GRANDMONT</i> An email to <a href=\"https://commons.wikimedia.org/wiki/Special:EmailUser/Jean-Pol_GRANDMONT\" title=\"Special:EmailUser/Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> would be appreciated.       <a href=\"https://commons.wikimedia.org/wiki/File:0_Davidia_involucrata_-_Mariemont_2.JPG\"></a> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    I, the copyright holder of this work, hereby publish it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.        You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). http://creativecommons.org/licenses/by/3.0 CC BY 3.0 Creative Commons Attribution 3.0 truetrue    <i>You may select the license of your choice.</i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/9c/9a/509.11885467.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/9c/9a/509.11885467.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jean-Pol GRANDMONT",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

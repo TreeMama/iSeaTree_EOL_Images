@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-1348175",
+  "dataObjectVersionID": 7892451,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:41:59.000Z",
+  "modified": "2019-03-24T00:16:11.000Z",
+  "title": "Larix occidentalis leaves cones.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+  "source": "https://commons.wikimedia.org/wiki/File:Larix_occidentalis_leaves_cones.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Larix_occidentalis_leaves_cones.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Larix_occidentalis\" title=\"Larix occidentalis\">Larix occidentalis</a></i> foliage and mature cones, cultivated, Kyloe Woods, Northumberland, UK.    Date    Source No machine-readable source provided. Own work assumed (based on copyright claims).   Author No machine-readable author provided. <a href=\"https://commons.wikimedia.org/wiki/User:MPF\" title=\"User:MPF\">MPF</a> assumed (based on copyright claims).  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/f4/ef/509.1348175.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/f4/ef/509.1348175.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+      "homepage": "https://commons.wikimedia.org/wiki/User:MPF",
+      "role": "creator"
+    },
+    {
+      "full_name": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

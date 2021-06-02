@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-14670380",
+  "dataObjectVersionID": 7070275,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:33:05.000Z",
+  "modified": "2018-10-24T12:47:06.000Z",
+  "title": "Larch (Larix lyallii), Alpine Circuit Hike, Yoho National Park.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Larch_(Larix_lyallii),_Alpine_Circuit_Hike,_Yoho_National_Park.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Larch_(Larix_lyallii),_Alpine_Circuit_Hike,_Yoho_National_Park.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Larch    Date 14 September 2010, 12:31   Source <a href=\"http://www.flickr.com/photos/21775203@N07/5034663263/\">Larch (Larix lyallii), Alpine Circuit Hike, Yoho National Park</a>   Author <a href=\"http://www.flickr.com/photos/21775203@N07\">Jeff Schneider</a> from Arlington, Virginia, USA  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5b/1d/fc/509.14670380.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5b/1d/fc/509.14670380.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

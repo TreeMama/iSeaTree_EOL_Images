@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6264229973",
+  "dataObjectVersionID": 6712630,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:25:05.000Z",
+  "modified": "2018-10-20T02:44:16.000Z",
+  "title": "Beaked-Hazel-leaves-b",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/6264229973/",
+  "mediaURL": "https://farm7.staticflickr.com/6233/6264229973_a8fcfb725a_o.gif",
+  "description": "Found in Northern Highlands State Forest, WIsconsin.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/93/2a/542.6264229973.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/93/2a/542.6264229973.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

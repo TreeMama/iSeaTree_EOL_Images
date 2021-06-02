@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2999187690",
+  "dataObjectVersionID": 6748880,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:39.000Z",
+  "modified": "2018-10-20T02:51:27.000Z",
+  "title": "Fagus sylvatica1",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Antnio Pena",
+  "source": "https://www.flickr.com/photos/anpena/2999187690/",
+  "mediaURL": "https://farm4.staticflickr.com/3062/2999187690_c875d82f6f_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/3a/42/542.2999187690.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/3a/42/542.2999187690.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/8358282@N02'>Antnio Pena</a>",
+      "homepage": "http://www.flickr.com/photos/8358282@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-17293846",
+  "dataObjectVersionID": 7346105,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:07:58.000Z",
+  "modified": "2018-10-24T12:58:56.000Z",
+  "title": "Red alder and sword fern, Oregon Coast Range.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Red_alder_and_sword_fern,_Oregon_Coast_Range.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Red_alder_and_sword_fern,_Oregon_Coast_Range.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Red alder and sword fern near Drift Creek in the Oregon Coast Range    Date 29 December 2005 (original upload date)   Source Own work   Author <a href=\"https://en.wikipedia.org/wiki/User:Nickpdx\" title=\"en:User:Nickpdx\">Nickpdx</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Nickpdx\" title=\"en:User talk:Nickpdx\">talk</a>)  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/b2/0d/509.17293846.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/b2/0d/509.17293846.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Nickpdx (talk)",
+      "homepage": "https://en.wikipedia.org/wiki/User:Nickpdx",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

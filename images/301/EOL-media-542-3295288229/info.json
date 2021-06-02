@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3295288229",
+  "dataObjectVersionID": 6673851,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:18:04.000Z",
+  "modified": "2018-10-20T02:36:11.000Z",
+  "title": "Pitch Pine",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3295288229/",
+  "mediaURL": "https://farm4.staticflickr.com/3647/3295288229_74e02cf735_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6f/d8/542.3295288229.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6f/d8/542.3295288229.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

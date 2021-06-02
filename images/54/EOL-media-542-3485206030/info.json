@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3485206030",
+  "dataObjectVersionID": 6669839,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:17:26.000Z",
+  "modified": "2018-10-20T02:35:26.000Z",
+  "title": "Deodar Cedar 'Bush's Electra' {cedrus deodara}",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Drew Avery",
+  "source": "https://www.flickr.com/photos/33590535@N06/3485206030/",
+  "mediaURL": "https://farm4.staticflickr.com/3540/3485206030_c4f757f17b_o.jpg",
+  "description": "Denver Botanical Garden",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/8a/64/542.3485206030.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/8a/64/542.3485206030.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33590535@N06'>Drew Avery</a>",
+      "homepage": "http://www.flickr.com/photos/33590535@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

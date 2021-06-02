@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3802109586",
+  "dataObjectVersionID": 6704462,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:23:05.000Z",
+  "modified": "2018-10-24T12:37:54.000Z",
+  "title": "Cameraria ohridella on Aesculus hippocastanum (4810' N 1632' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/3802109586/",
+  "mediaURL": "https://farm4.staticflickr.com/3575/3802109586_63cefc2bbb_o.jpg",
+  "description": "2009.08.08: Austria, Vienna XXII. district, 154 m AMSL, horse chestnut avenue: trees infested with larvae of Cameraria ohridella to a degree that they already have begun shedding their leaves.I noticed that this year the moth plague is significantly less pronounced in the city (probably due to the new stragey of burning fallen leaves) but here in the national park it is as bad as ever; of course, no leaves are burnt here at all.German name: Rosskastanienminiermotte (moth), Rosskastanie (tree).ID for Cameraria ohridella: <a href=\"http://www.wikipedia.org\">Wikipedia</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/b5/68/542.3802109586.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/b5/68/542.3802109586.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

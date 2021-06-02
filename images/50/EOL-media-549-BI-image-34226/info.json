@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-549-BI-image-34226",
+  "dataObjectVersionID": 9010609,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-07-03T18:55:41.000Z",
+  "modified": "2018-10-24T13:32:33.000Z",
+  "title": "Foliage and fruits",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.bioimages.org.uk/html/../image.php?id=34226",
+  "mediaURL": "http://www.discoverlife.org/mp/20p?img=I_MWS34226&res=mx",
+  "description": "Longitude (deg): -0.2. Latitude (deg): 50.9. Longitude (deg/min): 0ÃÂ° 10' W. Latitude (deg/min): 50ÃÂ° 60' N. Vice county name: East Sussex. Vice county no.: 14. Country: England. Stage: Plant. Identified by: Malcolm Storey. Category: standard photograph or close-up. Photographic equipment used: \"35mm transparencies (on a variety of films, but Agfa CT18 in the 1960's to early 1980's followed by Fujichrome in the late 1980's.) Transparencies scanned with Minolta Dimage Scan Dual II AF-2820U transparency scanner.\". ",
+  "eolMediaURL": "https://content.eol.org/data/media/89/d4/49/549.BI-image-34226.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/89/d4/49/549.BI-image-34226.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "BioImages, the virtual fieldguide, UK",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2820235",
+  "dataObjectVersionID": 7011300,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:22:05.000Z",
+  "modified": "2019-04-11T07:18:53.000Z",
+  "title": "Eucommia ulmoides ABL.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "A. Barra",
+  "source": "https://commons.wikimedia.org/wiki/File:Eucommia_ulmoides_ABL.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eucommia_ulmoides_ABL.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Eucommia_ulmoides\" title=\"Eucommia ulmoides\">Eucommia ulmoides</a></i>, frutos. Real JardÃ­n BotÃ¡nico, Madrid    Date May 2001   Source Own work   Author A. Barra  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/0d/9c/509.2820235.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/0d/9c/509.2820235.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "A. Barra",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

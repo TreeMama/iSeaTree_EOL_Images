@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3766710338",
+  "dataObjectVersionID": 6704461,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:23:05.000Z",
+  "modified": "2018-10-24T12:37:54.000Z",
+  "title": "Cameraria ohridella on Aesculus hippocastanum (4811' N 1630' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/3766710338/",
+  "mediaURL": "https://farm3.staticflickr.com/2586/3766710338_877cbd2c97_o.jpg",
+  "description": "2008.08.06: Austria, Vienna XXII. district, 155 m AMSL, broadleaf forest (Lobau Harte Au): leaves of Aesculus hippocastanum, infested with larvae of Cameraria ohridella.<b>A. hippocastanum</b> is native to the Balkans but not to Central Europe; the tree has been introduced in the 16th century (via Constantinople/Istanbul); it has become naturalised for centuries already.<b>C. ohridella</b> now only was discovered when massive reproduction occured in Ohrid in the 1980ies. But as it was only found there on imported trees but not the native Ohrid variety of A. hippocastanum it is obvious that C. ohridella isn't native to the Balkans but was imported (<a href=\"http://bfw.ac.at/inst4/fs-aktuell/nr21/holzschuh.html\">see this article here in German)</a>. C. ohridella thus <b><i>must</i></b> be native to one of those other populations (in Eastern Europe, the Far East and America); we do know that the Central European population is based on the one of Ohrid and that it was introduced unvoluntarily by man - but we do not know when and how it was introduced in Ohrid.The moth is damaging chestnut trees badly here as it does not have any natural animals; so far there is no proof of trees dying from the damage the moth is causing (and certainly there's no mass dying, so far) but as the moth is spreading only for about twenty years possible effects are still unclear. The leaves shown here aren't too badly damaged (for early august); many infested trees already shed most of their leaves in late july.German name: Rosskastanienminiermotte (moth), Rosskastanie (tree).ID for Cameraria ohridella: <a href=\"http://www.wikipedia.org\">Wikipedia</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/b1/c1/542.3766710338.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/b1/c1/542.3766710338.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

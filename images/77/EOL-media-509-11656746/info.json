@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-11656746",
+  "dataObjectVersionID": 7710672,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3888,
+  "width": 2592,
+  "created": "2018-04-05T11:10:22.000Z",
+  "modified": "2019-07-16T17:10:41.000Z",
+  "title": "0 Davidia involucrata - Mariemont 2.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Jean-Pol GRANDMONT",
+  "source": "https://commons.wikimedia.org/wiki/File:0_Davidia_involucrata_-_Mariemont_2.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/0_Davidia_involucrata_-_Mariemont_2.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : <a href=\"https://fr.wikipedia.org/wiki/Arbre-aux-mouchoirs\" title=\"fr:Arbre-aux-mouchoirs\">Arbre-aux-mouchoirs</a> ou Arbre-aux-pochettes (<i><a href=\"https://commons.wikimedia.org/wiki/Davidia_involucrata\" title=\"Davidia involucrata\">Davidia involucrata</a></i>). Deutsch: <a href=\"https://de.wikipedia.org/wiki/Taschentuchbaume\" title=\"de:Taschentuchbaume\">Taschentuchbaume</a>. English: <a href=\"https://en.wikipedia.org/wiki/Dove_tree\" title=\"w:Dove tree\">Dove tree</a>. æ¥æ¬èª: <a href=\"https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81%E3%83%8E%E3%82%AD\" title=\"ja:ãã³ã«ããã­\">ãã³ã«ããã­</a>. Nederlands: <a href=\"https://nl.wikipedia.org/wiki/Vaantjesboom\" title=\"nl:Vaantjesboom\">Vaantjesboom</a> of Zakdoekenboom . ä¸­æ: <a href=\"https://zh.wikipedia.org/wiki/%E7%8F%99%E6%A1%90\" title=\"zh:çæ¡\">çæ¡</a>. Walon: Aube-a-mokeus ou Ã¨co Aube-a-potchÃ¨tes .    Date 20 April 2009   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <a href=\"https://commons.wikimedia.org/wiki/File:Self_portrait_in_the_darkroom_JPG01.jpg\"></a> This illustration <i>was made by</i> <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> Please credit this : <i>Jean-Pol GRANDMONT</i> An email to <a href=\"https://commons.wikimedia.org/wiki/Special:EmailUser/Jean-Pol_GRANDMONT\" title=\"Special:EmailUser/Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> would be appreciated.       Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:0_Davidia_involucrata_-_Mariemont_1.JPG\"></a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/92/49/509.11656746.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/92/49/509.11656746.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jean-Pol GRANDMONT",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-16427049",
+  "dataObjectVersionID": 7933672,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2018-10-24T13:23:21.000Z",
+  "title": "Cornus alternifolia bb1.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_bb1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cornus_alternifolia_bb1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : Plante    Date 10 September 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Dinkum\" title=\"User:Dinkum\">Dinkum</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/86/45/509.16427049.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/86/45/509.16427049.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dinkum",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

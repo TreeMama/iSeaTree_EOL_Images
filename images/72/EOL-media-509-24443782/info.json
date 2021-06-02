@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-24443782",
+  "dataObjectVersionID": 8118821,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:11:04.000Z",
+  "modified": "2019-04-17T13:35:13.000Z",
+  "title": "Crataegus douglasii JEPS109866 (4496863581).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Dean Wm. Taylor",
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus_douglasii_JEPS109866_(4496863581).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Crataegus_douglasii_JEPS109866_(4496863581).jpg",
+  "description": "DescriptionAPI  Crataegus douglasii JEPS109866    Date 9 February 2008, 13:42   Source <a href=\"http://www.flickr.com/photos/43555623@N06/4496863581/\">Crataegus douglasii JEPS109866</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:Magnus_Manske\" title=\"User:Magnus Manske\">Magnus Manske</a>    Author <a href=\"http://www.flickr.com/people/43555623@N06\">Dean Wm. Taylor</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/31/2b/509.24443782.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/31/2b/509.24443782.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dean Wm. Taylor",
+      "homepage": "https://www.flickr.com/people/43555623@N06",
+      "role": "creator"
+    },
+    {
+      "full_name": "Dean Wm. Taylor (43555623@N06)",
+      "homepage": "https://www.flickr.com/photos/43555623@N06/8000480639/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

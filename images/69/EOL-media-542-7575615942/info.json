@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-7575615942",
+  "dataObjectVersionID": 6777601,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:35:17.000Z",
+  "modified": "2018-10-20T02:56:33.000Z",
+  "title": "IMG_1613 Turkish Hazel",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Tim Sheerman-Chase",
+  "source": "https://www.flickr.com/photos/tim_uk/7575615942/",
+  "mediaURL": "https://farm9.staticflickr.com/8433/7575615942_a83b41903d_o.jpg",
+  "description": "Corylus colurna",
+  "eolMediaURL": "https://content.eol.org/data/media/81/0b/ad/542.7575615942.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/0b/ad/542.7575615942.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/68932647@N00'>Tim Sheerman-Chase</a>",
+      "homepage": "http://www.flickr.com/photos/68932647@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

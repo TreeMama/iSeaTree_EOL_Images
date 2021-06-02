@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-1084965",
+  "dataObjectVersionID": 7798235,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1536,
+  "width": 2048,
+  "created": "2018-04-05T11:25:46.000Z",
+  "modified": "2019-08-17T14:11:45.000Z",
+  "title": "Green leaves.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Samir Mahendra",
+  "source": "https://commons.wikimedia.org/wiki/File:Green_leaves.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Green_leaves.jpg",
+  "description": "DescriptionAPI  <i>Arbutus menziesii</i> leaves in the sushine    Date 30 June 2002, 20:00:43   Source <a href=\"http://flickr.com/photos/30682900@N00/13163005\">Flickr</a>   Author <a href=\"http://flickr.com/photos/30682900@N00\">Samir Mahendra from San Francisco, USA</a>   Reviewer <a href=\"https://commons.wikimedia.org/wiki/User:KenWalker\" title=\"User:KenWalker\">KenWalker</a>   <br>   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.        You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). http://creativecommons.org/licenses/by/2.0 CC BY 2.0 Creative Commons Attribution 2.0 truetrue   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/60/a1/509.1084965.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/60/a1/509.1084965.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Samir Mahendra",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

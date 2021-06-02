@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10695261",
+  "dataObjectVersionID": 7799305,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 4288,
+  "width": 2848,
+  "created": "2018-04-05T11:25:49.000Z",
+  "modified": "2019-05-24T04:39:20.000Z",
+  "title": "Cladrastis-kentukea-00.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Elektryczne jabłko",
+  "source": "https://commons.wikimedia.org/wiki/File:Cladrastis-kentukea-00.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cladrastis-kentukea-00.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Cladrastis kentukea</i>    Date 25 May 2009   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Elektryczne_jab%C5%82ko\" title=\"User:Elektryczne jabÅko\">Elektryczne jabÅko</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/56/3a/509.10695261.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/56/3a/509.10695261.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Elektryczne jabłko",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Elektryczne_jab%C5%82ko",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

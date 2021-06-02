@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-21033936",
+  "dataObjectVersionID": 7933678,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2018-10-24T13:23:21.000Z",
+  "title": "Pagodaseedlings.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Pagodaseedlings.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pagodaseedlings.jpg",
+  "description": "<br>    <i>This file was moved to Wikimedia Commons from en.wikipedia using a bot script. All source information is still present. It <a href=\"https://commons.wikimedia.org/wiki/Commons:Moving_to_Commons\" title=\"Commons:Moving to Commons\">requires review</a>. Additionally, there may be errors in any or all of the information fields; information on this file should not be considered reliable and the file should not be used until it has been reviewed and any needed corrections have been made. Once the review has been completed, this template should be removed. For details about this file, see below.</i> <a href=\"http://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;withJS=MediaWiki:Botcheck.js\">Check now!</a>   Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Self made picture of seedlings of Pagoda Dogwood, take spring of 2008.    Date 16 May 2008 (original upload date)   Source Own work   Author <a href=\"https://en.wikipedia.org/wiki/User:Hardyplants\" title=\"wikipedia:User:Hardyplants\">Hardyplants</a> at <a href=\"https://en.wikipedia.org/wiki/\" title=\"wikipedia:\">English Wikipedia</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/7e/55/509.21033936.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/7e/55/509.21033936.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Hardyplants at English Wikipedia",
+      "homepage": "https://en.wikipedia.org/wiki/User:Hardyplants",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

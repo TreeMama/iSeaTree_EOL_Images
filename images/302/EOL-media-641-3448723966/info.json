@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-641-3448723966",
+  "dataObjectVersionID": 9316975,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 500,
+  "width": 375,
+  "created": "2018-10-16T17:55:14.000Z",
+  "modified": "2018-10-24T13:34:54.000Z",
+  "title": "\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "Scott Namestnik",
+  "mediaURL": "http://farm4.static.flickr.com/3303/3448723966_9bd938966f.jpg",
+  "description": "Location: South Bend Motor Speedway, Indiana",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/8e/33/641.3448723966.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/8e/33/641.3448723966.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Scott Namestnik",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Scott Namestnik's photo gallery",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

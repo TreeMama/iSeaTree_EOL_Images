@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-7797058468",
+  "dataObjectVersionID": 6842490,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:04.000Z",
+  "modified": "2018-10-24T12:39:31.000Z",
+  "title": "n54_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://www.flickr.com/photos/biodivlibrary/7797058468/",
+  "mediaURL": "https://farm9.staticflickr.com/8292/7797058468_a467399f03_o.jpg",
+  "description": "A description of the genus Pinus :.London :J. White,1803-1824..<a href=\"http://biodiversitylibrary.org/page/31681188\">biodiversitylibrary.org/page/31681188</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/81/1a/28/542.7797058468.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/1a/28/542.7797058468.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/61021753@N02'>Biodiversity Heritage Library</a>",
+      "homepage": "http://www.flickr.com/photos/61021753@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

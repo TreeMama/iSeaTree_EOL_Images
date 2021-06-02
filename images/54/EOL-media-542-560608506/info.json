@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-560608506",
+  "dataObjectVersionID": 6669842,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:17:26.000Z",
+  "modified": "2018-10-20T02:35:26.000Z",
+  "title": "20070102 Manali Gerulf011",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Kumara Sastry",
+  "source": "https://www.flickr.com/photos/kumarasastry/560608506/",
+  "mediaURL": "https://farm2.staticflickr.com/1031/560608506_7740385852_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/54/e3/542.560608506.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/54/e3/542.560608506.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/89044848@N00'>Kumara Sastry</a>",
+      "homepage": "http://www.flickr.com/photos/89044848@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

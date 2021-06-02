@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-15908574",
+  "dataObjectVersionID": 7236463,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:58:50.000Z",
+  "modified": "2019-04-12T15:59:57.000Z",
+  "title": "Aesculus flava 01 by Line1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Liné1",
+  "source": "https://commons.wikimedia.org/wiki/File:Aesculus_flava_01_by_Line1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Aesculus_flava_01_by_Line1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Category:Aesculus_flava\" title=\"Category:Aesculus flava\">Aesculus flava</a></i> in <a href=\"https://commons.wikimedia.org/wiki/Category:Jardins_de_Valloires\" title=\"Category:Jardins de Valloires\">Jardins de Valloires</a> Map: <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=50_20_50_N_01_49_11_E\">50Â° 20' 50\" N 01Â° 49' 11\" E</a>    Date 14 July 2011   Source Own work Picture taken with my Panasonic DMC TZ3   Author <a href=\"https://commons.wikimedia.org/wiki/User:Lin%C3%A91\" title=\"User:LinÃ©1\">LinÃ©1</a>   <a href=\"https://fr.wikipedia.org/wiki/Aesculus_flava\" title=\"fr:Aesculus flava\">fr:Aesculus flava</a> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    I, the copyright holder of this work, hereby publish it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a href=\"http://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue    <i>You may select the license of your choice.</i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/68/3d/509.15908574.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/68/3d/509.15908574.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Liné1",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Lin%C3%A91",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work Picture taken with my Panasonic DMC TZ3",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

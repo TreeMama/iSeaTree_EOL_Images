@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8096912932",
+  "dataObjectVersionID": 6634975,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:10:35.000Z",
+  "modified": "2018-10-20T02:28:54.000Z",
+  "title": "Chamaecyparis lawsoniana",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mauricio Mercadante",
+  "source": "https://www.flickr.com/photos/mercadanteweb/8096912932/",
+  "mediaURL": "https://farm9.staticflickr.com/8329/8096912932_02f68f2ea4_o.jpg",
+  "description": "<b><i>Chamaecyparis lawsoniana</i></b> (A. Murray) Parl.CUPRESSACEAE  Local: Braslia, Brasil.Ref.: Lorenzi, H. et al. rvores Exticas no Brasil. Plantarum, 2003.",
+  "eolMediaURL": "https://content.eol.org/data/media/81/32/a7/542.8096912932.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/32/a7/542.8096912932.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/43256055@N03'>Mauricio Mercadante</a>",
+      "homepage": "http://www.flickr.com/photos/43256055@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

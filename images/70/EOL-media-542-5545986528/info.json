@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5545986528",
+  "dataObjectVersionID": 6730484,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:27:32.000Z",
+  "modified": "2018-10-20T02:47:52.000Z",
+  "title": "California Pink Tentacleplant",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Ken-ichi Ueda",
+  "source": "https://www.flickr.com/photos/ken-ichi/5545986528/",
+  "mediaURL": "https://farm6.staticflickr.com/5298/5545986528_51b6cfc04f_o.jpg",
+  "description": "The possibility of one day telling a child that every hazelnut actually imprisons a gigantic pink squid monster that tries to escape every Spring is almost, ALMOST reason enough to have one.  Almost.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/50/fa/542.5545986528.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/50/fa/542.5545986528.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/18024068@N00'>Ken-ichi Ueda</a>",
+      "homepage": "http://www.flickr.com/photos/18024068@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

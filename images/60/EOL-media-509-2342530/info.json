@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-2342530",
+  "dataObjectVersionID": 8005925,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-18T22:13:33.000Z",
+  "title": "Chamaecyparis pisifera.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Piotrus",
+  "source": "https://commons.wikimedia.org/wiki/File:Chamaecyparis_pisifera.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Chamaecyparis_pisifera.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a> in <a href=\"https://en.wikipedia.org/wiki/Phipps_Conservatory_%26_Botanical_Gardens\" title=\"w:Phipps Conservatory &amp; Botanical Gardens\">Phipps conservatory</a>, Pittsburgh.    Date May 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Piotrus\" title=\"User:Piotrus\">Piotrus</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/09/53/509.2342530.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/09/53/509.2342530.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Piotrus",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Piotrus",
+      "role": "creator"
+    },
+    {
+      "full_name": "Piotrus",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Piotrus",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

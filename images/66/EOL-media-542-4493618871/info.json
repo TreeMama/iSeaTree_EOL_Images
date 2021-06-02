@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4493618871",
+  "dataObjectVersionID": 6766452,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas (4809' N 1657' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/4493618871/",
+  "mediaURL": "https://farm5.staticflickr.com/4056/4493618871_508f908261_o.jpg",
+  "description": "2010.03.26 Lower Austria, district Bruck/Leitha, broadleaf forest on Braunsberg (320 m AMSL).Flowering in (february) march/april.Very common in Eastern Austria.German name: Dirndlstrauch, Gelb-Hartriegel",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/f7/ec/542.4493618871.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/f7/ec/542.4493618871.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-32713484470",
+  "dataObjectVersionID": 6672892,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:17:53.000Z",
+  "modified": "2018-10-20T02:36:00.000Z",
+  "title": "E20170223-0002Arbutus menziesiiRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/32713484470/",
+  "mediaURL": "https://farm1.staticflickr.com/725/32713484470_031e7d7e24_o.jpg",
+  "description": "Arbutus menziesiiPacific madrone.  Grows from Vancouver Island in British Columbia south to Baja California.  Common in redwood and Douglas-fir forests, less so elsewhere.  A desirable ornamental,  susceptibility to various diseases and cultural requirements keeps it from being more widely used in horticulture. Fine cabinetry and furniture has been made from the wood of madrones. The left leaf shows the reverse side, stomata are clearly visibles.  The right leaf shows the obverse (front) side.  The plant that provided these leaves is located at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6b/9f/542.32713484470.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6b/9f/542.32713484470.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

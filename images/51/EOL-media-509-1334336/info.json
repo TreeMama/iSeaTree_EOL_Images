@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-1334336",
+  "dataObjectVersionID": 7795031,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:25:38.000Z",
+  "modified": "2018-10-24T13:17:47.000Z",
+  "title": "Mikmac-hockey-sticks.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Mikmac-hockey-sticks.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mikmac-hockey-sticks.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Photograph of <a href=\"https://en.wikipedia.org/wiki/Mi%27kmaq\" title=\"en:Mi'kmaq\">Mi'kmaq</a> making hockey sticks from <a href=\"https://en.wikipedia.org/wiki/American_Hornbeam\" title=\"en:American Hornbeam\">hornbeam trees (<i>Carpinus caroliniana</i>)</a> in <a href=\"https://en.wikipedia.org/wiki/Nova_Scotia\" title=\"en:Nova Scotia\">Nova Scotia</a>.    Date circa 1890   Source <a href=\"http://www.birthplaceofhockey.com/images/picorigin/mmsticks.jpg\">http://www.birthplaceofhockey.com/images/picorigin/mmsticks.jpg</a>   Author Unknown<a href=\"https://www.wikidata.org/wiki/Q4233718\" title=\"wikidata:Q4233718\"></a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public Domain   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/f0/dd/509.1334336.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/f0/dd/509.1334336.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "UnknownUnknown author",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "http://www.birthplaceofhockey.com/images/picorigin/mmsticks.jpg",
+      "homepage": "http://www.birthplaceofhockey.com/images/picorigin/mmsticks.jpg",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

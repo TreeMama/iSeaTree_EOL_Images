@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-3220678",
+  "dataObjectVersionID": 6918353,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:16:19.000Z",
+  "modified": "2018-10-24T12:40:54.000Z",
+  "title": "Hamamelis molis JPG1Fua.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Fua.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hamamelis_molis_JPG1Fua.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] {{Information |Description=   DescriptionAPI  Feuilles de l' <a href=\"https://commons.wikimedia.org/wiki/Hamamelis\" title=\"Hamamelis\">Hamamelis</a> molis    Date 23 October 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <a href=\"https://commons.wikimedia.org/wiki/File:Self_portrait_in_the_darkroom_JPG01.jpg\"></a> This illustration <i>was made by</i> <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> Please credit this : <i>Jean-Pol GRANDMONT</i> An email to <a href=\"https://commons.wikimedia.org/wiki/Special:EmailUser/Jean-Pol_GRANDMONT\" title=\"Special:EmailUser/Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> would be appreciated.         <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue          Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Aa.jpg\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Fub.jpg\"></a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/b7/1a/509.3220678.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/b7/1a/509.3220678.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

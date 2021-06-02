@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2925658324",
+  "dataObjectVersionID": 6631275,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:09:59.000Z",
+  "modified": "2018-10-20T02:28:13.000Z",
+  "title": "American-Hornbeam",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/2925658324/",
+  "mediaURL": "https://farm4.staticflickr.com/3290/2925658324_0b3317cc01_o.gif",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/2e/76/542.2925658324.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/2e/76/542.2925658324.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

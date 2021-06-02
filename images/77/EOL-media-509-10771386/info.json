@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10771386",
+  "dataObjectVersionID": 7710670,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 4272,
+  "width": 2848,
+  "created": "2018-04-05T11:10:22.000Z",
+  "modified": "2019-07-16T17:13:06.000Z",
+  "title": "Davidia involucrata fruit.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Zephyris",
+  "source": "https://commons.wikimedia.org/wiki/File:Davidia_involucrata_fruit.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/33/Davidia_involucrata_fruit.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: The fruit of a <i><a href=\"https://commons.wikimedia.org/wiki/Davidia_involucrata\" title=\"Davidia involucrata\">Davidia involucrata</a></i> following winter.    Date 21 February 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Zephyris\" title=\"User:Zephyris\">Zephyris</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  See below. For information about commercial use please contact me via my <a href=\"http://www.richardwheeler.net\">website</a>.    Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Davidia_involucrata_fruit2.jpg\" title=\"File:Davidia involucrata fruit2.jpg\">File:Davidia involucrata fruit2.jpg</a>      Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=051.751197_N_-001.247252_E_globe:Earth_type:camera_&amp;language=en\">51Â° 45â² 04.31â³ N, 1Â° 14â² 50.11â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/51.751197/-1.247252\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=051.751197&amp;lon=-001.247252\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=051.751197&amp;londegdec=-001.247252&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 51.751197; -1.247252  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/5b/18/509.10771386.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/5b/18/509.10771386.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Zephyris",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Zephyris",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

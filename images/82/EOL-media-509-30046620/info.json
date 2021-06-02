@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-30046620",
+  "dataObjectVersionID": 6954353,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:18:16.000Z",
+  "modified": "2019-03-27T02:34:11.000Z",
+  "title": "Fraxinus americana-bark.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Rob Duval",
+  "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_americana-bark.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fraxinus_americana-bark.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: The bark of a White Ash (Fraxinus americana) tree in Hollis, New Hampshire.    Date 7 December 2013, 13:04:42   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Rob_Duval\" title=\"User:Rob Duval\">Rob Duval</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/56/8b/509.30046620.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/56/8b/509.30046620.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Rob Duval",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Rob_Duval",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

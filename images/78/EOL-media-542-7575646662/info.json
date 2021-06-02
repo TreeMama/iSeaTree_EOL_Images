@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-7575646662",
+  "dataObjectVersionID": 6640111,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:21.000Z",
+  "modified": "2018-10-20T02:29:51.000Z",
+  "title": "IMG_1617 Rubber Tree",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Tim Sheerman-Chase",
+  "source": "https://www.flickr.com/photos/tim_uk/7575646662/",
+  "mediaURL": "https://farm8.staticflickr.com/7111/7575646662_95175cdcae_o.jpg",
+  "description": "Eucommia ulmoides",
+  "eolMediaURL": "https://content.eol.org/data/media/81/0b/af/542.7575646662.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/0b/af/542.7575646662.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/68932647@N00'>Tim Sheerman-Chase</a>",
+      "homepage": "http://www.flickr.com/photos/68932647@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

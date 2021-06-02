@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-614-300920",
+  "dataObjectVersionID": 9298235,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-10-02T17:02:18.000Z",
+  "modified": "2018-10-24T13:34:45.000Z",
+  "title": "\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.treknature.com/viewphotos.php?l=3&p=300920",
+  "mediaURL": "https://i1.treknature.com/photos/1990/dsc_5883.jpg",
+  "description": "Gingko biloba gets wonderful yellow foliage in autumn.",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/59/34/614.300920.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/59/34/614.300920.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.treknature.com/members/fragman/'>Ori Fragman-Sapir</a>",
+      "homepage": "http://www.treknature.com/members/fragman/",
+      "role": "creator"
+    },
+    {
+      "full_name": "Ori Fragman's TrekNature gallery",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

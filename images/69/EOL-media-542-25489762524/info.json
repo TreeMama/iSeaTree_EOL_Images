@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-25489762524",
+  "dataObjectVersionID": 6777600,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:35:17.000Z",
+  "modified": "2018-10-20T02:56:33.000Z",
+  "title": "Turkish Filbert Bark",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Steven Severinghaus",
+  "source": "https://www.flickr.com/photos/horsepunchkid/25489762524/",
+  "mediaURL": "https://farm2.staticflickr.com/1659/25489762524_9ef815c14a_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/fa/ec/542.25489762524.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/fa/ec/542.25489762524.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/17373191@N00'>Steven Severinghaus</a>",
+      "homepage": "http://www.flickr.com/photos/17373191@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-36546628511",
+  "dataObjectVersionID": 6768036,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:34:02.000Z",
+  "modified": "2018-10-20T02:54:52.000Z",
+  "title": "Davidia involucrata",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Stefano",
+  "source": "https://www.flickr.com/photos/81918877@N00/36546628511/",
+  "mediaURL": "https://farm5.staticflickr.com/4360/36546628511_543f9a9547_o.jpg",
+  "description": "Giardini Botanici di Villa Taranto - Verbania Pallanza",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/a3/55/542.36546628511.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/a3/55/542.36546628511.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/81918877@N00'>Stefano</a>",
+      "homepage": "http://www.flickr.com/photos/81918877@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

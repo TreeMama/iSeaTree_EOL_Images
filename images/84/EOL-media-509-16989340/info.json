@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-16989340",
+  "dataObjectVersionID": 7199259,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:55:27.000Z",
+  "modified": "2019-08-16T08:15:43.000Z",
+  "title": "Lamiales - Fraxinus latifolia leaves and Crocus sp..jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Emőke Dénes",
+  "source": "https://commons.wikimedia.org/wiki/File:Lamiales_-_Fraxinus_latifolia_leaves_and_Crocus_sp..jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Lamiales_-_Fraxinus_latifolia_leaves_and_Crocus_sp..jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Fallen Oregon ash <i>(Fraxinus latifolia)</i> leaves and Crocus vernus in Kew Gardens, England. Magyar: Lehullott Oregoni kÅris <i>(Fraxinus latifolia)</i> levelek Ã©s kerti sÃ¡frÃ¡nyok <i>(Crocus vernus)</i> az angliai Kewban.    Date 3 October 2011   Source kindly granted by the author   Author EmÅke DÃ©nes   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)     <i>This file was created by EmÅke DÃ©nes and uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:DenesFeri\" title=\"User:DenesFeri\">DenesFeri</a>.</i>   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.        https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 truetrue        This work is <a href=\"http://freedomdefined.org/Definition\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page. Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been reviewed by an <a href=\"https://commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"https://commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers as <a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017083110036563\">ticket #2017083110036563</a>. If you have questions about the archived correspondence, please use the <a href=\"https://commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.<br> Ticket link: <a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017083110036563\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017083110036563</a>         ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/a0/25/509.16989340.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/a0/25/509.16989340.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Emőke Dénes",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "kindly granted by the author",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

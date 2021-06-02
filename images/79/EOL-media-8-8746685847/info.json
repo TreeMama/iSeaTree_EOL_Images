@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-8746685847",
+  "dataObjectVersionID": 17553,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:38:00.000Z",
+  "title": "n286_w1150",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm9.staticflickr.com/8416/8746685847_f440e6c821_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/8746685847/",
+  "description": "Wayside and woodland blossoms :.London ;F. Warne,1895..<a href=\"http://biodiversitylibrary.org/page/21000330\">biodiversitylibrary.org/page/21000330</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/44/91/8.8746685847.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/44/91/8.8746685847.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

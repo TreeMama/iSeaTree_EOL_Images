@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4633326861",
+  "dataObjectVersionID": 6842489,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:04.000Z",
+  "modified": "2018-10-20T03:16:31.000Z",
+  "title": "Red Pine",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Peter Gorman",
+  "source": "https://www.flickr.com/photos/52421717@N00/4633326861/",
+  "mediaURL": "https://farm5.staticflickr.com/4034/4633326861_2c06bf9df3_o.jpg",
+  "description": "Red Pine (<i>Pinus resinosa</i>), Adams County, Wisconsin",
+  "eolMediaURL": "https://content.eol.org/data/media/80/06/61/542.4633326861.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/06/61/542.4633326861.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/52421717@N00'>Peter Gorman</a>",
+      "homepage": "http://www.flickr.com/photos/52421717@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

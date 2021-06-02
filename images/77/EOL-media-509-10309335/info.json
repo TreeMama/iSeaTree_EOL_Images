@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10309335",
+  "dataObjectVersionID": 7710669,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3264,
+  "width": 2448,
+  "created": "2018-04-05T11:10:22.000Z",
+  "modified": "2019-07-16T17:11:22.000Z",
+  "title": "Davidia involucrata1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "KENPEI",
+  "source": "https://commons.wikimedia.org/wiki/File:Davidia_involucrata1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Davidia_involucrata1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Davidia_involucrata\" title=\"Davidia involucrata\">Davidia involucrata</a></i> æ¥æ¬èª: ãã³ã«ããã­ Place:Osaka,Japan    Date 8 May 2010   Source Own work   Author KENPEI   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  GFDL,Creative Commons Attribution ShareAlike 2.1 Japan License   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3b/08/509.10309335.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3b/08/509.10309335.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "KENPEI",
+      "homepage": "https://commons.wikimedia.org/wiki/User:KENPEI",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

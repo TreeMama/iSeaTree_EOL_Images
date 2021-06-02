@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-11576735",
+  "dataObjectVersionID": 7892448,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 4000,
+  "width": 3000,
+  "created": "2018-04-05T11:41:59.000Z",
+  "modified": "2019-03-24T00:15:49.000Z",
+  "title": "Larix occidentalis shoot tip.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Peter Stevens",
+  "source": "https://commons.wikimedia.org/wiki/File:Larix_occidentalis_shoot_tip.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Larix_occidentalis_shoot_tip.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Larix_occidentalis\" title=\"Larix occidentalis\">Larix occidentalis</a></i> shoot tip. Maple Pass, Washington, USA.    Date 14 September 2010, 11:41   Source <a href=\"http://www.flickr.com/photos/nordique/4992003639/\">Larch tip</a>   Author <a href=\"http://www.flickr.com/photos/28435100@N00\">Peter Stevens</a> from Seattle  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/8e/a4/509.11576735.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/8e/a4/509.11576735.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Peter Stevens",
+      "homepage": "http://www.flickr.com/photos/28435100@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID nordique",
+      "homepage": "http://www.flickr.com/photos/nordique/4832628043/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

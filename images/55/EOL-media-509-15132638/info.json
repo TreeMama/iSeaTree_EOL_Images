@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-15132638",
+  "dataObjectVersionID": 7856497,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:31:25.000Z",
+  "modified": "2019-04-15T03:49:25.000Z",
+  "title": "Cercidiphyllum japonicum Oliwa 2.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Cercidiphyllum_japonicum_Oliwa_2.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cercidiphyllum_japonicum_Oliwa_2.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Japanese Judas-tree (<i><a href=\"https://commons.wikimedia.org/wiki/Cercidiphyllum_japonicum\" title=\"Cercidiphyllum japonicum\">Cercidiphyllum japonicum</a></i>) in <a href=\"https://commons.wikimedia.org/wiki/Category:Adam_Mickiewicz_Park_in_Gda%C5%84sk-Oliwa\" title=\"Category:Adam Mickiewicz Park in GdaÅsk-Oliwa\">Adam Mickiewicz Park in GdaÅsk-Oliwa</a>, Poland. Polski: Grujecznik japoÅski (<i><a href=\"https://commons.wikimedia.org/wiki/Cercidiphyllum_japonicum\" title=\"Cercidiphyllum japonicum\">Cercidiphyllum japonicum</a></i>) w <a href=\"https://commons.wikimedia.org/wiki/Category:Adam_Mickiewicz_Park_in_Gda%C5%84sk-Oliwa\" title=\"Category:Adam Mickiewicz Park in GdaÅsk-Oliwa\">Parku Oliwskim im. Adama Mickiewicza</a> w <a href=\"https://commons.wikimedia.org/wiki/Gda%C5%84sk\" title=\"GdaÅsk\">GdaÅsku-Oliwie</a>, w Polsce.    Date 20 August 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>   Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Cercidiphyllum_japonicum_Oliwa.JPG\"></a>      Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=054.411555_N_0018.559887_E_globe:Earth_type:camera_region:Pl_heading:NE&amp;language=en\">54Â° 24â² 41.6â³ N, 18Â° 33â² 35.59â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/54.411555/18.559887\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=054.411555&amp;lon=0018.559887\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=054.411555&amp;londegdec=0018.559887&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 54.411555; 18.559887  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/37/63/509.15132638.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/37/63/509.15132638.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "YaCBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:YaCBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

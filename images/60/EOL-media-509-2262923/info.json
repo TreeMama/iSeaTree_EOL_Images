@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2262923",
+  "dataObjectVersionID": 8005923,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-18T22:12:55.000Z",
+  "title": "Chamaecyparis pisifera golden charm sawara cypress MN 2007.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "SEWilco",
+  "source": "https://commons.wikimedia.org/wiki/File:Chamaecyparis_pisifera_golden_charm_sawara_cypress_MN_2007.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Chamaecyparis_pisifera_golden_charm_sawara_cypress_MN_2007.JPG",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i> 'Golden Charm' Sawarea Cypress at Minnesota Landscape Arboretum    Date 17 June 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:SEWilco\" title=\"User:SEWilco\">SEWilco</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=044.861056_N_-093.616028_E_globe:Earth_type:camera_&amp;language=en\">44Â° 51â² 39.8â³ N, 93Â° 36â² 57.7â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/44.861056/-93.616028\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=044.861056&amp;lon=-093.616028\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=044.861056&amp;londegdec=-093.616028&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 44.861056; -93.616028  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/cc/7a/509.2262923.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/cc/7a/509.2262923.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "SEWilco",
+      "homepage": "https://commons.wikimedia.org/wiki/User:SEWilco",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

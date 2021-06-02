@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-29044577",
+  "dataObjectVersionID": 6918350,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:16:19.000Z",
+  "modified": "2018-10-24T12:40:54.000Z",
+  "title": "Hamamelis mollis kz1.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Hamamelis_mollis_kz1.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hamamelis_mollis_kz1.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Polski: Owoce oczara Hamamelis mollis. Arboretum w Glinnej koÅo Szczecina English: Fruit of Hamamelis mollis. Arboretum in Glinna near Szczecin, Poland    Date 16 October 2013, 10:34:08   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/2b/ef/509.29044577.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/2b/ef/509.29044577.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

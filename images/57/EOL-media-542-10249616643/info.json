@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-542-10249616643",
+  "dataObjectVersionID": 6656690,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2000,
+  "width": 1333,
+  "created": "2018-05-23T13:14:29.000Z",
+  "modified": "2018-10-20T02:32:52.000Z",
+  "title": "Cercis siliquastrum OS9407-C01",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sarah Gregg",
+  "source": "https://www.flickr.com/photos/wild-eyes/10249616643/",
+  "mediaURL": "https://farm6.staticflickr.com/5322/10249616643_bfb4af0d77_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/36/88/542.10249616643.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/36/88/542.10249616643.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/100815078@N03'>Sarah Gregg</a>",
+      "homepage": "http://www.flickr.com/photos/100815078@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

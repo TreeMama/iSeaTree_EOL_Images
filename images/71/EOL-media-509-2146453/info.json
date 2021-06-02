@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-2146453",
+  "dataObjectVersionID": 7844558,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:30:18.000Z",
+  "modified": "2018-10-24T13:19:49.000Z",
+  "title": "Cotinus-obovatus-habit.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Cotinus-obovatus-habit.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cotinus-obovatus-habit.JPG",
+  "description": "DescriptionAPI  Cotinus obovatus: Habit    Date 22 May 2007   Source Own photo, taken at Ãrhus Botanical Garden, Jutland.   Author <a href=\"https://commons.wikimedia.org/wiki/User:Sten\" title=\"User:Sten\">Sten Porse</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)     <a href=\"https://commons.wikimedia.org/wiki/User:Sten\" title=\"User:Sten\">Sten</a>, the copyright holder of this work, hereby publishes it under the following licenses:   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a href=\"http://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.    Attribution: <a href=\"https://commons.wikimedia.org/wiki/User:Sten\" title=\"User:Sten\">Sten</a>    https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue       Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue   <i>You may select the license of your choice.</i>      ",
+  "eolMediaURL": "https://content.eol.org/data/media/5c/98/b1/509.2146453.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5c/98/b1/509.2146453.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

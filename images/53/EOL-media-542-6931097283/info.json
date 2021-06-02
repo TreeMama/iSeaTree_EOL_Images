@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6931097283",
+  "dataObjectVersionID": 6642391,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:41.000Z",
+  "modified": "2018-10-20T02:30:17.000Z",
+  "title": "Cedrus atlantica (Endl.) Carrire / cedro del Atlas.",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Jos Mara Escolano",
+  "source": "https://www.flickr.com/photos/valdelobos/6931097283/",
+  "mediaURL": "https://farm8.staticflickr.com/7190/6931097283_cd2e26259f_o.jpg",
+  "description": "Tarazona: Aragn (Espaa)Cultivado.Familia: PINACEAEEndmico del norte de frica, en Marruecos, vive en el Rif y Medio y Alto Atlas.Sobre todo tipo de suelos. Con precipitaciones superiores a los 500 mm anuales. Tolera bien la sequa y las heladas.De 1000 a 2600 m",
+  "eolMediaURL": "https://content.eol.org/data/media/80/df/1e/542.6931097283.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/df/1e/542.6931097283.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42786943@N07'>Jos Mara Escolano</a>",
+      "homepage": "http://www.flickr.com/photos/42786943@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

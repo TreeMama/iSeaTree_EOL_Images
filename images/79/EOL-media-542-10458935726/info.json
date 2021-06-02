@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-542-10458935726",
+  "dataObjectVersionID": 6748875,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2000,
+  "width": 1333,
+  "created": "2018-05-23T13:30:39.000Z",
+  "modified": "2018-10-20T02:51:27.000Z",
+  "title": "Fagus sylvatica MJF807-C029",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sarah Gregg",
+  "source": "https://www.flickr.com/photos/wild-eyes/10458935726/",
+  "mediaURL": "https://farm8.staticflickr.com/7418/10458935726_a24b5b3e8c_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/3a/75/542.10458935726.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/3a/75/542.10458935726.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/100815078@N03'>Sarah Gregg</a>",
+      "homepage": "http://www.flickr.com/photos/100815078@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

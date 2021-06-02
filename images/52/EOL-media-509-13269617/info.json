@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-13269617",
+  "dataObjectVersionID": 7262166,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:48.000Z",
+  "modified": "2018-10-24T12:55:23.000Z",
+  "title": "Carpinus-japonica-fruits.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Carpinus-japonica-fruits.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Carpinus-japonica-fruits.JPG",
+  "description": "DescriptionAPI  Dansk: <a href=\"https://da.wikipedia.org/wiki/Japansk_Avnb%C3%B8g\" title=\"da:Japansk AvnbÃ¸g\">Japansk AvnbÃ¸g</a> (<i>Carpinus japonica</i>): Frugter English: <i><a href=\"https://commons.wikimedia.org/wiki/Carpinus_japonica\" title=\"Carpinus japonica\">Carpinus japonica</a></i>: Fruits    Date 31 August 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Sten\" title=\"User:Sten\">Sten Porse</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=056.162758_N_0010.189133_E_globe:Earth_type:camera_region:DK&amp;language=en\">56Â° 09â² 45.93â³ N, 10Â° 11â² 20.88â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/56.162758/10.189133\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=056.162758&amp;lon=0010.189133\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=056.162758&amp;londegdec=0010.189133&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 56.162758; 10.189133  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/ee/50/509.13269617.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/ee/50/509.13269617.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

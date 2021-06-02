@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-4052167",
+  "dataObjectVersionID": 7885071,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:41:29.000Z",
+  "modified": "2019-05-18T12:03:33.000Z",
+  "title": "Halesia monticola a1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jerzy Opioła",
+  "source": "https://commons.wikimedia.org/wiki/File:Halesia_monticola_a1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Halesia_monticola_a1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Halesia monticola    Date 5 May 2008   Source Own work   Author Jerzy OpioÅa  ",
+  "eolMediaURL": "https://content.eol.org/data/media/60/63/9c/509.4052167.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/60/63/9c/509.4052167.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jerzy Opioła",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

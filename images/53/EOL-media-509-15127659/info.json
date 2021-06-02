@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-15127659",
+  "dataObjectVersionID": 7924970,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:44:27.000Z",
+  "modified": "2019-05-24T18:46:55.000Z",
+  "title": "Pinars.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Yelles",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinars.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pinars.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : Couleurs de l'atlas blidÃ©en (AlgÃ©rie).    Date 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Yelles\" title=\"User:Yelles\">Yelles</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/36/82/509.15127659.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/36/82/509.15127659.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Yelles",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Yelles",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

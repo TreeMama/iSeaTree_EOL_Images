@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-19892891",
+  "dataObjectVersionID": 6954348,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:18:16.000Z",
+  "modified": "2019-03-27T02:36:27.000Z",
+  "title": "Fraxinus americana (Oleaceae).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Caromallo",
+  "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_americana_(Oleaceae).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fraxinus_americana_(Oleaceae).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: White Ash <i><a href=\"https://commons.wikimedia.org/wiki/Fraxinus_americana\" title=\"Fraxinus americana\">Fraxinus americana</a></i> (Oleaceae). Quebec, Canada. FranÃ§ais : FrÃªne blanc (FrÃªne d'AmÃ©rique) - Fraxinus americana (Oleaceae). QuÃ©bec, Canada.    Date 15 May 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Caromallo&amp;action=edit&amp;redlink=1\" title=\"User:Caromallo\">Caromallo</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/40/28/509.19892891.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/40/28/509.19892891.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Caromallo",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Caromallo&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

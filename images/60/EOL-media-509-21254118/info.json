@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-21254118",
+  "dataObjectVersionID": 8005922,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-03T21:50:46.000Z",
+  "title": "Nucifraga caryocatactes japonica.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Alpsdake",
+  "source": "https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_japonica.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nucifraga_caryocatactes_japonica.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  æ¥æ¬èª: å°¾ç¾½ãåºãã<a href=\"https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%B7%E3%82%AC%E3%83%A9%E3%82%B9\" title=\"ja:ãã·ã¬ã©ã¹\">ãã·ã¬ã©ã¹</a>ã<a href=\"https://ja.wikipedia.org/wiki/%E4%B8%89%E6%96%B9%E5%B2%A9%E5%B2%B3\" title=\"ja:ä¸æ¹å²©å²³\">ä¸æ¹å²©å²³</a>ã«ã¦ English: <i><a href=\"https://commons.wikimedia.org/wiki/Nucifraga_caryocatactes\" title=\"Nucifraga caryocatactes\">Nucifraga caryocatactes</a> japonica</i> (<a href=\"https://en.wikipedia.org/wiki/Spotted_Nutcracker\" title=\"en:Spotted Nutcracker\">Spotted Nutcracker</a>) perched on <i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i>; Mount Sanpoiwa, Japan.    Date 24 April 2012, 10:39:37   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Alpsdake\" title=\"User:Alpsdake\">Alpsdake</a>   Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_(Mount_Ontake).JPG\"></a> <a href=\"https://en.wikipedia.org/wiki/Mount_Ontake\" title=\"en:Mount Ontake\">Mount Ontake</a> <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_(back).JPG\"></a> Mount Ontake <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_japonica_in_flight.JPG\"></a> In flight; Mount Ontake <a href=\"https://commons.wikimedia.org/wiki/File:Pinus_pumila_cone_eaten_by_Nucifraga_caryocatactes.JPG\"></a> Cone of <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_pumila\" title=\"Pinus pumila\">Pinus pumila</a></i> eaten by <i>Nucifraga caryocatactes</i> ; Mount Ontake <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_in_Mount_Tsubakuro_2002-07-27.jpg\"></a> <a href=\"https://en.wikipedia.org/wiki/Mount_Tsubakuro\" title=\"en:Mount Tsubakuro\">Mount Tsubakuro</a> <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_japonica.JPG\"></a> Mount SanpÅiwa <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_(Mount_Cho).JPG\"></a> Mount ChÅ <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_(front).JPG\"></a> Mount ChÅ <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_(Mount_Norikura).JPG\"></a> <a href=\"https://en.wikipedia.org/wiki/Mount_Norikura\" title=\"en:Mount Norikura\">Mount Norikura</a> <a href=\"https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_japonica_(singing).JPG\"></a> On <i><a href=\"https://commons.wikimedia.org/wiki/Betula_ermanii\" title=\"Betula ermanii\">Betula ermanii</a> ; <a href=\"https://en.wikipedia.org/wiki/Mount_Haku\" title=\"en:Mount Haku\">Mount Haku</a></i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/8e/ea/509.21254118.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/8e/ea/509.21254118.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Alpsdake",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Alpsdake",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

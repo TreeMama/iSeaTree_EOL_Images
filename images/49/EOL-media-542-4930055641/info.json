@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4930055641",
+  "dataObjectVersionID": 6772899,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:34:43.000Z",
+  "modified": "2018-10-20T02:55:44.000Z",
+  "title": "Calocedrus decurrens.",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Jos Mara Escolano",
+  "source": "https://www.flickr.com/photos/valdelobos/4930055641/",
+  "mediaURL": "https://farm5.staticflickr.com/4100/4930055641_8e73236fa5_o.jpg",
+  "description": "Parque Grande: Zaragoza. Aragn (Espaa)Familia: CUPRESSACEAEDistribucin:  Oeste de los Estados Unidos. En las montaas de California,Oregn y Nevada.Indiferente al sustrato aun que le gustan los suelos humedos y bien drenados.Crece desde los 300 hasta los 2750 m.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/1c/ac/542.4930055641.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/1c/ac/542.4930055641.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42786943@N07'>Jos Mara Escolano</a>",
+      "homepage": "http://www.flickr.com/photos/42786943@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

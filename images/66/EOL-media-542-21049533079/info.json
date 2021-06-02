@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-21049533079",
+  "dataObjectVersionID": 6766448,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-24T12:38:39.000Z",
+  "title": "Kornelkirsche / Cornelian cherry",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Azchael",
+  "source": "https://www.flickr.com/photos/azchael/21049533079/",
+  "mediaURL": "https://farm1.staticflickr.com/744/21049533079_f655fe71b5_o.jpg",
+  "description": "Thanks to <a href=\"https://www.flickr.com/photos/11713966@N02/\">Plantaholic Sheila </a> this species has been identified as Cornus mas. Read more: <a href=\"https://en.wikipedia.org/wiki/Cornus_mas\">en.wikipedia.org/wiki/Cornus_mas</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/d8/76/542.21049533079.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/d8/76/542.21049533079.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/34003965@N00'>Azchael</a>",
+      "homepage": "http://www.flickr.com/photos/34003965@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

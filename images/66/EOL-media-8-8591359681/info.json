@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-8591359681",
+  "dataObjectVersionID": 16952,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:37:54.000Z",
+  "title": "n91_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm9.staticflickr.com/8107/8591359681_45eebc8ca3_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/8591359681/",
+  "description": "Addisonia :.New York :New York Botanical Garden,1916-[1964]..<a href=\"http://biodiversitylibrary.org/page/4505992\">biodiversitylibrary.org/page/4505992</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/42/38/8.8591359681.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/42/38/8.8591359681.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-29788704",
+  "dataObjectVersionID": 7933680,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2019-06-05T15:16:52.000Z",
+  "title": "Cornus alternifolia 1-jgreenlee (5097473495).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Superior National Forest",
+  "source": "https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_1-jgreenlee_(5097473495).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cornus_alternifolia_1-jgreenlee_(5097473495).jpg",
+  "description": "DescriptionAPI  Cornus alternifolia 1-jgreenlee    Date 3 July 2003, 10:10   Source <a href=\"http://www.flickr.com/photos/superiornationalforest/5097473495/\">Cornus alternifolia 1-jgreenlee</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:AlbertHerring\" title=\"User:AlbertHerring\">AlbertHerring</a>    Author <a href=\"http://www.flickr.com/people/53801642@N06\">Superior National Forest</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/48/b0/509.29788704.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/48/b0/509.29788704.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Superior National Forest",
+      "homepage": "http://www.flickr.com/people/53801642@N06",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID superiornationalforest",
+      "homepage": "http://www.flickr.com/photos/superiornationalforest/5062233907/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

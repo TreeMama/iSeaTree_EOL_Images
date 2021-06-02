@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-12198941",
+  "dataObjectVersionID": 8145806,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:13:27.000Z",
+  "modified": "2018-10-24T13:31:57.000Z",
+  "title": "Corylus cornuta seed.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Corylus_cornuta_seed.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Corylus_cornuta_seed.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Seeds of <a href=\"https://commons.wikimedia.org/wiki/Corylus_cornuta\" title=\"Corylus cornuta\">Corylus cornuta</a>    Date    Source <a href=\"http://plants.usda.gov/java/largeImage?imageID=coco6_003_ahp.tif\">[1]</a>   Author Steve Hurst @ USDA-NRCS PLANTS Database   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  \"This image is not copyrighted and may be freely used for any purpose. Please credit the artist, original publication if applicable, and the USDA-NRCS PLANTS Database.\" <a href=\"http://plants.usda.gov/java/largeImage?imageID=coco6_003_ahp.tif\">[2]</a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/ad/31/509.12198941.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/ad/31/509.12198941.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Steve Hurst @ USDA-NRCS PLANTS Database",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "[1]",
+      "homepage": "http://www.fs.fed.us/r10/tongass/districts/petersburg/brnbear.shtml",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

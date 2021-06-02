@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-607-http://bioimages.vanderbilt.edu/thomas/0049-08-05",
+  "dataObjectVersionID": 9277450,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-10-02T15:01:58.000Z",
+  "modified": "2018-10-20T13:50:19.000Z",
+  "title": "Cercis canadensis (Fabaceae) - inflorescence - frontal view of flower",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "license_id": 9,
+  "rightsHolder": "Ron Thomas",
+  "source": "http://bioimages.vanderbilt.edu/thomas/0049-08-05",
+  "mediaURL": "http://bioimages.vanderbilt.edu/gq/thomas/g0049-08-05.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/2d/3d/607.http___bioimages_vanderbilt_edu_thomas_0049-08-05.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/2d/3d/607.http___bioimages_vanderbilt_edu_thomas_0049-08-05.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Ron Thomas",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "Bioimages Vanderbilt DwCA",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

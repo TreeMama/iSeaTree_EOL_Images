@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-11998705",
+  "dataObjectVersionID": 7262165,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:48.000Z",
+  "modified": "2018-10-24T12:55:23.000Z",
+  "title": "Carpinus japonica.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Carpinus_japonica.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Carpinus_japonica.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Japanese Hornbeam, <i>Carpinus japonica</i>, Morton Arboretum acc. 184-2001*1.    Date 4 October 2010   Source own work <a href=\"http://www.cirrusimage.com/tree_Japanese_hornbeam.htm\">http://www.cirrusimage.com/tree_Japanese_hornbeam.htm</a>   Author <a href=\"https://commons.wikimedia.org/wiki/User:Bruce_Marlin\" title=\"User:Bruce Marlin\">Bruce Marlin</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=041.818234_N_-088.065618_E_globe:Earth_type:camera_&amp;language=en\">41Â° 49â² 05.64â³ N, 88Â° 03â² 56.22â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/41.818234/-88.065618\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=041.818234&amp;lon=-088.065618\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=041.818234&amp;londegdec=-088.065618&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 41.818234; -88.065618  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/a3/6b/509.11998705.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/a3/6b/509.11998705.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

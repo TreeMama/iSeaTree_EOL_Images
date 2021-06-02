@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5462143261",
+  "dataObjectVersionID": 6748886,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:39.000Z",
+  "modified": "2018-10-20T02:51:27.000Z",
+  "title": "Fagus sylvatica - in hoarfrost (4833' N 1350' E)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/5462143261/",
+  "mediaURL": "https://farm6.staticflickr.com/5171/5462143261_03e01e06a0_o.jpg",
+  "description": "2011-02-20 Upper Austria, district Rohrbach (mixed forest, 845 m AMSL).Leaves in winter: especially on younger beeches leaves tend to remain on the trees till mid-winter or even early spring.German name: Rot-Buche",
+  "eolMediaURL": "https://content.eol.org/data/media/80/4b/4a/542.5462143261.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/4b/4a/542.5462143261.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

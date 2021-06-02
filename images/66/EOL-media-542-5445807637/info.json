@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5445807637",
+  "dataObjectVersionID": 6766453,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas (4810' N 1630' E)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/5445807637/",
+  "mediaURL": "https://farm5.staticflickr.com/4150/5445807637_924d368fd2_o.jpg",
+  "description": "2011-02-12 Vienna XXII. district (on New Danube, left bank; 155 m AMSL).Only just opening its bud; it will begin flowering within a week or two, depending on whether weather stay warm or not.German name: Gelb-Hartriegel, Dirndlstrauch",
+  "eolMediaURL": "https://content.eol.org/data/media/80/4a/41/542.5445807637.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/4a/41/542.5445807637.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

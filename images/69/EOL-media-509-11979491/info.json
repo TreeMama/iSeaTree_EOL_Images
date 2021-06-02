@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-11979491",
+  "dataObjectVersionID": 7121754,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:37:41.000Z",
+  "modified": "2019-06-19T12:18:04.000Z",
+  "title": "Lann.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Les Meloures at lb.wikipedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Lann.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lann.jpg",
+  "description": "DescriptionAPI  LÃ«tzebuergesch: Jonk Lann mat der typescher Pyramideform am Wanterkleed.    Date 8 February 2008 (original upload date)   Source Own work<br> Transferred from <a href=\"http://lb.wikipedia.org\">lb.wikipedia</a>   Author <a href=\"https://lb.wikipedia.org/wiki/User:Les_Meloures\" title=\"lb:User:Les Meloures\">Les Meloures</a> at <a href=\"http://lb.wikipedia.org\">lb.wikipedia</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/a1/57/509.11979491.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/a1/57/509.11979491.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Les Meloures at lb.wikipedia",
+      "homepage": "https://lb.wikipedia.org/wiki/User:Les_Meloures",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own workTransferred from lb.wikipedia",
+      "homepage": "http://lb.wikipedia.org",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

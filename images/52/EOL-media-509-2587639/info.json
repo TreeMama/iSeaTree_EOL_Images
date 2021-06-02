@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-2587639",
+  "dataObjectVersionID": 7262167,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:48.000Z",
+  "modified": "2018-10-24T12:55:23.000Z",
+  "title": "Japanische Hainbuche.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Japanische_Hainbuche.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Japanische_Hainbuche.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Japanische Hainbuche <a href=\"https://commons.wikimedia.org/wiki/Carpinus_japonica\" title=\"Carpinus japonica\">Carpinus japonica</a>, Botanischer Garten Berlin    Date 19 August 2007   Source Own work   Author Uwe Thobae  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5d/97/94/509.2587639.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5d/97/94/509.2587639.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

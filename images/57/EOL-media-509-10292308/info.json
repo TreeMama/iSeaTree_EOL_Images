@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10292308",
+  "dataObjectVersionID": 7634804,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2048,
+  "width": 1536,
+  "created": "2018-04-05T10:54:33.000Z",
+  "modified": "2019-03-19T08:29:41.000Z",
+  "title": "Cercis siliquastrum flowers3.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Meneerke bloem",
+  "source": "https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_flowers3.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cercis_siliquastrum_flowers3.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Cercis siliquastrum</i> close-up flowers FranÃ§ais : Fleurs de l'arbre de JudÃ©e    Date 10 May 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Meneerke_bloem\" title=\"User:Meneerke bloem\">Meneerke bloem</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3a/11/509.10292308.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3a/11/509.10292308.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Meneerke bloem",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Meneerke_bloem",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

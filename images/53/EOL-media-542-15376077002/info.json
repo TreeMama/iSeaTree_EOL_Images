@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-15376077002",
+  "dataObjectVersionID": 6642382,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:40.000Z",
+  "modified": "2018-10-20T02:30:17.000Z",
+  "title": "N20140925-0095Cedrus atlanticaBerkeley",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/15376077002/",
+  "mediaURL": "https://farm4.staticflickr.com/3854/15376077002_2470929eb4_o.jpg",
+  "description": "Cedrus atlanticaAtlas cedar. Growing in a neighbor's yard in Berkeley, CA.  The mother of this neighbor told me about 25 years ago that she had planted this tree when her son was very young.  This would make the tree over 60 years old.  It towers above everything else on the block and is a favorite perch for hawks as they survey the area for their next meal.  A local flock of turkeys like it for a roost whenever they wander into the neighborhood.  ",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/9a/d6/542.15376077002.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/9a/d6/542.15376077002.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

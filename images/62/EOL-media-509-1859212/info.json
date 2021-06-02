@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-1859212",
+  "dataObjectVersionID": 7933673,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2018-10-24T13:23:21.000Z",
+  "title": "Cornus alternifolia BrittonBrown.png",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_BrittonBrown.png",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cornus_alternifolia_BrittonBrown.png",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Illustration of <i>Cornus alternifolia</i>    Date    Source <a href=\"http://plants.usda.gov/gallery/pubs/coal2_001_pvd.tif\">http://plants.usda.gov/gallery/pubs/coal2_001_pvd.tif</a>   Author USDA-NRCS PLANTS Database / Britton, N.L., and A. Brown. 1913. Illustrated flora of the northern states and Canada. Vol. 2: 663.   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  <a href=\"http://plants.usda.gov/java/usageGuidelines?imageID=coal2_001_avd.tif\">http://plants.usda.gov/java/usageGuidelines?imageID=coal2_001_avd.tif</a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/fd/89/509.1859212.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/fd/89/509.1859212.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "USDA-NRCS PLANTS Database / Britton, N.L., and A. Brown. 1913. Illustrated flora of the northern states and Canada. Vol. 2: 663.",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "http://plants.usda.gov/gallery/pubs/coal2_001_pvd.tif",
+      "homepage": "http://plants.usda.gov/gallery/pubs/coal2_001_pvd.tif",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

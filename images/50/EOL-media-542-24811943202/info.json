@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-24811943202",
+  "dataObjectVersionID": 6683947,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:19:23.000Z",
+  "modified": "2018-10-20T02:38:05.000Z",
+  "title": "European Hornbeam Bark",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Steven Severinghaus",
+  "source": "https://www.flickr.com/photos/horsepunchkid/24811943202/",
+  "mediaURL": "https://farm2.staticflickr.com/1445/24811943202_2397ef8cd0_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f4/a2/542.24811943202.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f4/a2/542.24811943202.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/17373191@N00'>Steven Severinghaus</a>",
+      "homepage": "http://www.flickr.com/photos/17373191@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

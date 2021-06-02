@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-12657578",
+  "dataObjectVersionID": 8145807,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:13:27.000Z",
+  "modified": "2019-06-07T07:51:41.000Z",
+  "title": "Beaked hazelnut (Whitefish Island).JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Fungus Guy",
+  "source": "https://commons.wikimedia.org/wiki/File:Beaked_hazelnut_(Whitefish_Island).JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Beaked_hazelnut_(Whitefish_Island).JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Beaked hazel nut (<i>Corylus cornuta</i>), Whitefish Island, Batchewana First Nation    Date    Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Fungus_Guy\" title=\"User:Fungus Guy\">Fungus Guy</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/cc/e6/509.12657578.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/cc/e6/509.12657578.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Fungus Guy",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Fungus_Guy",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

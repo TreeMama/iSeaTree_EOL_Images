@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-44536237",
+  "dataObjectVersionID": 7262170,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:48.000Z",
+  "modified": "2019-07-14T01:01:41.000Z",
+  "title": "Carpinus japonica (21203512259).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "peganum",
+  "source": "https://commons.wikimedia.org/wiki/File:Carpinus_japonica_(21203512259).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carpinus_japonica_(21203512259).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Carpinus japonica    Date 13 September 2015, 14:51   Source <a href=\"https://www.flickr.com/photos/peganum/21203512259/\">Carpinus japonica</a>   Author <a href=\"https://www.flickr.com/people/26698606@N03\">peganum</a> from Small Dole, England  ",
+  "eolMediaURL": "https://content.eol.org/data/media/61/82/1c/509.44536237.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/61/82/1c/509.44536237.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "peganum",
+      "homepage": "https://www.flickr.com/people/26698606@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID peganum",
+      "homepage": "https://www.flickr.com/photos/peganum/4036807599/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

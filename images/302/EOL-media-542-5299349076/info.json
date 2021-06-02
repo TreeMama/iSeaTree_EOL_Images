@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5299349076",
+  "dataObjectVersionID": 6666129,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:16:49.000Z",
+  "modified": "2018-10-20T02:34:41.000Z",
+  "title": "White oak (Quercus alba) on John A. Phillips Preserve Pleasant Valley Trail",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://www.flickr.com/photos/miguelvieira/5299349076/",
+  "mediaURL": "https://farm6.staticflickr.com/5203/5299349076_9bdf83d76e_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/3d/91/542.5299349076.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/3d/91/542.5299349076.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/11563230@N04'>Miguel Vieira</a>",
+      "homepage": "http://www.flickr.com/photos/11563230@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

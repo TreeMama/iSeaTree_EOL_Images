@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-21859066",
+  "dataObjectVersionID": 7638862,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:55:02.000Z",
+  "modified": "2018-10-24T13:11:20.000Z",
+  "title": "Crataegus phaenopyrum 3.jpeg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus_phaenopyrum_3.jpeg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Crataegus_phaenopyrum_3.jpeg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Cultivated tree, Toronto, Canada    Date 1 October 2012, 13:51:35   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Nadiatalent\" title=\"User:Nadiatalent\">Nadiatalent</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5c/a4/79/509.21859066.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5c/a4/79/509.21859066.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

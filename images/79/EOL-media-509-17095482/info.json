@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-17095482",
+  "dataObjectVersionID": 7052710,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:31:41.000Z",
+  "modified": "2018-10-24T12:46:22.000Z",
+  "title": "Fau de Saint Basle Verzy 23 10 2011 3.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Fau_de_Saint_Basle_Verzy_23_10_2011_3.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fau_de_Saint_Basle_Verzy_23_10_2011_3.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : Le \"Fau de Saint Basle\", hÃªtre tortillard (Fagus sylvatica 'Tortuosa')dans la ForÃªt Domaniale de Verzy. English: The \"Fau de Saint Basle\", a twisted beech (Fagus silvatica'Tortuosa') in the Forest of Verzy (51, France).    Date 23 October 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Vassil\" title=\"User:Vassil\">Vassil</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/a5/e5/509.17095482.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/a5/e5/509.17095482.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Vassil",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Vassil",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

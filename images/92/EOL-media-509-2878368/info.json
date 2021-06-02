@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-2878368",
+  "dataObjectVersionID": 7885067,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:41:29.000Z",
+  "modified": "2018-10-24T13:21:24.000Z",
+  "title": "Halesia monticola.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Halesia_monticola.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Halesia_monticola.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Halesia_monticola\" title=\"Halesia monticola\">Halesia monticola</a></i>. Real JardÃ­n BotÃ¡nico, Madrid.    Date April 2001   Source Own work   Author A. Barra  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/20/98/509.2878368.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/20/98/509.2878368.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

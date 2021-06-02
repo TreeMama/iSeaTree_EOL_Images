@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-29788629",
+  "dataObjectVersionID": 8118822,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:11:04.000Z",
+  "modified": "2019-04-17T13:34:48.000Z",
+  "title": "Crataegus douglasii 3-eheep (5098082150).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Superior National Forest",
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus_douglasii_3-eheep_(5098082150).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Crataegus_douglasii_3-eheep_(5098082150).jpg",
+  "description": "DescriptionAPI  Crataegus douglasii 3-eheep    Date 19 October 2010, 17:26   Source <a href=\"http://www.flickr.com/photos/superiornationalforest/5098082150/\">Crataegus douglasii 3-eheep</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:AlbertHerring\" title=\"User:AlbertHerring\">AlbertHerring</a>    Author <a href=\"http://www.flickr.com/people/53801642@N06\">Superior National Forest</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/48/7a/509.29788629.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/48/7a/509.29788629.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Superior National Forest",
+      "homepage": "http://www.flickr.com/people/53801642@N06",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID superiornationalforest",
+      "homepage": "http://www.flickr.com/photos/superiornationalforest/5062233907/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

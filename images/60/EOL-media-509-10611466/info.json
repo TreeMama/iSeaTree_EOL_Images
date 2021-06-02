@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10611466",
+  "dataObjectVersionID": 8005919,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3168,
+  "width": 4752,
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-18T22:11:39.000Z",
+  "title": "Chamaecyparis pisifera experimental forest.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Crusier",
+  "source": "https://commons.wikimedia.org/wiki/File:Chamaecyparis_pisifera_experimental_forest.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chamaecyparis_pisifera_experimental_forest.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i> experimental forest planted in 1948; <a href=\"https://commons.wikimedia.org/wiki/Rog%C3%B3w_Arboretum\" title=\"RogÃ³w Arboretum\">RogÃ³w Arboretum</a>, Poland Polski: Powierzchnia doÅwiadczalna cyprysika groszkowego (<i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i>) posadzona w roku 1948; <a href=\"https://commons.wikimedia.org/wiki/Arboretum_w_Rogowie\" title=\"Arboretum w Rogowie\">Arboretum w Rogowie</a>    Date 5 June 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=051.826680_N_0019.906616_E_globe:Earth_type:camera_region:PL&amp;language=en\">51Â° 49â² 36.05â³ N, 19Â° 54â² 23.82â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/51.82668/19.906616\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=051.826680&amp;lon=0019.906616\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=051.826680&amp;londegdec=0019.906616&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 51.826680; 19.906616  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/4f/9e/509.10611466.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/4f/9e/509.10611466.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Crusier",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Crusier",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-4172214",
+  "dataObjectVersionID": 7638865,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:55:02.000Z",
+  "modified": "2019-06-15T06:42:42.000Z",
+  "title": "Crataegus phaenopyrum HRM.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Cillas",
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus_phaenopyrum_HRM.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Crataegus_phaenopyrum_HRM.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Crataegus phaenopyrum</i>. <a href=\"https://commons.wikimedia.org/wiki/Real_Jard%C3%ADn_Bot%C3%A1nico_de_Madrid\" title=\"Real JardÃ­n BotÃ¡nico de Madrid\">Real JardÃ­n BotÃ¡nico de Madrid</a>.    Date    Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Cillas\" title=\"User:Cillas\">Cillas</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/60/b3/cc/509.4172214.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/60/b3/cc/509.4172214.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Cillas",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Cillas",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

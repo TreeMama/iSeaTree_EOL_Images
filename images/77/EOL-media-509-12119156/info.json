@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-12119156",
+  "dataObjectVersionID": 7710674,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:10:22.000Z",
+  "modified": "2018-10-24T13:14:10.000Z",
+  "title": "Davidia involucrata vilmoriniana 138-8432.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Davidia_involucrata_vilmoriniana_138-8432.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Davidia_involucrata_vilmoriniana_138-8432.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Davidia_involucrata\" title=\"Davidia involucrata\">Davidia involucrata</a></i> var. <i>vilmoriniana</i>, Cornaceae, Nyssoideae    Date 1912   Source Curtis's Botanical Magazine, London., vol. 138 [= ser. 4, vol. 8]: Tab. 8432 - <a href=\"http://www.botanicus.org/page/465707\">[1]</a>   Author <a href=\"https://en.wikipedia.org/wiki/Matilda_Smith\" title=\"en:Matilda Smith\">M.S.</a> del, <a href=\"https://en.wikipedia.org/wiki/John_Nugent_Fitch\" title=\"en:John Nugent Fitch\">J.N.Fitch</a>, lith.  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/a8/49/509.12119156.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/a8/49/509.12119156.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "M.S. del, J.N.Fitch, lith.",
+      "homepage": "https://en.wikipedia.org/wiki/Matilda_Smith",
+      "role": "creator"
+    },
+    {
+      "full_name": "Curtis's Botanical Magazine, London., vol. 138 [= ser. 4, vol. 8]: Tab. 8432 - [1]",
+      "homepage": "http://www.botanicus.org/page/465707",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

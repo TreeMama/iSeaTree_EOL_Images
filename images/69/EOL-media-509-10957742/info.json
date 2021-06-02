@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10957742",
+  "dataObjectVersionID": 7121749,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3648,
+  "width": 2736,
+  "created": "2018-04-05T09:37:41.000Z",
+  "modified": "2019-06-19T12:14:29.000Z",
+  "title": "Bizarres von einem Baum.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "4028mdk09",
+  "source": "https://commons.wikimedia.org/wiki/File:Bizarres_von_einem_Baum.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bizarres_von_einem_Baum.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Deutsch: Frucht einer TÃ¼rkischen Hasel <i><a href=\"https://commons.wikimedia.org/wiki/Corylus_colurna\" title=\"Corylus colurna\">Corylus colurna</a></i>, fotografiert in Heidelberg (Baden-WÃ¼rttemberg, Deutschland)    Date 19 July 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:4028mdk09\" title=\"User:4028mdk09\">4028mdk09</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/66/9c/509.10957742.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/66/9c/509.10957742.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "4028mdk09",
+      "homepage": "https://commons.wikimedia.org/wiki/User:4028mdk09",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

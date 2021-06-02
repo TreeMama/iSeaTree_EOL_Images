@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-3220593",
+  "dataObjectVersionID": 6918351,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:16:19.000Z",
+  "modified": "2018-10-24T12:40:54.000Z",
+  "title": "Hamamelis molis JPG1Aa.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Aa.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Hamamelis_molis_JPG1Aa.jpg",
+  "description": "DescriptionAPI  <a href=\"https://commons.wikimedia.org/wiki/Hamamelis\" title=\"Hamamelis\">Hamamelis</a> mollis    Date 23 October 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <a href=\"https://commons.wikimedia.org/wiki/File:Self_portrait_in_the_darkroom_JPG01.jpg\"></a> This illustration <i>was made by</i> <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> Please credit this : <i>Jean-Pol GRANDMONT</i> An email to <a href=\"https://commons.wikimedia.org/wiki/Special:EmailUser/Jean-Pol_GRANDMONT\" title=\"Special:EmailUser/Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> would be appreciated.         <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue          Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Fua.jpg\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Hamamelis_molis_JPG1Fub.jpg\"></a>       I, the copyright holder of this work, hereby publish it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by/3.0/deed.en\">Attribution 3.0 Unported</a> license.        You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). http://creativecommons.org/licenses/by/3.0 CC BY 3.0 Creative Commons Attribution 3.0 truetrue    <i>You may select the license of your choice.</i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/b7/14/509.3220593.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/b7/14/509.3220593.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

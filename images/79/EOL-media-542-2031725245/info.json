@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2031725245",
+  "dataObjectVersionID": 6748877,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:39.000Z",
+  "modified": "2018-10-20T02:51:27.000Z",
+  "title": "autumn colours3",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Antnio Pena",
+  "source": "https://www.flickr.com/photos/anpena/2031725245/",
+  "mediaURL": "https://farm3.staticflickr.com/2393/2031725245_a60e1b6255_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/d3/5e/542.2031725245.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/d3/5e/542.2031725245.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/8358282@N02'>Antnio Pena</a>",
+      "homepage": "http://www.flickr.com/photos/8358282@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

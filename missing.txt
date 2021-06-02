@@ -1,0 +1,122 @@
+31: Acer truncatum x A. platanoides
+32: Acer truncatum x A. platanoides ‘Keithsform’
+33: Aesculus x carnea ‘Briottii’
+37: Alnus sinuata (aka Alnus viridis)
+39: Amelanchier x grandiflora ‘Autumn Brilliance’ (Amelanchier canadensis x Amelanchier laevis)
+4: Acer buegerianum
+6: Acer campestre ‘Evelyn’
+8: Acer freemanii ‘Autumn Blaze’
+9: Acer ginnala ‘Flame’
+10: Acer grandidentatum ‘Schmidt’
+13: Acer miyabei ‘Morton’
+17: Acer platanoides ‘Columnar’
+18: Acer platanoides ‘Emerald Queen’
+19: Acer platanoides ‘Globosum’
+20: Acer platanoides ‘Norway’
+21: Acer pseudoplatanus ‘Atropupureum’
+23: Acer rubrum ‘Bowhall’
+24: Acer rubrum ‘Karpick’
+25: Acer rubrum ‘Scarsen’
+26: Acer saccharum ‘Bonfire’
+27: Acer saccharum ‘Commemoration’
+28: Acer saccharum ‘Green Mountain’
+29: Acer saccharum ‘Legacy’
+31: Acer truncatum x A. platanoides
+32: Acer truncatum x A. platanoides ‘Keithsform’
+33: Aesculus x carnea ‘Briottii’
+37: Alnus sinuata (aka Alnus viridis)
+39: Amelanchier x grandiflora ‘Autumn Brilliance’ (Amelanchier canadensis x Amelanchier laevis)
+40: Amelanchier x grandiflora ‘Princess Diana’ (Amelanchier arborea x Amelanchier laevis)
+41: Amelanchier laevis ‘Cumulus’
+43: Arbutus unedo ‘Marina’
+45: Betula albosinenesis var septentrionalis
+63: Cornus controversa ‘June Snow’
+64: Cornus ‘Eddie’s White Wonder’
+65: Cornus kousa ‘chinensis’
+67: Cornus nutallii
+73: Crataegus crus-galli ‘Inermis’
+74: Crataegus x lavalii
+80: Fagus sylvatica ‘Dawyck Purple’
+81: Fagus sylvatica ‘Rohanii’
+83: Fraxinus Americana ‘Autumn Applause’
+85: Fraxinus pennsylvanica ‘Cimmzam’
+86: Fraxinus pennsylvanica ‘Patmore’
+87: Fraxinus pennsylvanica ‘Urbanite’
+89: Gingko biloba ‘Autumn Gold’
+90: Gingko bibloba ‘Magyar’
+91: Gymnocladus diocicus ‘Espresso’
+93: Halesia tetraptera or Halesia carolina
+95: Koelreuteria paniculate
+96: Lagerstroemia indica ‘tuscarora’
+97: Larix x marschlinsii
+101: Liquidambar styraciflua ‘Rotundiloba’
+102: Liquidambar styraciflua ‘Moraine’
+103: Liriodendron tulipfera
+104: Liriodendron tulipifera ‘Fastigiatum’
+106: Magnolia x brooklynensis ‘Elizabeth’
+108: Magnolia ‘Galaxy’ (M. liliiflora ‘Nigra’ x M. sprengeri ‘Diva’)
+110: Magnolia grandiflora ‘Little Gem’
+111: Magnolia Kobus ‘Wada’s Memory’
+112: Magnolia x loebneri
+114: Malus ‘Adirondack’
+115: Malus ‘Donald Wyman’
+117: Malus ‘Lancelot’ (aka ‘Lanzam’)
+119: Malus ‘Red Barron’
+120: Malus transitoria ‘Schmidtcutleaf’
+121: Malus ‘Tschonoskii’
+123: Nothofagus antartica
+128: Phellodendron amurense ‘Macho’
+130: Pinus densiflora ‘Umbraculifera’
+136: Platanus x acerifolia
+137: Platanus x acerifolia ‘Bloodgood’
+138: Platanus x acerifolia ‘Yarwood’
+142: Prunus cerasifera ‘Frankthrees’
+143: Prunus cerasifera ‘Krauter Vesuvius’
+144: Prunus cerasifera ‘Newportii'
+145: Prunus cerasifera ‘Thundercloud’
+146: Prunus x hillieri ‘Spire’
+147: Prunus sargentii ‘Columnaris’
+148: Prunus serrulata ‘Amanogawa’
+149: Prunus serrulata ‘Snowgoose’
+150: Prunus x yedoensis
+154: Pyrus calleryana ‘Aristocrat’
+155: Pyrus calleryana ‘Cambridge’
+156: Pyrus calleryana ‘Glen’s Form’
+157: Pyrus calleryana ‘Redspire’
+167: Quercus robur x alba
+168: Quercus robur fastigiata
+172: Robinia x ambigua
+179: Sorbus alnifolia
+180: Sorbus americana ‘Dwarfcrown’
+182: Sorbus aucuparia ‘Mitchred’
+183: Sorbus x hybridia
+188: Taxodium distichum ‘Mickeslon’ Shawnee
+191: Tilia americana ‘Redmond’
+192: Tilia cordata ‘Greenspire’
+193: Tilia cordata ‘Chancole’
+194: Tilia cordata ‘De Groot’
+199: Ulmus ‘Frontier’
+200: Ulmus ‘Homestead’
+201: Ulmus parvifolia ‘Emer I’
+202: Ulmus parviflolia ‘Elmer II’
+204: Zelkova serrata ‘Green vase’
+205: Zelkova serrata ‘Village Green’
+209: Cedrus atlantica 'Glauca Pendula'
+210: Prunus subhirtella pendula
+212: Cupressus x leylandii
+213: Laburnum x watereri
+216: Cercidiphyllum japonicum 'Pendulum'
+218: Cotinus coggyrgia
+219: Fraxinus pennsylvanica 'Leprechaun'
+220: Crataegus laevigata 'Crimson Cloud'
+223: Acer x freemanii
+224: Pseudotsuga menziesii 'Pendula'
+225: Juniperus chinensis 'Torulosa'
+228: Pinus contorta var latifolia
+229: Pinus contorta var contorta
+251: Quercus/live agrifolia
+269: Koelreuteria paniculata 'Fastigiata'
+284: Adonidia merrilli
+293: Salix x sepulcralis
+297: Populus x canadensis 'Aurea'
+303: Populus x canadensis

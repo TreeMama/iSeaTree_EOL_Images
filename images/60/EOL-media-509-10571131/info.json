@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10571131",
+  "dataObjectVersionID": 8005918,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3168,
+  "width": 4752,
+  "created": "2018-04-05T12:01:40.000Z",
+  "modified": "2019-06-18T22:14:01.000Z",
+  "title": "Chamaecyparis pisifera Squarrosa bark.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Crusier",
+  "source": "https://commons.wikimedia.org/wiki/File:Chamaecyparis_pisifera_Squarrosa_bark.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chamaecyparis_pisifera_Squarrosa_bark.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: 58 years old <i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i> 'Squarrosa' bark; <a href=\"https://commons.wikimedia.org/wiki/Rog%C3%B3w_Arboretum\" title=\"RogÃ³w Arboretum\">RogÃ³w Arboretum</a>, Poland Polski: Kora 58 letniego (wyhodowany w 1952) cyprysika groszkowego 'Squarrosa' (<i><a href=\"https://commons.wikimedia.org/wiki/Chamaecyparis_pisifera\" title=\"Chamaecyparis pisifera\">Chamaecyparis pisifera</a></i> 'Squarrosa') w <a href=\"https://commons.wikimedia.org/wiki/Arboretum_w_Rogowie\" title=\"Arboretum w Rogowie\">Arboretum w Rogowie</a>    Date 5 June 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=051.822024_N_0019.904396_E_globe:Earth_type:camera_region:PL&amp;language=en\">51Â° 49â² 19.29â³ N, 19Â° 54â² 15.83â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/51.822024/19.904396\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=051.822024&amp;lon=0019.904396\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=051.822024&amp;londegdec=0019.904396&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 51.822024; 19.904396  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/4c/f0/509.10571131.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/4c/f0/509.10571131.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Crusier",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Crusier",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

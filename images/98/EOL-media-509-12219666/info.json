@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-12219666",
+  "dataObjectVersionID": 7892449,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:41:59.000Z",
+  "modified": "2018-10-24T13:21:42.000Z",
+  "title": "Larix occidentalis 135-8253.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Larix_occidentalis_135-8253.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/48/Larix_occidentalis_135-8253.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Larix_occidentalis\" title=\"Larix occidentalis\">Larix occidentalis</a></i>, Pinaceae    Date 1909   Source Curtis's Botanical Magazine, London., vol. 135 [= ser. 4, vol. 5]: Tab. 8253 - <a href=\"http://www.botanicus.org/page/469646\">[1]</a>   Author <a href=\"https://en.wikipedia.org/wiki/Matilda_Smith\" title=\"en:Matilda Smith\">M.S.</a> del., <a href=\"https://en.wikipedia.org/wiki/John_Nugent_Fitch\" title=\"en:John Nugent Fitch\">J.N.Fitch</a> lith.  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/ae/34/509.12219666.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/ae/34/509.12219666.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "M.S. del., J.N.Fitch lith.",
+      "homepage": "https://en.wikipedia.org/wiki/Matilda_Smith",
+      "role": "creator"
+    },
+    {
+      "full_name": "Curtis's Botanical Magazine, London., vol. 135 [= ser. 4, vol. 5]: Tab. 8253 - [1]",
+      "homepage": "http://www.botanicus.org/page/469646",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

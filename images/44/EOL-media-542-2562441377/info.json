@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2562441377",
+  "dataObjectVersionID": 6637639,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:02.000Z",
+  "modified": "2018-10-20T02:29:22.000Z",
+  "title": "Paw Paw stand",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "dogtooth77",
+  "source": "https://www.flickr.com/photos/53817483@N00/2562441377/",
+  "mediaURL": "https://farm4.staticflickr.com/3050/2562441377_d62fb0d93e_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/fc/0c/542.2562441377.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/fc/0c/542.2562441377.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/53817483@N00'>dogtooth77</a>",
+      "homepage": "http://www.flickr.com/photos/53817483@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

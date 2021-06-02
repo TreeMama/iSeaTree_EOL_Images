@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-542-10346587363",
+  "dataObjectVersionID": 6766447,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2000,
+  "width": 1333,
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas MJE309-D002",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Sarah Gregg",
+  "source": "https://www.flickr.com/photos/wild-eyes/10346587363/",
+  "mediaURL": "https://farm4.staticflickr.com/3711/10346587363_0c62b93d81_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/38/66/542.10346587363.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/38/66/542.10346587363.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/100815078@N03'>Sarah Gregg</a>",
+      "homepage": "http://www.flickr.com/photos/100815078@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-28222727",
+  "dataObjectVersionID": 7933679,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2019-06-05T15:17:51.000Z",
+  "title": "Cornus alternifolia 5473422.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Rob Routledge, Sault College, Bugwood.org",
+  "source": "https://commons.wikimedia.org/wiki/File:Cornus_alternifolia_5473422.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cornus_alternifolia_5473422.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Cornus alternifolia</i> (alternate-leaf dogwood) - Whitefish Island, Sault Ste. Marie, Ontario, Canada    Date 4 June 2012, 15:43:45   Source <a href=\"http://www.forestryimages.org/browse/detail.cfm?imgnum=5473422\">Forestry Images - Image Number: 5473422 - Cornus alternifolia (alternate-leaf dogwood)</a>   Author Rob Routledge, Sault College, Bugwood.org  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/0e/a7/509.28222727.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/0e/a7/509.28222727.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Rob Routledge, Sault College, Bugwood.org",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Forestry Images - Image Number: 5473422 - Cornus alternifolia (alternate-leaf dogwood)",
+      "homepage": "http://www.forestryimages.org/browse/detail.cfm?imgnum=5473422",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

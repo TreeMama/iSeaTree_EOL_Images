@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-907882097",
+  "dataObjectVersionID": 6730485,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:27:32.000Z",
+  "modified": "2018-10-20T02:47:52.000Z",
+  "title": "7e. Leaves of California hazelnut",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "kqedquest",
+  "source": "https://www.flickr.com/photos/kqedquest/907882097/",
+  "mediaURL": "https://farm2.staticflickr.com/1269/907882097_84299633eb_o.jpg",
+  "description": "The unassuming California hazelnut (Corylus cornuta var. californica) had a lot to offer the intrepid native forager. In addition to the well-known nuts, the durable wood fashioned well into digging tools, and the shoots provided useful weaving material for items like animal traps and baskets.",
+  "eolMediaURL": "https://content.eol.org/data/media/81/7e/c6/542.907882097.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/7e/c6/542.907882097.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/48372717@N00'>kqedquest</a>",
+      "homepage": "http://www.flickr.com/photos/48372717@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-3658681",
+  "dataObjectVersionID": 6918354,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:16:19.000Z",
+  "modified": "2019-05-26T15:59:45.000Z",
+  "title": "Hamamelis mollis 20080302 002.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Bunjii2",
+  "source": "https://commons.wikimedia.org/wiki/File:Hamamelis_mollis_20080302_002.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hamamelis_mollis_20080302_002.jpg",
+  "description": "DescriptionAPI  æ¥æ¬èª: ã·ããã³ãµã¯(<i><a href=\"https://commons.wikimedia.org/wiki/Hamamelis_mollis\" title=\"Hamamelis mollis\">Hamamelis mollis</a></i>)    Date 2 March 2008   Source æ¬äºº   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Bunjii2&amp;action=edit&amp;redlink=1\" title=\"User:Bunjii2\">Bunjii2</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)     I, the copyright holder of this work, hereby publish it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> Attribution-Share Alike <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">3.0 Unported</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">2.5 Generic</a>, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.en\">2.0 Generic</a> and <a href=\"http://creativecommons.org/licenses/by-sa/1.0/deed.en\">1.0 Generic</a> license.        https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue    <i>You may select the license of your choice.</i>      ",
+  "eolMediaURL": "https://content.eol.org/data/media/5f/7e/9f/509.3658681.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5f/7e/9f/509.3658681.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bunjii2",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Bunjii2&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "本人",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

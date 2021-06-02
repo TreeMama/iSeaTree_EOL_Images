@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-55972012",
+  "dataObjectVersionID": 7158323,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:51:33.000Z",
+  "modified": "2019-08-25T06:55:09.000Z",
+  "title": "Crataegus suksdorfii, tree in bloom.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Nadiatalent",
+  "source": "https://commons.wikimedia.org/wiki/File:Crataegus_suksdorfii,_tree_in_bloom.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Crataegus_suksdorfii,_tree_in_bloom.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Crataegus suksdorfii, a triploid form, Slocan Park BC, Canada.<br> Please respect <a href=\"https://commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions#Authors.27_moral_rights\" title=\"Commons:Non-copyright restrictions\">author's moral rights</a> by not changing this description or the image title.    Date 30 May 2008, 14:09:12   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Nadiatalent\" title=\"User:Nadiatalent\">Nadiatalent</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/64/e2/41/509.55972012.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/64/e2/41/509.55972012.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Nadiatalent",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Nadiatalent",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

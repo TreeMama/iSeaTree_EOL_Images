@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4417042108",
+  "dataObjectVersionID": 6756595,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:31:38.000Z",
+  "modified": "2018-10-20T02:52:47.000Z",
+  "title": "Betula pendula (Silver Birch / Ruwe berk) 0140",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Bas Kers (NL)",
+  "source": "https://www.flickr.com/photos/21933510@N07/4417042108/",
+  "mediaURL": "https://farm3.staticflickr.com/2728/4417042108_00f50c995f_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/f1/18/542.4417042108.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/f1/18/542.4417042108.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/21933510@N07'>Bas Kers (NL)</a>",
+      "homepage": "http://www.flickr.com/photos/21933510@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

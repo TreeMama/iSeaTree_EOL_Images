@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5614043286",
+  "dataObjectVersionID": 6766454,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas (+ Crataegus monogyna) (4805' N 1656' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/5614043286/",
+  "mediaURL": "https://farm6.staticflickr.com/5068/5614043286_67acaf64f1_o.jpg",
+  "description": "2011-04-02 Lower Austria, district Bruck-Leitha (Spitzerberg, 200-260 msm Quadrant 7967/2).German name: Gelb-Hartriegel = Dirndlstrauch (+ Eingriffel-Weissdorn)The flowers of Cornus mas dominate early spring in Eastern Austria: even from this distance it is clear from first sight that it could only be them. The other ones, the bushes only just showing their first green, are Crataegus monogyna, also very common in this habitat.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/55/83/542.5614043286.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/55/83/542.5614043286.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

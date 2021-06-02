@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-33594266",
+  "dataObjectVersionID": 7885069,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:41:29.000Z",
+  "modified": "2018-10-20T08:15:40.000Z",
+  "title": "File:LiebigstraÃe 3 96942951.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Liebigstra%C3%9Fe_3_96942951.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LiebigstraÃe_3_96942951.jpg",
+  "description": "The house at LiebigstraÃe 3, Dresden.",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/f6/70/509.33594266.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/f6/70/509.33594266.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

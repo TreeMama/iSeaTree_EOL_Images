@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-11165006003",
+  "dataObjectVersionID": 6634973,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:10:35.000Z",
+  "modified": "2018-10-20T02:28:54.000Z",
+  "title": "R20081013-36A--Chamaecyparis lawsoniana--RPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/11165006003/",
+  "mediaURL": "https://farm4.staticflickr.com/3687/11165006003_b5b3b2e533_o.jpg",
+  "description": "Chamaecyparis lawsonianaPort Orford cedar. Grows in the coastal mountains of Southern Oregon and Northern California. Its pyramidal shape has made it a desirable specimen tree for gardens and parks ever since it was introduced to horticulture by the Lawson family of Scotland in the 1850s.  It is widely planted in the United Kingdom and other nations of Europe where over 100 cultivars are known.  Japan is the source of many dwarf cultivars.  The Japanese prize this tree's fine-grained wood for maintenance of shrines and temples.  Unfortunately,  Phytophthora lateralis, a fungus-like pathogen introduced from nurseries,  threatens the native populations. Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/47/c6/542.11165006003.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/47/c6/542.11165006003.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

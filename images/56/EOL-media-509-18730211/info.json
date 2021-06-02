@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-18730211",
+  "dataObjectVersionID": 7495051,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:31:52.000Z",
+  "modified": "2019-05-28T14:10:02.000Z",
+  "title": "Cercis canadensis redbud tree bloom.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Dcrjsr",
+  "source": "https://commons.wikimedia.org/wiki/File:Cercis_canadensis_redbud_tree_bloom.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cercis_canadensis_redbud_tree_bloom.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: American redbud (Cercis canadensis), tree in flower. Duke Forest Korstian Division, Durham, North Caroina USA.    Date 16 March 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Dcrjsr\" title=\"User:Dcrjsr\">Dcrjsr</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/04/80/509.18730211.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/04/80/509.18730211.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dcrjsr",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Dcrjsr",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

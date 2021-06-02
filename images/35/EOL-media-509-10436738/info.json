@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-10436738",
+  "dataObjectVersionID": 7562481,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3092,
+  "width": 2319,
+  "created": "2018-04-05T10:48:12.000Z",
+  "modified": "2018-10-24T13:08:01.000Z",
+  "title": "Fresdorf Weinschmiede 2.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Fresdorf_Weinschmiede_2.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fresdorf_Weinschmiede_2.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Deutsch: DenkmalgeschÃ¼tzte, rund 200 Jahre alte ehemalige Schmiede unter einer <a href=\"https://de.wikipedia.org/wiki/Gew%C3%B6hnliche_Rosskastanie\" title=\"de:GewÃ¶hnliche Rosskastanie\">Rosskastanie</a> in <a href=\"https://de.wikipedia.org/wiki/Fresdorf\" title=\"de:Fresdorf\">Fresdorf</a>, seit 1993 als Lokal (âWeinschmiedeâ) genutzt. Fresdorf ist ein Ortsteil von <a href=\"https://de.wikipedia.org/wiki/Category:Michendorf\" title=\"de:Category:Michendorf\">Michendorf</a>, einer Gemeinde im <a href=\"https://commons.wikimedia.org/wiki/Brandenburg\" title=\"Brandenburg\">Brandenburger</a> <a href=\"https://de.wikipedia.org/wiki/Landkreis_Potsdam-Mittelmark\" title=\"de:Landkreis Potsdam-Mittelmark\">Landkreis Potsdam-Mittelmark</a>. English: Around 200 years old and listed former forge in <a href=\"https://commons.wikimedia.org/wiki/Category:Fresdorf\" title=\"Category:Fresdorf\">Fresdorf</a>, since 1993 used as wine bar (called âWeinschmiedeâ). Fresdorf is a part of <a href=\"https://de.wikipedia.org/wiki/Category:Michendorf\" title=\"de:Category:Michendorf\">Michendorf</a> in the district <a href=\"https://en.wikipedia.org/wiki/Potsdam-Mittelmark\" title=\"en:Potsdam-Mittelmark\">Potsdam-Mittelmark</a>, state <a href=\"https://commons.wikimedia.org/wiki/Brandenburg\" title=\"Brandenburg\">Brandenburg</a>, Germany.    Date 26 May 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Lienhard_Schulz\" title=\"User:Lienhard Schulz\">Lienhard Schulz</a>   Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Fresdorf_Weinschmiede.JPG\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Fresdorf_Weinschmiede.JPG\" title=\"Enlarge\"></a>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/43/75/509.10436738.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/43/75/509.10436738.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:YiFeiBot'>YiFeiBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:YiFeiBot",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:YiFeiBot'>YiFeiBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:YiFeiBot",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

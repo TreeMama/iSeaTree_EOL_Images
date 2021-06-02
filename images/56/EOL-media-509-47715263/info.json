@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-47715263",
+  "dataObjectVersionID": 7495113,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:31:52.000Z",
+  "modified": "2019-05-28T14:13:17.000Z",
+  "title": "Eastern redbud (25669865101).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Melissa McMasters",
+  "source": "https://commons.wikimedia.org/wiki/File:Eastern_redbud_(25669865101).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Eastern_redbud_(25669865101).jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Eastern redbud    Date 25 March 2012, 12:53   Source <a href=\"https://www.flickr.com/photos/cricketsblog/25669865101/\">Eastern redbud</a>   Author <a href=\"https://www.flickr.com/people/132545975@N04\">Melissa McMasters</a> from Memphis, TN, United States  ",
+  "eolMediaURL": "https://content.eol.org/data/media/63/02/10/509.47715263.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/63/02/10/509.47715263.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Melissa McMasters",
+      "homepage": "https://www.flickr.com/people/132545975@N04",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID cricketsblog",
+      "homepage": "https://www.flickr.com/photos/cricketsblog/25074610125/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-19038427",
+  "dataObjectVersionID": 7933675,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:45:14.000Z",
+  "modified": "2018-10-20T08:34:14.000Z",
+  "title": "File:T2 45 Cornus alternifolia par Pierre-Joseph RedoutÃ©.jpeg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:T2_45_Cornus_alternifolia_par_Pierre-Joseph_Redout%C3%A9.jpeg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/93/T2_45_Cornus_alternifolia_par_Pierre-Joseph_RedoutÃ©.jpeg",
+  "description": "Cornus afternifolia = Cornouiller Ã  feuilles alternes.",
+  "eolMediaURL": "https://content.eol.org/data/media/57/15/66/509.19038427.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/15/66/509.19038427.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://en.wikipedia.org/wiki/en:Pierre-Joseph_Redout%C3%A9'>Pierre-Joseph RedoutÃ©</a>",
+      "homepage": "https://en.wikipedia.org/wiki/en:Pierre-Joseph_Redout%C3%A9",
+      "role": "author"
+    },
+    {
+      "full_name": "<a href='https://en.wikipedia.org/wiki/en:Pierre-Joseph_Redout%C3%A9'>Pierre-Joseph RedoutÃ©</a>",
+      "homepage": "https://en.wikipedia.org/wiki/en:Pierre-Joseph_Redout%C3%A9",
+      "role": "author"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

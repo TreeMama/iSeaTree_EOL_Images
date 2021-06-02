@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-23291083",
+  "dataObjectVersionID": 7924975,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:44:27.000Z",
+  "modified": "2019-05-24T18:43:46.000Z",
+  "title": "La foret des cedres.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Mus52",
+  "source": "https://commons.wikimedia.org/wiki/File:La_foret_des_cedres.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_foret_des_cedres.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : La foret des cedres de Theniet el had Algerie    Date 1 October 2011, 15:58:43   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Mus52\" title=\"User:Mus52\">Mus52</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/00/75/509.23291083.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/00/75/509.23291083.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Mus52",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Mus52",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

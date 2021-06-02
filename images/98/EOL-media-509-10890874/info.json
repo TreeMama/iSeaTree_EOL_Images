@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10890874",
+  "dataObjectVersionID": 7892447,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1536,
+  "width": 2048,
+  "created": "2018-04-05T11:41:59.000Z",
+  "modified": "2019-03-24T00:15:26.000Z",
+  "title": "Larix occidentalis - Pinus ponderosa, Oregon.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Steven Isaacson",
+  "source": "https://commons.wikimedia.org/wiki/File:Larix_occidentalis_-_Pinus_ponderosa,_Oregon.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Larix_occidentalis_-_Pinus_ponderosa,_Oregon.jpg",
+  "description": "DescriptionAPI  Coniferous forest with <i><a href=\"https://commons.wikimedia.org/wiki/Larix_occidentalis\" title=\"Larix occidentalis\">Larix occidentalis</a></i> (left) and <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_ponderosa\" title=\"Pinus ponderosa\">Pinus ponderosa</a></i> (right). Larch, Oregon, USA.    Date 22 May 2006, 21:22   Source <a href=\"http://www.flickr.com/photos/spi/151685873/\">Through the trees</a>   Author <a href=\"http://www.flickr.com/photos/96983611@N00\">Steven Isaacson</a> from Somerville, MA, USA     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=044.679883_N_-118.211517_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">44Â° 40â² 47.58â³ N, 118Â° 12â² 41.46â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/44.679883/-118.211517\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=044.679883&amp;lon=-118.211517\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=044.679883&amp;londegdec=-118.211517&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 44.679883; -118.211517  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/63/d1/509.10890874.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/63/d1/509.10890874.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Steven Isaacson",
+      "homepage": "http://www.flickr.com/photos/96983611@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID spi",
+      "homepage": "http://www.flickr.com/photos/spi/151685873/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

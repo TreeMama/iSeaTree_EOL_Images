@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3795614773",
+  "dataObjectVersionID": 6766451,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:51.000Z",
+  "modified": "2018-10-20T02:54:33.000Z",
+  "title": "Cornus mas (4810' N 1632' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/3795614773/",
+  "mediaURL": "https://farm4.staticflickr.com/3588/3795614773_688dc6e7d4_o.jpg",
+  "description": "2009.08.06: Austria, Vienna XXII. district, 154 m AMSL, bush heath (Lobau Heisslnde): fruits.Flowering in (february) march/april.Common.German name: Dirndlstrauch, Gelb-Hartriegel",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/b4/d0/542.3795614773.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/b4/d0/542.3795614773.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}
