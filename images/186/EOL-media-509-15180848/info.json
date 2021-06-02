@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-15180848",
+  "dataObjectVersionID": 8083723,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:07:49.000Z",
+  "modified": "2018-10-24T13:29:21.000Z",
+  "title": "Styrax obassia - Villa Taranto (Verbania) - DSC03857.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Styrax_obassia_-_Villa_Taranto_(Verbania)_-_DSC03857.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Styrax_obassia_-_Villa_Taranto_(Verbania)_-_DSC03857.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Styrax obassia</i>. Botanical specimen on the grounds of the Villa Taranto (Verbania), Lake Maggiore, Italy.    Date 19 April 2011, 08:37:15   Source I took this photograph.   Author Daderot   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public domain.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/3a/7e/509.15180848.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/3a/7e/509.15180848.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Daderot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Daderot",
+      "role": "creator"
+    },
+    {
+      "full_name": "I took this photograph.",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

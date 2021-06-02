@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-36145371942",
+  "dataObjectVersionID": 6774207,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:34:57.000Z",
+  "modified": "2018-10-20T02:55:58.000Z",
+  "title": "Metasequoia glyptostroboides",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Stefano",
+  "source": "https://www.flickr.com/photos/81918877@N00/36145371942/",
+  "mediaURL": "https://farm5.staticflickr.com/4317/36145371942_25e45ef380_o.jpg",
+  "description": "Giardini Botanici di Villa Taranto - Verbania Pallanza",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/9d/12/542.36145371942.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/9d/12/542.36145371942.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/81918877@N00'>Stefano</a>",
+      "homepage": "http://www.flickr.com/photos/81918877@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

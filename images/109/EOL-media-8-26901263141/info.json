@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-26901263141",
+  "dataObjectVersionID": 5166,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:01.000Z",
+  "modified": "2018-10-19T15:36:10.000Z",
+  "title": "n191_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm8.staticflickr.com/7313/26901263141_b8635ac76d_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/26901263141/",
+  "description": "The natural history of Carolina, Florida and the Bahama Islands :.London :Printed at the expence of the author, and sold by W. Innys and R. Manby, at the West End of St. Paul's, by Mr. Hauksbee, at the Royal Society House, and by the author, at Mr. Bacon's in Hoxton,MDCCXXXI-MDCCXLIII [i.e. 1729-1747].<a href=\"http://biodiversitylibrary.org/page/40680281\">biodiversitylibrary.org/page/40680281</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/14/2e/8.26901263141.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/14/2e/8.26901263141.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

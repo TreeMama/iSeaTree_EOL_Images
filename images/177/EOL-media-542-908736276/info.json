@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-908736276",
+  "dataObjectVersionID": 6841013,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "title": "1c. Needles of Coast Redwood",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "kqedquest",
+  "source": "https://www.flickr.com/photos/kqedquest/908736276/",
+  "mediaURL": "https://farm2.staticflickr.com/1136/908736276_963368dad6_o.jpg",
+  "description": "The soft, flat needles found on Californias state tree, the coast redwood (Sequoia sempervirens).",
+  "eolMediaURL": "https://content.eol.org/data/media/81/7f/60/542.908736276.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/7f/60/542.908736276.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/48372717@N00'>kqedquest</a>",
+      "homepage": "http://www.flickr.com/photos/48372717@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-22100177",
+  "dataObjectVersionID": 7815050,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:27:20.000Z",
+  "modified": "2018-10-24T13:18:37.000Z",
+  "title": "Oxydendrum map.png",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Oxydendrum_map.png",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Oxydendrum_map.png",
+  "description": "DescriptionAPI  English: Range map of Oxydendrum    Date 1999   Source Digital representation of \"Atlas of United States Trees\" by Elbert L. Little, Jr. <a href=\"http://esp.cr.usgs.gov/data/atlas/little/\">[1]</a>   Author U.S. Geological Survey     <a href=\"https://commons.wikimedia.org/wiki/File:Gnome-edit-clear.svg\"></a> This image contains <a href=\"https://commons.wikimedia.org/wiki/Commons:Images_for_cleanup#Images_containing_regular_noise.2C_texture.2C_or_interference\" title=\"Commons:Images for cleanup\">regular noise, texture, or interference</a> which should be <a href=\"https://commons.wikimedia.org/wiki/Commons:Cleaning_up_interference_with_Fourier_analysis\" title=\"Commons:Cleaning up interference with Fourier analysis\">cleaned up using Fourier analysis</a> or some similar appropriate method. Beginning with a higher resolution image may help. <a href=\"http://commons.wikimedia.org/wiki/Template:CleanFFT/en\">English</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:CleanFFT/fr\">franÃ§ais</a> | <a href=\"http://commons.wikimedia.org/w/index.php?title=Template:CleanFFT/lang&amp;action=edit\">+/â</a>  <a href=\"https://commons.wikimedia.org/wiki/File:Halftoning_introduction.svg\"></a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/b1/48/509.22100177.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/b1/48/509.22100177.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Nonenmac'>Nonenmac</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Nonenmac",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Nonenmac'>Nonenmac</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Nonenmac",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

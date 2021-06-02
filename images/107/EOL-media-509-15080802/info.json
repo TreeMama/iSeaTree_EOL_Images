@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-15080802",
+  "dataObjectVersionID": 8052475,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:26:34.000Z",
+  "title": "CIMG0857.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "ARAHEU1623",
+  "source": "https://commons.wikimedia.org/wiki/File:CIMG0857.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/7d/CIMG0857.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  æ¥æ¬èª: ã¢ã¯ã¬ã³ãæ¾å°¾å±±ãååå¯º    Date 21 April 2011   Source ARAHEU1623   Author ARAHEU1623  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/33/e1/509.15080802.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/33/e1/509.15080802.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "ARAHEU1623",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "ARAHEU1623",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

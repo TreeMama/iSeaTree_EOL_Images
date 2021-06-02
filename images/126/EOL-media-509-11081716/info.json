@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-11081716",
+  "dataObjectVersionID": 7815048,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 425,
+  "width": 268,
+  "created": "2018-04-05T11:27:20.000Z",
+  "modified": "2018-10-24T13:18:37.000Z",
+  "title": "Oxydendrum arboreum.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Oxydendrum_arboreum.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Oxydendrum_arboreum.jpg",
+  "description": "DescriptionAPI  English: <a href=\"https://en.wikipedia.org/wiki/Sourwood\" title=\"en:Sourwood\">Sourwood</a>    Date    Source <a href=\"http://www.tva.gov/river/landandshore/stabilization/plants/sourwood.htm\">TVA photo</a>. Transferred from <a href=\"http://en.wikipedia.org\">en.wikipedia</a> to Commons by <a href=\"https://commons.wikimedia.org/wiki/User:Atmoz\" title=\"User:Atmoz\">Atmoz</a> using <a href=\"https://tools.wmflabs.org/commonshelper/\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.   Author  This file is lacking author information.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/6f/17/509.11081716.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/6f/17/509.11081716.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "TVA photo. Transferred from en.wikipedia to Commons by Atmoz using CommonsHelper.",
+      "homepage": "http://www.tva.gov/river/landandshore/stabilization/plants/sourwood.htm",
+      "role": "source"
+    },
+    {
+      "full_name": "TVA photo",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

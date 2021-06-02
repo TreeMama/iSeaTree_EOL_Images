@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-543-piar_012_ahp.tif",
+  "dataObjectVersionID": 9352155,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:31:10.000Z",
+  "modified": "2018-10-20T14:06:31.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "\"<a href=\"\"http://nt.ars-grin.gov/\"\">ARS Systematic Botany and Mycology Laboratory</a>. United States, CO.\"",
+  "source": "http://plants.usda.gov/java/largeImage?imageID=piar_012_ahp.tif",
+  "mediaURL": "http://plants.usda.gov/gallery/large/piar_012_lhp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/cb/9e/543.piar_012_ahp_tif.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/cb/9e/543.piar_012_ahp_tif.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Steve Hurst",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

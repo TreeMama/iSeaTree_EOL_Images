@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-4068290",
+  "dataObjectVersionID": 7525022,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:45:21.000Z",
+  "modified": "2018-10-24T13:06:27.000Z",
+  "title": "Malusfusca.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Malusfusca.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Malusfusca.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Category:Malus_fusca\" title=\"Category:Malus fusca\">Malus fusca</a></i> â Oregon crab apple, blossoming. At the <a href=\"https://commons.wikimedia.org/wiki/Category:Humboldt_Bay_National_Wildlife_Refuge\" title=\"Category:Humboldt Bay National Wildlife Refuge\">Humboldt Bay National Wildlife Refuge</a> Complex, Humboldt County, northern California.    Date    Source <a href=\"http://www.fws.gov/humboldtbay/plantguide/genus-m.html\">http://www.fws.gov/humboldtbay/plantguide/genus-m.html</a>   Author Gordon Leppig &amp; Andrea J. Pickart  ",
+  "eolMediaURL": "https://content.eol.org/data/media/60/6e/de/509.4068290.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/60/6e/de/509.4068290.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Gordon Leppig & Andrea J. Pickart",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "http://www.fws.gov/humboldtbay/plantguide/genus-m.html",
+      "homepage": "http://www.fws.gov/humboldtbay/plantguide/genus-m.html",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

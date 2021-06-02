@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-21217247",
+  "dataObjectVersionID": 7536895,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:18.000Z",
+  "modified": "2018-10-24T13:06:57.000Z",
+  "title": "Flickr - Nicholas T - Sacred Oak.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Nicholas_T_-_Sacred_Oak.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flickr_-_Nicholas_T_-_Sacred_Oak.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Oley Township, Berks County. The tree, reportedly 300 to 500-plus years old, is a chinkapin (or yellow) oak (<i>Quercus muehlenbergii</i>). Locals know it as the Sacred Oak. The tree is on private property; however, the owner allows public access.    Date 10 April 2011, 13:26   Source <a href=\"http://www.flickr.com/photos/nicholas_t/5608666444/\">Sacred Oak</a>   Author <a href=\"http://www.flickr.com/people/14922165@N00\">Nicholas A. Tonelli</a> from Pennsylvania, USA     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=040.375745_N_-075.809783_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">40Â° 22â² 32.68â³ N, 75Â° 48â² 35.22â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/40.375745/-75.809783\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=040.375745&amp;lon=-075.809783\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=040.375745&amp;londegdec=-075.809783&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 40.375745; -75.809783  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5c/8b/3a/509.21217247.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5c/8b/3a/509.21217247.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10611242",
+  "dataObjectVersionID": 8089537,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3168,
+  "width": 4752,
+  "created": "2018-04-05T12:08:20.000Z",
+  "modified": "2019-06-06T19:30:39.000Z",
+  "title": "Quercus coccinea bark.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Crusier",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_coccinea_bark.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Quercus_coccinea_bark.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_coccinea\" title=\"Quercus coccinea\">Quercus coccinea</a></i> bark in <a href=\"https://commons.wikimedia.org/wiki/Rog%C3%B3w_Arboretum\" title=\"RogÃ³w Arboretum\">RogÃ³w Arboretum</a>, Poland Polski: Kora dÄbu szkarÅatnego (<i><a href=\"https://commons.wikimedia.org/wiki/Quercus_coccinea\" title=\"Quercus coccinea\">Quercus coccinea</a></i> w <a href=\"https://commons.wikimedia.org/wiki/Arboretum_w_Rogowie\" title=\"Arboretum w Rogowie\">Arboretum w Rogowie</a>    Date 5 June 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/4f/96/509.10611242.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/4f/96/509.10611242.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Crusier",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Crusier",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

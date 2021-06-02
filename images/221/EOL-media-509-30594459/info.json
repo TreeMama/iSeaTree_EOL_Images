@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-30594459",
+  "dataObjectVersionID": 8129784,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:11:50.000Z",
+  "modified": "2019-05-26T05:26:33.000Z",
+  "title": "Pinus aristata, Pikes Peak, Colorado 1.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Simon Davison",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_aristata,_Pikes_Peak,_Colorado_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pinus_aristata,_Pikes_Peak,_Colorado_1.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_aristata\" title=\"Pinus aristata\">Pinus aristata</a></i>, Pikes Peak, Colorado    Date 2 July 2007, 13:02   Source <a href=\"http://www.flickr.com/photos/suzanneandsimon/733067979/\">IMG_6315</a>   Author <a href=\"http://www.flickr.com/people/99232341@N00\">Simon Davison</a> from Los Gatos, United States  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/6c/88/509.30594459.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/6c/88/509.30594459.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Simon Davison",
+      "homepage": "http://www.flickr.com/people/99232341@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID suzanneandsimon",
+      "homepage": "http://www.flickr.com/photos/suzanneandsimon/733067979/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

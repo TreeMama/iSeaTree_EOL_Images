@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-2343642",
+  "dataObjectVersionID": 8083727,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:07:49.000Z",
+  "modified": "2019-06-23T07:03:02.000Z",
+  "title": "Styrax obassia1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "KENPEI",
+  "source": "https://commons.wikimedia.org/wiki/File:Styrax_obassia1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Styrax_obassia1.jpg",
+  "description": "Scientific name Styrax obassia æ¥æ¬èª: ãã¯ã¦ã³ãã¯ Place:Osaka-fu Japan   DescriptionAPI  Styrax obassia    Date 30 June 2007   Source KENPEI's photo   Author KENPEI   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  GFDL,Creative Commons Attribution ShareAlike 2.1 Japan License    <br>    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">Attribution-Share Alike 2.1 Japan</a> license.         https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en CC BY-SA 2.1 jp Creative Commons Attribution-Share Alike 2.1 jp truetrue   ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/09/ad/509.2343642.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/09/ad/509.2343642.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "KENPEI",
+      "homepage": "https://commons.wikimedia.org/wiki/User:KENPEI",
+      "role": "creator"
+    },
+    {
+      "full_name": "KENPEI's photo",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

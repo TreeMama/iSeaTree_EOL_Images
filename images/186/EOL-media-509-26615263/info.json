@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-26615263",
+  "dataObjectVersionID": 8083732,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:07:49.000Z",
+  "modified": "2019-06-23T07:04:42.000Z",
+  "title": "Styrax obassia 11.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Qwert1234",
+  "source": "https://commons.wikimedia.org/wiki/File:Styrax_obassia_11.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Styrax_obassia_11.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Styrax obassia</i>, Aizu area, Fukushima pref., Japan æ¥æ¬èª: ãã¯ã¦ã³ãã¯ ç¦å³¶çä¼æ´¥å°æ¹    Date 9 June 2013   Source Qwert1234's file   Author Qwert1234  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/bb/c9/509.26615263.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/bb/c9/509.26615263.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Qwert1234",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Qwert1234's file",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3288544360",
+  "dataObjectVersionID": 6751509,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:31:00.000Z",
+  "modified": "2018-10-20T02:51:55.000Z",
+  "title": "Tupelo, Grasses, and Sedges at Linus Pond",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3288544360/",
+  "mediaURL": "https://farm4.staticflickr.com/3285/3288544360_645abde118_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6e/d7/542.3288544360.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6e/d7/542.3288544360.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

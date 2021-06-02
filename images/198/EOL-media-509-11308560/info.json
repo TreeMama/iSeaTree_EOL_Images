@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-11308560",
+  "dataObjectVersionID": 7903991,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1200,
+  "width": 1600,
+  "created": "2018-04-05T11:42:53.000Z",
+  "modified": "2019-06-05T09:27:34.000Z",
+  "title": "Tsuga mertensiana Desolation Wilderness.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://commons.wikimedia.org/wiki/File:Tsuga_mertensiana_Desolation_Wilderness.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tsuga_mertensiana_Desolation_Wilderness.jpg",
+  "description": "DescriptionAPI  California Mountain Hemlock <i><a href=\"https://commons.wikimedia.org/wiki/Tsuga_mertensiana\" title=\"Tsuga mertensiana\">Tsuga mertensiana</a></i> subsp. <i>grandicona</i> on Mount Tallac Trail, Desolation Wilderness, California.    Date 31 July 2010, 14:01   Source <a href=\"http://www.flickr.com/photos/miguelvieira/4887222672/\">Mountain hemlock (Tsuga mertensiana) Desolation Wilderness Mount Tallac Trail</a>   Author <a href=\"http://www.flickr.com/photos/11563230@N04\">Miguel Vieira</a> from Walnut Creek, CA, USA  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/7e/b8/509.11308560.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/7e/b8/509.11308560.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Miguel Vieira",
+      "homepage": "http://www.flickr.com/photos/miguelvieira/",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID miguelvieira",
+      "homepage": "https://www.flickr.com/photos/miguelvieira/15198593037/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

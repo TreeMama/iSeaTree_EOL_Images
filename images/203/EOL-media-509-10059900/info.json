@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10059900",
+  "dataObjectVersionID": 8119161,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1944,
+  "width": 2592,
+  "created": "2018-04-05T12:11:05.000Z",
+  "modified": "2019-07-29T18:58:00.000Z",
+  "title": "Zelkova serrata granollers.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Antoni Serra",
+  "source": "https://commons.wikimedia.org/wiki/File:Zelkova_serrata_granollers.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Zelkova_serrata_granollers.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  CatalÃ : Zelkova serrata al Parc Torras i VillÃ  de Granollers.    Date April 2010   Source Fotografia meva   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Antoni_Serra&amp;action=edit&amp;redlink=1\" title=\"User:Antoni Serra\">Antoni Serra</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  La foto Ã©s meva   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/2e/3b/509.10059900.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/2e/3b/509.10059900.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Antoni Serra",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Antoni_Serra&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Fotografia meva",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

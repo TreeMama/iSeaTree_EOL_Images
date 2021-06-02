@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5965338445",
+  "dataObjectVersionID": 6803379,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:39:16.000Z",
+  "modified": "2018-10-24T12:39:05.000Z",
+  "title": "Oxydendrum arboreum",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "BlueRidgeKitties",
+  "source": "https://www.flickr.com/photos/blueridgekitties/5965338445/",
+  "mediaURL": "https://farm7.staticflickr.com/6124/5965338445_1031e34740_o.jpg",
+  "description": "This spectacular specimen of a wild Sourwood tree is growing at the edge of a pasture near the Price Park Picnic Area on the Blue Ridge Parkway. I think this is easily the most impressive Sourwood tree I have come across yet on my Parkway trips, and it was covered in <a href=\"http://www.flickr.com/photos/blueridgekitties/5965340745/\">flowers</a>. They are blooming all over the area now, especially around Price Park. They are native to the eastern US, but particularly at home in the Southern Appalachians where their natural habitat is usually mixed oak forests. The leaves supposedly taste sour (hence the common name for the tree) and turn a brilliant deep red in fall, making this a very showy and popular ornamental tree in parks and gardens.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/6e/e4/542.5965338445.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/6e/e4/542.5965338445.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/41380738@N05'>BlueRidgeKitties</a>",
+      "homepage": "http://www.flickr.com/photos/41380738@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

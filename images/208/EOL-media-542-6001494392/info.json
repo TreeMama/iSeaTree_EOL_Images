@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6001494392",
+  "dataObjectVersionID": 6808476,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:40:41.000Z",
+  "modified": "2018-10-20T03:05:24.000Z",
+  "title": "Larix decidua",
+  "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+  "license_id": 17,
+  "rightsHolder": "Sciadopitys",
+  "source": "https://www.flickr.com/photos/40183553@N02/6001494392/",
+  "mediaURL": "https://farm7.staticflickr.com/6001/6001494392_a522264979_o.jpg",
+  "description": "European Larch <i>Larix decidua</i>, Aletschwald, Switzerland.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/74/9b/542.6001494392.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/74/9b/542.6001494392.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40183553@N02'>Sciadopitys</a>",
+      "homepage": "http://www.flickr.com/photos/40183553@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

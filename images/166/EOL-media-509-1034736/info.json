@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-1034736",
+  "dataObjectVersionID": 7298500,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 480,
+  "created": "2018-04-05T10:03:28.000Z",
+  "modified": "2018-10-24T12:57:00.000Z",
+  "title": "Ekollon.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Ekollon.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ekollon.jpg",
+  "description": "DescriptionAPI  Svenska: <a href=\"https://commons.wikimedia.org/wiki/Quercus_robur\" title=\"Quercus robur\">Quercus robur</a>, Ekollon    Date    Source Own work   Author        This image was produced by me, David Castor (<a href=\"https://commons.wikimedia.org/wiki/User:Dcastor\" title=\"User:Dcastor\">user:dcastor</a>). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A <a href=\"mailto:epost@pastorcastor.se\">message</a> to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in <a href=\"https://commons.wikimedia.org/wiki/Category:Images_by_David_Castor\" title=\"Category:Images by David Castor\">Category:Images by David Castor</a> or a subcategory thereof.)   <a href=\"https://commons.wikimedia.org/wiki/File:David_Castor_Wikimedia.jpg\"></a>         ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3d/28/509.1034736.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3d/28/509.1034736.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Dcastor",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

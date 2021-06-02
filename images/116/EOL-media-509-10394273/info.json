@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-10394273",
+  "dataObjectVersionID": 7525019,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:45:21.000Z",
+  "modified": "2018-10-24T13:06:27.000Z",
+  "title": "Malusfusca1.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Malusfusca1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Malusfusca1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Malus_fusca\" title=\"Malus fusca\">Malus fusca</a></i> at the UC Botanical Garden, Berkeley, California, USA. Identified by sign.    Date 20 May 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Stickpen\" title=\"User:Stickpen\">Stickpen</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  public domain   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/41/8c/509.10394273.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/41/8c/509.10394273.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

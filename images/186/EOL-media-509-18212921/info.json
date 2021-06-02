@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-18212921",
+  "dataObjectVersionID": 8083726,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:07:49.000Z",
+  "modified": "2018-10-24T13:29:21.000Z",
+  "title": "StyraxObassiaBark.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:StyraxObassiaBark.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/StyraxObassiaBark.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: A picture of the trunk of Styrax obassia.    Date 25 July 2009   Source Own work (Original text: <i>I (<a href=\"https://en.wikipedia.org/wiki/User:Chhe\" title=\"en:User:Chhe\">Chhe</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Chhe\" title=\"en:User talk:Chhe\">talk</a>)) created this work entirely by myself.</i>)   Author <a href=\"https://en.wikipedia.org/wiki/User:Chhe\" title=\"en:User:Chhe\">Chhe</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Chhe\" title=\"en:User talk:Chhe\">talk</a>)  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/e6/88/509.18212921.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/e6/88/509.18212921.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Chhe (talk)",
+      "homepage": "https://en.wikipedia.org/wiki/User:Chhe",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work (Original text: I (Chhe (talk)) created this work entirely by myself.)",
+      "homepage": "https://en.wikipedia.org/wiki/User:Chhe",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

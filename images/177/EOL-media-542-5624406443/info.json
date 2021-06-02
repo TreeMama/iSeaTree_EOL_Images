@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5624406443",
+  "dataObjectVersionID": 6841004,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "title": "big basin redwoods",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Brian Gratwicke",
+  "source": "https://www.flickr.com/photos/briangratwicke/5624406443/",
+  "mediaURL": "https://farm6.staticflickr.com/5225/5624406443_5a0d31f7a6_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/56/39/542.5624406443.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/56/39/542.5624406443.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/19731486@N07'>Brian Gratwicke</a>",
+      "homepage": "http://www.flickr.com/photos/19731486@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

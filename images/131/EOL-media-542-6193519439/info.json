@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6193519439",
+  "dataObjectVersionID": 6791980,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:53.000Z",
+  "modified": "2018-10-20T02:59:08.000Z",
+  "title": "WESTERN WHITE PINE",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Bryant Olsen",
+  "source": "https://www.flickr.com/photos/bryanto/6193519439/",
+  "mediaURL": "https://farm7.staticflickr.com/6165/6193519439_313dda94b8_o.jpg",
+  "description": "Pinus monticola",
+  "eolMediaURL": "https://content.eol.org/data/media/80/8b/94/542.6193519439.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/8b/94/542.6193519439.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/22837563@N08'>Bryant Olsen</a>",
+      "homepage": "http://www.flickr.com/photos/22837563@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

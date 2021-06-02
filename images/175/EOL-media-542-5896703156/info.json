@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5896703156",
+  "dataObjectVersionID": 6824878,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:47.000Z",
+  "modified": "2018-10-20T03:12:01.000Z",
+  "title": "Sciadopitys verticillata Tokushima",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "James",
+  "source": "https://www.flickr.com/photos/26942787@N03/5896703156/",
+  "mediaURL": "https://farm6.staticflickr.com/5195/5896703156_ccf8e5490b_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/68/e0/542.5896703156.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/68/e0/542.5896703156.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/26942787@N03'>James</a>",
+      "homepage": "http://www.flickr.com/photos/26942787@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-26053330",
+  "dataObjectVersionID": 8052479,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:27:35.000Z",
+  "title": "Flower, Yulan magnolia - Flickr - nekonomania.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Yoko Nekonomania",
+  "source": "https://commons.wikimedia.org/wiki/File:Flower,_Yulan_magnolia_-_Flickr_-_nekonomania.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flower,_Yulan_magnolia_-_Flickr_-_nekonomania.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Yulan magnolia. ç½æ¨è®ã    Date 14 March 2010, 15:31   Source <a href=\"http://www.flickr.com/photos/nekonomania/4733387000/\">Flower, Yulan magnolia</a>   Author <a href=\"http://www.flickr.com/people/50093642@N03\">Yoko Nekonomania</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/a1/02/509.26053330.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/a1/02/509.26053330.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Yoko Nekonomania",
+      "homepage": "http://www.flickr.com/people/50093642@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID nekonomania",
+      "homepage": "http://www.flickr.com/photos/nekonomania/4674045291/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

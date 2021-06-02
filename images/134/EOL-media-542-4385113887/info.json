@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4385113887",
+  "dataObjectVersionID": 6820443,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:13.000Z",
+  "modified": "2018-10-20T03:11:05.000Z",
+  "title": "Ponderosa pine bark in detail",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Agent Foster",
+  "source": "https://www.flickr.com/photos/agent-foster/4385113887/",
+  "mediaURL": "https://farm5.staticflickr.com/4045/4385113887_6fd5746d66_o.jpg",
+  "description": "Location: central Oregon, near Camp Sherman",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/ee/a7/542.4385113887.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/ee/a7/542.4385113887.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/8380705@N02'>Agent Foster</a>",
+      "homepage": "http://www.flickr.com/photos/8380705@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

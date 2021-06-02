@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6256363232",
+  "dataObjectVersionID": 6646724,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:01.000Z",
+  "modified": "2018-10-20T02:31:08.000Z",
+  "title": "WASATCH AUTUMN COLOR",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Bryant Olsen",
+  "source": "https://www.flickr.com/photos/bryanto/6256363232/",
+  "mediaURL": "https://farm7.staticflickr.com/6110/6256363232_1eb2cb95fa_o.jpg",
+  "description": "Trembling Aspen (Populus tremuloides) in their autumn glory",
+  "eolMediaURL": "https://content.eol.org/data/media/80/91/d9/542.6256363232.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/91/d9/542.6256363232.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/22837563@N08'>Bryant Olsen</a>",
+      "homepage": "http://www.flickr.com/photos/22837563@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

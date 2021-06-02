@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-2217992183",
+  "dataObjectVersionID": 6800214,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:54.000Z",
+  "modified": "2018-10-24T12:39:03.000Z",
+  "title": "Ehret magnolia",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Amgueddfa Cymru - National Museum Wales",
+  "source": "https://www.flickr.com/photos/museumwales/2217992183/",
+  "mediaURL": "https://farm3.staticflickr.com/2294/2217992183_32807ce5c1_o.jpg",
+  "description": "The mid-17th to mid-18th centuries saw the Golden Age of scientific illustration. In this age of curiosity, exploration, and experiment, the artist complimented the scientific process.Georg Dionysius Ehret (1708-1770) was one of the most talented artists of this era. This image shows a Magnolia from Ehret's <i>Plantae Selectae</i> of 1772. Magnolias were a favourite of Ehret and he was said to have taken a daily walk to watch the progress of <i>Magnolia grandiflora</i>. Hand-coloured engraving:50cm x 35cmFurther information can be seen on  <a href=\"http://www.museumwales.ac.uk/en/rhagor/galleries/botanical/\">Rhagor</a>,  the collections based website from Amgueddfa Cymru - National Museum Wales.<i>Rhwng canol yr ail ganrif ar bymtheg a chanol y deunawfed ganrif gwelwyd Oes Aur darluniau gwyddonol. Yn yr oes hon o gywreinrwydd, archwilio ac arbrofi, roedd yr artist yn ategu'r broses wyddonol. Georg Dionysius Ehret (1708-1770) oedd un o artistiaid mwyaf talentog y cyfnod hwn. Mae'r ddelwedd hon yn dangos </i>Magnolia<i> o </i>Plantae Selectae<i> Ehret ym 1772. Roedd Magnolias yn ffefryn i Ehret a dywedwyd ei fod yn mynd am dro yn ddyddiol i weld cynnydd y Magnolia grandiflora.</i><a href=\"http://photorater.org/\">Rate my photo</a>: <b><a href=\"http://photorater.org/?1\">1</a> <a href=\"http://photorater.org/?2\">2</a> <a href=\"http://photorater.org/?3\">3</a> <a href=\"http://photorater.org/?4\">4</a> <a href=\"http://photorater.org/?5\">5</a> <a href=\"http://photorater.org/?6\">6</a> <a href=\"http://photorater.org/?7\">7</a> <a href=\"http://photorater.org/?8\">8</a> <a href=\"http://photorater.org/?9\">9</a> <a href=\"http://photorater.org/?10\">10</a> </b>",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/df/f7/542.2217992183.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/df/f7/542.2217992183.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/23119147@N08'>Amgueddfa Cymru - National Museum Wales</a>",
+      "homepage": "http://www.flickr.com/photos/23119147@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5026818935",
+  "dataObjectVersionID": 6762581,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:33:20.000Z",
+  "modified": "2018-10-20T02:53:52.000Z",
+  "title": "Salix scouleriana",
+  "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+  "license_id": 17,
+  "rightsHolder": "Matt Lavin",
+  "source": "https://www.flickr.com/photos/plant_diversity/5026818935/",
+  "mediaURL": "https://farm5.staticflickr.com/4128/5026818935_76b6eb1605_o.jpg",
+  "description": "Although inhabiting dry sites, Salix scouleriana is never far from water or a seep.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/24/5b/542.5026818935.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/24/5b/542.5026818935.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/35478170@N08'>Matt Lavin</a>",
+      "homepage": "http://www.flickr.com/photos/35478170@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

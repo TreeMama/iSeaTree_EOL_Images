@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-24983976946",
+  "dataObjectVersionID": 6828927,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:17.000Z",
+  "modified": "2018-10-20T03:13:07.000Z",
+  "title": "Low elevation White fir",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Tony Frates",
+  "source": "https://www.flickr.com/photos/tonyfrates/24983976946/",
+  "mediaURL": "https://farm2.staticflickr.com/1670/24983976946_eb6e3fb111_o.jpg",
+  "description": "A young <i>Abies concolor</i> growing at about its lowest known elevation in northern Utah.The Flora of North America shows a lower limit of 1700 meters for this species.   And it is most commonly known from midmontane to montane elevations.  The <i>Utah Flora</i> series states a lower elevation range of 1525 m (5,000 ft.) for this species in Utah although that lower limit is also too high (and speaking of high, in Utah it is known from elevations as high as 3050 m, i.e. 10,000 ft.), There are records of this species occurring at much lower elevations in other states, principally in Oregon (in the 400 to 800 meter range).Growing here with <i>Cercocarpus ledifolius</i> (at far left), <i>Quercus gambelii</i>, and <i>Artemisia tridentata</i> (subsp. <i>wyomingensis</i> suspected).   The gravels and large rocks are mostly associated with the granite-like Little Cottonwood igneous intrusive stock.Popular as Christmas trees, White fir should be more popularly used for landscaping at appropriate elevations which would include upper foothill locations as this natural space demonstrates.March 21, 2008, Sandy, Utah, elev. 5015 ft. (1530 m).",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f6/53/542.24983976946.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f6/53/542.24983976946.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54551481@N08'>Tony Frates</a>",
+      "homepage": "http://www.flickr.com/photos/54551481@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

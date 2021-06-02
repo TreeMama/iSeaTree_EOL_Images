@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5074234772",
+  "dataObjectVersionID": 6751515,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:31:00.000Z",
+  "modified": "2018-10-24T12:38:28.000Z",
+  "title": "Fall color",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Anne McCormack",
+  "source": "https://www.flickr.com/photos/mccormacka/5074234772/",
+  "mediaURL": "https://farm5.staticflickr.com/4130/5074234772_64173fae64_o.jpg",
+  "description": "Black gum leaves (<i>Nyssa sylvatica</i>) are turning brilliant yellow. Love the bark! More about Black Gum at <a href=\"http://gardeningwithbinoculars.blogspot.com/2010/11/mystery-of-black-gums.html\">The Mystery of the Black Gums</a>!",
+  "eolMediaURL": "https://content.eol.org/data/media/80/28/24/542.5074234772.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/28/24/542.5074234772.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/35476119@N03'>Anne McCormack</a>",
+      "homepage": "http://www.flickr.com/photos/35476119@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6276606375",
+  "dataObjectVersionID": 6652727,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:54.000Z",
+  "modified": "2018-10-24T12:37:18.000Z",
+  "title": "Populus nigra (4809' N 1630' E)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/6276606375/",
+  "mediaURL": "https://farm7.staticflickr.com/6217/6276606375_119e3e5670_o.jpg",
+  "description": "2011-10-21 Lower Austria, district Schwechat (160 msm Quadrant 7865/1).Native to the habitat (and typical in habitus here) but possibly planted here, as the habitat is man-made:This is the \"new\" river bed of Schwechat river - the river once flew further west (crossing over to nearby Vienna); when A4 motorway was built the old river bed was cut off and so-called \"Kalter Gang\" (an old mill stream - side canal of old Schwechat river) was expanded to what is now lower Schwechat river bed. Of course, <i>Populus nigra</i> also could have conquered the new habitat without any help by humans.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/94/bc/542.6276606375.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/94/bc/542.6276606375.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

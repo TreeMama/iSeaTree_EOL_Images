@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-1526491",
+  "dataObjectVersionID": 7534166,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:11.000Z",
+  "modified": "2019-06-14T21:07:30.000Z",
+  "title": "Hickory nuts 6060.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "No machine-readable author provided. Abrahami assumed (based on copyright claims).",
+  "source": "https://commons.wikimedia.org/wiki/File:Hickory_nuts_6060.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hickory_nuts_6060.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Ripe <i><a href=\"https://commons.wikimedia.org/wiki/Carya_ovata\" title=\"Carya ovata\">Carya ovata</a></i> hickory nuts, ready to fall. Andrews, SC Image taken by me, released under GFDL, <a href=\"https://en.wikipedia.org/wiki/User:Pollinator\" title=\"en:User:Pollinator\">Pollinator</a> 05:07, 9 February 2006 (UTC)    Date 30 October 2005 (according to <a href=\"https://en.wikipedia.org/wiki/Exchangeable_image_file_format\" title=\"en:Exchangeable image file format\">Exif</a> data)   Source No machine-readable source provided. Own work assumed (based on copyright claims).   Author No machine-readable author provided. <a href=\"https://commons.wikimedia.org/wiki/User:Abrahami\" title=\"User:Abrahami\">Abrahami</a> assumed (based on copyright claims).  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/40/da/509.1526491.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/40/da/509.1526491.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "No machine-readable author provided. Abrahami assumed (based on copyright claims).",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Abrahami",
+      "role": "creator"
+    },
+    {
+      "full_name": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0115 1036",
+  "dataObjectVersionID": 8890848,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:45:54.000Z",
+  "modified": "2018-10-20T12:26:33.000Z",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "rightsHolder": "2015 Nick Kurzenko",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=628126&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0115/1036.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/84/fa/34/7.CalPhotos_0000_0000_0115_1036.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/84/fa/34/7.CalPhotos_0000_0000_0115_1036.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Dr.+Nick+V.+Kurzenko&one=T'>Dr. Nick V. Kurzenko</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Dr.+Nick+V.+Kurzenko&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

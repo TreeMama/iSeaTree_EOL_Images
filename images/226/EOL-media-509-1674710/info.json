@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-1674710",
+  "dataObjectVersionID": 7189501,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:54:09.000Z",
+  "modified": "2019-05-02T14:40:15.000Z",
+  "title": "Jun chin close.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "The original uploader was MPF at English Wikipedia.",
+  "source": "https://commons.wikimedia.org/wiki/File:Jun_chin_close.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jun_chin_close.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://en.wikipedia.org/wiki/Juniper\" title=\"en:Juniper\">en:Juniperus</a> chinensis</i> shoots, with juvenile (needle-like) leaves (left), and adult scale leaves and immature male cones (right) - photo <a href=\"https://en.wikipedia.org/wiki/User:MPF\" title=\"en:User:MPF\">en:User:MPF</a>    Date 30 September 2004 (original upload date)   Source Transferred from <a href=\"http://en.wikipedia.org\">en.wikipedia</a> to Commons.   Author The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:MPF\" title=\"wikipedia:User:MPF\">MPF</a> at <a href=\"https://en.wikipedia.org/wiki/\" title=\"wikipedia:\">English Wikipedia</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/93/39/509.1674710.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/93/39/509.1674710.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "The original uploader was MPF at English Wikipedia.",
+      "homepage": "https://en.wikipedia.org/wiki/User:MPF",
+      "role": "creator"
+    },
+    {
+      "full_name": "Transferred from en.wikipedia to Commons.",
+      "homepage": "http://en.wikipedia.org",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-16889273",
+  "dataObjectVersionID": 6899570,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:15:10.000Z",
+  "modified": "2019-07-30T05:04:13.000Z",
+  "title": "Stewartia pseudocamellia BotGardBln07122011Bark.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "User:BotBln",
+  "source": "https://commons.wikimedia.org/wiki/File:Stewartia_pseudocamellia_BotGardBln07122011Bark.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Stewartia_pseudocamellia_BotGardBln07122011Bark.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  At Botanical Gardens Berlin-Dahlem Species <i>Stewartia pseudocamellia'</i>    Date 12 July 2011, 15:06:45   Source Own work: <a href=\"https://commons.wikimedia.org/wiki/User:BotBln\" title=\"User:BotBln\">User:BotBln</a>   Author <a href=\"https://commons.wikimedia.org/wiki/User:BotBln\" title=\"User:BotBln\">User:BotBln</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  own work   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/9a/b3/509.16889273.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/9a/b3/509.16889273.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "BotBln",
+      "homepage": "https://commons.wikimedia.org/wiki/User:BotBln",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work: User:BotBln",
+      "homepage": "https://commons.wikimedia.org/wiki/User:BotBln",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

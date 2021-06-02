@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-6829783400",
+  "dataObjectVersionID": 11564,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:37:06.000Z",
+  "title": "n205_w1150",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm8.staticflickr.com/7205/6829783400_6ed17c6df2_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/6829783400/",
+  "description": "The natural history of Carolina, Florida, and the Bahama Islands :.London :Printed for B. White,1771..<a href=\"http://biodiversitylibrary.org/page/38993553\">biodiversitylibrary.org/page/38993553</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/2d/2c/8.6829783400.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/2d/2c/8.6829783400.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

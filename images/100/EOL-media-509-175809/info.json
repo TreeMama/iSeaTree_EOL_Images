@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-175809",
+  "dataObjectVersionID": 7798091,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:25:46.000Z",
+  "modified": "2018-10-24T13:17:55.000Z",
+  "title": "Liquidambar-styraciflua-foliage.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Liquidambar-styraciflua-foliage.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Liquidambar-styraciflua-foliage.jpg",
+  "description": "<a href=\"https://commons.wikimedia.org/wiki/Liquidambar_styraciflua\" title=\"Liquidambar styraciflua\">Liquidambar styraciflua</a> (Altingiaceae, Magnoliophyta). Follaje en verano. Source Luis FernÃ¡ndez GarcÃ­a <a href=\"https://commons.wikimedia.org/wiki/User:Luis_Fern%C3%A1ndez_Garc%C3%ADa\" title=\"User:Luis FernÃ¡ndez GarcÃ­a\">L. Fdez.</a> / 2004-07-25 / Parque Ana Tutor, Madrid. License Creative Commons <br>   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.1/es/deed.en\">Attribution-Share Alike 2.1 Spain</a> license.         https://creativecommons.org/licenses/by-sa/2.1/es/deed.en CC BY-SA 2.1 es Creative Commons Attribution-Share Alike 2.1 es truetrue   ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/c0/68/509.175809.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/c0/68/509.175809.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "JarektBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:JarektBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

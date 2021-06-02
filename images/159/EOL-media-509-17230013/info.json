@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-17230013",
+  "dataObjectVersionID": 8089539,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:08:20.000Z",
+  "modified": "2018-10-24T13:29:36.000Z",
+  "title": "Quercus coccinea.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_coccinea.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Quercus_coccinea.jpg",
+  "description": "DescriptionAPI  English: Quercus coccinea.    Date 25 July 2009 (original upload date)   Source Own work (Original text: <i>I (<a href=\"https://en.wikipedia.org/wiki/User:Chhe\" title=\"en:User:Chhe\">Chhe</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Chhe\" title=\"en:User talk:Chhe\">talk</a>)) created this work entirely by myself.</i>)   Author <a href=\"https://en.wikipedia.org/wiki/User:Chhe\" title=\"wikipedia:User:Chhe\">Chhe</a> at <a href=\"https://en.wikipedia.org/wiki/\" title=\"wikipedia:\">English Wikipedia</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/ad/7e/509.17230013.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/ad/7e/509.17230013.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Chhe at English Wikipedia",
+      "homepage": "https://en.wikipedia.org/wiki/User:Chhe",
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work (Original text: I (Chhe (talk)) created this work entirely by myself.)",
+      "homepage": "https://en.wikipedia.org/wiki/User:Chhe",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

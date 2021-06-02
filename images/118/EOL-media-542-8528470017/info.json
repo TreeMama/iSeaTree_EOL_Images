@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-8528470017",
+  "dataObjectVersionID": 6630287,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:09:50.000Z",
+  "modified": "2018-10-20T02:28:00.000Z",
+  "title": "Malus pumila (Apple) - cultivated",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Arthur Chapman",
+  "source": "https://www.flickr.com/photos/arthur_chapman/8528470017/",
+  "mediaURL": "https://farm9.staticflickr.com/8378/8528470017_4d85a3903c_o.jpg",
+  "description": "Apple Blossum (Malus pumila) cultivate at Mildura, Victoria, Australia. Photographed on 7 August 1977.Digitised from a slide. The original slide, which is of higher quality, is held.",
+  "eolMediaURL": "https://content.eol.org/data/media/81/60/44/542.8528470017.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/60/44/542.8528470017.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/32005048@N06'>Arthur Chapman</a>",
+      "homepage": "http://www.flickr.com/photos/32005048@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

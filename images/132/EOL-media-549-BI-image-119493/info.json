@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-549-BI-image-119493",
+  "dataObjectVersionID": 9056985,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-07-03T19:02:28.000Z",
+  "modified": "2018-10-20T13:15:45.000Z",
+  "title": "Branches against the sky",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.bioimages.org.uk/html/../image.php?id=119493",
+  "mediaURL": "http://www.discoverlife.org/mp/20p?img=I_MWS120524&res=mx",
+  "description": "Longitude (deg): -1.9. Latitude (deg): 50.7. Longitude (deg/min): 1ÃÂ° 60' W. Latitude (deg/min): 50ÃÂ° 50' N. Vice county name: Dorset. Vice county no.: 9. Country: England. Stage: Tree. Identified by: Malcolm Storey. Comment: Veteran tree. Category: standard photograph or close-up. Where photo was taken: In situ. Photographic equipment used: Various compact digital cameras. ",
+  "eolMediaURL": "https://content.eol.org/data/media/89/43/66/549.BI-image-119493.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/89/43/66/549.BI-image-119493.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "BioImages, the virtual fieldguide, UK",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

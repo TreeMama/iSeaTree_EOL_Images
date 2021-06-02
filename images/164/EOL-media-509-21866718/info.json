@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-21866718",
+  "dataObjectVersionID": 7536894,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:18.000Z",
+  "modified": "2018-10-24T13:06:57.000Z",
+  "title": "3774-Quercus muehlenbergii-Arb.Brno-10.12.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:3774-Quercus_muehlenbergii-Arb.Brno-10.12.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/3774-Quercus_muehlenbergii-Arb.Brno-10.12.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Autumn leaves of Quercus muehlenbergii, Arboretum in Brno, Czech Republic    Date 1 October 2012, 11:52:22   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Vojt%C4%9Bch_Zavadil\" title=\"User:VojtÄch Zavadil\">VojtÄch Zavadil</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/a3/87/509.21866718.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/a3/87/509.21866718.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:HiW-Bot'>HiW-Bot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:HiW-Bot",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:HiW-Bot'>HiW-Bot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:HiW-Bot",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

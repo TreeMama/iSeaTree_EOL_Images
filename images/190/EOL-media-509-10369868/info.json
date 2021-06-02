@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-10369868",
+  "dataObjectVersionID": 7108550,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:36:26.000Z",
+  "modified": "2018-10-24T12:48:42.000Z",
+  "title": "Walbran Valley Suspended Soil.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Walbran_Valley_Suspended_Soil.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Walbran_Valley_Suspended_Soil.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Old-growth Western Redcedars will overtime accumulate soil deposits in gooves of their upper forked branches. Researchers have discovered many new species living in these unique niches that are not found elsewhere on the ground.    Date    Source Own work   Author Photo by TJ Watt  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/3f/d3/509.10369868.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/3f/d3/509.10369868.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

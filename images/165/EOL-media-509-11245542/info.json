@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-11245542",
+  "dataObjectVersionID": 7258270,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3072,
+  "width": 2304,
+  "created": "2018-04-05T10:00:24.000Z",
+  "modified": "2019-05-03T02:03:38.000Z",
+  "title": "Quercus palustris Smithfield RI.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "H.C. Williams",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_palustris_Smithfield_RI.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Quercus_palustris_Smithfield_RI.jpg",
+  "description": "DescriptionAPI  Pin Oak <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_palustris\" title=\"Quercus palustris\">Quercus palustris</a></i>. Smithfield, Rhode Island, USA.    Date 14 August 2010, 16:10   Source <a href=\"http://www.flickr.com/photos/oceanstater/4892367348/\">Red Oak</a>   Author <a href=\"http://www.flickr.com/photos/12192989@N03\">H.C. Williams</a> from Pawtucket, Rhode Island, USA  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/7b/0c/509.11245542.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/7b/0c/509.11245542.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "H.C. Williams",
+      "homepage": "http://www.flickr.com/photos/12192989@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID oceanstater",
+      "homepage": "http://www.flickr.com/photos/oceanstater/4892367348/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

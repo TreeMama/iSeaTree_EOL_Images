@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-3121409",
+  "dataObjectVersionID": 7081054,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:34:12.000Z",
+  "modified": "2019-08-15T01:33:36.000Z",
+  "title": "Quercus bicolor morton acc 71-69-2.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Bruce Marlin",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_bicolor_morton_acc_71-69-2.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Quercus_bicolor_morton_acc_71-69-2.jpg",
+  "description": "DescriptionAPI  Swamp White Oak tree, <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_bicolor\" title=\"Quercus bicolor\">Quercus bicolor</a></i>. Morton Arboretum acc. 71-69-2.    Date 07/12/2007   Source Own work <a href=\"http://www.cirrusimage.com/tree_swamp_white_oak.htm\">http://www.cirrusimage.com/tree_swamp_white_oak.htm</a>   Author <a href=\"https://commons.wikimedia.org/wiki/User:Bruce_Marlin\" title=\"User:Bruce Marlin\">Bruce Marlin</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)       <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.        https://creativecommons.org/licenses/by-sa/2.5 CC BY-SA 2.5 Creative Commons Attribution-Share Alike 2.5 truetrue            Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=041.817928_N_-088.070998_E_globe:Earth_type:camera_&amp;language=en\">41Â° 49â² 04.54â³ N, 88Â° 04â² 15.59â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/41.817928/-88.070998\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=041.817928&amp;lon=-088.070998\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=041.817928&amp;londegdec=-088.070998&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 41.817928; -88.070998  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/83/2c/509.3121409.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/83/2c/509.3121409.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Bruce Marlin",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Own work http://www.cirrusimage.com/tree_swamp_white_oak.htm",
+      "homepage": "http://www.cirrusimage.com/tree_swamp_white_oak.htm",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

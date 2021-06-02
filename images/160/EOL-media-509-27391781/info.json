@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-27391781",
+  "dataObjectVersionID": 8091939,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:08:26.000Z",
+  "modified": "2019-03-25T17:20:41.000Z",
+  "title": "Quercus frainetto Ugarchin, Bulgaria 2.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "kikosev",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_frainetto_Ugarchin,_Bulgaria_2.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Quercus_frainetto_Ugarchin,_Bulgaria_2.jpg",
+  "description": "DescriptionAPI  Hungarian Oak <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_frainetto\" title=\"Quercus frainetto\">Quercus frainetto</a></i> foliage, Ugarchin, Bulgaria    Date 2 May 2013, 12:33   Source <a href=\"http://www.panoramio.com/photo/90029456\">panoramio</a>   Author <a href=\"http://www.panoramio.com/user/3214690\">kikosev</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=043.107273_N_0024.380668_E_globe:Earth_type:camera_source:panoramio&amp;language=en\">43Â° 06â² 26.18â³ N, 24Â° 22â² 50.4â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/43.107273/24.380668\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=043.107273&amp;lon=0024.380668\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=043.107273&amp;londegdec=0024.380668&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 43.107273; 24.380668  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/db/b3/509.27391781.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/db/b3/509.27391781.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "kikosev",
+      "homepage": "http://www.panoramio.com/user/3214690",
+      "role": "creator"
+    },
+    {
+      "full_name": "panoramio",
+      "homepage": "http://www.panoramio.com/photo/55069782",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-10697624",
+  "dataObjectVersionID": 8091935,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2448,
+  "width": 3264,
+  "created": "2018-04-05T12:08:26.000Z",
+  "modified": "2018-10-24T13:29:42.000Z",
+  "title": "Folfor3.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Folfor3.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Folfor3.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Hungarian Oak <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_frainetto\" title=\"Quercus frainetto\">Quercus frainetto</a></i> leaves, Foloi, Greece.    Date    Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Huskarl2000&amp;action=edit&amp;redlink=1\" title=\"User:Huskarl2000\">Huskarl2000</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/56/58/509.10697624.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/56/58/509.10697624.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Huskarl2000",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Huskarl2000&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

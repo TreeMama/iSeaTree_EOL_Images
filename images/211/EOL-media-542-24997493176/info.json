@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-24997493176",
+  "dataObjectVersionID": 6828928,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:17.000Z",
+  "modified": "2018-10-20T03:13:07.000Z",
+  "title": "Lowest elevation White fir in northern Utah?",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Tony Frates",
+  "source": "https://www.flickr.com/photos/tonyfrates/24997493176/",
+  "mediaURL": "https://farm2.staticflickr.com/1611/24997493176_f88dceba92_o.jpg",
+  "description": "This relatively young (estimated to be about 30 feet tall) <i>Abies concolor</i> is so far the lowest elevation example that I have been able to find in our area, and is lower than reported in our floras (however see below).  There were only two other trees of this species in the area, these much taller and fully mature.There is a record of a tree occurring at just over 4,000 ft. (1220 m) in southern Utah from San Juan Co. and also in Washington Co. at around 4,300 ft.  (1310 m).  So even the <i>Utah Flora</i> series reported lower limit of 1525 meters requires adjustment.There are however records of the species occurring at much lower elevation in other western states, principally in Oregon (in the 400 to 800 meter range).   The Flora of North America reported lower limit of 1700 meters is inaccurate.June 25, 2009, Cottonwood Heights, Utah at 4850 ft. (1475 m).",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f6/65/542.24997493176.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f6/65/542.24997493176.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54551481@N08'>Tony Frates</a>",
+      "homepage": "http://www.flickr.com/photos/54551481@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "identifier": "EOL-media-509-1903072",
+  "dataObjectVersionID": 7203798,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:55:38.000Z",
+  "modified": "2019-08-15T14:15:21.000Z",
+  "title": "Trachycarpus wagnerianus1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "I, KENPEI",
+  "source": "https://commons.wikimedia.org/wiki/File:Trachycarpus_wagnerianus1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/19/Trachycarpus_wagnerianus1.jpg",
+  "description": "Scientific name <i>Trachycarpus fortunei</i> (syn. <i>T. wagnerianus</i>) æ¥æ¬èª: ãã¦ã¸ã¥ã­ Place:Osaka,Japan   DescriptionAPI  Trachycarpus wagnerianus    Date 18 November 2007   Source KENPEI's photo   Author KENPEI   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  GFDL,Creative Commons Attribution ShareAlike 2.1 Japan License   ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/14/ab/509.1903072.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/14/ab/509.1903072.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "I, KENPEI",
+      "homepage": "https://commons.wikimedia.org/wiki/User:KENPEI",
+      "role": "creator"
+    },
+    {
+      "full_name": "KENPEI's photo",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "KENPEI",
+      "homepage": "https://commons.wikimedia.org/wiki/User:KENPEI",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

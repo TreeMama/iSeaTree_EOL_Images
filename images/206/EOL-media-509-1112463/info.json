@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-1112463",
+  "dataObjectVersionID": 7109040,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 683,
+  "width": 440,
+  "created": "2018-04-05T09:36:40.000Z",
+  "modified": "2018-10-24T12:48:43.000Z",
+  "title": "Thuja occidentalis.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Thuja_occidentalis.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Thuja_occidentalis.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] Thuja_occidentalis.jpg (323KB, MIME type: image/jpeg) <i><a href=\"https://commons.wikimedia.org/wiki/Thuja_occidentalis\" title=\"Thuja occidentalis\">Thuja occidentalis</a></i> - USFS Source : <a href=\"http://www.na.fs.fed.us/spfo/for_images/miscimage.htm\">[1]</a> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]   Public domainPublic domainfalsefalse      <i>This image or file is a work of a <a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture\" title=\"w:United States Department of Agriculture\">United States Department of Agriculture</a> employee, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" title=\"en:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" title=\"en:Federal Government of the United States\">U.S. federal government</a>, the image is in the <a href=\"https://commons.wikimedia.org/wiki/Public_domain\" title=\"Public domain\">public domain</a>.</i> <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/en\">English</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/es\">EspaÃ±ol</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/ja\">æ¥æ¬èª</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/mk\">ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/nl\">Nederlands</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/ru\">Ð ÑÑÑÐºÐ¸Ð¹</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/sl\">SlovenÅ¡Äina</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:PD-USGov-USDA/uk\">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a> | <a href=\"http://commons.wikimedia.org/w/index.php?title=Template:PD-USGov-USDA/lang&amp;action=edit\">+/â</a>     ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/72/6a/509.1112463.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/72/6a/509.1112463.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "JarektBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:JarektBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

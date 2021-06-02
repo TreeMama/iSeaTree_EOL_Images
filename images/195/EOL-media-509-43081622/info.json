@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-43081622",
+  "dataObjectVersionID": 7203824,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:55:38.000Z",
+  "modified": "2019-08-15T14:18:33.000Z",
+  "title": "Trachycarpus fortunei-IMG 9402.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "C T Johansson",
+  "source": "https://commons.wikimedia.org/wiki/File:Trachycarpus_fortunei-IMG_9402.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/de/Trachycarpus_fortunei-IMG_9402.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Svenska: <i>Trachycarpus fortunei</i> identifierad med hjÃ¤lp av befintlig skylt i <a href=\"https://commons.wikimedia.org/wiki/Bergianska_tr%C3%A4dg%C3%A5rden\" title=\"Bergianska trÃ¤dgÃ¥rden\">Bergianska trÃ¤dgÃ¥rden</a>.    Date 5 September 2015, 10:59:03   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:C_T_Johansson\" title=\"User:C T Johansson\">C T Johansson</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=059.369483_N_0018.046387_E_globe:Earth_type:camera_&amp;language=en\">59Â° 22â² 10.14â³ N, 18Â° 02â² 46.99â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/59.369483/18.046387\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=059.369483&amp;lon=0018.046387\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=059.369483&amp;londegdec=0018.046387&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 59.369483; 18.046387  ",
+  "eolMediaURL": "https://content.eol.org/data/media/61/1f/44/509.43081622.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/61/1f/44/509.43081622.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "C T Johansson",
+      "homepage": "https://commons.wikimedia.org/wiki/User:C_T_Johansson",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

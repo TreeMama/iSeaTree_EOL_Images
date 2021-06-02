@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-19688042",
+  "dataObjectVersionID": 8089540,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:08:20.000Z",
+  "modified": "2019-06-06T19:31:18.000Z",
+  "title": "Quercus coccinea JB.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Cephas",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_coccinea_JB.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Quercus_coccinea_JB.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : <a href=\"https://fr.wikipedia.org/wiki/Ch%C3%AAne_%C3%A9carlate\" title=\"fr:ChÃªne Ã©carlate\">ChÃªne Ã©carlate</a>, <a href=\"https://fr.wikipedia.org/wiki/Jardin_botanique_de_Montr%C3%A9al\" title=\"fr:Jardin botanique de MontrÃ©al\">Jardin botanique de MontrÃ©al</a>, MontrÃ©al, QuÃ©bec English: <a href=\"https://en.wikipedia.org/wiki/Quercus_coccinea\" title=\"en:Quercus coccinea\">Scarlet Oak</a>, <a href=\"https://en.wikipedia.org/wiki/Montreal_Botanical_Garden\" title=\"en:Montreal Botanical Garden\">Montreal Botanical Garden</a>, Montreal, Quebec    Date 27 May 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Cephas\" title=\"User:Cephas\">Cephas</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/35/77/509.19688042.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/35/77/509.19688042.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Cephas",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Cephas",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

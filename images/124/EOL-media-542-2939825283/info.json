@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2939825283",
+  "dataObjectVersionID": 6751507,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:31:00.000Z",
+  "modified": "2018-10-20T02:51:55.000Z",
+  "title": "More Nyssa fall glory",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "dogtooth77",
+  "source": "https://www.flickr.com/photos/53817483@N00/2939825283/",
+  "mediaURL": "https://farm4.staticflickr.com/3242/2939825283_67a9b4f289_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/31/06/542.2939825283.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/31/06/542.2939825283.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/53817483@N00'>dogtooth77</a>",
+      "homepage": "http://www.flickr.com/photos/53817483@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

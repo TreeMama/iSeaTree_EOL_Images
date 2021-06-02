@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2188908",
+  "dataObjectVersionID": 7058430,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:32:07.000Z",
+  "modified": "2019-05-27T07:18:42.000Z",
+  "title": "Magnolia sieboldii1a.UME.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Ulf Eliasson",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_sieboldii1a.UME.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Magnolia_sieboldii1a.UME.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Magnolia sieboldii    Date 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Epibase\" title=\"User:Epibase\">Ulf Eliasson</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/a4/cb/509.2188908.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/a4/cb/509.2188908.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Ulf Eliasson",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Epibase",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

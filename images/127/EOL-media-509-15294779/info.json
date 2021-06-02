@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-15294779",
+  "dataObjectVersionID": 6941368,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:36.000Z",
+  "modified": "2018-10-24T12:41:53.000Z",
+  "title": "Parrotia-persica-foliage.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Parrotia-persica-foliage.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Parrotia-persica-foliage.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Parrotia_persica\" title=\"Parrotia persica\">Parrotia persica</a></i>: Young foliage Dansk: <a href=\"https://da.wikipedia.org/wiki/Papeg%C3%B8jebusk\" title=\"da:PapegÃ¸jebusk\">PapegÃ¸jebusk</a> (<i>Parrotia persica</i>): Ungt lÃ¸v.    Date 24 May 2011   Source Own production   Author <a href=\"https://commons.wikimedia.org/wiki/User:Sten\" title=\"User:Sten\">Sten Porse</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=056.057833_N_0010.200417_E_globe:Earth_type:camera_&amp;language=en\">56Â° 03â² 28.2â³ N, 10Â° 12â² 01.5â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/56.057833/10.200417\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=056.057833&amp;lon=0010.200417\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=056.057833&amp;londegdec=0010.200417&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 56.057833; 10.200417  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/42/92/509.15294779.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/42/92/509.15294779.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:AnRo0002'>AnRo0002</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:AnRo0002'>AnRo0002</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:AnRo0002",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

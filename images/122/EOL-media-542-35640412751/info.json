@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-35640412751",
+  "dataObjectVersionID": 6774206,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:34:57.000Z",
+  "modified": "2018-10-20T02:55:58.000Z",
+  "title": "Urweltmammutbaum",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Gertrud K.",
+  "source": "https://www.flickr.com/photos/gertrudk/35640412751/",
+  "mediaURL": "https://farm5.staticflickr.com/4241/35640412751_b1f1e051c4_o.jpg",
+  "description": "Botanischen Volkspark Blankenfelde-PankowDer Urweltmammutbaum (Metasequoia glyptostroboides), auch Chinesisches Rotholz, Metasequoie oder Wassertanne genannt, gilt als lebendes Fossil. Er wurde erst im Jahre 1941 in einer unzugnglichen Bergregion in den Regionen Sichuan und Hubei der Volksrepublik China entdeckt und war zuvor nur durch Fossilienfunde bekannt.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/95/91/542.35640412751.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/95/91/542.35640412751.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/11946969@N00'>Gertrud K.</a>",
+      "homepage": "http://www.flickr.com/photos/11946969@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

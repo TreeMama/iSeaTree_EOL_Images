@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2985499734",
+  "dataObjectVersionID": 6748346,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:36.000Z",
+  "modified": "2018-10-20T02:51:22.000Z",
+  "title": "Eastern Hop Hornbeam catkins",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/2985499734/",
+  "mediaURL": "https://farm4.staticflickr.com/3138/2985499734_de3efa70de_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/38/4f/542.2985499734.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/38/4f/542.2985499734.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

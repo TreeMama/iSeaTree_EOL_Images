@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3898018901",
+  "dataObjectVersionID": 6792279,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:55.000Z",
+  "modified": "2018-10-20T02:59:12.000Z",
+  "title": "ROCKY MOUNTAIN BRISTLECONE PINE CONE",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Bryant Olsen",
+  "source": "https://www.flickr.com/photos/bryanto/3898018901/",
+  "mediaURL": "https://farm4.staticflickr.com/3512/3898018901_8ac7f9ea39_o.jpg",
+  "description": "Pinus aristata. Although not as long lives as their close relative the Great Basin Bristlecone Pine, they can still live to be 3,000 years old or so.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/c1/64/542.3898018901.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/c1/64/542.3898018901.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/22837563@N08'>Bryant Olsen</a>",
+      "homepage": "http://www.flickr.com/photos/22837563@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

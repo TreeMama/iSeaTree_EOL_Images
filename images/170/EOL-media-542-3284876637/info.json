@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3284876637",
+  "dataObjectVersionID": 6849912,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:46:53.000Z",
+  "modified": "2018-10-20T03:18:03.000Z",
+  "title": "Black Oak Leaves",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3284876637/",
+  "mediaURL": "https://farm4.staticflickr.com/3155/3284876637_74dc1bfeb3_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6e/36/542.3284876637.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6e/36/542.3284876637.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

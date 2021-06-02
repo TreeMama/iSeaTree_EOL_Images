@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-549-BI-image-85748",
+  "dataObjectVersionID": 9023802,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-07-03T18:56:44.000Z",
+  "modified": "2018-10-24T13:32:50.000Z",
+  "title": "Winter tree, in snow",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.bioimages.org.uk/html/../image.php?id=85748",
+  "mediaURL": "http://www.discoverlife.org/mp/20p?img=I_MWS88767&res=mx",
+  "description": "Longitude (deg): -1.2. Latitude (deg): 51.4. Longitude (deg/min): 1ÃÂ° 10' W. Latitude (deg/min): 51ÃÂ° 20' N. Vice county name: Berks. Vice county no.: 22. Country: England. Stage: Tree. Identified by: Malcolm Storey. Photo summary: Snow-covered tree. Comment: \"Roadside tree, in snow\". Category: standard photograph or close-up. Photographic equipment used: Canon EOS400D dSLR + Sigma 50mm 1:1 macro lens. ",
+  "eolMediaURL": "https://content.eol.org/data/media/8a/8d/02/549.BI-image-85748.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8a/8d/02/549.BI-image-85748.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "BioImages, the virtual fieldguide, UK",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

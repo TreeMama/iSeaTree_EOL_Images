@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3296100000",
+  "dataObjectVersionID": 6751510,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:31:00.000Z",
+  "modified": "2018-10-20T02:51:55.000Z",
+  "title": "Tupelos",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3296100000/",
+  "mediaURL": "https://farm4.staticflickr.com/3387/3296100000_ded59c3bea_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/6f/f0/542.3296100000.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/6f/f0/542.3296100000.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

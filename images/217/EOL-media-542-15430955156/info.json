@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-15430955156",
+  "dataObjectVersionID": 6643459,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:52.000Z",
+  "modified": "2018-10-20T02:30:29.000Z",
+  "title": "Flowering Dogwood (Cornus florida)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Kurt Andreas",
+  "source": "https://www.flickr.com/photos/42227089@N00/15430955156/",
+  "mediaURL": "https://farm3.staticflickr.com/2949/15430955156_a606077257_o.jpg",
+  "description": "New Paltz, NY (May 19, 2014)",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/9c/2b/542.15430955156.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/9c/2b/542.15430955156.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42227089@N00'>Kurt Andreas</a>",
+      "homepage": "http://www.flickr.com/photos/42227089@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

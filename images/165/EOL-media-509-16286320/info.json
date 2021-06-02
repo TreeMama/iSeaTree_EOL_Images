@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-16286320",
+  "dataObjectVersionID": 7258271,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:24.000Z",
+  "modified": "2019-05-03T02:18:08.000Z",
+  "title": "Bark Quercus palustris.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Dodshe",
+  "source": "https://commons.wikimedia.org/wiki/File:Bark_Quercus_palustris.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bark_Quercus_palustris.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: bark of Quercus palustris Deutsch: Rinde von Quercus palustris (Sumpf-Eiche) EspaÃ±ol: corteza de Quercus palustris    Date 31 August 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Dodshe&amp;action=edit&amp;redlink=1\" title=\"User:Dodshe\">Dodshe</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/7f/76/509.16286320.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/7f/76/509.16286320.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dodshe",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Dodshe&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

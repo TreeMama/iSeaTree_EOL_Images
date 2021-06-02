@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-18973431",
+  "dataObjectVersionID": 7058428,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:32:07.000Z",
+  "modified": "2019-05-27T07:20:46.000Z",
+  "title": "Magnolia sieboldii (1).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "digital cat",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_sieboldii_(1).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Magnolia_sieboldii_(1).jpg",
+  "description": "DescriptionAPI  Magnolia wilsonii ... Magnolia Wilsonia ... Original size ... <a href=\"http://flickriver.com/photos/14646075@N03/4696734913/#large\">View large on black</a> ... diese herrliche BlÃ¼te habe ich am letzten Wochenende gefunden in MÃ¼nchen-Schwabing in der KaiserstraÃe ... ... leider hat jemand die BlÃ¼te gepflÃ¼ckt ... gestern war sie nicht mehr da ...;-( Die Magnolia wilsonii ist eine Pflanzenart der Magnolia (Magnolie) und ist heimisch in China, in den Provinzen West - Guizhou, Sichuan und Yunnan im Norden. Dort wÃ¤chst sie im Unterholz der WÃ¤lder in HÃ¶hen von 1.900-3.000 m, Wilson's Magnolia (Magnolia wilsonii) is a species of Magnolia native to China, in the provinces of western Guizhou, Sichuan and northern Yunnan, where it grows in the forest understory at altitudes of 1,900-3,000 m. <a href=\"https://en.wikipedia.org/wiki/de:Magnolien\" title=\"w:de:Magnolien\">de.wikipedia.org/wiki/Magnolien</a> <a href=\"https://en.wikipedia.org/wiki/en:File:Magnolia_wilsonii1UME.jpg\" title=\"w:en:File:Magnolia wilsonii1UME.jpg\">en.wikipedia.org/wiki/File:Magnolia_wilsonii1UME.jpg</a> <a href=\"https://en.wikipedia.org/wiki/en:Magnolia_wilsonii\" title=\"w:en:Magnolia wilsonii\">en.wikipedia.org/wiki/Magnolia_wilsonii</a> <a href=\"http://species.wikimedia.org/wiki/Magnolia_wilsonii\">species.wikimedia.org/wiki/Magnolia_wilsonii</a>    Date 5 June 2010, 14:27   Source <a href=\"http://www.flickr.com/photos/14646075@N03/4696734913/\">Magnolia Wilsonii</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:Uleli\" title=\"User:Uleli\">uleli</a>    Author <a href=\"http://www.flickr.com/people/14646075@N03\">digital cat</a> from MÃ¼nchen, Bavaria     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=048.161294_N_0011.575469_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">48Â° 09â² 40.66â³ N, 11Â° 34â² 31.69â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/48.161294/11.575469\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=048.161294&amp;lon=0011.575469\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=048.161294&amp;londegdec=0011.575469&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 48.161294; 11.575469  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/12/35/509.18973431.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/12/35/509.18973431.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "digital cat",
+      "homepage": "https://www.flickr.com/people/14646075@N03",
+      "role": "creator"
+    },
+    {
+      "full_name": "digital cat (14646075@N03)",
+      "homepage": "http://www.flickr.com/photos/14646075@N03/4696734913/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

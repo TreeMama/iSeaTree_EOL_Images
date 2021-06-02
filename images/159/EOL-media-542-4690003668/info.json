@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4690003668",
+  "dataObjectVersionID": 6657167,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:14:33.000Z",
+  "modified": "2018-10-20T02:32:57.000Z",
+  "title": "Scarlet Oak",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Katja Schulz",
+  "source": "https://www.flickr.com/photos/treegrow/4690003668/",
+  "mediaURL": "https://farm5.staticflickr.com/4032/4690003668_ab0c4b8878_o.jpg",
+  "description": "<em>Quercus coccinea</em>. Cultivated, National Botanic Garden, Washington, DC, USA. ",
+  "eolMediaURL": "https://content.eol.org/data/media/80/0b/26/542.4690003668.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/0b/26/542.4690003668.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/86548370@N00'>Katja Schulz</a>",
+      "homepage": "http://www.flickr.com/photos/86548370@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

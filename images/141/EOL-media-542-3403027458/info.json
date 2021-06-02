@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3403027458",
+  "dataObjectVersionID": 6646722,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:01.000Z",
+  "modified": "2018-10-20T02:31:08.000Z",
+  "title": "aspens",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "catherinemorrison29",
+  "source": "https://www.flickr.com/photos/36801680@N08/3403027458/",
+  "mediaURL": "https://farm4.staticflickr.com/3547/3403027458_59d26d48c6_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/80/3d/542.3403027458.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/80/3d/542.3403027458.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/36801680@N08'>catherinemorrison29</a>",
+      "homepage": "http://www.flickr.com/photos/36801680@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

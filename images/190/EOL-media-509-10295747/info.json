@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10295747",
+  "dataObjectVersionID": 7108510,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3168,
+  "width": 4752,
+  "created": "2018-04-05T09:36:25.000Z",
+  "modified": "2019-06-02T17:37:28.000Z",
+  "title": "Thuja plicata Polanica.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Crusier",
+  "source": "https://commons.wikimedia.org/wiki/File:Thuja_plicata_Polanica.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Thuja_plicata_Polanica.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <a href=\"https://commons.wikimedia.org/wiki/Western_Red_Cedar\" title=\"Western Red Cedar\">Western Red Cedar</a> (<i><a href=\"https://commons.wikimedia.org/wiki/Thuja_plicata\" title=\"Thuja plicata\">Thuja plicata</a></i>) natural monuments in <a href=\"https://commons.wikimedia.org/wiki/Spa_park_in_Polanica-Zdr%C3%B3j\" title=\"Spa park in Polanica-ZdrÃ³j\">Spa park in Polanica-ZdrÃ³j</a> Polski: <a href=\"https://commons.wikimedia.org/wiki/%C5%BBywotnik_olbrzymi\" title=\"Å»ywotnik olbrzymi\">Å»ywotniki olbrzymie</a> (<i>Thuja plicata</i>) pomniki przyrody w <a href=\"https://commons.wikimedia.org/wiki/Park_Zdrojowy_w_Polanicy-Zdroju\" title=\"Park Zdrojowy w Polanicy-Zdroju\">Parku Zdrojowym w Polanicy-Zdroju</a>    Date 28 April 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3a/3f/509.10295747.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3a/3f/509.10295747.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Crusier",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Crusier",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

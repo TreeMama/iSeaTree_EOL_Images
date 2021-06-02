@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-21742072",
+  "dataObjectVersionID": 7536891,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:18.000Z",
+  "modified": "2019-06-14T21:18:35.000Z",
+  "title": "2494-Quercus muehlenbergii-Arb.Brno-8.12.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Vojtěch Zavadil",
+  "source": "https://commons.wikimedia.org/wiki/File:2494-Quercus_muehlenbergii-Arb.Brno-8.12.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/96/2494-Quercus_muehlenbergii-Arb.Brno-8.12.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Quercus muehlenbergii, Arboretum in Brno, Czech Republic    Date 27 August 2012, 10:52:58   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Vojt%C4%9Bch_Zavadil\" title=\"User:VojtÄch Zavadil\">VojtÄch Zavadil</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/a0/a9/509.21742072.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/a0/a9/509.21742072.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Vojtěch Zavadil",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Vojt%C4%9Bch_Zavadil",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

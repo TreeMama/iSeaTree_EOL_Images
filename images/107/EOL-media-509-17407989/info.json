@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-17407989",
+  "dataObjectVersionID": 8052476,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:40:09.000Z",
+  "title": "Magnolia denudata, leaf 01.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "三上 勝生",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_denudata,_leaf_01.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Magnolia_denudata,_leaf_01.jpg",
+  "description": "DescriptionAPI  Latina: <i><a href=\"https://commons.wikimedia.org/wiki/Category:Magnolia_denudata\" title=\"Category:Magnolia denudata\">Magnolia denudata</a></i>. æ¥æ¬èª: <a href=\"https://commons.wikimedia.org/wiki/Category:Magnolia_denudata\" title=\"Category:Magnolia denudata\">ãã¯ã¢ã¯ã¬ã³</a>ï¼ç½æ¨è®ï¼ã®èãåæµ·éã«ã¦ã    Date 25 May 2010, 11:08   Source <a href=\"http://f.hatena.ne.jp/elmikamino/20100525121809\">f:id:elmikamino:20100525121809j:image</a><br> (Archived by WebCiteÂ® at <a href=\"http://www.webcitation.org/63JdzwLAt\">http://www.webcitation.org/63JdzwLAt</a>) See also the <a href=\"http://d.hatena.ne.jp/elmikamino/20100525\">photographer's blog</a>.   Author <a href=\"http://www.hatena.ne.jp/elmikamino/\">ä¸ä¸ åç</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">Attribution-Share Alike 2.1 Japan</a> license.     Attribution: elmikamino    https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en CC BY-SA 2.1 jp Creative Commons Attribution-Share Alike 2.1 jp truetrue       <br>    This file, which was originally posted to <a href=\"http://f.hatena.ne.jp/elmikamino/20100525121809\">http://f.hatena.ne.jp/elmikamino/20100525121809</a>, was reviewed on 13 April 2013 by the <a href=\"https://commons.wikimedia.org/wiki/Commons:A\" title=\"Commons:A\">administrator</a> or <a href=\"https://commons.wikimedia.org/wiki/Commons:License_review#Reviewers\" title=\"Commons:License review\">reviewer</a> <a href=\"https://commons.wikimedia.org/wiki/User:Alan.lorenzo\" title=\"User:Alan.lorenzo\">Alan.lorenzo</a>, who confirmed that it was available there under the stated license on that date.  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/b7/dc/509.17407989.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/b7/dc/509.17407989.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "三上 勝生",
+      "homepage": "http://www.hatena.ne.jp/elmikamino/",
+      "role": "creator"
+    },
+    {
+      "full_name": "f:id:elmikamino:20100525121809j:image(Archived by WebCite® at http://www.webcitation.org/63JdzwLAt)See also the photographer's blog.",
+      "homepage": "http://f.hatena.ne.jp/elmikamino/20100525121809",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-11310404",
+  "dataObjectVersionID": 7903992,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1600,
+  "width": 1200,
+  "created": "2018-04-05T11:42:53.000Z",
+  "modified": "2019-06-05T09:27:25.000Z",
+  "title": "Tsuga mertensiana old trees Desolation Wilderness.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://commons.wikimedia.org/wiki/File:Tsuga_mertensiana_old_trees_Desolation_Wilderness.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tsuga_mertensiana_old_trees_Desolation_Wilderness.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Tsuga_mertensiana\" title=\"Tsuga mertensiana\">Tsuga mertensiana</a></i> subsp. <i>grandicona</i>, Grouse Lake Trail, Desolation Wilderness, Sierra Nevada, California.    Date 1 August 2010, 15:53   Source <a href=\"http://www.flickr.com/photos/miguelvieira/4896694560/\">Desolation Wilderness Grouse Lake Trail</a>   Author <a href=\"http://www.flickr.com/photos/11563230@N04\">Miguel Vieira</a> from Walnut Creek, CA, USA  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/7e/bf/509.11310404.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/7e/bf/509.11310404.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Miguel Vieira",
+      "homepage": "http://www.flickr.com/photos/miguelvieira/",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID miguelvieira",
+      "homepage": "https://www.flickr.com/photos/miguelvieira/15198593037/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

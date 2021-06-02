@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4507281683",
+  "dataObjectVersionID": 6808471,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:40:41.000Z",
+  "modified": "2018-10-20T03:05:24.000Z",
+  "title": "Pinus nigra (subsp. nigra) + Pinus sylvestris + Picea abies + Larix decidua (4744' N 1545' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/4507281683/",
+  "mediaURL": "https://farm3.staticflickr.com/2072/4507281683_85c5e12fa4_o.jpg",
+  "description": "2010.04.09 Lower Austria, district Neunkirchen, Rax northern flank/Wachthttlkamm (~1060 m AMSL).Habitat shot of a typical Eastern Limestone Alps mountain forest; species indicated through notes in the picture.Note that neither of the Pinus species grow up straight, they're all leaning away from the dominant wind direction (which is west, so they lean eastwards), and while Larix likes to grow straight in favourable habitats it doesn't do so here.Only Picea abies grows straight upwards - they even do so in the fiercest wind, and if by chance they get knocked over at an angle but survive they'll re-orientate their growth direction at the peak, again straight upwards.That dead one left-front in the photo should have been P. nigra.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/f9/73/542.4507281683.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/f9/73/542.4507281683.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

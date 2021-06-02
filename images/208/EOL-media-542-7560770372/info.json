@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-7560770372",
+  "dataObjectVersionID": 6808478,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:40:41.000Z",
+  "modified": "2018-10-20T03:05:24.000Z",
+  "title": "Larix decidua",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Michael Wunderli",
+  "source": "https://www.flickr.com/photos/nameitapp/7560770372/",
+  "mediaURL": "https://farm8.staticflickr.com/7248/7560770372_718854238f_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/0a/55/542.7560770372.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/0a/55/542.7560770372.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/56006259@N06'>Michael Wunderli</a>",
+      "homepage": "http://www.flickr.com/photos/56006259@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

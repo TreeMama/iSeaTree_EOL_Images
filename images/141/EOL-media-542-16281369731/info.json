@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-16281369731",
+  "dataObjectVersionID": 6646720,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:01.000Z",
+  "modified": "2018-10-24T12:37:14.000Z",
+  "title": "N20141222-0063Populus tremuloidesRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/16281369731/",
+  "mediaURL": "https://farm8.staticflickr.com/7505/16281369731_909a3e3a65_o.jpg",
+  "description": "Populus tremuloidesquaking aspen. \"It propagates itself primarily through root sprouts, and extensive clonal colonies are common. Each colony is its own clone, and all trees in the clone have identical characteristics and share a single root structure. A clone may turn color earlier or later in the fall than its neighbouring aspen clones,\" Wikipedia \"Populus tremuloides\". The trees photographed may seem small but their size is not unusual for members of a clonal colony.  Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/b3/7b/542.16281369731.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/b3/7b/542.16281369731.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

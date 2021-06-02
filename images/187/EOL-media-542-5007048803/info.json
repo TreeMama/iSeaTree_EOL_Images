@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5007048803",
+  "dataObjectVersionID": 6675929,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:18:19.000Z",
+  "modified": "2018-10-20T02:36:33.000Z",
+  "title": "Fruit of Styrax Japonicus ( )",
+  "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+  "license_id": 17,
+  "rightsHolder": "Seongbin Im",
+  "source": "https://www.flickr.com/photos/golbenge/5007048803/",
+  "mediaURL": "https://farm5.staticflickr.com/4085/5007048803_c19bac7e4b_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/23/89/542.5007048803.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/23/89/542.5007048803.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/59899594@N00'>Seongbin Im</a>",
+      "homepage": "http://www.flickr.com/photos/59899594@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

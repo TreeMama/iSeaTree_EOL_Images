@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-106573",
+  "dataObjectVersionID": 8052470,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2560,
+  "width": 1920,
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:21:00.000Z",
+  "title": "P4050021.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Fanghong",
+  "source": "https://commons.wikimedia.org/wiki/File:P4050021.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/P4050021.jpg",
+  "description": "DescriptionAPI  English: <i>Magnolia denudata</i> flowers    Date 15 March 2005   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Fanghong\" title=\"User:Fanghong\">Fanghong</a>   Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:P4050015.jpg\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:P4050020.jpg\"></a>    <br>    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/53/58/509.106573.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/53/58/509.106573.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Fanghong",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Fanghong",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

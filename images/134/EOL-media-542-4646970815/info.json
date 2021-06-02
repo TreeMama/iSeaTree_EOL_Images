@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4646970815",
+  "dataObjectVersionID": 6718999,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:25:58.000Z",
+  "modified": "2018-10-20T02:45:34.000Z",
+  "title": "Rocky Mountain Ponderosa Pine (Pinus ponderosa ssp. scopulorum) in Custer State Park, Pah Spa (Black Hills), South Dakota",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Jay Sturner",
+  "source": "https://www.flickr.com/photos/50352333@N06/4646970815/",
+  "mediaURL": "https://farm5.staticflickr.com/4012/4646970815_e9fc8bd3bc_o.jpg",
+  "description": "6-6-2006",
+  "eolMediaURL": "https://content.eol.org/data/media/80/08/23/542.4646970815.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/08/23/542.4646970815.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/50352333@N06'>Jay Sturner</a>",
+      "homepage": "http://www.flickr.com/photos/50352333@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

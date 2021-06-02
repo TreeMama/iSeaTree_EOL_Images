@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-15707967",
+  "dataObjectVersionID": 6941370,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:36.000Z",
+  "modified": "2018-10-24T12:41:53.000Z",
+  "title": "Stamps of Azerbaijan, 2011-948.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Stamps_of_Azerbaijan,_2011-948.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/31/Stamps_of_Azerbaijan,_2011-948.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  AzÉrbaycanca: DÉmiraÄac    Date 08.04.2011   Source <a href=\"http://www.azermarka.az/en/2011.php?subaction=showfull&amp;id=1302179895&amp;archive=&amp;start_from=&amp;ucat=40&amp;\">http://www.azermarka.az/en/2011.php?subaction=showfull&amp;id=1302179895&amp;archive=&amp;start_from=&amp;ucat=40&amp;</a>   Author Kh. Mirzoyev./Azermarka   Other versions    <a href=\"https://commons.wikimedia.org/wiki/File:Extracted_image_icon.png\"></a> This file has been extracted from another file: [[:File:|]]<br> [[File:|100x100px|original file]]     ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/5c/2b/509.15707967.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/5c/2b/509.15707967.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Robert%20Weemeyer'>Robert Weemeyer</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Robert%20Weemeyer",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Robert%20Weemeyer'>Robert Weemeyer</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Robert%20Weemeyer",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

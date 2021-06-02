@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5052587817",
+  "dataObjectVersionID": 6810580,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:41:01.000Z",
+  "modified": "2018-10-20T03:06:32.000Z",
+  "title": "douglas fir cone - note the long bracts sticking out",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Vilseskogen",
+  "source": "https://www.flickr.com/photos/vilseskogen/5052587817/",
+  "mediaURL": "https://farm5.staticflickr.com/4128/5052587817_0634a7d37a_o.jpg",
+  "description": "Seen at Georgetown Loop, a famous historic railroad place where the old narrow gauge railroad loops over itself to gain enough altitude to pass over the mountain pass. Colorado, USA",
+  "eolMediaURL": "https://content.eol.org/data/media/80/26/59/542.5052587817.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/26/59/542.5052587817.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/27632962@N04'>Vilseskogen</a>",
+      "homepage": "http://www.flickr.com/photos/27632962@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

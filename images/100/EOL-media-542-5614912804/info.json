@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5614912804",
+  "dataObjectVersionID": 6650066,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:28.000Z",
+  "modified": "2018-10-20T02:31:43.000Z",
+  "title": "Sweet Gum",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Homer Edward Price",
+  "source": "https://www.flickr.com/photos/28340342@N08/5614912804/",
+  "mediaURL": "https://farm6.staticflickr.com/5264/5614912804_a90e91d538_o.gif",
+  "description": "Found in Gold Head Branch State Park, Florida",
+  "eolMediaURL": "https://content.eol.org/data/media/80/55/94/542.5614912804.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/55/94/542.5614912804.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/28340342@N08'>Homer Edward Price</a>",
+      "homepage": "http://www.flickr.com/photos/28340342@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

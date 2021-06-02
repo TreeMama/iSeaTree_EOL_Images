@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-549-BI-image-58668",
+  "dataObjectVersionID": 9025504,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-07-03T18:56:50.000Z",
+  "modified": "2018-10-20T13:05:03.000Z",
+  "title": "Growing near top of ravine",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.bioimages.org.uk/html/../image.php?id=58668",
+  "mediaURL": "http://www.discoverlife.org/mp/20p?img=I_MWS60575&res=mx",
+  "description": "Longitude (deg): -3.1. Latitude (deg): 51.9. Longitude (deg/min): 3ÃÂ° 10' W. Latitude (deg/min): 51ÃÂ° 60' N. Vice county name: Brecon. Vice county no.: 42. Country: Wales. Stage: Tree. Identified by: Malcolm Storey. Category: standard photograph or close-up. Photographic equipment used: Nikon D100 dSLR with Nikon 50mm AF. ",
+  "eolMediaURL": "https://content.eol.org/data/media/8a/2c/95/549.BI-image-58668.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8a/2c/95/549.BI-image-58668.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "BioImages, the virtual fieldguide, UK",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

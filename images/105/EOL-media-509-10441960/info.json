@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-10441960",
+  "dataObjectVersionID": 7044293,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:30:54.000Z",
+  "modified": "2018-10-24T12:46:03.000Z",
+  "title": "Maackia amurensis - Shoreway Arboretum - Southern Maine Community College, South Portland, ME - IMG 8166.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Maackia_amurensis_-_Shoreway_Arboretum_-_Southern_Maine_Community_College,_South_Portland,_ME_-_IMG_8166.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Maackia_amurensis_-_Shoreway_Arboretum_-_Southern_Maine_Community_College,_South_Portland,_ME_-_IMG_8166.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i>Maackia amurensis</i> in the Shoreway Arboretum, located on the campus of Southern Maine Community College, South Portland, Maine, USA.    Date 1 May 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Public domain.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5a/45/6b/509.10441960.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5a/45/6b/509.10441960.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

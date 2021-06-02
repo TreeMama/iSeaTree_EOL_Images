@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-23851656241",
+  "dataObjectVersionID": 6789784,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:34.000Z",
+  "modified": "2018-10-24T12:38:55.000Z",
+  "title": "J20151217-0003Sequoiadendron giganteumRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/23851656241/",
+  "mediaURL": "https://farm2.staticflickr.com/1716/23851656241_3789f15e99_o.jpg",
+  "description": "Sequoiadendron giganteumbig tree. Not all giant sequoia fit the \"towering giant\" image.  Sequoias were introduced into England within a year of \"discovery\" in 1852.  Indeed, the first scientific description of the tree used the genus _Wellingtonia_ after the Duke of Wellington, a designation that did not sit well with American botanists.  Fortunately, for international botanical relations it was soon found that _Wellingtonia_ had been used for another genus and was, thus, a \"nomen nudum\".  The tree was generally assigned to the genus _Sequoia_ along with the coastal redwood (Sequoia sempervirens) until it was assigned its current genus in 1939.  The tree is grown in many parts of the world as an ornamental, many of which are now more than 150 years old.) See Wikipedia <a href=\"https://en.wikipedia.org/wiki/Sequoiadendron_giganteum\">en.wikipedia.org/wiki/Sequoiadendron_giganteum</a> for a good account of the species, as well as  <a href=\"http://www.monumentaltrees.com/en/trees/giantsequoia/elsewhere/\">www.monumentaltrees.com/en/trees/giantsequoia/elsewhere/</a> for a discussion and photos of the trees in locations around the world.  Many cultivars exist.  Photographed at Regional Parks Botanic Garden located in Tilden Regional Parks near Berkeley, CA. ",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/eb/a3/542.23851656241.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/eb/a3/542.23851656241.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

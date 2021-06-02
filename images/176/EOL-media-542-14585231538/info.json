@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-14585231538",
+  "dataObjectVersionID": 6789782,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:34.000Z",
+  "modified": "2018-10-20T02:58:44.000Z",
+  "title": "H20140710-3031Sequoia Grove as sun breaks through the marine layerRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/14585231538/",
+  "mediaURL": "https://farm6.staticflickr.com/5579/14585231538_a54e22538a_o.jpg",
+  "description": "Sequoiadendron giganteumgiant sequoia. Our grove dates from 1940.  It gives just a small taste of what awaits you in the Sierra.  Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA. ",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/84/f1/542.14585231538.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/84/f1/542.14585231538.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

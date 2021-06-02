@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-11215278",
+  "dataObjectVersionID": 7109042,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1329,
+  "width": 1772,
+  "created": "2018-04-05T09:36:40.000Z",
+  "modified": "2019-04-11T21:41:09.000Z",
+  "title": "Thuja occidentalis 002.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "H. Zell",
+  "source": "https://commons.wikimedia.org/wiki/File:Thuja_occidentalis_002.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Thuja_occidentalis_002.JPG",
+  "description": "Contents <a href=\"#Summary\">1 Summary</a> <a href=\"#This_picture_is_part_of_a_set\">2 This picture is part of a set</a> <a href=\"#To_the_gallery_of_plants\">2.1 <i>To the gallery of plants</i></a> <a href=\"#Licensing\">3 Licensing</a> Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Thuja occidentalis</i>, Cupressaceae, Eastern Arborvitae, Northern Whitecedar, bark. Karlsruhe, Germany. Deutsch: <i>Thuja occidentalis</i>, Cupressaceae, AbendlÃ¤ndischer Lebensbaum, AbendlÃ¤ndische Thuja, GewÃ¶hnliche Thuja, Rinde. Karlsruhe, Deutschland.    Date 29 September 2009   Source Own work   Author H. Zell     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=048.970769_N_0008.401208_E_globe:Earth_type:camera_region:DE&amp;language=en\">48Â° 58â² 14.77â³ N, 8Â° 24â² 04.35â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/48.970769/8.401208\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=048.970769&amp;lon=0008.401208\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=048.970769&amp;londegdec=0008.401208&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 48.970769; 8.401208   This picture is part of a set[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: This picture is part of a set\">edit</a>] <a href=\"https://commons.wikimedia.org/wiki/File:Thuja_occidentalis_001.JPG\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Thuja_occidentalis_002.JPG\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Thuja_occidentalis_003.JPG\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Thuja_occidentalis_004.JPG\"></a>    <i><a href=\"https://commons.wikimedia.org/wiki/User:Llez/Gallery_of_plants\" title=\"User:Llez/Gallery of plants\">To the gallery of plants</a></i>[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=3\" title=\"Edit section: To the gallery of plants\">edit</a>]   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/78/7d/509.11215278.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/78/7d/509.11215278.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "H. Zell",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

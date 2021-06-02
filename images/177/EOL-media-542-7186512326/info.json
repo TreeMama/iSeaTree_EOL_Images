@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-7186512326",
+  "dataObjectVersionID": 6841008,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+  "license_id": 17,
+  "rightsHolder": "Elaine with Grey Cats",
+  "source": "https://www.flickr.com/photos/elainegreycats/7186512326/",
+  "mediaURL": "https://farm9.staticflickr.com/8024/7186512326_d85a177a79_o.jpg",
+  "description": "SONY DSC",
+  "eolMediaURL": "https://content.eol.org/data/media/80/f2/aa/542.7186512326.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/f2/aa/542.7186512326.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/44124477712@N01'>Elaine with Grey Cats</a>",
+      "homepage": "http://www.flickr.com/photos/44124477712@N01",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

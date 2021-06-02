@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-1032710",
+  "dataObjectVersionID": 7448653,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2560,
+  "width": 1920,
+  "created": "2018-04-05T10:27:16.000Z",
+  "modified": "2018-10-24T13:03:14.000Z",
+  "title": "Quercus rotundifolia7 agost06 012.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_rotundifolia7_agost06_012.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Quercus_rotundifolia7_agost06_012.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <a href=\"https://commons.wikimedia.org/wiki/File:Quercus_rotundifolia7_agost06_012.jpg\" title=\"File:Quercus rotundifolia7 agost06 012.jpg\">Image:Quercus_rotundifolia7__agost06_012.jpg</a> <i><a href=\"https://commons.wikimedia.org/wiki/Quercus_ilex\" title=\"Quercus ilex\">Quercus ilex</a></i> subsp. <i>rotundifolia</i> My own work, Castelltallat    Date 7 August 2005 (according to <a href=\"https://en.wikipedia.org/wiki/Exchangeable_image_file_format\" title=\"en:Exchangeable image file format\">Exif</a> data)   Source No machine-readable source provided. Own work assumed (based on copyright claims).   Author No machine-readable author provided. <a href=\"https://commons.wikimedia.org/w/index.php?title=User:V%C3%ADctor_M._Vicente_Selvas~commonswiki&amp;action=edit&amp;redlink=1\" title=\"User:VÃ­ctor M. Vicente Selvas~commonswiki\">VÃ­ctor M. Vicente Selvas~commonswiki</a> assumed (based on copyright claims).  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3c/4e/509.1032710.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3c/4e/509.1032710.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "No machine-readable author provided. Víctor M. Vicente Selvas~commonswiki assumed (based on copyright claims).",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:V%C3%ADctor_M._Vicente_Selvas~commonswiki&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

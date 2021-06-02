@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-10968169",
+  "dataObjectVersionID": 6941366,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2304,
+  "width": 3456,
+  "created": "2018-04-05T09:17:36.000Z",
+  "modified": "2018-10-24T12:41:53.000Z",
+  "title": "Persian iron wood tree Parottia Persica photo by Pejman Akbarzadeh Persian Dutch Network.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Persian_iron_wood_tree_Parottia_Persica_photo_by_Pejman_Akbarzadeh_Persian_Dutch_Network.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Persian_iron_wood_tree_Parottia_Persica_photo_by_Pejman_Akbarzadeh_Persian_Dutch_Network.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Persian Ironwood Tree (aka. \"Parrotia Persica\" and \"Perzische Parrotia\") at the Hortus Botanicus Amsterdam - Photo by Pejman Akbarzadeh (Persian Dutch Network) ÙØ§Ø±Ø³Û: 2010 Ø¯Ø±Ø®Øª \"Ø¢ÙÙÛÙ ÚÙØ¨ Ø§ÛØ±Ø§ÙÛ\" (Ø¯Ø±Ø®Øª Ø§ÙØ¬ÛÙÛ) - Ø¯Ø± Ø¨Ø§Øº Ú¯ÛØ§Ù Ø´ÙØ§Ø³Û Ø¢ÙØ³ØªØ±Ø¯Ø§Ù - Ø¹Ú©Ø³ Ø§Ø² Ù¾ÚÙØ§Ù Ø§Ú©Ø¨Ø±Ø²Ø§Ø¯Ù - Ø´Ø¨Ú©Ù Ø§ÛØ±Ø§ÙÛØ§Ù ÙÙÙØ¯ - ÚÙÛÛÙ    Date 20 July 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:PersianDutchNetwork&amp;action=edit&amp;redlink=1\" title=\"User:PersianDutchNetwork\">PersianDutchNetwork</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/67/29/509.10968169.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/67/29/509.10968169.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Lotje'>Lotje</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Lotje",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:Lotje'>Lotje</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Lotje",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

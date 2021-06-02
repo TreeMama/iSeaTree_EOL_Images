@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5594457306",
+  "dataObjectVersionID": 6748347,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:36.000Z",
+  "modified": "2018-10-20T02:51:22.000Z",
+  "title": "Eastern Hophornbeam",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Katja Schulz",
+  "source": "https://www.flickr.com/photos/treegrow/5594457306/",
+  "mediaURL": "https://farm6.staticflickr.com/5310/5594457306_04c8695fc0_o.jpg",
+  "description": "<em>Ostrya virginiana</em>.  Cultivated. National Botanic Garden, Washington, DC, USA. 3 April 2011.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/53/f9/542.5594457306.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/53/f9/542.5594457306.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/86548370@N00'>Katja Schulz</a>",
+      "homepage": "http://www.flickr.com/photos/86548370@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

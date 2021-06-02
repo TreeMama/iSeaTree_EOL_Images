@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-8720656612",
+  "dataObjectVersionID": 17437,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:37:59.000Z",
+  "title": "n184_w1150",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm8.staticflickr.com/7339/8720656612_150627d908_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/8720656612/",
+  "description": "Histoire des arbres forestiers de l'Amrique septentrionale,.Paris,L. Haussmann,1812-13..<a href=\"http://biodiversitylibrary.org/page/27130133\">biodiversitylibrary.org/page/27130133</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/44/1d/8.8720656612.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/44/1d/8.8720656612.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

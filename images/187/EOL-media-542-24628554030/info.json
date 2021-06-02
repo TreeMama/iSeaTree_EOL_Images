@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-24628554030",
+  "dataObjectVersionID": 6675928,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:18:19.000Z",
+  "modified": "2018-10-20T02:36:33.000Z",
+  "title": "Japanese Snowbell seeds",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Kirill Ignatyev",
+  "source": "https://www.flickr.com/photos/bushman_k/24628554030/",
+  "mediaURL": "https://farm2.staticflickr.com/1594/24628554030_485f821446_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/f3/13/542.24628554030.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/f3/13/542.24628554030.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/22271981@N07'>Kirill Ignatyev</a>",
+      "homepage": "http://www.flickr.com/photos/22271981@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

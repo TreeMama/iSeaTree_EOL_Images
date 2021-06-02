@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-7929240990",
+  "dataObjectVersionID": 13948,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:22.000Z",
+  "modified": "2018-10-19T15:37:28.000Z",
+  "title": "n90_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm9.staticflickr.com/8447/7929240990_be299ca9e0_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/7929240990/",
+  "description": "Illustrations of medical botany :.Philadelphia :R.P. Smith,1847..<a href=\"http://biodiversitylibrary.org/page/5878548\">biodiversitylibrary.org/page/5878548</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/36/7c/8.7929240990.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/36/7c/8.7929240990.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

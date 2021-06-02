@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-20332196",
+  "dataObjectVersionID": 7254613,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:00:18.000Z",
+  "modified": "2019-08-15T23:14:44.000Z",
+  "title": "Magnolia grandiflora Branches and Leaves.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "乌拉跨氪",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_Branches_and_Leaves.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Magnolia_grandiflora_Branches_and_Leaves.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  ä¸­æ: å»£çè­æè    Date 12 July 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:%E4%B9%8C%E6%8B%89%E8%B7%A8%E6%B0%AA\" title=\"User:ä¹æè·¨æ°ª\">ä¹æè·¨æ°ª</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/5e/e2/509.20332196.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/5e/e2/509.20332196.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "乌拉跨氪",
+      "homepage": "https://commons.wikimedia.org/wiki/User:%E4%B9%8C%E6%8B%89%E8%B7%A8%E6%B0%AA",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

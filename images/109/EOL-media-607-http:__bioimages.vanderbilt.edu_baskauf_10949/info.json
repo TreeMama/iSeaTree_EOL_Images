@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-607-http://bioimages.vanderbilt.edu/baskauf/10949",
+  "dataObjectVersionID": 9271871,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-10-02T15:01:49.000Z",
+  "modified": "2018-10-20T13:48:39.000Z",
+  "title": "Magnolia grandiflora (Magnoliaceae) - inflorescence - lateral view of flower",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "license_id": 10,
+  "rightsHolder": "Steven J. Baskauf",
+  "source": "http://bioimages.vanderbilt.edu/baskauf/10949",
+  "mediaURL": "http://bioimages.vanderbilt.edu/gq/baskauf/gmagr4-fl10949.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/04/6c/607.http___bioimages_vanderbilt_edu_baskauf_10949.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/04/6c/607.http___bioimages_vanderbilt_edu_baskauf_10949.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Steven J. Baskauf",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "Bioimages Vanderbilt DwCA",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

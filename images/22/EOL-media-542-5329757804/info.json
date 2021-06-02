@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5329757804",
+  "dataObjectVersionID": 6790178,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:41.000Z",
+  "modified": "2018-10-20T02:58:50.000Z",
+  "title": "Red Maple",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Emma Harrower",
+  "source": "https://www.flickr.com/photos/57941693@N02/5329757804/",
+  "mediaURL": "https://farm6.staticflickr.com/5161/5329757804_4b8b211a95_o.jpg",
+  "description": "Female flowers. Found at the edges of a naturalized park in Toronto, Ontario, Canada.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/3f/58/542.5329757804.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/3f/58/542.5329757804.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/57941693@N02'>Emma Harrower</a>",
+      "homepage": "http://www.flickr.com/photos/57941693@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

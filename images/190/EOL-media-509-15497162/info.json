@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-15497162",
+  "dataObjectVersionID": 7108522,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:36:26.000Z",
+  "modified": "2019-06-02T17:37:17.000Z",
+  "title": "Thuja plicata shoot Marki.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Thuja_plicata_shoot_Marki.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/Thuja_plicata_shoot_Marki.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Young <i><a href=\"https://commons.wikimedia.org/wiki/Thuja_plicata\" title=\"Thuja plicata\">Thuja plicata</a></i> shoot, <a href=\"https://commons.wikimedia.org/wiki/Marki\" title=\"Marki\">Marki</a>, Poland. Polski: Czubek mÅodego Å¼ywotnika olbrzymiego (<i><a href=\"https://commons.wikimedia.org/wiki/Thuja_plicata\" title=\"Thuja plicata\">Thuja plicata</a></i>), <a href=\"https://commons.wikimedia.org/wiki/Marki\" title=\"Marki\">Marki</a>, Polska.    Date 13 June 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Crusier\" title=\"User:Crusier\">Crusier</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/4d/ba/509.15497162.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/4d/ba/509.15497162.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "SchlurcherBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:SchlurcherBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

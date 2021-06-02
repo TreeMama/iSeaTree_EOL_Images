@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-21157176",
+  "dataObjectVersionID": 7858875,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:31:45.000Z",
+  "modified": "2018-10-24T13:20:23.000Z",
+  "title": "Quercus imbricaria NRCS-1.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_imbricaria_NRCS-1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Quercus_imbricaria_NRCS-1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Quercus imbricaria</i> Michx. (shingle oak)    Date 1995   Source <a href=\"http://plants.usda.gov/java/profile?symbol=QUIM\">USDA-NRCS PLANTS Database: <i>Quercus imbricaria</i> Michx.</a>   Author Robert H. Mohlenbrock. USDA NRCS. 1995. Northeast wetland flora: Field office guide to plant species. Northeast National Technical Center, Chester. Courtesy of USDA NRCS Wetland Science Institute.   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  This image is not copyrighted and may be freely used for any purpose. Please credit the artist, original publication if applicable, and the USDA-NRCS PLANTS Database. The following format is suggested and will be appreciated: Robert H. Mohlenbrock @ USDA-NRCS PLANTS Database / USDA NRCS. 1995. Northeast wetland flora: Field office guide to plant species. Northeast National Technical Center, Chester.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/87/39/509.21157176.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/87/39/509.21157176.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Robert H. Mohlenbrock. USDA NRCS. 1995. Northeast wetland flora: Field office guide to plant species. Northeast National Technical Center, Chester. Courtesy of USDA NRCS Wetland Science Institute.",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "USDA-NRCS PLANTS Database: Quercus imbricaria Michx.",
+      "homepage": "http://plants.usda.gov/java/profile?symbol=QUIM",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6508145133",
+  "dataObjectVersionID": 6828931,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:17.000Z",
+  "modified": "2018-10-20T03:13:07.000Z",
+  "title": "White fir needles",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Tony Frates",
+  "source": "https://www.flickr.com/photos/tonyfrates/6508145133/",
+  "mediaURL": "https://farm8.staticflickr.com/7005/6508145133_575fc4ce99_o.jpg",
+  "description": "<i>Abies concolor</i> (Gord. &amp; Glend.) Lindl. ex Hildebr.The usually upwardly pointing needles are sickle-shaped and like Subalpine fir, <i>A. lasiocarpa</i>, have an upper surface with a median white band and a lower surface with two lower bands separated by a midvein.  The ends of the needles are usually blunt and not notched as in Subalpine fir, and not radially arranged. September 5, 2011,  Wasatch Plateau, Huntington Canyon, near Huntingon Creek, northwestern corner of Emery County, Utah at approx. 7,185 ft. elev.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/a3/3c/542.6508145133.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/a3/3c/542.6508145133.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54551481@N08'>Tony Frates</a>",
+      "homepage": "http://www.flickr.com/photos/54551481@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

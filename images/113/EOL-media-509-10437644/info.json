@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10437644",
+  "dataObjectVersionID": 7058424,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1536,
+  "width": 2048,
+  "created": "2018-04-05T09:32:07.000Z",
+  "modified": "2019-05-27T07:22:25.000Z",
+  "title": "Magnolia sieboldii02.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Meneerke bloem",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_sieboldii02.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Magnolia_sieboldii02.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i>Magnolia sieboldii</i>    Date 26 May 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Meneerke_bloem\" title=\"User:Meneerke bloem\">Meneerke bloem</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/43/99/509.10437644.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/43/99/509.10437644.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Meneerke bloem",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Meneerke_bloem",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

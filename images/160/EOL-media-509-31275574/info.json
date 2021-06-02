@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-31275574",
+  "dataObjectVersionID": 8091940,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:08:26.000Z",
+  "modified": "2019-03-25T17:21:06.000Z",
+  "title": "Quercus frainetto kew1.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Somepics",
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_frainetto_kew1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Quercus_frainetto_kew1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Hungarian Oak, Quercus frainetto, at Kew Botanic Garden, London, England.    Date 21 February 2014, 13:10:25   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Somepics\" title=\"User:Somepics\">Somepics</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/85/c0/509.31275574.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/85/c0/509.31275574.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Somepics",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Somepics",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

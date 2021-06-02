@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2962778795",
+  "dataObjectVersionID": 6853689,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:47:13.000Z",
+  "modified": "2018-10-20T03:18:50.000Z",
+  "title": "Carya ovata",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "enviro runner",
+  "source": "https://www.flickr.com/photos/31583080@N07/2962778795/",
+  "mediaURL": "https://farm4.staticflickr.com/3285/2962778795_dff0ed0499_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/35/67/542.2962778795.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/35/67/542.2962778795.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/31583080@N07'>enviro runner</a>",
+      "homepage": "http://www.flickr.com/photos/31583080@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

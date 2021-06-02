@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-2856",
+  "dataObjectVersionID": 7203800,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:55:38.000Z",
+  "modified": "2018-10-24T12:52:51.000Z",
+  "title": "Trachycarpus fortunei0.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Trachycarpus_fortunei0.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Trachycarpus_fortunei0.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Species: <i>Trachycarpus fortunei</i><br> Family: <i>Palmae</i><br> Image No. 1    Date 2004   Source <a href=\"http://caliban.mpiz-koeln.mpg.de/mavica/index.html\">caliban.mpiz-koeln.mpg.de/mavica/index.html</a> part of <a href=\"http://www.biolib.de\">www.biolib.de</a>   Author Kurt StÃ¼ber <a href=\"http://www.kurtstueber.de/\">[1]</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  <a href=\"http://caliban.mpiz-koeln.mpg.de/mavica/fdl.txt\">GFDL</a>    Camera Model <a href=\"https://en.wikipedia.org/wiki/en:Sony_Mavica\" title=\"w:en:Sony Mavica\">Sony Mavica</a>   <br> Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/1a/cb/509.2856.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/1a/cb/509.2856.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "~riley",
+      "homepage": "https://commons.wikimedia.org/wiki/User:~riley",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

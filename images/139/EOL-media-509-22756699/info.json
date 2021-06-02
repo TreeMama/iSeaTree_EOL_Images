@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-22756699",
+  "dataObjectVersionID": 7127127,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:38:23.000Z",
+  "modified": "2019-03-20T14:57:55.000Z",
+  "title": "Populus balsamifera (5201613169).jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Matt Lavin",
+  "source": "https://commons.wikimedia.org/wiki/File:Populus_balsamifera_(5201613169).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Populus_balsamifera_(5201613169).jpg",
+  "description": "DescriptionAPI  Balsam popular often forms the largest riparian tree in the Gallatin Valley and vicinity.    Date 29 October 2010, 08:22   Source <a href=\"http://www.flickr.com/photos/plant_diversity/5201613169/\">Populus balsamifera</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:Tim1357\" title=\"User:Tim1357\">Tim1357</a>    Author <a href=\"http://www.flickr.com/people/35478170@N08\">Matt Lavin</a> from Bozeman, Montana, USA     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=045.657608_N_-111.031114_E_globe:Earth_type:camera_source:Flickr&amp;language=en\">45Â° 39â² 27.39â³ N, 111Â° 01â² 52.01â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/45.657608/-111.031114\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=045.657608&amp;lon=-111.031114\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=045.657608&amp;londegdec=-111.031114&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 45.657608; -111.031114  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/df/52/509.22756699.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/df/52/509.22756699.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Matt Lavin",
+      "homepage": "http://www.flickr.com/people/35478170@N08",
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID plant_diversity",
+      "homepage": "http://www.flickr.com/photos/plant_diversity/5027147325/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

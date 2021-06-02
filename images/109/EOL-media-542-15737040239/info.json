@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-15737040239",
+  "dataObjectVersionID": 6800213,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:54.000Z",
+  "modified": "2018-10-20T03:01:13.000Z",
+  "title": "Southern Magnolia Seedhead",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Steven Severinghaus",
+  "source": "https://www.flickr.com/photos/horsepunchkid/15737040239/",
+  "mediaURL": "https://farm8.staticflickr.com/7464/15737040239_c8f24e72e1_o.jpg",
+  "description": "<em>Magnolia grandiflora</em> seedhead in the atrium at the Brooklyn Botanic Garden",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/a4/a5/542.15737040239.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/a4/a5/542.15737040239.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/17373191@N00'>Steven Severinghaus</a>",
+      "homepage": "http://www.flickr.com/photos/17373191@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

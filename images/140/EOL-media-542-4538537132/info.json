@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4538537132",
+  "dataObjectVersionID": 6652715,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:54.000Z",
+  "modified": "2018-10-20T02:32:09.000Z",
+  "title": "Populus nigra - bark (3/3)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Tatiana Bulyonkova",
+  "source": "https://www.flickr.com/photos/ressaure/4538537132/",
+  "mediaURL": "https://farm5.staticflickr.com/4013/4538537132_da6b54fcae_o.jpg",
+  "description": "People cut down several giant old poplars which produced a bumper crop of early morels (<i>Verpa bohemica</i>) each year, and there were several chunks of their trunks left in the place. I took these pictures. I hope that these magnificent trees will live on there as root clones.",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/fe/6f/542.4538537132.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/fe/6f/542.4538537132.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/41503862@N08'>Tatiana Bulyonkova</a>",
+      "homepage": "http://www.flickr.com/photos/41503862@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

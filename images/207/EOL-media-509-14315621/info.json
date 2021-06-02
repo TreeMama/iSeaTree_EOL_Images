@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-14315621",
+  "dataObjectVersionID": 7534165,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:11.000Z",
+  "modified": "2019-06-14T21:10:07.000Z",
+  "title": "Hickory leaves, Cockington - geograph.org.uk - 1561847.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Derek Harper",
+  "source": "https://commons.wikimedia.org/wiki/File:Hickory_leaves,_Cockington_-_geograph.org.uk_-_1561847.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hickory_leaves,_Cockington_-_geograph.org.uk_-_1561847.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Hickory leaves, Cockington The National Collection of Hickory Trees is at Cockington, up the hill in the southwest corner of the main park. This is the Shagbark Hickory, Carya ovata.    Date 24 October 2009   Source From <a href=\"http://www.geograph.org.uk/photo/1561847\">geograph.org.uk</a>   Author <a href=\"http://www.geograph.org.uk/profile/5089\">Derek Harper</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=050.461441_N_-003.563926_E_globe:Earth_type:camera_heading:337&amp;language=en\">50Â° 27â² 41.19â³ N, 3Â° 33â² 50.13â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/50.461441/-3.563926\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=050.461441&amp;lon=-003.563926\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=050.461441&amp;londegdec=-003.563926&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 50.461441; -3.563926  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/0c/79/509.14315621.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/0c/79/509.14315621.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Derek Harper",
+      "homepage": "http://www.geograph.org.uk/profile/5089",
+      "role": "creator"
+    },
+    {
+      "full_name": "From geograph.org.uk",
+      "homepage": "http://www.geograph.org.uk/photo/1465192",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6508361873",
+  "dataObjectVersionID": 6827990,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:08.000Z",
+  "modified": "2018-10-20T03:12:54.000Z",
+  "title": "Rocky Mountain Douglas fir resinous cones",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Tony Frates",
+  "source": "https://www.flickr.com/photos/tonyfrates/6508361873/",
+  "mediaURL": "https://farm8.staticflickr.com/7146/6508361873_be94f19d70_o.jpg",
+  "description": "<i> Pseudotsuga menziesii</i> (Mirb.) Franco var. <i>glauca</i> (Beissn.) Franco (or (Mayr) Franco ?).  Young cones with their spreading bracts coupled with the bluish-green to dark-green needles in part distinguish the interior from the coastal variety.September 5, 2011,   Wasatch Plateau, Huntington Canyon, northwestern corner of Emery County, Utah at approx. 7,195 ft. elev.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/a3/3e/542.6508361873.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/a3/3e/542.6508361873.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/54551481@N08'>Tony Frates</a>",
+      "homepage": "http://www.flickr.com/photos/54551481@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

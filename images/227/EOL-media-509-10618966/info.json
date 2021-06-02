@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10618966",
+  "dataObjectVersionID": 7137782,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 720,
+  "width": 540,
+  "created": "2018-04-05T09:39:17.000Z",
+  "modified": "2019-04-19T03:06:42.000Z",
+  "title": "River Birch Leaves.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Skylar Vance",
+  "source": "https://commons.wikimedia.org/wiki/File:River_Birch_Leaves.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/River_Birch_Leaves.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: New leaves on a nearly matured River Birch.    Date 13 April 2010   Source Skylar Vance   Author Skylar Vance   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  Creative Commons   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/50/29/509.10618966.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/50/29/509.10618966.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Skylar Vance",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Skylar Vance",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

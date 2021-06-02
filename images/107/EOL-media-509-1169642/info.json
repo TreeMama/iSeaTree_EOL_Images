@@ -1,0 +1,35 @@
+{
+  "identifier": "EOL-media-509-1169642",
+  "dataObjectVersionID": 8052473,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1704,
+  "width": 2272,
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2018-10-24T13:28:03.000Z",
+  "title": "Magnolia denudata f.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_denudata_f.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Magnolia_denudata_f.JPG",
+  "description": "DescriptionAPI  çå°æªå¼çè±è    Date 16:24, 13 September 2006 (UTC)   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Shizhao\" title=\"User:Shizhao\">Shizhao</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.        https://creativecommons.org/licenses/by-sa/2.5 CC BY-SA 2.5 Creative Commons Attribution-Share Alike 2.5 truetrue      ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/93/a4/509.1169642.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/93/a4/509.1169642.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Hazard-Bot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Hazard-Bot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

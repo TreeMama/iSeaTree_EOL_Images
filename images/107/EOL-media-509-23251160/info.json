@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-23251160",
+  "dataObjectVersionID": 8052478,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:29:01.000Z",
+  "title": "Magnolia denudata (1).jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Brooklyn Botanic Garden",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_denudata_(1).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Magnolia_denudata_(1).jpg",
+  "description": "DescriptionAPI  photo by alison dorfman    Date 3 April 2007, 12:00   Source <a href=\"http://www.flickr.com/photos/brooklynbotanicgarden/1525628573/\">Magnolia denudata</a> Uploaded by <a href=\"https://commons.wikimedia.org/wiki/User:Uleli\" title=\"User:Uleli\">uleli</a>    Author <a href=\"http://www.flickr.com/people/13287844@N04\">Brooklyn Botanic Garden</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/fa/e0/509.23251160.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/fa/e0/509.23251160.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Brooklyn Botanic Garden",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Flickr user ID brooklynbotanicgarden",
+      "homepage": "http://www.flickr.com/photos/brooklynbotanicgarden/1525628573/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

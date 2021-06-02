@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3259251978",
+  "dataObjectVersionID": 6657166,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:14:33.000Z",
+  "modified": "2018-10-20T02:32:57.000Z",
+  "title": "Scarlet Oak",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "sandy richard",
+  "source": "https://www.flickr.com/photos/9428166@N03/3259251978/",
+  "mediaURL": "https://farm4.staticflickr.com/3360/3259251978_6b6233287d_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/69/53/542.3259251978.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/69/53/542.3259251978.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/9428166@N03'>sandy richard</a>",
+      "homepage": "http://www.flickr.com/photos/9428166@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10370154",
+  "dataObjectVersionID": 7108516,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 600,
+  "width": 418,
+  "created": "2018-04-05T09:36:26.000Z",
+  "modified": "2019-06-02T17:39:44.000Z",
+  "title": "Refugee Tree.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Photo by TJ Watt",
+  "source": "https://commons.wikimedia.org/wiki/File:Refugee_Tree.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Refugee_Tree.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: The Refugee Tree is the largest known redcedar growing in the CRD. It measures 14 m around its gigantic base and could be well over 500 years old.    Date    Source Own work   Author Photo by TJ Watt  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3e/99/509.10370154.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3e/99/509.10370154.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Photo by TJ Watt",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

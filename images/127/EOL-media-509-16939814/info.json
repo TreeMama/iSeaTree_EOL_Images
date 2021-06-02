@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-16939814",
+  "dataObjectVersionID": 6941371,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:36.000Z",
+  "modified": "2018-10-20T03:31:36.000Z",
+  "title": "File:Parrotia persica 'Burgundy' - J. C. Raulston Arboretum - DSC06150.JPG",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Parrotia_persica_%27Burgundy%27_-_J._C._Raulston_Arboretum_-_DSC06150.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Parrotia_persica_'Burgundy'_-_J._C._Raulston_Arboretum_-_DSC06150.JPG",
+  "description": "Parrotia persica 'Burgundy' specimen in the J. C. Raulston Arboretum (North Carolina State University), 4415 Beryl Road, Raleigh, North Carolina, USA.",
+  "eolMediaURL": "https://content.eol.org/data/media/56/9c/d8/509.16939814.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/9c/d8/509.16939814.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Daderot",
+      "homepage": null,
+      "role": "author"
+    },
+    {
+      "full_name": "Daderot",
+      "homepage": null,
+      "role": "author"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

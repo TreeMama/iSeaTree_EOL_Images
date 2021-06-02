@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-11041168",
+  "dataObjectVersionID": 7903989,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2900,
+  "width": 2200,
+  "created": "2018-04-05T11:42:53.000Z",
+  "modified": "2019-06-05T09:32:18.000Z",
+  "title": "Mountain hemlock Tsuga mertensiana needles.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Dcrjsr",
+  "source": "https://commons.wikimedia.org/wiki/File:Mountain_hemlock_Tsuga_mertensiana_needles.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mountain_hemlock_Tsuga_mertensiana_needles.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Mountain hemlock (Tsuga mertensiana) needle clusters. Crystal Crag trail above Lake George, Sierra Nevada, USA.    Date 21 July 2010   Source Own work   Author Dcrjsr  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/6b/5b/509.11041168.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/6b/5b/509.11041168.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dcrjsr",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Dcrjsr",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-523082146",
+  "dataObjectVersionID": 6790505,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:43.000Z",
+  "modified": "2018-10-20T02:58:53.000Z",
+  "title": "P5280029",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Natrium Chlorine",
+  "source": "https://www.flickr.com/photos/nacl/523082146/",
+  "mediaURL": "https://farm1.staticflickr.com/217/523082146_3745ccb3a6_o.jpg",
+  "description": "Japanese zelkova  1,000 Tokyo, Mitake-san ",
+  "eolMediaURL": "https://content.eol.org/data/media/80/38/86/542.523082146.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/38/86/542.523082146.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/80654351@N00'>Natrium Chlorine</a>",
+      "homepage": "http://www.flickr.com/photos/80654351@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

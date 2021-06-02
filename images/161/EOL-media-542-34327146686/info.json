@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-34327146686",
+  "dataObjectVersionID": 6790681,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:44.000Z",
+  "modified": "2018-10-24T12:38:56.000Z",
+  "title": "J20170429-0007Quercus garryanaRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/34327146686/",
+  "mediaURL": "https://farm5.staticflickr.com/4166/34327146686_5e15bef89e_o.jpg",
+  "description": "Quercus garryanaOregon white oak.  Ranges from Vancouver Island south to southern California.  Garry oak is the only native species of oak in British Columbia and Washington.  It is a stately tree in the northern part of its range but dwindles to a shrub by the time it reached the southern end of its range (though still attractive.)  Donald Culross Peattie  wrote,\"The chief beauty of the Oregon white oak is in the light hue of the bark, almost bone-white sometimes. The great trunks, of a winter twilight, when the leaves are fallen, may stand out almost like cemetery slabs, with a strangely ghostly effect, but by day their pale bark has a look of cool elegance. Sometimes, where the fog or rainfall is heavy, the trunks and boughs are rimed with emerald moss which flows every twist of the gnarled branches till they look like something out of a Grimm fairy tale.\"  The leaf photographed is from a tree at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA. ",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/83/93/542.34327146686.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/83/93/542.34327146686.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

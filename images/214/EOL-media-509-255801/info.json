@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-255801",
+  "dataObjectVersionID": 7166130,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:52:20.000Z",
+  "modified": "2019-06-01T03:17:49.000Z",
+  "title": "Acer ginnala.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "MPF",
+  "source": "https://commons.wikimedia.org/wiki/File:Acer_ginnala.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Acer_ginnala.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Amur Maple <i>Acer ginnala</i> foliage, cultivated, Armstrong Park, Newcastle, Northumberland, UK    Date 16 July 2005   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:MPF\" title=\"User:MPF\">MPF</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=054.984701_N_-001.585852_E_globe:Earth_type:camera_&amp;language=en\">54Â° 59â² 04.92â³ N, 1Â° 35â² 09.07â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/54.984701/-1.585852\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=054.984701&amp;lon=-001.585852\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=054.984701&amp;londegdec=-001.585852&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 54.984701; -1.585852  ",
+  "eolMediaURL": "https://content.eol.org/data/media/58/86/17/509.255801.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/58/86/17/509.255801.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "MPF",
+      "homepage": "https://commons.wikimedia.org/wiki/User:MPF",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

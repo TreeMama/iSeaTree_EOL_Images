@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-1982895",
+  "dataObjectVersionID": 7166127,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:52:20.000Z",
+  "modified": "2019-06-01T03:20:19.000Z",
+  "title": "Acer ginnala var aidzuense 2.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "www.fitofoto.eu",
+  "source": "https://commons.wikimedia.org/wiki/File:Acer_ginnala_var_aidzuense_2.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Acer_ginnala_var_aidzuense_2.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Acer_ginnala\" title=\"Acer ginnala\">Acer ginnala</a></i> var. <i>aidzuense</i> (syn. <i>A. tataricum</i> subsp. <i>aidzuense</i>)    Date 03-06-2006   Source Own work   Author www.fitofoto.eu  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/3c/53/509.1982895.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/3c/53/509.1982895.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "www.fitofoto.eu",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

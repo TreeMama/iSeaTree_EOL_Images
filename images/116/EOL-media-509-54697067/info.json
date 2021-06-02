@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-54697067",
+  "dataObjectVersionID": 7525023,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:45:21.000Z",
+  "modified": "2019-05-15T19:53:39.000Z",
+  "title": "Malus fusca kz1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Krzysztof Ziarnek, Kenraiz",
+  "source": "https://commons.wikimedia.org/wiki/File:Malus_fusca_kz1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Malus_fusca_kz1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Malus fusca in the Humboldt Botanical Garden, Eureka, Ca    Date 21 September 2016, 01:02:56   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/64/96/24/509.54697067.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/64/96/24/509.54697067.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Krzysztof Ziarnek, Kenraiz",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Kenraiz",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

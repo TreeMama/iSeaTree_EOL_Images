@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-2412568661",
+  "dataObjectVersionID": 6790500,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:43.000Z",
+  "modified": "2018-10-20T02:58:53.000Z",
+  "title": " Zelkova serrata (Thunb.) Makino  97 ",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": " LiChieh Pan",
+  "source": "https://www.flickr.com/photos/plj/2412568661/",
+  "mediaURL": "https://farm3.staticflickr.com/2262/2412568661_c3d674faf8_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/ee/11/542.2412568661.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/ee/11/542.2412568661.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/68821308@N00'> LiChieh Pan</a>",
+      "homepage": "http://www.flickr.com/photos/68821308@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

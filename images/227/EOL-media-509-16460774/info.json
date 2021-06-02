@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-16460774",
+  "dataObjectVersionID": 7137783,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:39:18.000Z",
+  "modified": "2019-04-19T03:06:15.000Z",
+  "title": "River Birch at Skyfields Arboretum, Athol MA.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "John Phelan",
+  "source": "https://commons.wikimedia.org/wiki/File:River_Birch_at_Skyfields_Arboretum,_Athol_MA.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/River_Birch_at_Skyfields_Arboretum,_Athol_MA.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: River Birch at Skyfields Arboretum, Athol Massachusetts    Date 11 September 2011   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Faolin42\" title=\"User:Faolin42\">John Phelan</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/87/8a/509.16460774.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/87/8a/509.16460774.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "John Phelan",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Faolin42",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

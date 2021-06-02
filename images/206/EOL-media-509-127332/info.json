@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-127332",
+  "dataObjectVersionID": 7109047,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:36:40.000Z",
+  "modified": "2018-10-24T12:48:43.000Z",
+  "title": "Thuja occidentalis1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:Thuja_occidentalis1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Thuja_occidentalis1.jpg",
+  "description": "<i><a href=\"https://commons.wikimedia.org/wiki/Thuja_occidentalis\" title=\"Thuja occidentalis\">Thuja occidentalis</a></i> Pictures from <a href=\"https://commons.wikimedia.org/wiki/Longwood_Gardens\" title=\"Longwood Gardens\">Longwood Gardens</a> taken by <a href=\"https://commons.wikimedia.org/wiki/User:Raul654\" title=\"User:Raul654\">Raul654</a> On May 1, 2005.    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/d5/30/509.127332.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/d5/30/509.127332.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "JarektBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:JarektBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

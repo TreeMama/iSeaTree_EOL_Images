@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0211 1565",
+  "dataObjectVersionID": 8907422,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:49:28.000Z",
+  "modified": "2018-10-20T12:32:11.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2011 Wynn Anderson",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=348428&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0211/1565.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/85/2b/78/7.CalPhotos_0000_0000_0211_1565.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/85/2b/78/7.CalPhotos_0000_0000_0211_1565.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Wynn+Anderson&one=T'>Wynn Anderson</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Wynn+Anderson&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

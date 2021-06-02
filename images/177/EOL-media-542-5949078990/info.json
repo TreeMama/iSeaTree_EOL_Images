@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5949078990",
+  "dataObjectVersionID": 6841006,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "title": "Redwoods (Sequoia sempervirens) in Redwood Regional Park",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Miguel Vieira",
+  "source": "https://www.flickr.com/photos/miguelvieira/5949078990/",
+  "mediaURL": "https://farm7.staticflickr.com/6008/5949078990_12a22e81f6_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/6d/ba/542.5949078990.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/6d/ba/542.5949078990.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/11563230@N04'>Miguel Vieira</a>",
+      "homepage": "http://www.flickr.com/photos/11563230@N04",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

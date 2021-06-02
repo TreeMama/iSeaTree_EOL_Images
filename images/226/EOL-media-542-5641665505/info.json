@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5641665505",
+  "dataObjectVersionID": 6638791,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:12.000Z",
+  "modified": "2018-10-20T02:29:35.000Z",
+  "title": "Chinese Juniper {juniperus chinensis } td1967",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Drew Avery",
+  "source": "https://www.flickr.com/photos/33590535@N06/5641665505/",
+  "mediaURL": "https://farm6.staticflickr.com/5049/5641665505_3b7bc82a3d_o.jpg",
+  "description": "National Arboretum Bonsai CollectionTraining date 1967",
+  "eolMediaURL": "https://content.eol.org/data/media/80/57/c9/542.5641665505.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/57/c9/542.5641665505.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33590535@N06'>Drew Avery</a>",
+      "homepage": "http://www.flickr.com/photos/33590535@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5895983411",
+  "dataObjectVersionID": 6824840,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:47.000Z",
+  "modified": "2018-10-20T03:12:01.000Z",
+  "title": "Sciadopitys verticillata Gifu",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "James",
+  "source": "https://www.flickr.com/photos/26942787@N03/5895983411/",
+  "mediaURL": "https://farm7.staticflickr.com/6060/5895983411_4b524fcedb_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/68/b5/542.5895983411.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/68/b5/542.5895983411.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/26942787@N03'>James</a>",
+      "homepage": "http://www.flickr.com/photos/26942787@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-17391304",
+  "dataObjectVersionID": 7534169,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:46:11.000Z",
+  "modified": "2019-06-14T21:09:45.000Z",
+  "title": "DukeForest shagbarkHickoryNut thickShell.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Dcrjsr",
+  "source": "https://commons.wikimedia.org/wiki/File:DukeForest_shagbarkHickoryNut_thickShell.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/DukeForest_shagbarkHickoryNut_thickShell.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Shagbark hickory (Carya ovata), one quarter-section from nut, showing how thick the shell is. Duke Forest, Durham North Carolina.    Date 6 June 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Dcrjsr\" title=\"User:Dcrjsr\">Dcrjsr</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/b6/bb/509.17391304.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/b6/bb/509.17391304.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dcrjsr",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Dcrjsr",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

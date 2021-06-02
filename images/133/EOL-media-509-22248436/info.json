@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-22248436",
+  "dataObjectVersionID": 6910060,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:15:41.000Z",
+  "modified": "2018-10-24T12:40:30.000Z",
+  "title": "File:Pinus pinea DoÃ±ana 1.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_Do%C3%B1ana_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pinus_pinea_DoÃ±ana_1.jpg",
+  "description": "<a href=\"//commons.wikimedia.org/wiki/Pinus_pinea\" title=\"Pinus pinea\">Pinus pinea</a>, <a href=\"//commons.wikimedia.org/wiki/Do%C3%B1ana_National_Park\" title=\"DoÃ±ana National Park\">DoÃ±ana National Park</a> (<a href=\"//commons.wikimedia.org/wiki/Andalusia\" class=\"mw-redirect\" title=\"Andalusia\">Andalusia</a>, Spain).",
+  "eolMediaURL": "https://content.eol.org/data/media/5c/b8/e5/509.22248436.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5c/b8/e5/509.22248436.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3048926067",
+  "dataObjectVersionID": 6795358,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:15.000Z",
+  "modified": "2018-10-20T02:59:45.000Z",
+  "title": "Pinus sylvestris var. hamata",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Arthur Chapman",
+  "source": "https://www.flickr.com/photos/arthur_chapman/3048926067/",
+  "mediaURL": "https://farm4.staticflickr.com/3149/3048926067_c294976232_o.jpg",
+  "description": "Pinus sylvestris var. hamata near Bakuriani, Republic of Georgia. Photographed on 10 July 2007",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/44/47/542.3048926067.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/44/47/542.3048926067.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/32005048@N06'>Arthur Chapman</a>",
+      "homepage": "http://www.flickr.com/photos/32005048@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

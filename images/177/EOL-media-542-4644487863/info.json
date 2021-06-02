@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4644487863",
+  "dataObjectVersionID": 6840998,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "title": "Rockefeller Forest, Humboldt Redwoods State Park - Coast Redwood (Sequoia sempervirens)",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Jay Sturner",
+  "source": "https://www.flickr.com/photos/50352333@N06/4644487863/",
+  "mediaURL": "https://farm4.staticflickr.com/3119/4644487863_1af1594431_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/07/a8/542.4644487863.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/07/a8/542.4644487863.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/50352333@N06'>Jay Sturner</a>",
+      "homepage": "http://www.flickr.com/photos/50352333@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

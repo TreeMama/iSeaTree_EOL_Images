@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-48087369",
+  "dataObjectVersionID": 6910084,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:15:41.000Z",
+  "modified": "2019-03-20T00:53:27.000Z",
+  "title": "Bark details, Pinus pinea.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Zeynel Cebeci",
+  "source": "https://commons.wikimedia.org/wiki/File:Bark_details,_Pinus_pinea.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bark_details,_Pinus_pinea.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Bark details of a stone pine (Pinus pinea). BalcalÄ±, Adana - Turkey. TÃ¼rkÃ§e: FÄ±stÄ±k Ã§amÄ± (Pinus pinea) gÃ¶vde detaylarÄ±. BalcalÄ±, Adana - TÃ¼rkiye.    Date 8 April 2016, 18:08:48   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Zcebeci\" title=\"User:Zcebeci\">Zeynel Cebeci</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=037.046497_N_0035.349392_E_globe:Earth_type:camera_heading:17&amp;language=en\">37Â° 02â² 47.39â³ N, 35Â° 20â² 57.81â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/37.046497/35.349392\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=037.046497&amp;lon=0035.349392\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=037.046497&amp;londegdec=0035.349392&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 37.046497; 35.349392  ",
+  "eolMediaURL": "https://content.eol.org/data/media/63/13/3a/509.48087369.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/63/13/3a/509.48087369.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Zeynel Cebeci",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Zcebeci",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

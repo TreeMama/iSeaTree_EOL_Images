@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-25430940473",
+  "dataObjectVersionID": 6812776,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:41:17.000Z",
+  "modified": "2018-10-20T03:07:43.000Z",
+  "title": "E20160324-0002Thuja plicataRPBG",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/25430940473/",
+  "mediaURL": "https://farm2.staticflickr.com/1578/25430940473_93ef846c59_o.jpg",
+  "description": "Thuja plicatawestern red cedar. The provincial tree of British Columbia.  Occurs in the coast ranges from Alaska south to California and in the Rocky Mountains from British Columbia to Idaho and Montana.  Widely planted for timber in Europe and New Zealand, as well as being a desirable ornamental well outside it natural range. Native Americans use the wood for everything from totem poles to canoes to boxes. The plant the provided the sprig grows in Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/fa/57/542.25430940473.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/fa/57/542.25430940473.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

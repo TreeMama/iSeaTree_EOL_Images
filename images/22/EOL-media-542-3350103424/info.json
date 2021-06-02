@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-3350103424",
+  "dataObjectVersionID": 6790174,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:41.000Z",
+  "modified": "2018-10-20T02:58:49.000Z",
+  "title": "Acer rubrum",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "oakum",
+  "source": "https://www.flickr.com/photos/35518067@N06/3350103424/",
+  "mediaURL": "https://farm4.staticflickr.com/3648/3350103424_7aaaf53fbd_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/78/44/542.3350103424.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/78/44/542.3350103424.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/35518067@N06'>oakum</a>",
+      "homepage": "http://www.flickr.com/photos/35518067@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

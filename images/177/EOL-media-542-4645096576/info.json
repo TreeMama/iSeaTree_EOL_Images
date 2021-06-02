@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-4645096576",
+  "dataObjectVersionID": 6840999,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:45:42.000Z",
+  "modified": "2018-10-20T03:16:11.000Z",
+  "title": "Avenue of the Giants, Humboldt Redwoods State Park - Coast Redwood (Sequoia sempervirens)",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Jay Sturner",
+  "source": "https://www.flickr.com/photos/50352333@N06/4645096576/",
+  "mediaURL": "https://farm4.staticflickr.com/3363/4645096576_e9c61c597c_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/07/d0/542.4645096576.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/07/d0/542.4645096576.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/50352333@N06'>Jay Sturner</a>",
+      "homepage": "http://www.flickr.com/photos/50352333@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

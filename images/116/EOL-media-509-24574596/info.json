@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-24574596",
+  "dataObjectVersionID": 7525020,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:45:21.000Z",
+  "modified": "2018-10-24T13:06:27.000Z",
+  "title": "Malus fusca leaves 02.JPG",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Malus_fusca_leaves_02.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Malus_fusca_leaves_02.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Ð ÑÑÑÐºÐ¸Ð¹: ÐÐ¾Ð»Ð¾Ð´Ð¾Ð¹ Ð¿Ð¾Ð±ÐµÐ³ ÑÐ±Ð»Ð¾Ð½Ð¸ Ð±ÑÑÐ¾Ð¹ (Malus fusca) Ð² ÐÐ¾ÑÐ°Ð½Ð¸ÑÐµÑÐºÐ¾Ð¼ ÑÐ°Ð´Ñ ÐÐÐ£ (Ð¾ÑÐ½Ð¾Ð²Ð½Ð°Ñ ÑÐµÑÑÐ¸ÑÐ¾ÑÐ¸Ñ Ð½Ð° ÐÐ¾ÑÐ¾Ð±ÑÑÐ²ÑÑ Ð³Ð¾ÑÐ°Ñ; ÑÐ±Ð»Ð¾Ð½ÐµÐ²ÑÐ¹ ÑÐ°Ð´). ÐÐµÑÐ½Ð°. English: Malus fusca (young leaves) in the Botanical Garden of Moscow State University (main area on the Sparrow Hills; the Apple orchard). Spring.    Date 12 May 2012, 16:56:35   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Kor!An\" title=\"User:Kor!An\">Kor!An (ÐÐ½Ð´ÑÐµÐ¹ ÐÐ¾ÑÐ·ÑÐ½)</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/5d/3b/37/509.24574596.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5d/3b/37/509.24574596.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

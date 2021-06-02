@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4993559238",
+  "dataObjectVersionID": 6819054,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:02.000Z",
+  "modified": "2018-10-20T03:10:45.000Z",
+  "title": "Evergreen Oak (Quercus ilex) fruit.",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Phil Sellens",
+  "source": "https://www.flickr.com/photos/phil_sellens/4993559238/",
+  "mediaURL": "https://farm5.staticflickr.com/4113/4993559238_8a71cb7186_o.jpg",
+  "description": "Summerfields Wood, Hastings.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/21/40/542.4993559238.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/21/40/542.4993559238.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33303746@N07'>Phil Sellens</a>",
+      "homepage": "http://www.flickr.com/photos/33303746@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

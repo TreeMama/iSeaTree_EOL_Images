@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3547672960",
+  "dataObjectVersionID": 6790175,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:41.000Z",
+  "modified": "2018-10-20T02:58:49.000Z",
+  "title": "Red Maple (Acer rubrum)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Mary Keim",
+  "source": "https://www.flickr.com/photos/38514062@N03/3547672960/",
+  "mediaURL": "https://farm4.staticflickr.com/3301/3547672960_1547448fd1_o.jpg",
+  "description": "Lake Apopka Restoration Area, FL, December 2006",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/93/4e/542.3547672960.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/93/4e/542.3547672960.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/38514062@N03'>Mary Keim</a>",
+      "homepage": "http://www.flickr.com/photos/38514062@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-6236672809",
+  "dataObjectVersionID": 6640426,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:23.000Z",
+  "modified": "2018-10-20T02:29:54.000Z",
+  "title": "Pinus sylvestris f. annulata Caspary.",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Sodininkas.com",
+  "source": "https://www.flickr.com/photos/sodininkas/6236672809/",
+  "mediaURL": "https://farm7.staticflickr.com/6106/6236672809_21082ccbe9_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/90/1a/542.6236672809.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/90/1a/542.6236672809.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/68567149@N03'>Sodininkas.com</a>",
+      "homepage": "http://www.flickr.com/photos/68567149@N03",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

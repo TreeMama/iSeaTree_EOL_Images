@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-19561208",
+  "dataObjectVersionID": 7127125,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:38:23.000Z",
+  "modified": "2019-03-20T14:58:07.000Z",
+  "title": "Populus balsamifera Oulu 01.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Halava",
+  "source": "https://commons.wikimedia.org/wiki/File:Populus_balsamifera_Oulu_01.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Populus_balsamifera_Oulu_01.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Catkins and buds of <i>Populus balsamifera</i>. Oulu University Botanical Gardens, Finland.    Date 23 May 2012   Source Own work   Author <a href=\"https://commons.wikimedia.org/w/index.php?title=User:Halava&amp;action=edit&amp;redlink=1\" title=\"User:Halava\">Halava</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/2f/14/509.19561208.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/2f/14/509.19561208.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Halava",
+      "homepage": "https://commons.wikimedia.org/w/index.php?title=User:Halava&action=edit&redlink=1",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

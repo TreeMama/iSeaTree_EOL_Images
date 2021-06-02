@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10588886",
+  "dataObjectVersionID": 7534164,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2592,
+  "width": 3888,
+  "created": "2018-04-05T10:46:11.000Z",
+  "modified": "2019-06-14T21:09:37.000Z",
+  "title": "Duke Forest shagbark hickory trunk.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Dcrjsr",
+  "source": "https://commons.wikimedia.org/wiki/File:Duke_Forest_shagbark_hickory_trunk.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Duke_Forest_shagbark_hickory_trunk.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Shagbark hickory (Carya ovata), trunk with shaggy bark, in summer. On slope below and east of the end of Piney Mountain Road, Duke Forest Korstian Division, Durham NC.    Date 6 June 2010   Source Own work   Author Dcrjsr     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=035.987944_N_-079.008917_E_globe:Earth_type:camera_region:US_heading:ENE&amp;language=en\">35Â° 59â² 16.6â³ N, 79Â° 00â² 32.1â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/35.987944/-79.008917\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=035.987944&amp;lon=-079.008917\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=035.987944&amp;londegdec=-079.008917&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 35.987944; -79.008917  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/4e/1f/509.10588886.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/4e/1f/509.10588886.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Dcrjsr",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Dcrjsr",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

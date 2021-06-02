@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-12769952845",
+  "dataObjectVersionID": 6650047,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:28.000Z",
+  "modified": "2018-10-20T02:31:43.000Z",
+  "title": "Fruit1",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Antnio Pena",
+  "source": "https://www.flickr.com/photos/anpena/12769952845/",
+  "mediaURL": "https://farm8.staticflickr.com/7341/12769952845_1a89933c0e_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/5b/ba/542.12769952845.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/5b/ba/542.12769952845.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/8358282@N02'>Antnio Pena</a>",
+      "homepage": "http://www.flickr.com/photos/8358282@N02",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

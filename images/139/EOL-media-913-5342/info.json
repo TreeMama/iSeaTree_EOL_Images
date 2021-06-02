@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-913-5342",
+  "dataObjectVersionID": 10824505,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2020-05-19T19:38:46.000Z",
+  "modified": "2020-05-19T19:38:46.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "language": "en",
+  "rights": "",
+  "rightsHolder": "JC Schou",
+  "source": "http://www.biopix.com/western-balsam-poplar-populus-trichocarpa_photo-5342.aspx",
+  "mediaURL": "http://www.biopix.com/photos/JCS-Populus-trichocarpa-12562.jpg",
+  "description": "Den Jyske Skovhave, Rold Skov",
+  "eolMediaURL": "https://content.eol.org/data/media/a1/69/7d/913.5342.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/a1/69/7d/913.5342.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Biopix Nature Photos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

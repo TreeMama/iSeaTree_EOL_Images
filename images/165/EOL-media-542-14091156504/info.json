@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-14091156504",
+  "dataObjectVersionID": 6727028,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:27:03.000Z",
+  "modified": "2018-10-20T02:47:08.000Z",
+  "title": "Inchworm, Geometer Moth Larva, Family Geometridae",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "David Illig",
+  "source": "https://www.flickr.com/photos/primeval/14091156504/",
+  "mediaURL": "https://farm6.staticflickr.com/5025/14091156504_0e810aafab_o.jpg",
+  "description": "Like all caterpillars, the geometer moth larva has a silk gland. Later the animal will use its silk to build a cocoon, but for now he is using it to help him negotiate the rough tree bark.The tree is a pin oak, Quercus palustris, and the lichen is Flavoparmelia caperata, Made at Gambrills, Anne Arundel County, Maryland, May 2, 2014.",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/70/c8/542.14091156504.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/70/c8/542.14091156504.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/14552479@N00'>David Illig</a>",
+      "homepage": "http://www.flickr.com/photos/14552479@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

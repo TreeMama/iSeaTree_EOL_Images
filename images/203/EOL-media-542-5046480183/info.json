@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-5046480183",
+  "dataObjectVersionID": 6790504,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:43.000Z",
+  "modified": "2018-10-20T02:58:53.000Z",
+  "title": "Zelkova, Heyri ( )",
+  "license": "http://creativecommons.org/licenses/by-sa/2.0/",
+  "license_id": 17,
+  "rightsHolder": "Seongbin Im",
+  "source": "https://www.flickr.com/photos/golbenge/5046480183/",
+  "mediaURL": "https://farm5.staticflickr.com/4092/5046480183_6099de42a0_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/80/26/02/542.5046480183.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/26/02/542.5046480183.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/59899594@N00'>Seongbin Im</a>",
+      "homepage": "http://www.flickr.com/photos/59899594@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

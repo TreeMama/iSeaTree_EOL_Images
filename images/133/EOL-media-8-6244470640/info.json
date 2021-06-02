@@ -1,0 +1,30 @@
+{
+  "identifier": "EOL-media-8-6244470640",
+  "dataObjectVersionID": 9865,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2017-11-24T21:09:01.000Z",
+  "modified": "2018-10-19T15:36:51.000Z",
+  "title": "n214_w1150",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "language": "en",
+  "rightsHolder": "Biodiversity Heritage Library",
+  "source": "https://farm7.staticflickr.com/6094/6244470640_80fe6fa8f2_o.jpg",
+  "mediaURL": "https://www.flickr.com/photos/biodivlibrary/6244470640/",
+  "description": "Flore colorie de poche du littoral mditerranen de Gnes  Barcelone y compris la CorseParis,P. Klincksieck,1902.<a href=\"http://biodiversitylibrary.org/page/10545766\">biodiversitylibrary.org/page/10545766</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/00/26/89/8.6244470640.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/00/26/89/8.6244470640.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Flickr BHL",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

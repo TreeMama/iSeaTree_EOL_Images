@@ -1,0 +1,40 @@
+{
+  "identifier": "EOL-media-509-10688679",
+  "dataObjectVersionID": 8091933,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 800,
+  "width": 600,
+  "created": "2018-04-05T12:08:26.000Z",
+  "modified": "2018-10-24T13:29:42.000Z",
+  "title": "Quercus frainetto Capocotta leaf 1.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Quercus_frainetto_Capocotta_leaf_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Quercus_frainetto_Capocotta_leaf_1.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Leaf of <i>Quercus frainetto</i>. Capocotta forest (Rome province, Latium, central Italy). Photo by Massimiliano Marcelli.    Date    Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Etrusko25\" title=\"User:Etrusko25\">Etrusko25</a>  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/55/e3/509.10688679.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/55/e3/509.10688679.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:SchlurcherBot'>SchlurcherBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:SchlurcherBot",
+      "role": "source"
+    },
+    {
+      "full_name": "<a href='https://commons.wikimedia.org/wiki/User:SchlurcherBot'>SchlurcherBot</a>",
+      "homepage": "https://commons.wikimedia.org/wiki/User:SchlurcherBot",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

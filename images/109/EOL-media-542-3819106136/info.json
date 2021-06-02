@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3819106136",
+  "dataObjectVersionID": 6800241,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:38:54.000Z",
+  "modified": "2018-10-24T12:39:03.000Z",
+  "title": "Southern magnolia / Magnolia grandiflora / ()",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "TANAKA Juuyoh ()",
+  "source": "https://www.flickr.com/photos/tanaka_juuyoh/3819106136/",
+  "mediaURL": "https://farm3.staticflickr.com/2430/3819106136_bbc62d4c04_o.jpg",
+  "description": "Ibaraki Botanical Garden, Naka-shi(City) Ibaraki-ken(Prefecture), Japan<a href=\"http://www.ibaraki-shokubutuen.jp/\">() ()</a>",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/b7/1f/542.3819106136.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/b7/1f/542.3819106136.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/13910409@N05'>TANAKA Juuyoh ()</a>",
+      "homepage": "http://www.flickr.com/photos/13910409@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-542-22632127898",
+  "dataObjectVersionID": 6830753,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:43:31.000Z",
+  "modified": "2018-10-20T03:13:34.000Z",
+  "title": "Swamp White Oak Bark",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Steven Severinghaus",
+  "source": "https://www.flickr.com/photos/horsepunchkid/22632127898/",
+  "mediaURL": "https://farm6.staticflickr.com/5777/22632127898_de62df8eea_o.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/e2/d6/542.22632127898.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/e2/d6/542.22632127898.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/17373191@N00'>Steven Severinghaus</a>",
+      "homepage": "http://www.flickr.com/photos/17373191@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

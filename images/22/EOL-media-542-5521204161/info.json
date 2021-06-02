@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5521204161",
+  "dataObjectVersionID": 6790179,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:37:41.000Z",
+  "modified": "2018-10-20T02:58:50.000Z",
+  "title": "Acer rubrum: Maple Leaf Getting Dressed in its Fall Colors",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "David Illig",
+  "source": "https://www.flickr.com/photos/primeval/5521204161/",
+  "mediaURL": "https://farm6.staticflickr.com/5134/5521204161_c353a71989_o.jpg",
+  "description": "Nikon D100, 60mm Micro Nikkor",
+  "eolMediaURL": "https://content.eol.org/data/media/80/4f/90/542.5521204161.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/4f/90/542.5521204161.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/14552479@N00'>David Illig</a>",
+      "homepage": "http://www.flickr.com/photos/14552479@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

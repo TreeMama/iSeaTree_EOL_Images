@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-5425938860",
+  "dataObjectVersionID": 6640422,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:11:23.000Z",
+  "modified": "2018-10-20T02:29:54.000Z",
+  "title": "Pinus sylvestris (dwarfism) (4807' N 1656' E)",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "HermannFalkner/sokol",
+  "source": "https://www.flickr.com/photos/hermannherbarium/5425938860/",
+  "mediaURL": "https://farm6.staticflickr.com/5216/5425938860_c7b12ee1e1_o.jpg",
+  "description": "2011-02-05 Lower Austria, district Bruck/Leitha - Hundsheimer Berge (335 m AMSL).Cone; leaves (needles).German name: Rot-Fhre",
+  "eolMediaURL": "https://content.eol.org/data/media/80/48/f8/542.5425938860.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/48/f8/542.5425938860.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/40826335@N05'>HermannFalkner/sokol</a>",
+      "homepage": "http://www.flickr.com/photos/40826335@N05",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

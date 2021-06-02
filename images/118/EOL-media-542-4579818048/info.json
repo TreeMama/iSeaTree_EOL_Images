@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-4579818048",
+  "dataObjectVersionID": 6630286,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:09:50.000Z",
+  "modified": "2018-10-20T02:28:00.000Z",
+  "title": "Malus pumila (Apple)",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Arthur Chapman",
+  "source": "https://www.flickr.com/photos/arthur_chapman/4579818048/",
+  "mediaURL": "https://farm5.staticflickr.com/4062/4579818048_33bd8889fc_o.jpg",
+  "description": "Apples (Malus pumila) in the Alesky Bazaar in Tashkent, Uzbekistan. Photographed on 4 November 2007.Apples are native to Uzbekistan.",
+  "eolMediaURL": "https://content.eol.org/data/media/80/01/e5/542.4579818048.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/01/e5/542.4579818048.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/32005048@N06'>Arthur Chapman</a>",
+      "homepage": "http://www.flickr.com/photos/32005048@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

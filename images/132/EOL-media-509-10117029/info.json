@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10117029",
+  "dataObjectVersionID": 7093422,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 960,
+  "width": 1280,
+  "created": "2018-04-05T09:35:27.000Z",
+  "modified": "2019-08-15T03:20:40.000Z",
+  "title": "Pinus nigra young tree Bulgaria.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Georgi Kunev",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_young_tree_Bulgaria.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pinus_nigra_young_tree_Bulgaria.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Young <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_nigra\" title=\"Pinus nigra\">Pinus nigra</a></i> subsp. <i>nigra</i>, Bulgaria.    Date 10 June 2007   Source <a href=\"http://imagesfrombulgaria.com/v/Plants_of_Bulgaria/Pinophyta/Pinus_sylvestris/DSC06797.JPG.html\">Free Images from Bulgaria</a>   Author Georgi Kunev   Other versions  Watermark removed from original   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/31/8b/509.10117029.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/31/8b/509.10117029.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Georgi Kunev",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Free Images from Bulgaria",
+      "homepage": "http://imagesfrombulgaria.com/v/Animals/Birds/Aythya_nyroca/ayhtya_nyroca.jpg.html",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

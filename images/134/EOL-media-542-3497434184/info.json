@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-3497434184",
+  "dataObjectVersionID": 6820440,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:42:13.000Z",
+  "modified": "2018-10-20T03:11:05.000Z",
+  "title": "Pondarosa  Pine (Pinus pondarosa)-Petrified",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "Drew Avery",
+  "source": "https://www.flickr.com/photos/33590535@N06/3497434184/",
+  "mediaURL": "https://farm4.staticflickr.com/3546/3497434184_5d8e6f1f1e_o.jpg",
+  "description": "Not a living tree, but  30 Million years old and still in use! Woodpeckers nest in this tree every year, making a new nest. Bluebirds, Swallows and Nuthatches then reuse the old ones. ",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/8c/2a/542.3497434184.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/8c/2a/542.3497434184.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/33590535@N06'>Drew Avery</a>",
+      "homepage": "http://www.flickr.com/photos/33590535@N06",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

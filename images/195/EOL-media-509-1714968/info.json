@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-1714968",
+  "dataObjectVersionID": 7203795,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:55:37.000Z",
+  "modified": "2019-08-15T14:14:39.000Z",
+  "title": "Trachycarpus fortunei - canopy.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Vilallonga",
+  "source": "https://commons.wikimedia.org/wiki/File:Trachycarpus_fortunei_-_canopy.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Trachycarpus_fortunei_-_canopy.jpg",
+  "description": "DescriptionAPI  English: Canopy of the <i><a href=\"https://commons.wikimedia.org/wiki/Trachycarpus_fortunei\" title=\"Trachycarpus fortunei\">Trachycarpus fortunei</a></i> <br> Camera data Camera Nikon D80 Lens Nikon AF-S DX 18-135 mm Focal length 135 mm Aperture f/5.6 Exposure time 320 s Sensivity ISO 200    Date 24 February 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Vilallonga\" title=\"User:Vilallonga\">Vilallonga</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  <br>    <i>I, <a href=\"https://commons.wikimedia.org/wiki/User:Vilallonga\" title=\"User:Vilallonga\">Vilallonga</a>, hereby publish it under the following license:</i>   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.        https://creativecommons.org/licenses/by-sa/2.5 CC BY-SA 2.5 Creative Commons Attribution-Share Alike 2.5 truetrue         ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/a8/a9/509.1714968.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/a8/a9/509.1714968.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Vilallonga",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Vilallonga",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2986316",
+  "dataObjectVersionID": 7798111,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:25:46.000Z",
+  "modified": "2019-04-14T21:48:33.000Z",
+  "title": "Liquidambar-otonno-20071028-1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Luis Fernández García",
+  "source": "https://commons.wikimedia.org/wiki/File:Liquidambar-otonno-20071028-1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Liquidambar-otonno-20071028-1.jpg",
+  "description": "DescriptionAPI  <i>Liquidambar styraciflua</i>. Parque Ana Tutor, Madrid, EspaÃ±a. 28-octubre-2007.    Date 28 October 2007   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Luis_Fern%C3%A1ndez_Garc%C3%ADa\" title=\"User:Luis FernÃ¡ndez GarcÃ­a\">Luis FernÃ¡ndez GarcÃ­a</a>   <br>   <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.5/es/deed.en\">Attribution-Share Alike 2.5 Spain</a> license.         https://creativecommons.org/licenses/by-sa/2.5/es/deed.en CC BY-SA 2.5 es Creative Commons Attribution-Share Alike 2.5 es truetrue      Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=040.483572_N_-003.715645_E_globe:Earth_type:camera_&amp;language=en\">40Â° 29â² 00.86â³ N, 3Â° 42â² 56.32â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/40.483572/-3.715645\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=040.483572&amp;lon=-003.715645\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=040.483572&amp;londegdec=-003.715645&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 40.483572; -3.715645  ",
+  "eolMediaURL": "https://content.eol.org/data/media/59/4f/6b/509.2986316.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/4f/6b/509.2986316.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Luis Fernández García",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Luis_Fern%C3%A1ndez_Garc%C3%ADa",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

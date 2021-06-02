@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-542-10726447456",
+  "dataObjectVersionID": 6819051,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 2747,
+  "width": 4006,
+  "created": "2018-05-23T13:42:02.000Z",
+  "modified": "2018-10-24T12:39:16.000Z",
+  "title": "Quercus ilex L.  / encina",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Jos Mara Escolano",
+  "source": "https://www.flickr.com/photos/valdelobos/10726447456/",
+  "mediaURL": "https://farm8.staticflickr.com/7420/10726447456_819ced90ee_o.jpg",
+  "description": "Barcelona: Catalunya (Espaa)Serra de Collserola.Serralada Litoral (Cordillera costera catalana)Familia: FagaceaeDistribucin:    Regin mediterrnea N; en Europa por los paises del litoral mediterrneo; en la Pennsula por la franja ms nortea desde Asturias a Catalua, muy localizada en Levante y Andaluca oriental y en escassimos puntos del interior; en Aragn su presencia parece limitada a los Puertos de Beceite y a la entrada de algunas foces o caones del Pirineo, como Aisclo o la Foz de Sigs. Respecto a las citas del entorno del Moncayo, ver el comentario del apartado \"citas reseables\".Comentarios sobre proteccin y conservacin:    Los escasos ejemplares de este rbol deberan ser objeto de proteccin dada su singularidad en Aragn, al igual que los enclaves donde aparecen.Hbitat:   La encina vive en el fondo de algunas foces, barrancos y otros enclaves muy protegidos, al abrigo de las heladas y las sequas estivales. Suele ir acompaada de otras plantas igualmente sensibles al fro y la aridez como el madroo Arbutus unedo, la madreselva, Lonicera implexaViburnum tinus, la olivilla, Phyllirea angustifolia o la zarzaparrilla, Smilax aspera.Preferencia edfica:  Basfila.  En nuestro territorio solo la conocemos en sustratos calizos.Rango altitudinal: 550 - 800 mFenologa: Floracin    Abril - MayoFructificacin   ( Septiembre ) Octubre - NoviembreForma Biolgica:   Macrofanerfito perennifolio             Extractado del Atlas de la Flora de Aragn (Herbario de Jaca)",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/3e/90/542.10726447456.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/3e/90/542.10726447456.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42786943@N07'>Jos Mara Escolano</a>",
+      "homepage": "http://www.flickr.com/photos/42786943@N07",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

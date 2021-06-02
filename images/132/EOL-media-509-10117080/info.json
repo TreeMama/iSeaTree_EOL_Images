@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10117080",
+  "dataObjectVersionID": 7093423,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 834,
+  "width": 1175,
+  "created": "2018-04-05T09:35:27.000Z",
+  "modified": "2019-08-15T03:20:45.000Z",
+  "title": "Pinus nigra young foliage cone Bulgaria.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "rightsHolder": "Kiril Kapustin",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_young_foliage_cone_Bulgaria.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pinus_nigra_young_foliage_cone_Bulgaria.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_nigra\" title=\"Pinus nigra\">Pinus nigra</a></i> subsp. <i>nigra</i> foliage and cone, Bulgaria.    Date 4 May 2008   Source <a href=\"http://imagesfrombulgaria.com/v/Plants_of_Bulgaria/Pinophyta/Pinus_sylvestris/DSC07659.JPG.html\">Free Images from Bulgaria</a>   Author Kiril Kapustin   Other versions  Watermark removed from original   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/31/8d/509.10117080.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/31/8d/509.10117080.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Kiril Kapustin",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Free Images from Bulgaria",
+      "homepage": "http://imagesfrombulgaria.com/v/Animals/Birds/Aythya_nyroca/ayhtya_nyroca.jpg.html",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-364484",
+  "dataObjectVersionID": 7414224,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:24:37.000Z",
+  "modified": "2018-10-24T13:01:44.000Z",
+  "title": "PacificYew 7790.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "source": "https://commons.wikimedia.org/wiki/File:PacificYew_7790.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/PacificYew_7790.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>] Pacific Yew form Description: Pacific Yew (<a href=\"https://commons.wikimedia.org/wiki/Taxus_brevifolia\" title=\"Taxus brevifolia\">Taxus brevifolia</a>) form. Viewpoint location: French Creek trail 1595. The trail is in the Wenatchee Mountains, an eastern spur of the <a href=\"https://commons.wikimedia.org/wiki/Cascade_Range\" title=\"Cascade Range\">Cascade Range</a>, located in <a href=\"https://commons.wikimedia.org/wiki/Wenatchee_National_Forest\" title=\"Wenatchee National Forest\">Wenatchee National Forest</a>, Washington, USA, about 21 km south of Stevens Pass. The trailhead is near the Cle Elum River. GPS: UTM 10 645574E 5265994N (WGS84/NAD83) USGS The Cradle Quad <a href=\"http://www.topozone.com/map.asp?z=10&amp;n=5265994&amp;e=645574&amp;s=24&amp;size=s&amp;datum=nad83&amp;layer=DRG25\">[1]</a> Viewpoint elevation: 4340' View direction: Down Date and time: 2005:10:09 16:18:43 PDT Camera: Canon PowerShot S110 Photographer: Walter Siegmund   Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=047.531060_N_-121.065920_E_globe:Earth_type:camera_type:forest_region:US&amp;language=en\">47Â° 31â² 51.82â³ N, 121Â° 03â² 57.31â³ W</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/47.53106/-121.06592\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=047.531060&amp;lon=-121.065920\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=047.531060&amp;londegdec=-121.065920&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 47.531060; -121.065920   Â©2005 Walter Siegmund Licensing[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=2\" title=\"Edit section: Licensing\">edit</a>]    I, the copyright holder of this work, hereby publish it under the following licenses:    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by/2.5/deed.en\">Attribution 2.5 Generic</a> license.        You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). http://creativecommons.org/licenses/by/2.5 CC BY 2.5 Creative Commons Attribution 2.5 truetrue    <i>You may select the license of your choice.</i>   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5f/78/c3/509.364484.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5f/78/c3/509.364484.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "JarektBot",
+      "homepage": "https://commons.wikimedia.org/wiki/User:JarektBot",
+      "role": "editor"
+    },
+    {
+      "full_name": "Walter Siegmund Camera location",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

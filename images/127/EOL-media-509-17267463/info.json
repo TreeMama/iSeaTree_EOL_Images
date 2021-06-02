@@ -1,0 +1,39 @@
+{
+  "identifier": "EOL-media-509-17267463",
+  "dataObjectVersionID": 6941372,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:17:36.000Z",
+  "modified": "2019-04-18T06:46:20.000Z",
+  "title": "0 Parrotia persica - Parc de Mariemont (1).JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jean-Pol GRANDMONT",
+  "source": "https://commons.wikimedia.org/wiki/File:0_Parrotia_persica_-_Parc_de_Mariemont_(1).JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/0_Parrotia_persica_-_Parc_de_Mariemont_(1).JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  FranÃ§ais : <a href=\"https://fr.wikipedia.org/wiki/Parrotia_persica\" title=\"fr:Parrotia persica\">Parrotie de Perse ou arbre de fer</a> (<i><a href=\"https://commons.wikimedia.org/wiki/Parrotia_persica\" title=\"Parrotia persica\">Parrotia persica</a></i>) en automne - <a href=\"https://fr.wikipedia.org/wiki/Domaine_de_Mariemont\" title=\"fr:Domaine de Mariemont\">Domaine de Mariemont</a> Ã  <a href=\"https://fr.wikipedia.org/wiki/Morlanwlez-Mariemont\" title=\"fr:Morlanwlez-Mariemont\">Morlanwlez-Mariemont</a>, Belgique. English: <a href=\"https://en.wikipedia.org/wiki/Parrotia_persica\" title=\"w:Parrotia persica\">Persian Ironwood Tree</a> (<i><a href=\"https://commons.wikimedia.org/wiki/Parrotia_persica\" title=\"Parrotia persica\">Parrotia persica</a></i>) in the autumn - <a href=\"https://en.wikipedia.org/wiki/Mariemont,_Belgium\" title=\"w:Mariemont, Belgium\">Domaine de Mariemont</a> Ã  <a href=\"https://en.wikipedia.org/wiki/Morlanwlez-Mariemont\" title=\"w:Morlanwlez-Mariemont\">Morlanwlez-Mariemont</a>, Belgium.    Date 29 October 2011, 15:32   Source Self-photographed   Author <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a>   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <a href=\"https://commons.wikimedia.org/wiki/File:Self_portrait_in_the_darkroom_JPG01.jpg\"></a> This illustration <i>was made by</i> <a href=\"https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT\" title=\"User:Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> Please credit this : <i>Jean-Pol GRANDMONT</i> An email to <a href=\"https://commons.wikimedia.org/wiki/Special:EmailUser/Jean-Pol_GRANDMONT\" title=\"Special:EmailUser/Jean-Pol GRANDMONT\">Jean-Pol GRANDMONT</a> would be appreciated.      ",
+  "eolMediaURL": "https://content.eol.org/data/media/56/b0/69/509.17267463.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/56/b0/69/509.17267463.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jean-Pol GRANDMONT",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT",
+      "role": "creator"
+    },
+    {
+      "full_name": "Self-photographed",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

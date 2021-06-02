@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-562-292918",
+  "dataObjectVersionID": 9182332,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-08-08T12:20:39.000Z",
+  "modified": "2018-10-20T13:39:50.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "source": "http://www.treknature.com/viewphotos.php?l=3&p=292918",
+  "mediaURL": "http://i1.treknature.com/photos/1990/aab_1194.jpg",
+  "description": "Douglas fir is a common conifer in western North Armeica. We found rather small trees in the southern rim of the Grand Canyon.",
+  "eolMediaURL": "https://content.eol.org/data/media/8b/09/48/562.292918.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8b/09/48/562.292918.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.treknature.com/members/fragman/'>Ori Fragman-Sapir</a>",
+      "homepage": "http://www.treknature.com/members/fragman/",
+      "role": "creator"
+    },
+    {
+      "full_name": "Ori Fragman's TrekNature gallery",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

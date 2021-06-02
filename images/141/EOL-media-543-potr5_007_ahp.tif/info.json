@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-543-potr5_007_ahp.tif",
+  "dataObjectVersionID": 9353276,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:31:39.000Z",
+  "modified": "2018-10-20T14:06:53.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "\"<a href=\"\"http://www.ag.ndsu.nodak.edu/aginfo/trees/handbook.htm\"\">ND State Soil Conservation Committee</a>. <a href=\"\"http://www.nd.nrcs.usda.gov/\"\">USDA NRCS ND State Office</a>. United States, ND.\"",
+  "source": "http://plants.usda.gov/java/largeImage?imageID=potr5_007_ahp.tif",
+  "mediaURL": "http://plants.usda.gov/gallery/large/potr5_007_lhp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/cf/cf/543.potr5_007_ahp_tif.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/cf/cf/543.potr5_007_ahp_tif.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

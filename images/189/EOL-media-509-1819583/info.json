@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-1819583",
+  "dataObjectVersionID": 7414221,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T10:24:37.000Z",
+  "modified": "2018-10-24T13:01:44.000Z",
+  "title": "Yew bark Taxol PD.jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Yew_bark_Taxol_PD.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yew_bark_Taxol_PD.jpg",
+  "description": "DescriptionAPI  Source:    This image was released by the <a href=\"https://en.wikipedia.org/wiki/National_Cancer_Institute\" title=\"en:National Cancer Institute\">National Cancer Institute</a>, an agency part of the <a href=\"https://en.wikipedia.org/wiki/National_Institutes_of_Health\" title=\"en:National Institutes of Health\">National Institutes of Health</a>, with the ID <a href=\"https://visualsonline.cancer.gov/details.cfm?imageid=2555\">2555</a> (<a href=\"https://visualsonline.cancer.gov/retrieve.cfm?imageid=2555&amp;dpi=300&amp;fileformat=jpg\">image</a>) <a href=\"http://commons.wikimedia.org/w/index.php?title=Category:Media_from_National_Cancer_Institute_Visuals_Online_with_known_IDs&amp;filefrom=2555#mw-category-media\">(next)</a>. This tag does not indicate the copyright status of the attached work. A normal <a href=\"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required. See <a href=\"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a> for more information. <a href=\"http://commons.wikimedia.org/wiki/Template:NCI_Visuals_Online/en\">English</a> | <a href=\"http://commons.wikimedia.org/wiki/Template:NCI_Visuals_Online/fr\">FranÃ§ais</a> | <a href=\"http://commons.wikimedia.org/w/index.php?title=Template:NCI_Visuals_Online/lang&amp;action=edit\">+/â</a>    Description: <a href=\"https://en.wikipedia.org/wiki/Taxol\" title=\"en:Taxol\">en:Taxol</a>, found in the bark of the Pacific yew tree (<i><a href=\"https://en.wikipedia.org/wiki/Taxus_brevifolia\" title=\"en:Taxus brevifolia\">en:Taxus brevifolia</a></i>), is a promising anti-cancer drug. Source: Mike Trumball. Hauser Northwest Author: Unknown photographer/artist AV Number: AV-9104-3762 Date Created: April 1991 License info: <a href=\"http://visualsonline.cancer.gov/about.cfm\">http://visualsonline.cancer.gov/about.cfm</a>    Date    Source  This file is lacking source information. Please edit this file's description and provide a source.    Author  This file is lacking author information.   ",
+  "eolMediaURL": "https://content.eol.org/data/media/5b/e6/5d/509.1819583.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5b/e6/5d/509.1819583.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

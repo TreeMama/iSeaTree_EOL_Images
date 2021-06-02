@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-6193524813",
+  "dataObjectVersionID": 6812779,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:41:17.000Z",
+  "modified": "2018-10-20T03:07:43.000Z",
+  "title": "WESTERN REDCEDAR",
+  "license": "http://creativecommons.org/licenses/by-nc/2.0/",
+  "license_id": 16,
+  "rightsHolder": "Bryant Olsen",
+  "source": "https://www.flickr.com/photos/bryanto/6193524813/",
+  "mediaURL": "https://farm7.staticflickr.com/6148/6193524813_7362e782d4_o.jpg",
+  "description": "Thuja plicata ",
+  "eolMediaURL": "https://content.eol.org/data/media/80/8b/95/542.6193524813.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/80/8b/95/542.6193524813.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/22837563@N08'>Bryant Olsen</a>",
+      "homepage": "http://www.flickr.com/photos/22837563@N08",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

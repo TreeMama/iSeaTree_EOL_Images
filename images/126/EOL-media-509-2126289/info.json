@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-509-2126289",
+  "dataObjectVersionID": 7815049,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:27:20.000Z",
+  "modified": "2018-10-24T13:18:37.000Z",
+  "title": "Sourwood raceme Keeler.png",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Sourwood_raceme_Keeler.png",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sourwood_raceme_Keeler.png",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  Raceme of flowers of Sourwood    Date 1900   Source Keeler, Harriet L. (1900). Our Native Trees and How to Identify Them. New York: Charles Scriber's Sons.   Author    <a href=\"https://www.wikidata.org/wiki/Q41449437\" title=\"d:Q41449437\">Harriet L. Keeler</a> ( â1921) <a href=\"https://commons.wikimedia.org/wiki/Creator:Harriet_L._Keeler\" title=\"Link back to Creator infobox template\"></a> <a href=\"https://www.wikidata.org/wiki/Q41449437\" title=\"wikidata:Q41449437\"></a>   <a href=\"https://commons.wikimedia.org/wiki/File:Harriet_L._Keeler_signature.png\"></a>   Description American teacher, writer and botanist   Date of birth/death 1846 / 28 July 1844 12 February 1921   Location of birth/death <a href=\"https://www.wikidata.org/wiki/Q21551693\" title=\"d:Q21551693\">South Kortright</a> <a href=\"https://en.wikipedia.org/wiki/en:Clifton_Springs,_New_York\" title=\"w:en:Clifton Springs, New York\">Clifton Springs</a>   <a href=\"https://en.wikipedia.org/wiki/en:Help:Authority_control\" title=\"w:en:Help:Authority control\">Authority control</a>  <a href=\"https://www.wikidata.org/wiki/Q41449437\" title=\"wikidata:Q41449437\"></a>: <a href=\"https://www.wikidata.org/wiki/Q41449437\" title=\"d:Q41449437\">Q41449437</a> <a href=\"https://en.wikipedia.org/wiki/en:Virtual_International_Authority_File\" title=\"w:en:Virtual International Authority File\">VIAF</a>:â<a href=\"https://viaf.org/viaf/18831186\">18831186</a> <a href=\"https://en.wikipedia.org/wiki/en:International_Standard_Name_Identifier\" title=\"w:en:International Standard Name Identifier\">ISNI</a>:â<a href=\"https://tools.wmflabs.org/wikidata-externalid-url/?p=213&amp;url_prefix=http://isni.org/&amp;id=0000000084318374\">0000 0000 8431 8374</a> <a href=\"https://en.wikipedia.org/wiki/en:Library_of_Congress\" title=\"w:en:Library of Congress\">LCCN</a>:â<a href=\"http://id.loc.gov/authorities/n89647055\">n89647055</a> <a href=\"https://en.wikipedia.org/wiki/en:National_Library_of_Australia\" title=\"w:en:National Library of Australia\">NLA</a>:â<a href=\"http://nla.gov.au/anbd.aut-an51306974\">51306974</a> <a href=\"http://www.worldcat.org/identities/lccn-n89647055\">WorldCat</a>      ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/8f/40/509.2126289.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/8f/40/509.2126289.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Harriet L. Keeler",
+      "homepage": "https://en.wikipedia.org/wiki/en:Harriet_Louise_Keeler",
+      "role": "creator"
+    },
+    {
+      "full_name": "Keeler, Harriet L. (1900). Our Native Trees and How to Identify Them. New York: Charles Scriber's Sons.",
+      "homepage": "https://commons.wikimedia.org/wiki/File:Canada_Plum_fruiting_spray_Keeler.png",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

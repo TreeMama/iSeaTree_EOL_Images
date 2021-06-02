@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-2720439076",
+  "dataObjectVersionID": 6748344,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:30:36.000Z",
+  "modified": "2018-10-24T12:38:26.000Z",
+  "title": "Hophornbeam",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "cotinis",
+  "source": "https://www.flickr.com/photos/pcoin/2720439076/",
+  "mediaURL": "https://farm4.staticflickr.com/3150/2720439076_58d0c7b743_o.jpg",
+  "description": "Hophornbeam, <i>Ostrya virginiana</i>, a small tree found scattered in mesic woods. It is called \"hop\" after the fruit (here) that resemble <a href=\"http://en.wikipedia.org/wiki/Hops\">hops</a>.-<a href=\"http://plants.usda.gov/java/profile?symbol=OSVI\">USDA Plants</a>PCCA20080725-3926A",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/10/68/542.2720439076.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/10/68/542.2720439076.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/42264328@N00'>cotinis</a>",
+      "homepage": "http://www.flickr.com/photos/42264328@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-2054263",
+  "dataObjectVersionID": 8052477,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T12:05:36.000Z",
+  "modified": "2019-04-16T16:23:26.000Z",
+  "title": "Magnolia denudata4.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "KENPEI",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnolia_denudata4.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Magnolia_denudata4.jpg",
+  "description": "DescriptionAPI  æ¥æ¬èª: ãã¯ã¢ã¯ã¬ã³ English: <i>Magnolia denudata</i> tree photographed in Osaka-fu Japan    Date 30 April 2007   Source Own work   Author KENPEI   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)  GFDL,Creative Commons Attribution ShareAlike 2.1 Japan License    Other versions  <a href=\"https://commons.wikimedia.org/wiki/File:Magnolia_denudata1.jpg\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Magnolia_denudata2.jpg\"></a> <a href=\"https://commons.wikimedia.org/wiki/File:Magnolia_denudata3.jpg\"></a>    <br>    Permission is granted to copy, distribute and/or modify this document under the terms of the <a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.           This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" title=\"meta:Licensing update\">licensing update</a>.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue     <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en\">Attribution-Share Alike 2.1 Japan</a> license.         https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en CC BY-SA 2.1 jp Creative Commons Attribution-Share Alike 2.1 jp truetrue   ",
+  "eolMediaURL": "https://content.eol.org/data/media/57/6a/b0/509.2054263.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/57/6a/b0/509.2054263.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "KENPEI",
+      "homepage": "https://commons.wikimedia.org/wiki/User:KENPEI",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

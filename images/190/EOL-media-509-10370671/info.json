@@ -1,0 +1,36 @@
+{
+  "identifier": "EOL-media-509-10370671",
+  "dataObjectVersionID": 7108517,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 650,
+  "width": 433,
+  "created": "2018-04-05T09:36:26.000Z",
+  "modified": "2019-06-02T17:36:14.000Z",
+  "title": "Avatar Grove Tagged Giant.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Photo by TJ Watt",
+  "source": "https://commons.wikimedia.org/wiki/File:Avatar_Grove_Tagged_Giant.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Avatar_Grove_Tagged_Giant.jpg",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: One of the most massive and gnarly old-growth redcedars in the Avatar Grove near Port Renfrew, BC is painted for falling.    Date    Source Own work   Author Photo by TJ Watt  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/3e/a7/509.10370671.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/3e/a7/509.10370671.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Photo by TJ Watt",
+      "homepage": null,
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "identifier": "EOL-media-509-10121386",
+  "dataObjectVersionID": 7093425,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 3264,
+  "width": 2448,
+  "created": "2018-04-05T09:35:27.000Z",
+  "modified": "2019-08-15T03:25:25.000Z",
+  "title": "Pinus nigra var corsicana Corsica 1.jpg",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Jean-Emmanuel Orfèvre",
+  "source": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_var_corsicana_Corsica_1.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pinus_nigra_var_corsicana_Corsica_1.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Pinus_nigra\" title=\"Pinus nigra\">Pinus nigra</a></i> var. <i>corsicana</i>, Corsica    Date 15 August 2009, 11:35   Source <a href=\"http://www.flickr.com/photos/20792768@N00/4185587882/\">P8150024</a>   Author <a href=\"http://www.flickr.com/people/20792768@N00\">Jean-Emmanuel OrfÃ¨vre</a>   Other versions  Levels adjusted from original   ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/31/c6/509.10121386.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/31/c6/509.10121386.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Jean-Emmanuel Orfèvre",
+      "homepage": "http://www.flickr.com/people/20792768@N00",
+      "role": "creator"
+    },
+    {
+      "full_name": "Jean-Emmanuel Orfèvre (20792768@N00)",
+      "homepage": "http://www.flickr.com/photos/20792768@N00/4222103413/",
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

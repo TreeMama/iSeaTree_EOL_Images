@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-15892604036",
+  "dataObjectVersionID": 6646719,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:13:01.000Z",
+  "modified": "2018-10-20T02:31:08.000Z",
+  "title": "P20131219-0009Populus tremuloides (B&amp;W)RPBG-1",
+  "license": "http://creativecommons.org/licenses/by/2.0/",
+  "license_id": 3,
+  "rightsHolder": "John Rusk",
+  "source": "https://www.flickr.com/photos/john_d_rusk/15892604036/",
+  "mediaURL": "https://farm9.staticflickr.com/8565/15892604036_f9e79f61df_o.jpg",
+  "description": "Populus tremuloidesquaking aspen.  One of several clonal colonies in Regional Parks Botanic Garden.  The individual trees are small but the colonies are spreading.  Quaking aspens are difficult to grow in the San Francisco Bay Area as they are usually found in California at an altitude of over 1,000 meters.  Photographed at Regional Parks Botanic Garden located in Tilden Regional Park near Berkeley, CA  ",
+  "eolMediaURL": "https://content.eol.org/data/media/7e/a8/98/542.15892604036.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7e/a8/98/542.15892604036.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/12303842@N00'>John Rusk</a>",
+      "homepage": "http://www.flickr.com/photos/12303842@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

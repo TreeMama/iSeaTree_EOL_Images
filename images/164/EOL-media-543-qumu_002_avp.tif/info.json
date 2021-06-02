@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-543-qumu_002_avp.tif",
+  "dataObjectVersionID": 9353826,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-30T14:32:00.000Z",
+  "modified": "2018-10-20T14:07:03.000Z",
+  "title": "\"\"",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "\"<a href=\"\"http://www.nal.usda.gov/\"\">National Agricultural Library</a>. Originally from <a href=\"\"http://www.fs.fed.us/\"\">US Forest Service</a>. United States, VA.\"",
+  "source": "http://plants.usda.gov/java/largeImage?imageID=qumu_002_avp.tif",
+  "mediaURL": "http://plants.usda.gov/gallery/large/qumu_002_lvp.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/81/d1/d9/543.qumu_002_avp_tif.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/81/d1/d9/543.qumu_002_avp_tif.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "W.D. Brush",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "USDA PLANTS images",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

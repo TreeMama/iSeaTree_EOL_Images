@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-509-12869714",
+  "dataObjectVersionID": 7058425,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T09:32:07.000Z",
+  "modified": "2019-05-27T07:18:52.000Z",
+  "title": "Magnlia sieboldii visby.JPG",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "license_id": 12,
+  "rightsHolder": "Schorle",
+  "source": "https://commons.wikimedia.org/wiki/File:Magnlia_sieboldii_visby.JPG",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Magnlia_sieboldii_visby.JPG",
+  "description": "Summary[<a href=\"https://commons.wikimedia.org/w/index.php?title=API&amp;action=edit&amp;section=1\" title=\"Edit section: Summary\">edit</a>]   DescriptionAPI  English: Magnolia sieboldii in the Botanic garden of Visby, Gotland. Deutsch: Magnolia sieboldii im Botanischen Garten von Visby, Gotland.    Date 18 June 2010   Source Own work   Author <a href=\"https://commons.wikimedia.org/wiki/User:Schorle\" title=\"User:Schorle\">Schorle</a>     Camera location <a href=\"http://tools.wmflabs.org/geohack/geohack.php?pagename=API&amp;params=057.643406_N_0018.294231_E_globe:Earth_type:camera_region:SE&amp;language=en\">57Â° 38â² 36.26â³ N, 18Â° 17â² 39.23â³ E</a> <a href=\"https://commons.wikimedia.org/wiki/Special:Map/13/57.643406/18.294231\"></a> View all coordinates using: <a href=\"http://tools.wmflabs.org/wiwosm/osm-on-ol/commons-on-osm.php?zoom=16&amp;lat=057.643406&amp;lon=0018.294231\">OpenStreetMap</a> - <a href=\"http://tools.wmflabs.org/geocommons/earth.kml?latdegdec=057.643406&amp;londegdec=0018.294231&amp;scale=10000&amp;commons=1\">Google Earth</a> <a href=\"https://commons.wikimedia.org/wiki/Commons:Geocoding\" title=\"Commons:Geocoding\"></a> 57.643406; 18.294231  ",
+  "eolMediaURL": "https://content.eol.org/data/media/55/e0/00/509.12869714.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/55/e0/00/509.12869714.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Schorle",
+      "homepage": "https://commons.wikimedia.org/wiki/User:Schorle",
+      "role": "creator"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

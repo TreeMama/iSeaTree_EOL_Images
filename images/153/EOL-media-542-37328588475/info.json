@@ -1,0 +1,34 @@
+{
+  "identifier": "EOL-media-542-37328588475",
+  "dataObjectVersionID": 6729595,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-05-23T13:27:23.000Z",
+  "modified": "2018-10-20T02:47:41.000Z",
+  "title": "Pterostyrax hispida",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+  "license_id": 4,
+  "rightsHolder": "Stefano",
+  "source": "https://www.flickr.com/photos/81918877@N00/37328588475/",
+  "mediaURL": "https://farm5.staticflickr.com/4363/37328588475_1be3cd3632_o.jpg",
+  "description": "Giardini Botanici di Villa Taranto - Verbania Pallanza",
+  "eolMediaURL": "https://content.eol.org/data/media/7f/ad/85/542.37328588475.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/7f/ad/85/542.37328588475.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://www.flickr.com/photos/81918877@N00'>Stefano</a>",
+      "homepage": "http://www.flickr.com/photos/81918877@N00",
+      "role": "photographer"
+    },
+    {
+      "full_name": "Flickr Group",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

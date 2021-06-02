@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-509-3207088",
+  "dataObjectVersionID": 7852307,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:31:12.000Z",
+  "modified": "2018-10-24T13:20:07.000Z",
+  "title": "Salix scouleriana UGA.jpg",
+  "license": "http://creativecommons.org/licenses/by/3.0/",
+  "license_id": 11,
+  "source": "https://commons.wikimedia.org/wiki/File:Salix_scouleriana_UGA.jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salix_scouleriana_UGA.jpg",
+  "description": "DescriptionAPI  <i><a href=\"https://commons.wikimedia.org/wiki/Salix_scouleriana\" title=\"Salix scouleriana\">Salix scouleriana</a></i>    Date    Source    <a href=\"https://commons.wikimedia.org/wiki/File:Juniperus_scopulorum.jpg\"></a> This image is <a href=\"http://www.forestryimages.org/browse/detail.cfm?imgnum=1208058\">Image Number 1208058</a> at <a href=\"http://www.forestryimages.org\">Forestry Images</a>, a source for forest health, natural resources and silviculture images operated by <a href=\"http://www.bugwood.org/\">The Bugwood Network</a> at the University of Georgia and the <a href=\"http://www.fs.fed.us/\">USDA Forest Service</a>.      Author Dave Powell, USDA Forest Service, United States   Permission<br> (<a href=\"https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">Reusing this file</a>)    <br>  This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"http://creativecommons.org/licenses/by/3.0/us/deed.en\">Attribution 3.0 United States</a> license.         You are free: to share â to copy, distribute and transmit the work to remix â to adapt the work Under the following conditions: attribution â You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). http://creativecommons.org/licenses/by/3.0/us/deed.en CC BY 3.0 us Creative Commons Attribution 3.0 us truetrue      ",
+  "eolMediaURL": "https://content.eol.org/data/media/5e/b2/1a/509.3207088.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/5e/b2/1a/509.3207088.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}
