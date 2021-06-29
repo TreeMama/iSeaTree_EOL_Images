@@ -120,3 +120,5 @@
 293: Salix x sepulcralis
 297: Populus x canadensis 'Aurea'
 303: Populus x canadensis
+305: Juniperus virginiana v. silicicola
+305: Juniperus virginiana v. silicicola

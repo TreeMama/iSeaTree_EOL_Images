@@ -100,9 +100,6 @@ if __name__ == '__main__':
                     json.dump(image, outfile, indent=2, ensure_ascii=False)
 
                 try:
-                    thumb_file = image_path + '/thumb.' + image['dataSubtype']
-                    urllib.request.urlretrieve(image['eolThumbnailURL'], thumb_file)
-
                     image_file = image_path + '/full.' + image['dataSubtype']
                     urllib.request.urlretrieve(image['eolMediaURL'], image_file)
                 except Exception as e:

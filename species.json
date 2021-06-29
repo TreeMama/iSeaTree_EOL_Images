@@ -8,7 +8,9 @@
     "THUMB_PIC": "",
     "FULL_PIC": "",
     "GENUS": "",
-    "BARK_TYPE": ""
+    "BARK_TYPE": "",
+    "TREE_SHAPE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Silver Fir",
@@ -22,7 +24,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Grand Fir",
@@ -36,7 +41,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Noble Fir (aka Red Fir and Christmas tree)",
@@ -50,7 +58,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Trident Maple (aka Three-Toothed Maple)",
@@ -66,7 +77,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Hedge Maple (aka Field Maple)",
@@ -82,7 +96,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Queen Elizabeth Hedge Maple",
@@ -98,7 +115,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Vine Maple",
@@ -114,7 +134,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Autumn Blaze Maple",
@@ -131,7 +154,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Flame Amur Maple",
@@ -148,7 +174,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Rocky Mt. Glow Maple",
@@ -164,7 +193,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Paperbark Maple",
@@ -180,7 +212,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Big Leaf Maple",
@@ -196,7 +231,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "State Street Maple",
@@ -212,7 +250,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Green Column Black Maple",
@@ -228,7 +269,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Maple",
@@ -244,7 +288,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Norway Maple",
@@ -260,7 +307,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Columnar Norway Maple",
@@ -276,7 +326,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Emerald Queen Norway Maple",
@@ -292,7 +345,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Globe Norway Maple",
@@ -309,7 +365,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Parkway Norway Maple",
@@ -326,7 +385,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Spaethii Maple (aka Purple Leaf Sycamore or Wineleaf Sycamore Maple)",
@@ -342,7 +404,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Maple (aka Swamp Maple)",
@@ -359,7 +424,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Bowhall Maple",
@@ -376,7 +444,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Karpick Maple",
@@ -393,7 +464,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Scarlet Sentinel Maple (aka Freeman Maple)",
@@ -410,7 +484,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Bonfire Sugar Maple",
@@ -426,7 +503,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Commemoration Sugar Maple",
@@ -443,7 +523,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mountain Sugar Maple",
@@ -459,7 +542,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Legacy Sugar Maple",
@@ -476,7 +562,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Three-Flowered Maple",
@@ -492,7 +581,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "‘Warrenred’ Pacific Sunset Maple",
@@ -509,7 +601,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Norwegian Sunset Maple",
@@ -526,7 +621,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Horse Chestnuts",
@@ -542,7 +640,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yellow Buckeye",
@@ -558,7 +659,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Horse Chestnut",
@@ -574,7 +678,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Alder",
@@ -590,7 +697,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sitka Alder (aka Mountain Alder)",
@@ -606,7 +716,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Saskatoon Serviceberry (aka Western Serviceberry, Alder-Leave Shadbush, Western Juneberry, Pigeon Berry, or Chuckley Pear)",
@@ -622,7 +735,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Autumn Brilliance Serviceberry",
@@ -638,7 +754,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Princess Diana Serviceberry",
@@ -654,7 +773,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Allegheny Serviceberry",
@@ -670,7 +792,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Madrone",
@@ -686,7 +811,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Strawberry Tree",
@@ -702,7 +830,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pawpaw",
@@ -718,7 +849,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chinese Red Birch",
@@ -735,7 +869,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Jacquemontii Birch",
@@ -752,7 +889,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Paper Birch",
@@ -768,7 +908,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Silver Birch",
@@ -784,7 +927,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Incense Cedar",
@@ -798,7 +944,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Fastigiate Hornbeam (aka Pyramidal European Hornbeam)",
@@ -814,7 +963,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "American Hornbeam (aka Blue Beech)",
@@ -830,7 +982,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Hornbeam",
@@ -846,7 +1001,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Blue Atlas Cedar",
@@ -860,7 +1018,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Deodar Cedar",
@@ -874,7 +1035,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Katsura Tree",
@@ -890,7 +1054,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Redbud Tree",
@@ -906,7 +1073,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Judas Tree",
@@ -922,7 +1092,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Port Orford Cedar (aka Lawson’s Cypress)",
@@ -936,7 +1109,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yellow Cedar (aka Yellow Cypress or Alaskan Yellow Cedar)",
@@ -950,7 +1126,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sawara Cypress",
@@ -964,7 +1143,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yellowwood (aka American Yellowwood)",
@@ -980,7 +1162,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pagoda Dogwood",
@@ -996,7 +1181,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Giant Dogwood",
@@ -1012,7 +1200,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Eddie’s White Wonder Dogwood",
@@ -1028,7 +1219,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Kousa Dogwood (aka Chinese Dogwood)",
@@ -1044,7 +1238,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cornelian Cherry",
@@ -1060,7 +1257,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Dogwood (aka Canadian Dogwood or Mountain Dogwood)",
@@ -1076,7 +1276,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Osier Dogwood",
@@ -1092,7 +1295,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Turkish Filbert (aka Turkish Hazel)",
@@ -1108,7 +1314,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Beaked Hazelnut (aka Beaked Filbert)",
@@ -1124,7 +1333,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "American Smoke Tree",
@@ -1140,7 +1352,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Black Hawthorn",
@@ -1156,7 +1371,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Thornless Cockspur Hawthorn",
@@ -1172,7 +1390,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Lavalle Hawthorn",
@@ -1188,7 +1409,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Washington Hawthorn",
@@ -1204,7 +1428,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Suksdorf’s Hawthorn",
@@ -1220,7 +1447,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Dove Tree (aka Ghost Tree or Pocket Handkerchief Tree)",
@@ -1236,7 +1466,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Hardy Rubber Tree",
@@ -1252,7 +1485,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "European Beech (aka Green Beech)",
@@ -1266,7 +1502,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Dawyck Purple Beech",
@@ -1281,7 +1520,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Purple Oak Leaf Beech",
@@ -1296,7 +1538,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Empire Ash (aka White Ash)",
@@ -1310,7 +1555,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Autumn Applause Ash",
@@ -1324,7 +1572,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Oregon Ash",
@@ -1338,7 +1589,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cimmaron Ash",
@@ -1353,7 +1607,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Patmore Ash",
@@ -1367,7 +1624,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Urbanite Ash",
@@ -1382,7 +1642,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Princeton Sentry Gingko",
@@ -1399,7 +1662,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Autumn Gold Gingko",
@@ -1416,7 +1682,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Magyar Gingko",
@@ -1433,7 +1702,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Espresso Kentucky Coffee",
@@ -1449,7 +1721,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mountain Silverbell",
@@ -1465,7 +1740,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Carolina Silverbell (aka COMMON Silverbell)",
@@ -1481,7 +1759,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chinese Witch Hazel (aka Orange Flowering Witch Hazel)",
@@ -1497,7 +1778,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Goldenrain Tree (aka Varnish Tree)",
@@ -1513,7 +1797,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Tuscarora Hybrid Crape Myrle",
@@ -1529,7 +1816,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Dunkeld Larch",
@@ -1543,7 +1833,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Western Larch",
@@ -1557,7 +1850,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Alpine Larch (aka Subalpine Larch)",
@@ -1571,7 +1867,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sweet Gum",
@@ -1587,7 +1886,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Rotundiloba Sweetgum",
@@ -1604,7 +1906,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Moraine Sweetgum",
@@ -1621,7 +1926,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Tulip Tree (aka American Tulip Tree or Tulipwood)",
@@ -1638,7 +1946,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Columnar Tulip Tree",
@@ -1655,7 +1966,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Amur Maackia",
@@ -1671,7 +1985,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Elizabeth Magnolia",
@@ -1688,7 +2005,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yulan Magnolia",
@@ -1704,7 +2024,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Galaxy Magnolia",
@@ -1720,7 +2043,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Evergreen Magnolia (aka Southern Magnolia)",
@@ -1737,7 +2063,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Little Gem Magnolia",
@@ -1753,7 +2082,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Wada’s Memory Magnolia",
@@ -1769,7 +2101,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Loebner Magnolia",
@@ -1786,7 +2121,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Oyama Magnolia",
@@ -1802,7 +2140,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Adirondack Crabapple",
@@ -1819,7 +2160,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Donald Wyman Crabapple",
@@ -1836,7 +2180,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Crabapple (aka Oregon Crabapple)",
@@ -1852,7 +2199,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Lancelot Crabapple (aka Roseybloom)",
@@ -1869,7 +2219,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Apple",
@@ -1885,7 +2238,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Barron Crabapple",
@@ -1902,7 +2258,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Golden Raindrops Crabapple",
@@ -1919,7 +2278,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Tschonoskii Crabapple",
@@ -1935,7 +2297,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Dawn Redwood",
@@ -1949,7 +2314,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Antarctic Beech",
@@ -1965,7 +2333,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Black Tupelo (aka Blackgum)",
@@ -1981,7 +2352,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Ironwood (aka American Hop Hornbeam)",
@@ -1997,7 +2371,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sourwood",
@@ -2013,7 +2390,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Persian Parrotia (aka Persian Ironwood)",
@@ -2029,7 +2409,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Macho Cork Tree",
@@ -2045,7 +2428,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sitka Spruce",
@@ -2059,7 +2445,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Umbrella Pine",
@@ -2073,7 +2462,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Western White Pine (aka Silver Pine)",
@@ -2087,7 +2479,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Austrian Pine",
@@ -2101,7 +2496,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Italian Stone Pine",
@@ -2115,7 +2513,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Ponderosa Pine (aka Bull Pine, Blackjack Pine, or Western Yellow-Pine)",
@@ -2129,7 +2530,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Scotch Pine",
@@ -2143,7 +2547,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "London Planetree (aka Hybrid Plane)",
@@ -2159,7 +2566,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Bloodgood London Planetree",
@@ -2175,7 +2585,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yarwood London Planetree",
@@ -2192,7 +2605,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Balsam Poplar",
@@ -2208,7 +2624,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Lombardy Poplar",
@@ -2224,7 +2643,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Quaking Aspen (aka Quakies, Trembling Aspen, Trembling Poplar, Popple, or American Aspen)",
@@ -2240,7 +2662,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mt. St. Helens Plum",
@@ -2257,7 +2682,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Vesuvius Flowering Plum",
@@ -2273,7 +2701,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Newport Plum",
@@ -2290,7 +2721,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Thundercloud Plum",
@@ -2306,7 +2740,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Spire Cherry",
@@ -2323,7 +2760,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Columnar Sargent Cherry",
@@ -2339,7 +2779,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Amanogawa Flowering Cherry",
@@ -2355,7 +2798,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Snow Goose Cherry",
@@ -2372,7 +2818,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Akebono Flowering Cherry",
@@ -2388,7 +2837,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Golden Larch",
@@ -2402,7 +2854,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Douglas-Fir (aka Oregon Pine and Columbian Pine)",
@@ -2416,7 +2871,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Fragrant Epaulette Tree (aka Wisteria Tree)",
@@ -2432,7 +2890,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Aristocrat Pear",
@@ -2448,7 +2909,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cambridge Pear",
@@ -2465,7 +2929,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chanticleer (aka Cleveland Select Pear)",
@@ -2481,7 +2948,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Redspire Pear",
@@ -2497,7 +2967,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Swamp White Oak",
@@ -2513,7 +2986,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Scarlet Oak",
@@ -2529,7 +3005,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Italian Oak (aka Hungarian Oak)",
@@ -2545,7 +3024,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Oregon Oak (aka White Oak or Garry Oak)",
@@ -2561,7 +3043,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Holly Oak (aka Holm Oak)",
@@ -2577,7 +3062,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Shingle Oak",
@@ -2593,7 +3081,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chinkapin Oak (aka Chestnut Oak)",
@@ -2609,7 +3100,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pin Oak",
@@ -2625,7 +3119,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "English Oak",
@@ -2641,7 +3138,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Crimson Spire Oak (aka Chrimschmidt)",
@@ -2657,7 +3157,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Skyrocket Oak (aka Columnar English Oak)",
@@ -2674,7 +3177,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Northern Red Oak",
@@ -2690,7 +3196,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Black Oak",
@@ -2706,7 +3215,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cascara (aka Cascara Buckthorn)",
@@ -2722,7 +3234,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pink Idaho Locus (aka Purple Robe)",
@@ -2738,7 +3253,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Willow (Whiplash Willow)",
@@ -2754,7 +3272,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Scouler’s Willow",
@@ -2770,7 +3291,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Umbrella Pine",
@@ -2784,7 +3308,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Giant Sequoia",
@@ -2798,7 +3325,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Coast Redwood",
@@ -2812,7 +3342,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Pagoda Tree (aka Chinese Scholar Tree)",
@@ -2828,7 +3361,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Korean Mountain Ash",
@@ -2844,7 +3380,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red Cascade Mountain Ash",
@@ -2860,7 +3399,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "European Mountain Ash",
@@ -2876,7 +3418,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cardinal Royal Mountain Ash",
@@ -2893,7 +3438,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Oakleaf Royal Mountain Ash",
@@ -2909,7 +3457,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Orange Bark Stewartia (aka Tall Stewartia)",
@@ -2926,7 +3477,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Stewartia",
@@ -2942,7 +3496,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Fragrant Styrax (aka Fragrant Snowbell)",
@@ -2958,7 +3515,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Snowbell",
@@ -2974,7 +3534,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Brave Bald Cypress",
@@ -2990,7 +3553,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pacific Yew (aka Western Yew)",
@@ -3004,7 +3570,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Western Red Cedar (aka Giant Arborvitae or Shinglewood)",
@@ -3018,7 +3587,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Redmond Linden",
@@ -3034,7 +3606,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Greenspire Linden",
@@ -3050,7 +3625,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chancelor Linden (aka Little-leaf Linden)",
@@ -3067,7 +3645,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "De Groot Littleleaf Linden",
@@ -3084,7 +3665,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Windmill Palm",
@@ -3098,7 +3682,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Canadian Hemlock (aka Eastern Hemlock-Spruce or Eastern Hemlock)",
@@ -3112,7 +3699,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Western Hemlock",
@@ -3126,7 +3716,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mountain Hemlock",
@@ -3140,7 +3733,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Frontier Elm",
@@ -3156,7 +3752,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Homestead Elm",
@@ -3173,7 +3772,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Athena Classic Elm",
@@ -3189,7 +3791,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Allee Elm (aka Chinese Elm or Lacebark Elm)",
@@ -3205,7 +3810,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Zelkova",
@@ -3221,7 +3829,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Green Vase Zelkova",
@@ -3238,7 +3849,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Village Green Zelkova",
@@ -3254,7 +3868,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Northern White Cedar (Arborvitae)",
@@ -3268,7 +3885,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Shagbark Hickory",
@@ -3284,7 +3904,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "European Larch",
@@ -3298,7 +3921,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Weeping Blue Atlas Cedar",
@@ -3312,7 +3938,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Japanese Weeping Cherry",
@@ -3329,7 +3958,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "White Fir",
@@ -3343,7 +3975,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Leyland Cypress",
@@ -3357,7 +3992,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Golden Chain Tree (aka Goldenchain Tree)",
@@ -3373,7 +4011,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Amur Maple",
@@ -3389,7 +4030,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Rocky Mountain Maple",
@@ -3405,7 +4049,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Weeping Katsura Tree",
@@ -3421,7 +4068,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Flowering Dogwood",
@@ -3437,7 +4087,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "European Smoke Tree (aka European Smoketree)",
@@ -3453,7 +4106,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Leprechaun Ash",
@@ -3469,7 +4125,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Crimson Cloud Hawthorn",
@@ -3485,7 +4144,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Rocky Mountain Bristlecone Pine",
@@ -3499,7 +4161,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Staghorn Sumac",
@@ -3515,7 +4180,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Freeman Maple (aka Freeman's Maple)",
@@ -3531,7 +4199,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Weeping Douglas-Fir",
@@ -3545,7 +4216,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Hollywood Juniper",
@@ -3559,7 +4233,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chinese Juniper",
@@ -3573,7 +4250,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Black Birch (or River Birch)",
@@ -3589,7 +4269,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Lodgepole Pine (aka Rocky Mountain Lodgepole Pine)",
@@ -3604,7 +4287,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Shore Pine",
@@ -3619,7 +4305,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Joshua tree",
@@ -3636,7 +4325,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Aloe yucca",
@@ -3653,7 +4345,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Screwbean mesquite",
@@ -3670,7 +4365,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mesquite spp.",
@@ -3687,7 +4385,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Oak spp.",
@@ -3704,7 +4405,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Ginkgo",
@@ -3721,7 +4425,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Acacia spp.",
@@ -3738,7 +4445,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Maple spp.",
@@ -3755,7 +4465,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Abelia spp.",
@@ -3772,7 +4485,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Indian mallow spp.",
@@ -3789,7 +4505,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Adansonia spp.",
@@ -3806,7 +4525,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Wild lime spp.",
@@ -3823,7 +4545,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Beadtree spp.",
@@ -3840,7 +4565,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Prickbush spp.",
@@ -3857,7 +4585,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Buckeye spp.",
@@ -3874,7 +4605,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Tree of Heaven (or Ailanthus spp.)",
@@ -3891,7 +4625,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Albizia spp.",
@@ -3908,7 +4645,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Alchorneopsis spp.",
@@ -3925,7 +4665,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Alhagi spp.",
@@ -3942,7 +4685,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Alder spp.",
@@ -3959,7 +4705,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Coast oak",
@@ -3976,7 +4725,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Coastal live oak",
@@ -3993,7 +4745,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Evergreen pear",
@@ -4010,7 +4765,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "California palm",
@@ -4027,7 +4785,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mexican fan palm",
@@ -4044,7 +4805,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Fan Palms (Washingtonia spp.)",
@@ -4061,7 +4825,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Yucca (Yucca spp.)",
@@ -4078,7 +4845,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Silver dollar eucalyptus",
@@ -4095,7 +4865,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Eucalyptus (Gum spp.)",
@@ -4112,7 +4885,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Monterey pine",
@@ -4127,7 +4903,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Hawai'i poisonberry tree",
@@ -4144,7 +4923,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Corcho bobo",
@@ -4161,7 +4943,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Aulu",
@@ -4178,7 +4963,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sierran palm",
@@ -4195,7 +4983,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Eastern white pine",
@@ -4210,7 +5001,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pine (Pinus spp.)",
@@ -4225,7 +5019,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Birch (Betula spp.)",
@@ -4242,7 +5039,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Hickory (Hickory spp.)",
@@ -4259,7 +5059,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Chestnut (Chestnut spp.)",
@@ -4276,7 +5079,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Golden Rain Tree (or Goldenrain 'Fastigiata')",
@@ -4293,7 +5099,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Katsura tree spp.",
@@ -4310,7 +5119,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Elm (Elm spp.)",
@@ -4327,7 +5139,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Spruce (Spruce spp.)",
@@ -4342,7 +5157,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Fir (Fir spp.)",
@@ -4357,7 +5175,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Willow (Salix spp.)",
@@ -4374,7 +5195,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pear (Pear spp.)",
@@ -4391,7 +5215,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sassafras  (Sassafras spp.)",
@@ -4408,7 +5235,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Ash  (Ash spp.)",
@@ -4425,7 +5255,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Limber pine  (or Rocky Mountain white pine)",
@@ -4440,7 +5273,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Coulter pine",
@@ -4455,7 +5291,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Intermountain bristlecone pine (or Great Basin bristlecone pine)",
@@ -4470,7 +5309,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Arizona pine",
@@ -4485,7 +5327,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Bristlecone pine",
@@ -4500,7 +5345,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Mount diablo manzanita",
@@ -4517,7 +5365,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Manilla palm",
@@ -4534,7 +5385,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "California red fir",
@@ -4549,7 +5403,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Bald cypress spp.",
@@ -4564,7 +5421,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Tamarind spp.",
@@ -4581,7 +5441,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cypress spp.",
@@ -4596,7 +5459,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Monterey cypress",
@@ -4611,7 +5477,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cedar spp.",
@@ -4626,7 +5495,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Magnolia spp.",
@@ -4643,7 +5515,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Cottonwood (Cottonwood spp.)",
@@ -4660,7 +5535,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Weeping willow",
@@ -4677,7 +5555,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Sycamore (Sycamore spp.)",
@@ -4694,7 +5575,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "American sycamore",
@@ -4711,7 +5595,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Loblolly pine",
@@ -4726,7 +5613,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Golden Carolina poplar",
@@ -4743,7 +5633,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Longleaf pine",
@@ -4758,7 +5651,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pond pine",
@@ -4773,7 +5669,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Red pine",
@@ -4788,7 +5687,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Pitch pine",
@@ -4803,7 +5705,10 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
-    "NEEDLE_SHARP": ""
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "White oak",
@@ -4820,7 +5725,10 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
   },
   {
     "COMMON": "Carolina poplar (or Canadian poplar)",
@@ -4837,6 +5745,47 @@
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
     "LEAF_EDGES": "",
-    "LEAF_TYPE": ""
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
+  },
+  {
+    "COMMON": "Victorian Box",
+    "TYPE": "broadleaf",
+    "SCIENTIFIC": "Pittosporum undulatum",
+    "ID": "304",
+    "ITREECODE": "PIUN",
+    "LEVEL": "medium",
+    "ITREECODE_APPROX": "n",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "",
+    "BARK_TYPE": "",
+    "LEAF_SHAPE": "",
+    "LEAF_VEINS": "",
+    "LEAF_EDGES": "",
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "NO_IMAGE": false
+  },
+  {
+    "COMMON": "Southern Redcedar",
+    "TYPE": "conifer",
+    "SCIENTIFIC": "Juniperus virginiana v. silicicola",
+    "ID": "305",
+    "ITREECODE": "JUSI",
+    "LEVEL": "medium",
+    "ITREECODE_APPROX": "n",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "",
+    "BARK_TYPE": "",
+    "NEEDLE_TYPE": "",
+    "NEEDLE_SHARP": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "NO_IMAGE": false
   }
 ]

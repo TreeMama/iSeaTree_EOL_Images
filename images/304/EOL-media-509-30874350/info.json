@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-509-30874350",
+  "dataObjectVersionID": 7983441,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-04-05T11:49:45.000Z",
+  "modified": "2018-10-24T13:25:19.000Z",
+  "title": "File:Pittosporum undulatum tree in Singleton Court, ca.1920 (CHS-5400).jpg",
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "license_id": 6,
+  "source": "https://commons.wikimedia.org/wiki/File:Pittosporum_undulatum_tree_in_Singleton_Court,_ca.1920_(CHS-5400).jpg",
+  "mediaURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Pittosporum_undulatum_tree_in_Singleton_Court,_ca.1920_(CHS-5400).jpg",
+  "description": "<br> Pittosporum undulatum tree in Singleton Court, ca.1920 Photograph of a pittosporum undulatum tree in Singleton Court, ca.1920. The large tree is pictured at center, just inside of what appears to be a paved road or pathway. Other plants and trees are visible in the background.; \"These are small trees or large shrubs that vary a great deal in their leaves and flowers. Some kinds have pretty foliage and others have very fragrant flowers. They are a common sight in the native vegetation of New Zealand and Australia, but some are found wild in China and other countries. Many kinds can be grown outside in the U.S. in mild areas. Some are perfect for growing in tubs or pots. A few kinds are good hedge plants, especially in seaside gardens. A few, such as, P. eugenioides, P. colensoi and P. tenuifolium are useful for use in floral arrangements. Possibly, the hardiest kind is P. tenuifolium. This native of New Zealand can form a tree 30 feet high with a dark-colored trunk up to a foot around. It has black or purplish shoots covered with shiny, light green leaves that are 1 to 1A1/2 inches long and have wavy edges. The dark purple flowers are usually produced singly from the leaf axils in May. The variety Silver Queen has lovely silver leaves. P. crassifolium is a large shrub, 12-18 feet tall, with tough, thick leaves that are dark green above and covered with thick grayish fuzz underneath. The leaves grow 4 inches long and 1A1/2 inches wide. The flowers are dull purple and are produced in May in small, thick clusters at the ends of the shoots. P. pauciflorum is from China. It can grow 4-6 feet high and its leaves form small clusters at the ends of the shoots. It bears fragrant, yellowish flowers in May. P. tobira is one of the most beautiful kinds from China and Japan. It can grow up to 20 feet high in its native country. The thick, dark green, leathery leaves are up to 4 inches long and 1A1/2 inches wide. The flowers grow in thick clusters at the ends of the shoots. They're white when they first open, but as they age, turn yellow. They are very fragrant and remind people of orange blossoms.\" -- unknown author.    <b>Call number</b>: CHS-5400  <b>Filename</b>: CHS-5400  <b>Coverage date</b>: circa 1920  <b>Part of collection</b>: California Historical Society Collection, 1860-1960  <b>Format</b>: glass plate negatives  <b>Type</b>: images  <b>Geographic subject (city or populated place)</b>: Los Angeles  <b>Repository name</b>: USC Libraries Special Collections  <b>Accession number</b>: 5400  <b>Microfiche number</b>: 1-82-168  <b>Archival file</b>: chs_Volume98/CHS-5400.tiff  <b>Part of subcollection</b>: Title Insurance and Trust, and C.C. Pierce Photography Collection, 1860-1960  <b>Repository address</b>: Doheny Memorial Library, Los Angeles, CA 90089-0189  <b>Geographic subject (country)</b>: USA  <b>Format (aacr2)</b>: 2 photographs : glass photonegative, photoprint, b&amp;w ; 26 x 21 cm.  <b>Rights</b>: Digitally reproduced by the USC Digital Library; From the California Historical Society Collection at the University of Southern California  <b>Subject (adlf)</b>: parks  <b>Project</b>: USC  <b>Repository email</b>: specol@usc.edu  <b>Contributing entity</b>: California Historical Society  <b>Date created</b>: circa 1920  <b>Publisher (of the digital version)</b>: University of Southern California. Libraries  <b>Format (aat)</b>: photographic prints; photographs  <b>Geographic subject (state)</b>: California  <b>Legacy record ID</b>: chs-m17350; USC-1-1-1-14234  <b>Access conditions</b>: Send requests to address or e-mail given. Phone (213) 821-2366; fax (213) 740-2343.  <b>Subject (file heading)</b>: Botany -- Trees -- Assorted (Identified)  <b>Geographic subject (roadway)</b>: Adams Street  <b>Subject (lcsh)</b>: Trees",
+  "eolMediaURL": "https://content.eol.org/data/media/59/76/d6/509.30874350.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/59/76/d6/509.30874350.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll65/id/17347",
+      "homepage": null,
+      "role": "source"
+    },
+    {
+      "full_name": "Wikimedia Commons",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}
