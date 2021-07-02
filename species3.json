@@ -14,7 +14,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Fragrant Epaulette Tree (aka Wisteria Tree)",
@@ -451,7 +452,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Giant Sequoia",
@@ -468,7 +470,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Coast Redwood",
@@ -485,7 +488,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Japanese Pagoda Tree (aka Chinese Scholar Tree)",
@@ -713,7 +717,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Western Red Cedar (aka Giant Arborvitae or Shinglewood)",
@@ -730,7 +735,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Redmond Linden",
@@ -825,7 +831,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Canadian Hemlock (aka Eastern Hemlock-Spruce or Eastern Hemlock)",
@@ -842,7 +849,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Western Hemlock",
@@ -859,7 +867,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Mountain Hemlock",
@@ -876,7 +885,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Frontier Elm",
@@ -1028,7 +1038,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Shagbark Hickory",
@@ -1064,7 +1075,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Weeping Blue Atlas Cedar",
@@ -1081,7 +1093,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Japanese Weeping Cherry",
@@ -1118,7 +1131,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Leyland Cypress",
@@ -1135,7 +1149,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Golden Chain Tree (aka Goldenchain Tree)",
@@ -1304,7 +1319,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Staghorn Sumac",
@@ -1359,7 +1375,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Hollywood Juniper",
@@ -1376,7 +1393,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Chinese Juniper",
@@ -1393,6 +1411,7 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   }
 ]

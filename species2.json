@@ -71,7 +71,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Dawyck Purple Beech",
@@ -89,7 +90,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Purple Oak Leaf Beech",
@@ -107,7 +109,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Empire Ash (aka White Ash)",
@@ -124,7 +127,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Autumn Applause Ash",
@@ -141,7 +145,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Oregon Ash",
@@ -158,7 +163,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Cimmaron Ash",
@@ -176,7 +182,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Patmore Ash",
@@ -193,7 +200,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Urbanite Ash",
@@ -211,7 +219,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Princeton Sentry Gingko",
@@ -402,7 +411,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Western Larch",
@@ -419,7 +429,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Alpine Larch (aka Subalpine Larch)",
@@ -436,7 +447,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Sweet Gum",
@@ -883,7 +895,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Antarctic Beech",
@@ -1014,7 +1027,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Umbrella Pine",
@@ -1031,7 +1045,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Western White Pine (aka Silver Pine)",
@@ -1048,7 +1063,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Austrian Pine",
@@ -1065,7 +1081,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Italian Stone Pine",
@@ -1082,7 +1099,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Ponderosa Pine (aka Bull Pine, Blackjack Pine, or Western Yellow-Pine)",
@@ -1099,7 +1117,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Scotch Pine",
@@ -1116,7 +1135,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "London Planetree (aka Hybrid Plane)",

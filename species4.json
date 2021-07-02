@@ -15,7 +15,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Shore Pine",
@@ -33,7 +34,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Joshua tree",
@@ -631,7 +633,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Hawai'i poisonberry tree",
@@ -729,7 +732,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Pine (Pinus spp.)",
@@ -747,7 +751,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Birch (Betula spp.)",
@@ -885,7 +890,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Fir (Fir spp.)",
@@ -903,7 +909,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Willow (Salix spp.)",
@@ -1001,7 +1008,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Coulter pine",
@@ -1019,7 +1027,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Intermountain bristlecone pine (or Great Basin bristlecone pine)",
@@ -1037,7 +1046,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Arizona pine",
@@ -1055,7 +1065,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Bristlecone pine",
@@ -1073,7 +1084,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Mount diablo manzanita",
@@ -1131,7 +1143,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Bald cypress spp.",
@@ -1149,7 +1162,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Tamarind spp.",
@@ -1187,7 +1201,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Monterey cypress",
@@ -1205,7 +1220,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Cedar spp.",
@@ -1223,7 +1239,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Magnolia spp.",
@@ -1341,7 +1358,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Golden Carolina poplar",
@@ -1379,7 +1397,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Pond pine",
@@ -1397,7 +1416,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Red pine",
@@ -1415,7 +1435,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Pitch pine",
@@ -1433,7 +1454,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "White oak",
@@ -1511,6 +1533,7 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   }
 ]

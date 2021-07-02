@@ -27,7 +27,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Grand Fir",
@@ -44,7 +45,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Noble Fir (aka Red Fir and Christmas tree)",
@@ -61,7 +63,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Trident Maple (aka Three-Toothed Maple)",
@@ -947,7 +950,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Fastigiate Hornbeam (aka Pyramidal European Hornbeam)",
@@ -1021,7 +1025,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Deodar Cedar",
@@ -1038,7 +1043,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Katsura Tree",
@@ -1112,7 +1118,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Yellow Cedar (aka Yellow Cypress or Alaskan Yellow Cedar)",
@@ -1129,7 +1136,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Sawara Cypress",
@@ -1146,7 +1154,8 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false
+    "NO_IMAGE": false,
+    "FASCICLE_NO": ""
   },
   {
     "COMMON": "Yellowwood (aka American Yellowwood)",
