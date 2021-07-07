@@ -15,8 +15,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Shore Pine",
@@ -34,8 +36,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Joshua tree",
@@ -55,7 +59,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Aloe yucca",
@@ -75,7 +83,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Screwbean mesquite",
@@ -95,7 +107,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Mesquite spp.",
@@ -115,7 +131,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Oak spp.",
@@ -135,7 +155,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Ginkgo",
@@ -155,7 +179,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Acacia spp.",
@@ -175,7 +203,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Maple spp.",
@@ -195,7 +227,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Abelia spp.",
@@ -215,7 +251,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Indian mallow spp.",
@@ -235,7 +275,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Adansonia spp.",
@@ -255,7 +299,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Wild lime spp.",
@@ -275,7 +323,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Beadtree spp.",
@@ -295,7 +347,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Prickbush spp.",
@@ -315,7 +371,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Buckeye spp.",
@@ -335,7 +395,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Tree of Heaven (or Ailanthus spp.)",
@@ -355,7 +419,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Albizia spp.",
@@ -375,7 +443,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Alchorneopsis spp.",
@@ -395,7 +467,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Alhagi spp.",
@@ -415,7 +491,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Alder spp.",
@@ -435,7 +515,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Coast oak",
@@ -455,7 +539,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Coastal live oak",
@@ -475,7 +563,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Evergreen pear",
@@ -495,7 +587,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "California palm",
@@ -515,7 +611,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Mexican fan palm",
@@ -535,7 +635,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Fan Palms (Washingtonia spp.)",
@@ -555,7 +659,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Yucca (Yucca spp.)",
@@ -575,7 +683,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Silver dollar eucalyptus",
@@ -595,7 +707,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Eucalyptus (Gum spp.)",
@@ -615,7 +731,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Monterey pine",
@@ -633,8 +753,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Hawai'i poisonberry tree",
@@ -654,7 +776,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Corcho bobo",
@@ -674,7 +800,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Aulu",
@@ -694,7 +824,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Sierran palm",
@@ -714,7 +848,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Eastern white pine",
@@ -732,8 +870,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Pine (Pinus spp.)",
@@ -751,8 +891,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Birch (Betula spp.)",
@@ -772,7 +914,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Hickory (Hickory spp.)",
@@ -792,7 +938,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Chestnut (Chestnut spp.)",
@@ -812,7 +962,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Golden Rain Tree (or Goldenrain 'Fastigiata')",
@@ -832,7 +986,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Katsura tree spp.",
@@ -852,7 +1010,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Elm (Elm spp.)",
@@ -872,7 +1034,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Spruce (Spruce spp.)",
@@ -890,8 +1056,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Fir (Fir spp.)",
@@ -909,8 +1077,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Willow (Salix spp.)",
@@ -930,7 +1100,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Pear (Pear spp.)",
@@ -950,7 +1124,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Sassafras  (Sassafras spp.)",
@@ -970,7 +1148,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Ash  (Ash spp.)",
@@ -990,7 +1172,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Limber pine  (or Rocky Mountain white pine)",
@@ -1008,8 +1194,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Coulter pine",
@@ -1027,8 +1215,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Intermountain bristlecone pine (or Great Basin bristlecone pine)",
@@ -1046,8 +1236,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Arizona pine",
@@ -1065,8 +1257,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Bristlecone pine",
@@ -1084,8 +1278,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Mount diablo manzanita",
@@ -1105,7 +1301,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Manilla palm",
@@ -1125,7 +1325,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "California red fir",
@@ -1143,8 +1347,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Bald cypress spp.",
@@ -1162,8 +1368,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Tamarind spp.",
@@ -1183,7 +1391,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Cypress spp.",
@@ -1201,8 +1413,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Monterey cypress",
@@ -1220,8 +1434,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Cedar spp.",
@@ -1239,8 +1455,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Magnolia spp.",
@@ -1260,7 +1478,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Cottonwood (Cottonwood spp.)",
@@ -1280,7 +1502,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Weeping willow",
@@ -1300,7 +1526,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Sycamore (Sycamore spp.)",
@@ -1320,7 +1550,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "American sycamore",
@@ -1340,7 +1574,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Loblolly pine",
@@ -1358,8 +1596,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Golden Carolina poplar",
@@ -1379,7 +1619,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Longleaf pine",
@@ -1397,8 +1641,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Pond pine",
@@ -1416,8 +1662,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Red pine",
@@ -1435,8 +1683,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "Pitch pine",
@@ -1454,8 +1704,10 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   },
   {
     "COMMON": "White oak",
@@ -1475,7 +1727,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Carolina poplar (or Canadian poplar)",
@@ -1495,7 +1751,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Victorian Box",
@@ -1515,7 +1775,11 @@
     "LEAF_TYPE": "",
     "TREE_SHAPE": "",
     "FRUIT_SEED": "",
-    "NO_IMAGE": false
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": ""
   },
   {
     "COMMON": "Southern Redcedar",
@@ -1533,7 +1797,9 @@
     "NEEDLE_SHARP": "",
     "TREE_SHAPE": "",
     "CONE": "",
-    "NO_IMAGE": false,
-    "FASCICLE_NO": ""
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": ""
   }
 ]
