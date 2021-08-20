@@ -10,7 +10,8 @@
     "GENUS": "",
     "BARK_TYPE": "",
     "TREE_SHAPE": "",
-    "BARK_COLOR": ""
+    "BARK_COLOR": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Silver Fir",
@@ -30,7 +31,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Grand Fir",
@@ -50,7 +52,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Noble Fir (aka Red Fir and Christmas tree)",
@@ -70,7 +73,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Trident Maple (aka Three-Toothed Maple)",
@@ -93,7 +97,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hedge Maple (aka Field Maple)",
@@ -116,7 +121,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Queen Elizabeth Hedge Maple",
@@ -139,7 +145,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Vine Maple",
@@ -162,7 +169,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Blaze Maple",
@@ -186,7 +194,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Flame Amur Maple",
@@ -210,7 +219,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Rocky Mt. Glow Maple",
@@ -233,7 +243,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Paperbark Maple",
@@ -256,7 +267,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Big Leaf Maple",
@@ -279,7 +291,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "State Street Maple",
@@ -302,7 +315,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Green Column Black Maple",
@@ -325,7 +339,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Maple",
@@ -348,7 +363,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Norway Maple",
@@ -371,7 +387,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Columnar Norway Maple",
@@ -394,7 +411,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Emerald Queen Norway Maple",
@@ -417,7 +435,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Globe Norway Maple",
@@ -441,7 +460,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Parkway Norway Maple",
@@ -465,7 +485,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Spaethii Maple (aka Purple Leaf Sycamore or Wineleaf Sycamore Maple)",
@@ -488,7 +509,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Maple (aka Swamp Maple)",
@@ -512,7 +534,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bowhall Maple",
@@ -536,7 +559,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Karpick Maple",
@@ -560,7 +584,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Scarlet Sentinel Maple (aka Freeman Maple)",
@@ -584,7 +609,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bonfire Sugar Maple",
@@ -607,7 +633,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Commemoration Sugar Maple",
@@ -631,7 +658,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mountain Sugar Maple",
@@ -654,7 +682,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Legacy Sugar Maple",
@@ -678,7 +707,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Three-Flowered Maple",
@@ -701,7 +731,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "‘Warrenred’ Pacific Sunset Maple",
@@ -725,7 +756,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Norwegian Sunset Maple",
@@ -749,7 +781,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Horse Chestnuts",
@@ -772,7 +805,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellow Buckeye",
@@ -795,7 +829,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Horse Chestnut",
@@ -818,7 +853,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Alder",
@@ -841,7 +877,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sitka Alder (aka Mountain Alder)",
@@ -864,7 +901,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Saskatoon Serviceberry (aka Western Serviceberry, Alder-Leave Shadbush, Western Juneberry, Pigeon Berry, or Chuckley Pear)",
@@ -887,7 +925,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Brilliance Serviceberry",
@@ -910,7 +949,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Princess Diana Serviceberry",
@@ -933,7 +973,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Allegheny Serviceberry",
@@ -956,7 +997,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Madrone",
@@ -979,7 +1021,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Strawberry Tree",
@@ -1002,7 +1045,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pawpaw",
@@ -1025,7 +1069,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chinese Red Birch",
@@ -1049,7 +1094,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Jacquemontii Birch",
@@ -1073,7 +1119,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Paper Birch",
@@ -1096,7 +1143,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Silver Birch",
@@ -1119,7 +1167,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Incense Cedar",
@@ -1139,7 +1188,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fastigiate Hornbeam (aka Pyramidal European Hornbeam)",
@@ -1162,7 +1212,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "American Hornbeam (aka Blue Beech)",
@@ -1185,7 +1236,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Hornbeam",
@@ -1208,7 +1260,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Blue Atlas Cedar",
@@ -1228,7 +1281,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Deodar Cedar",
@@ -1248,7 +1302,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Katsura Tree",
@@ -1271,7 +1326,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Redbud Tree",
@@ -1294,7 +1350,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Judas Tree",
@@ -1317,7 +1374,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Port Orford Cedar (aka Lawson’s Cypress)",
@@ -1337,7 +1395,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellow Cedar (aka Yellow Cypress or Alaskan Yellow Cedar)",
@@ -1357,7 +1416,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sawara Cypress",
@@ -1377,7 +1437,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellowwood (aka American Yellowwood)",
@@ -1400,7 +1461,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pagoda Dogwood",
@@ -1423,7 +1485,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Giant Dogwood",
@@ -1446,7 +1509,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Eddie’s White Wonder Dogwood",
@@ -1469,7 +1533,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Kousa Dogwood (aka Chinese Dogwood)",
@@ -1492,7 +1557,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cornelian Cherry",
@@ -1515,7 +1581,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Dogwood (aka Canadian Dogwood or Mountain Dogwood)",
@@ -1538,7 +1605,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Osier Dogwood",
@@ -1561,7 +1629,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Turkish Filbert (aka Turkish Hazel)",
@@ -1584,7 +1653,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Beaked Hazelnut (aka Beaked Filbert)",
@@ -1607,7 +1677,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "American Smoke Tree",
@@ -1630,7 +1701,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Black Hawthorn",
@@ -1653,7 +1725,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Thornless Cockspur Hawthorn",
@@ -1676,7 +1749,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Lavalle Hawthorn",
@@ -1699,7 +1773,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Washington Hawthorn",
@@ -1722,7 +1797,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Suksdorf’s Hawthorn",
@@ -1745,7 +1821,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Dove Tree (aka Ghost Tree or Pocket Handkerchief Tree)",
@@ -1768,7 +1845,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hardy Rubber Tree",
@@ -1791,7 +1869,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "European Beech (aka Green Beech)",
@@ -1811,7 +1890,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Dawyck Purple Beech",
@@ -1832,7 +1912,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Purple Oak Leaf Beech",
@@ -1853,7 +1934,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Empire Ash (aka White Ash)",
@@ -1873,7 +1955,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Applause Ash",
@@ -1893,7 +1976,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Oregon Ash",
@@ -1913,7 +1997,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cimmaron Ash",
@@ -1934,7 +2019,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Patmore Ash",
@@ -1954,7 +2040,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Urbanite Ash",
@@ -1975,7 +2062,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Princeton Sentry Gingko",
@@ -1999,7 +2087,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Gold Gingko",
@@ -2023,7 +2112,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Magyar Gingko",
@@ -2047,7 +2137,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Espresso Kentucky Coffee",
@@ -2070,7 +2161,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mountain Silverbell",
@@ -2093,7 +2185,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Carolina Silverbell (aka COMMON Silverbell)",
@@ -2116,7 +2209,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chinese Witch Hazel (aka Orange Flowering Witch Hazel)",
@@ -2139,7 +2233,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Goldenrain Tree (aka Varnish Tree)",
@@ -2162,7 +2257,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Tuscarora Hybrid Crape Myrle",
@@ -2185,7 +2281,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Dunkeld Larch",
@@ -2205,7 +2302,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Western Larch",
@@ -2225,7 +2323,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Alpine Larch (aka Subalpine Larch)",
@@ -2245,7 +2344,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sweet Gum",
@@ -2268,7 +2368,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Rotundiloba Sweetgum",
@@ -2292,7 +2393,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Moraine Sweetgum",
@@ -2316,7 +2418,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Tulip Tree (aka American Tulip Tree or Tulipwood)",
@@ -2340,7 +2443,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Columnar Tulip Tree",
@@ -2364,7 +2468,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Amur Maackia",
@@ -2387,7 +2492,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Elizabeth Magnolia",
@@ -2411,7 +2517,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yulan Magnolia",
@@ -2434,7 +2541,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Galaxy Magnolia",
@@ -2457,7 +2565,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Evergreen Magnolia (aka Southern Magnolia)",
@@ -2481,7 +2590,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Little Gem Magnolia",
@@ -2504,7 +2614,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Wada’s Memory Magnolia",
@@ -2527,7 +2638,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Loebner Magnolia",
@@ -2551,7 +2663,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Oyama Magnolia",
@@ -2574,7 +2687,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Adirondack Crabapple",
@@ -2598,7 +2712,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Donald Wyman Crabapple",
@@ -2622,7 +2737,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Crabapple (aka Oregon Crabapple)",
@@ -2645,7 +2761,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Lancelot Crabapple (aka Roseybloom)",
@@ -2669,7 +2786,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Apple",
@@ -2692,7 +2810,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Barron Crabapple",
@@ -2716,7 +2835,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Golden Raindrops Crabapple",
@@ -2740,7 +2860,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Tschonoskii Crabapple",
@@ -2763,7 +2884,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Dawn Redwood",
@@ -2783,7 +2905,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Antarctic Beech",
@@ -2806,7 +2929,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Black Tupelo (aka Blackgum)",
@@ -2829,7 +2953,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Ironwood (aka American Hop Hornbeam)",
@@ -2852,7 +2977,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sourwood",
@@ -2875,7 +3001,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Persian Parrotia (aka Persian Ironwood)",
@@ -2898,7 +3025,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Macho Cork Tree",
@@ -2921,7 +3049,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sitka Spruce",
@@ -2941,7 +3070,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Umbrella Pine",
@@ -2961,7 +3091,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Western White Pine (aka Silver Pine)",
@@ -2981,7 +3112,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Austrian Pine",
@@ -3001,7 +3133,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Italian Stone Pine",
@@ -3021,7 +3154,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Ponderosa Pine (aka Bull Pine, Blackjack Pine, or Western Yellow-Pine)",
@@ -3041,7 +3175,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Scotch Pine",
@@ -3061,7 +3196,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "London Planetree (aka Hybrid Plane)",
@@ -3084,7 +3220,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bloodgood London Planetree",
@@ -3107,7 +3244,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yarwood London Planetree",
@@ -3131,7 +3269,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Balsam Poplar",
@@ -3154,7 +3293,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Lombardy Poplar",
@@ -3177,7 +3317,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Quaking Aspen (aka Quakies, Trembling Aspen, Trembling Poplar, Popple, or American Aspen)",
@@ -3200,7 +3341,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mt. St. Helens Plum",
@@ -3224,7 +3366,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Vesuvius Flowering Plum",
@@ -3247,7 +3390,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Newport Plum",
@@ -3271,7 +3415,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Thundercloud Plum",
@@ -3294,7 +3439,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Spire Cherry",
@@ -3318,7 +3464,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Columnar Sargent Cherry",
@@ -3341,7 +3488,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Amanogawa Flowering Cherry",
@@ -3364,7 +3512,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Snow Goose Cherry",
@@ -3388,7 +3537,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Akebono Flowering Cherry",
@@ -3411,7 +3561,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Golden Larch",
@@ -3431,7 +3582,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Douglas-Fir (aka Oregon Pine and Columbian Pine)",
@@ -3451,7 +3603,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fragrant Epaulette Tree (aka Wisteria Tree)",
@@ -3474,7 +3627,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Aristocrat Pear",
@@ -3497,7 +3651,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cambridge Pear",
@@ -3521,7 +3676,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chanticleer (aka Cleveland Select Pear)",
@@ -3544,7 +3700,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Redspire Pear",
@@ -3567,7 +3724,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Swamp White Oak",
@@ -3590,7 +3748,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Scarlet Oak",
@@ -3613,7 +3772,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Italian Oak (aka Hungarian Oak)",
@@ -3636,7 +3796,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Oregon Oak (aka White Oak or Garry Oak)",
@@ -3659,7 +3820,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Holly Oak (aka Holm Oak)",
@@ -3682,7 +3844,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Shingle Oak",
@@ -3705,7 +3868,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chinkapin Oak (aka Chestnut Oak)",
@@ -3728,7 +3892,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pin Oak",
@@ -3751,7 +3916,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "English Oak",
@@ -3774,7 +3940,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Crimson Spire Oak (aka Chrimschmidt)",
@@ -3797,7 +3964,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Skyrocket Oak (aka Columnar English Oak)",
@@ -3821,7 +3989,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Northern Red Oak",
@@ -3844,7 +4013,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Black Oak",
@@ -3867,7 +4037,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cascara (aka Cascara Buckthorn)",
@@ -3890,7 +4061,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pink Idaho Locus (aka Purple Robe)",
@@ -3913,7 +4085,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Willow (Whiplash Willow)",
@@ -3936,7 +4109,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Scouler’s Willow",
@@ -3959,7 +4133,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Umbrella Pine",
@@ -3979,7 +4154,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Giant Sequoia",
@@ -3999,7 +4175,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Coast Redwood",
@@ -4019,7 +4196,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Pagoda Tree (aka Chinese Scholar Tree)",
@@ -4042,7 +4220,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Korean Mountain Ash",
@@ -4065,7 +4244,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Cascade Mountain Ash",
@@ -4088,7 +4268,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "European Mountain Ash",
@@ -4111,7 +4292,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cardinal Royal Mountain Ash",
@@ -4135,7 +4317,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Oakleaf Royal Mountain Ash",
@@ -4158,7 +4341,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Orange Bark Stewartia (aka Tall Stewartia)",
@@ -4182,7 +4366,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Stewartia",
@@ -4205,7 +4390,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fragrant Styrax (aka Fragrant Snowbell)",
@@ -4228,7 +4414,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Snowbell",
@@ -4251,7 +4438,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Brave Bald Cypress",
@@ -4274,7 +4462,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Yew (aka Western Yew)",
@@ -4294,7 +4483,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Western Red Cedar (aka Giant Arborvitae or Shinglewood)",
@@ -4314,7 +4504,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Redmond Linden",
@@ -4337,7 +4528,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Greenspire Linden",
@@ -4360,7 +4552,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chancelor Linden (aka Little-leaf Linden)",
@@ -4384,7 +4577,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "De Groot Littleleaf Linden",
@@ -4408,7 +4602,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Windmill Palm",
@@ -4428,7 +4623,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Canadian Hemlock (aka Eastern Hemlock-Spruce or Eastern Hemlock)",
@@ -4448,7 +4644,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Western Hemlock",
@@ -4468,7 +4665,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mountain Hemlock",
@@ -4488,7 +4686,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Frontier Elm",
@@ -4511,7 +4710,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Homestead Elm",
@@ -4535,7 +4735,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Athena Classic Elm",
@@ -4558,7 +4759,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Allee Elm (aka Chinese Elm or Lacebark Elm)",
@@ -4581,7 +4783,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Zelkova",
@@ -4604,7 +4807,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Green Vase Zelkova",
@@ -4628,7 +4832,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Village Green Zelkova",
@@ -4651,7 +4856,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Northern White Cedar (Arborvitae)",
@@ -4671,7 +4877,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Shagbark Hickory",
@@ -4694,7 +4901,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "European Larch",
@@ -4714,7 +4922,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Weeping Blue Atlas Cedar",
@@ -4734,7 +4943,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Weeping Cherry",
@@ -4758,7 +4968,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "White Fir",
@@ -4778,7 +4989,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Leyland Cypress",
@@ -4798,7 +5010,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Golden Chain Tree (aka Goldenchain Tree)",
@@ -4821,7 +5034,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Amur Maple",
@@ -4844,7 +5058,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Rocky Mountain Maple",
@@ -4867,7 +5082,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Weeping Katsura Tree",
@@ -4890,7 +5106,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Flowering Dogwood",
@@ -4913,7 +5130,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "European Smoke Tree (aka European Smoketree)",
@@ -4936,7 +5154,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Leprechaun Ash",
@@ -4959,7 +5178,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Crimson Cloud Hawthorn",
@@ -4982,7 +5202,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Rocky Mountain Bristlecone Pine",
@@ -5002,7 +5223,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Staghorn Sumac",
@@ -5025,7 +5247,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Freeman Maple (aka Freeman's Maple)",
@@ -5048,7 +5271,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Weeping Douglas-Fir",
@@ -5068,7 +5292,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hollywood Juniper",
@@ -5088,7 +5313,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chinese Juniper",
@@ -5108,7 +5334,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Black Birch (or River Birch)",
@@ -5131,7 +5358,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Lodgepole Pine (aka Rocky Mountain Lodgepole Pine)",
@@ -5152,7 +5380,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Shore Pine",
@@ -5173,7 +5402,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Joshua tree",
@@ -5197,7 +5427,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Aloe yucca",
@@ -5221,7 +5452,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Screwbean mesquite",
@@ -5245,7 +5477,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mesquite spp.",
@@ -5269,7 +5502,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Oak spp.",
@@ -5293,7 +5527,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Ginkgo",
@@ -5317,7 +5552,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Acacia spp.",
@@ -5341,7 +5577,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Maple spp.",
@@ -5365,7 +5602,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Abelia spp.",
@@ -5389,7 +5627,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Indian mallow spp.",
@@ -5413,7 +5652,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Adansonia spp.",
@@ -5437,7 +5677,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Wild lime spp.",
@@ -5461,7 +5702,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Beadtree spp.",
@@ -5485,7 +5727,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Prickbush spp.",
@@ -5509,7 +5752,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Buckeye spp.",
@@ -5533,7 +5777,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Tree of Heaven (or Ailanthus spp.)",
@@ -5557,7 +5802,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Albizia spp.",
@@ -5581,7 +5827,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Alchorneopsis spp.",
@@ -5605,7 +5852,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Alhagi spp.",
@@ -5629,7 +5877,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Alder spp.",
@@ -5653,7 +5902,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Coast oak",
@@ -5677,7 +5927,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Coastal live oak",
@@ -5701,7 +5952,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Evergreen pear",
@@ -5725,7 +5977,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "California palm",
@@ -5749,7 +6002,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mexican fan palm",
@@ -5773,7 +6027,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fan Palms (Washingtonia spp.)",
@@ -5797,7 +6052,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yucca (Yucca spp.)",
@@ -5821,7 +6077,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Silver dollar eucalyptus",
@@ -5845,7 +6102,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Eucalyptus (Gum spp.)",
@@ -5869,7 +6127,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Monterey pine",
@@ -5890,7 +6149,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hawai'i poisonberry tree",
@@ -5914,7 +6174,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Corcho bobo",
@@ -5938,7 +6199,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Aulu",
@@ -5962,7 +6224,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sierran palm",
@@ -5986,7 +6249,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Eastern white pine",
@@ -6007,7 +6271,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pine (Pinus spp.)",
@@ -6028,7 +6293,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Birch (Betula spp.)",
@@ -6052,7 +6318,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hickory (Hickory spp.)",
@@ -6076,7 +6343,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chestnut (Chestnut spp.)",
@@ -6100,7 +6368,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Golden Rain Tree (or Goldenrain 'Fastigiata')",
@@ -6124,7 +6393,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Katsura tree spp.",
@@ -6148,7 +6418,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Elm (Elm spp.)",
@@ -6172,7 +6443,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Spruce (Spruce spp.)",
@@ -6193,7 +6465,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fir (Fir spp.)",
@@ -6214,7 +6487,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Willow (Salix spp.)",
@@ -6238,7 +6512,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pear (Pear spp.)",
@@ -6262,7 +6537,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sassafras  (Sassafras spp.)",
@@ -6286,7 +6562,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Ash  (Ash spp.)",
@@ -6310,7 +6587,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Limber pine  (or Rocky Mountain white pine)",
@@ -6331,7 +6609,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Coulter pine",
@@ -6352,7 +6631,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Intermountain bristlecone pine (or Great Basin bristlecone pine)",
@@ -6373,7 +6653,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Arizona pine",
@@ -6394,7 +6675,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bristlecone pine",
@@ -6415,7 +6697,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mount diablo manzanita",
@@ -6439,7 +6722,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Manilla palm",
@@ -6463,7 +6747,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "California red fir",
@@ -6484,7 +6769,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bald cypress spp.",
@@ -6505,7 +6791,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Tamarind spp.",
@@ -6529,7 +6816,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cypress spp.",
@@ -6550,7 +6838,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Monterey cypress",
@@ -6571,7 +6860,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cedar spp.",
@@ -6592,7 +6882,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Magnolia spp.",
@@ -6616,7 +6907,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cottonwood (Cottonwood spp.)",
@@ -6640,7 +6932,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Weeping willow",
@@ -6664,7 +6957,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sycamore (Sycamore spp.)",
@@ -6688,7 +6982,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "American sycamore",
@@ -6712,7 +7007,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Loblolly pine",
@@ -6733,7 +7029,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Golden Carolina poplar",
@@ -6757,7 +7054,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Longleaf pine",
@@ -6778,7 +7076,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pond pine",
@@ -6799,7 +7098,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red pine",
@@ -6820,7 +7120,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pitch pine",
@@ -6841,7 +7142,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "White oak",
@@ -6865,7 +7167,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Carolina poplar (or Canadian poplar)",
@@ -6889,7 +7192,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Victorian Box",
@@ -6913,7 +7217,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Southern Redcedar",
@@ -6934,6 +7239,7 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   }
 ]
