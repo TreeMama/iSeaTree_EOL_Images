@@ -7,10 +7,11 @@
     "ITREECODE": "",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Unknown",
     "BARK_TYPE": "",
     "TREE_SHAPE": "",
-    "BARK_COLOR": ""
+    "BARK_COLOR": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Silver Fir",
@@ -21,7 +22,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/1/EOL-media-509-25226311/full.jpg",
-    "GENUS": "",
+    "GENUS": "Abies",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -30,7 +31,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Grand Fir",
@@ -41,7 +43,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/2/EOL-media-509-10852448/full.jpg",
-    "GENUS": "",
+    "GENUS": "Abies",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -50,7 +52,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Noble Fir (aka Red Fir and Christmas tree)",
@@ -61,7 +64,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/3/EOL-media-509-320384/full.jpg",
-    "GENUS": "",
+    "GENUS": "Abies",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -70,7 +73,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Trident Maple (aka Three-Toothed Maple)",
@@ -81,7 +85,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -93,7 +97,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Hedge Maple (aka Field Maple)",
@@ -104,7 +109,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/5/EOL-media-542-6331983663/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -116,7 +121,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Queen Elizabeth Hedge Maple",
@@ -127,7 +133,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -139,7 +145,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Vine Maple",
@@ -150,7 +157,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/7/EOL-media-607-http:__bioimages.vanderbilt.edu_baskauf_40880/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -162,7 +169,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Blaze Maple",
@@ -174,7 +182,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -186,7 +194,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Flame Amur Maple",
@@ -198,7 +207,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -210,7 +219,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Rocky Mt. Glow Maple",
@@ -221,7 +231,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -233,7 +243,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Paperbark Maple",
@@ -244,7 +255,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/11/EOL-media-18-https:__www.inaturalist.org_photos_6353932/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -256,7 +267,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Big Leaf Maple",
@@ -267,7 +279,7 @@
     "ITREECODE": "ACMA",
     "THUMB_PIC": "",
     "FULL_PIC": "/12/EOL-media-542-28926256444/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -279,7 +291,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "State Street Maple",
@@ -290,7 +303,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -302,7 +315,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Green Column Black Maple",
@@ -313,7 +327,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/14/EOL-media-509-19814597/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -325,7 +339,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Maple",
@@ -336,7 +351,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/15/EOL-media-542-3466602923/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -348,7 +363,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Norway Maple",
@@ -359,7 +375,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/16/EOL-media-542-3959890258/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -371,7 +387,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Columnar Norway Maple",
@@ -382,7 +399,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -394,7 +411,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Emerald Queen Norway Maple",
@@ -405,7 +423,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -417,7 +435,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Globe Norway Maple",
@@ -429,7 +448,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -441,7 +460,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Parkway Norway Maple",
@@ -453,7 +473,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -465,7 +485,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Spaethii Maple (aka Purple Leaf Sycamore or Wineleaf Sycamore Maple)",
@@ -476,7 +497,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -488,7 +509,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Maple (aka Swamp Maple)",
@@ -500,7 +522,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "/22/EOL-media-542-2880932994/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -512,7 +534,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bowhall Maple",
@@ -524,7 +547,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -536,7 +559,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Karpick Maple",
@@ -548,7 +572,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -560,7 +584,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Scarlet Sentinel Maple (aka Freeman Maple)",
@@ -572,7 +597,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -584,7 +609,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Bonfire Sugar Maple",
@@ -595,7 +621,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -607,7 +633,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Commemoration Sugar Maple",
@@ -619,7 +646,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -631,7 +658,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Mountain Sugar Maple",
@@ -642,7 +670,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -654,7 +682,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Legacy Sugar Maple",
@@ -666,7 +695,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -678,7 +707,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Three-Flowered Maple",
@@ -689,7 +719,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/30/EOL-media-509-2866306/full.jpg",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -701,7 +731,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "‘Warrenred’ Pacific Sunset Maple",
@@ -713,7 +744,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -725,7 +756,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Norwegian Sunset Maple",
@@ -737,7 +769,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -749,7 +781,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Horse Chestnuts",
@@ -760,7 +793,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Aesculus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -772,7 +805,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellow Buckeye",
@@ -783,7 +817,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/34/EOL-media-542-4654625449/full.jpg",
-    "GENUS": "",
+    "GENUS": "Aesculus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -795,7 +829,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Horse Chestnut",
@@ -806,7 +841,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/35/EOL-media-542-7167208338/full.jpg",
-    "GENUS": "",
+    "GENUS": "Aesculus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -818,7 +853,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Alder",
@@ -829,7 +865,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/36/EOL-media-7-CalPhotos:0000%200000%201208%201004/full.jpg",
-    "GENUS": "",
+    "GENUS": "Alnus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -841,7 +877,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sitka Alder (aka Mountain Alder)",
@@ -852,7 +889,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Alnus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -864,7 +901,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Saskatoon Serviceberry (aka Western Serviceberry, Alder-Leave Shadbush, Western Juneberry, Pigeon Berry, or Chuckley Pear)",
@@ -875,7 +913,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/38/EOL-media-542-4522005131/full.jpg",
-    "GENUS": "",
+    "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -887,7 +925,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Autumn Brilliance Serviceberry",
@@ -898,7 +937,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -910,7 +949,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Princess Diana Serviceberry",
@@ -921,7 +961,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -933,7 +973,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Allegheny Serviceberry",
@@ -944,7 +985,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -956,7 +997,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Madrone",
@@ -967,7 +1009,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/42/EOL-media-7-CalPhotos:8265%203262%201202%200025/full.jpg",
-    "GENUS": "",
+    "GENUS": "Arbutus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -979,7 +1021,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Strawberry Tree",
@@ -990,7 +1033,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Arbutus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1002,7 +1045,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pawpaw",
@@ -1013,7 +1057,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/44/EOL-media-542-2562442791/full.jpg",
-    "GENUS": "",
+    "GENUS": "Asimina",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1025,7 +1069,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Chinese Red Birch",
@@ -1037,7 +1082,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Betula",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1049,7 +1094,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Jacquemontii Birch",
@@ -1061,7 +1107,7 @@
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "/46/EOL-media-7-CalPhotos:0000%200000%200516%201861/full.jpg",
-    "GENUS": "",
+    "GENUS": "Betula",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1073,7 +1119,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Paper Birch",
@@ -1084,7 +1131,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/47/EOL-media-543-bepa_003_ahp.tif/full.jpg",
-    "GENUS": "",
+    "GENUS": "Betula",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1096,7 +1143,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Silver Birch",
@@ -1107,7 +1155,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/48/EOL-media-539-BBYUK_IMG_3910%2B1341950316.JPG/full.jpg",
-    "GENUS": "",
+    "GENUS": "Betula",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1119,7 +1167,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Incense Cedar",
@@ -1130,7 +1179,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/49/EOL-media-7-CalPhotos:0000%200000%201208%200701/full.jpg",
-    "GENUS": "",
+    "GENUS": "Calocedrus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1139,7 +1188,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Fastigiate Hornbeam (aka Pyramidal European Hornbeam)",
@@ -1150,7 +1200,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/50/EOL-media-549-BI-image-18419/full.jpg",
-    "GENUS": "",
+    "GENUS": "Carpinus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1162,7 +1212,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "American Hornbeam (aka Blue Beech)",
@@ -1173,7 +1224,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/51/EOL-media-542-4696857160/full.jpg",
-    "GENUS": "",
+    "GENUS": "Carpinus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1185,7 +1236,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Japanese Hornbeam",
@@ -1196,7 +1248,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/52/EOL-media-509-11998705/full.jpg",
-    "GENUS": "",
+    "GENUS": "Carpinus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1208,7 +1260,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Blue Atlas Cedar",
@@ -1219,7 +1272,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/53/EOL-media-542-6931097283/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cedrus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1228,7 +1281,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Deodar Cedar",
@@ -1239,7 +1293,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/54/EOL-media-542-3485206030/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cedrus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1248,7 +1302,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Katsura Tree",
@@ -1259,7 +1314,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/55/EOL-media-509-11123899/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cercidiphyllum",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1271,7 +1326,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Redbud Tree",
@@ -1282,7 +1338,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/56/EOL-media-607-http:__bioimages.vanderbilt.edu_thomas_0049-08-03/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cercis",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1294,7 +1350,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Judas Tree",
@@ -1305,7 +1362,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/57/EOL-media-509-10292308/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cercis",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1317,7 +1374,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Port Orford Cedar (aka Lawson’s Cypress)",
@@ -1328,7 +1386,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/58/EOL-media-7-CalPhotos:0000%200000%201208%200510/full.jpg",
-    "GENUS": "",
+    "GENUS": "Chamaecyparis",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1337,7 +1395,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellow Cedar (aka Yellow Cypress or Alaskan Yellow Cedar)",
@@ -1348,7 +1407,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/59/EOL-media-7-CalPhotos:0000%200000%201016%200663/full.jpg",
-    "GENUS": "",
+    "GENUS": "Chamaecyparis",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1357,7 +1416,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Sawara Cypress",
@@ -1368,7 +1428,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/60/EOL-media-509-21254118/full.jpg",
-    "GENUS": "",
+    "GENUS": "Chamaecyparis",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
     "NEEDLE_SHARP": "",
@@ -1377,7 +1437,8 @@
     "FASCICLE_NO": "",
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
-    "NEEDLE_ARRANGEMENT": ""
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Yellowwood (aka American Yellowwood)",
@@ -1388,7 +1449,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/61/EOL-media-509-1158051/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cladrastis",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1400,7 +1461,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pagoda Dogwood",
@@ -1411,7 +1473,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/62/EOL-media-509-28222727/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1423,7 +1485,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Giant Dogwood",
@@ -1434,7 +1497,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1446,7 +1509,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Eddie’s White Wonder Dogwood",
@@ -1457,7 +1521,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1469,7 +1533,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Kousa Dogwood (aka Chinese Dogwood)",
@@ -1480,7 +1545,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1492,7 +1557,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Cornelian Cherry",
@@ -1503,7 +1569,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/66/EOL-media-542-26521001437/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1515,7 +1581,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Pacific Dogwood (aka Canadian Dogwood or Mountain Dogwood)",
@@ -1526,7 +1593,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1538,7 +1605,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Red Osier Dogwood",
@@ -1549,7 +1617,7 @@
     "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/68/EOL-media-7-CalPhotos:0000%200000%200309%200382/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1561,7 +1629,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Turkish Filbert (aka Turkish Hazel)",
@@ -1572,7 +1641,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/69/EOL-media-509-11915032/full.jpg",
-    "GENUS": "",
+    "GENUS": "Corylus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1584,7 +1653,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Beaked Hazelnut (aka Beaked Filbert)",
@@ -1595,7 +1665,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/70/EOL-media-542-6264229973/full.jpg",
-    "GENUS": "",
+    "GENUS": "Corylus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1607,7 +1677,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "American Smoke Tree",
@@ -1618,7 +1689,7 @@
     "LEVEL": "easy",
     "THUMB_PIC": "",
     "FULL_PIC": "/71/EOL-media-509-2146449/full.jpg",
-    "GENUS": "",
+    "GENUS": "Cotinus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1630,7 +1701,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Black Hawthorn",
@@ -1641,7 +1713,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "/72/EOL-media-509-11756907/full.jpg",
-    "GENUS": "",
+    "GENUS": "Crataegus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1653,7 +1725,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Thornless Cockspur Hawthorn",
@@ -1664,7 +1737,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Crataegus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1676,7 +1749,8 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   },
   {
     "COMMON": "Lavalle Hawthorn",
@@ -1687,7 +1761,7 @@
     "LEVEL": "expert",
     "THUMB_PIC": "",
     "FULL_PIC": "",
-    "GENUS": "",
+    "GENUS": "Crataegus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -1699,6 +1773,7 @@
     "LEAF_COLOR": "",
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
-    "LEAF_TEXTURE": ""
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": ""
   }
 ]
