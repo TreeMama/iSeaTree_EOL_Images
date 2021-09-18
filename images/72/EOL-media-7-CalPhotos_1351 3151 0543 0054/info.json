@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:1351 3151 0543 0054",
+  "dataObjectVersionID": 8954127,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:52:57.000Z",
+  "modified": "2018-10-20T12:47:18.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2005 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=171282&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/1351_3151/0543/0054.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/87/f3/b6/7.CalPhotos_1351_3151_0543_0054.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/87/f3/b6/7.CalPhotos_1351_3151_0543_0054.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=J.+E.(Jed)+and+Bonnie+McClellan&one=T'>J. E.(Jed) and Bonnie McClellan</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=J.+E.(Jed)+and+Bonnie+McClellan&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

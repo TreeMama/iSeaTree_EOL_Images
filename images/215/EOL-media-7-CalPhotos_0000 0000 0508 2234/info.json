@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0508 2234",
+  "dataObjectVersionID": 8823502,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:40:49.000Z",
+  "modified": "2018-10-20T12:05:28.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "rightsHolder": "2008 Gary A. Monroe",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=246240&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0508/2234.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/85/db/65/7.CalPhotos_0000_0000_0508_2234.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/85/db/65/7.CalPhotos_0000_0000_0508_2234.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Gary+A.+Monroe&one=T'>Gary A. Monroe</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Gary+A.+Monroe&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

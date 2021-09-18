@@ -1,0 +1,29 @@
+{
+  "identifier": "EOL-media-18-https://www.inaturalist.org/photos/3469320",
+  "dataObjectVersionID": 4957923,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 1200,
+  "width": 754,
+  "created": "2018-03-15T10:29:17.000Z",
+  "modified": "2018-10-19T23:25:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "license_id": 7,
+  "rightsHolder": "Mike Patterson",
+  "source": "https://www.inaturalist.org/photos/3469320",
+  "mediaURL": "https://static.inaturalist.org/photos/3469320/original.jpg?1461449572",
+  "eolMediaURL": "https://content.eol.org/data/media/36/e1/31/18.https___www_inaturalist_org_photos_3469320.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/36/e1/31/18.https___www_inaturalist_org_photos_3469320.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "iNaturalist",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

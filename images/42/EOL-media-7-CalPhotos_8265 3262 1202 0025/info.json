@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:8265 3262 1202 0025",
+  "dataObjectVersionID": 8782776,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:34:53.000Z",
+  "modified": "2018-10-20T11:53:43.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "1999 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=24308&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/8265_3262/1202/0025.jpeg",
+  "description": "Madrone",
+  "eolMediaURL": "https://content.eol.org/data/media/88/6e/bb/7.CalPhotos_8265_3262_1202_0025.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/88/6e/bb/7.CalPhotos_8265_3262_1202_0025.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=William+R.+Hewlett&one=T'>William R. Hewlett</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=William+R.+Hewlett&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

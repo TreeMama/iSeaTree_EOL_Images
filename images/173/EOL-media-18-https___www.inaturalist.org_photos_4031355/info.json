@@ -1,0 +1,28 @@
+{
+  "identifier": "EOL-media-18-https://www.inaturalist.org/photos/4031355",
+  "dataObjectVersionID": 4957928,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-03-15T10:29:17.000Z",
+  "modified": "2018-10-19T23:25:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "license_id": 7,
+  "rightsHolder": "Tallyn Thomas",
+  "source": "https://www.inaturalist.org/photos/4031355",
+  "mediaURL": "https://static.inaturalist.org/photos/4031355/original.jpg?1466135286",
+  "description": "small tree/ shrub narrow green leaf",
+  "eolMediaURL": "https://content.eol.org/data/media/3a/21/b7/18.https___www_inaturalist_org_photos_4031355.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/3a/21/b7/18.https___www_inaturalist_org_photos_4031355.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "iNaturalist",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 1016 1414",
+  "dataObjectVersionID": 8797703,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:35:39.000Z",
+  "modified": "2018-10-20T11:58:07.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "rightsHolder": "2016 Zoya Akulova",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=744083&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/1016/1414.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/87/07/7e/7.CalPhotos_0000_0000_1016_1414.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/87/07/7e/7.CalPhotos_0000_0000_1016_1414.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Zoya+Akulova&one=T'>Zoya Akulova</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Zoya+Akulova&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

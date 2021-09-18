@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0214 1339",
+  "dataObjectVersionID": 8867130,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:43:54.000Z",
+  "modified": "2018-10-20T12:19:38.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2014 Al Keuter",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=595902&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0214/1339.jpeg",
+  "description": "Leaves 4.5-9.5 cm.",
+  "eolMediaURL": "https://content.eol.org/data/media/85/3a/dc/7.CalPhotos_0000_0000_0214_1339.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/85/3a/dc/7.CalPhotos_0000_0000_0214_1339.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Al+Keuter&one=T'>Al Keuter</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Al+Keuter&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

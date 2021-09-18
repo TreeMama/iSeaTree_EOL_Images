@@ -1,0 +1,29 @@
+{
+  "identifier": "EOL-media-18-https://www.inaturalist.org/photos/3781831",
+  "dataObjectVersionID": 4957924,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "height": 640,
+  "width": 480,
+  "created": "2018-03-15T10:29:17.000Z",
+  "modified": "2018-10-19T23:25:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "license_id": 7,
+  "rightsHolder": "Kathleen Sayce",
+  "source": "https://www.inaturalist.org/photos/3781831",
+  "mediaURL": "https://static.inaturalist.org/photos/3781831/original.jpg?1463939874",
+  "eolMediaURL": "https://content.eol.org/data/media/38/9f/ff/18.https___www_inaturalist_org_photos_3781831.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/38/9f/ff/18.https___www_inaturalist_org_photos_3781831.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "iNaturalist",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

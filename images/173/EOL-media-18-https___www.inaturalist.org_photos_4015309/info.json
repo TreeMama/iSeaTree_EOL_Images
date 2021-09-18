@@ -1,0 +1,27 @@
+{
+  "identifier": "EOL-media-18-https://www.inaturalist.org/photos/4015309",
+  "dataObjectVersionID": 4957926,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-03-15T10:29:17.000Z",
+  "modified": "2018-10-19T23:25:44.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "license_id": 7,
+  "rightsHolder": "taylorhalvorson",
+  "source": "https://www.inaturalist.org/photos/4015309",
+  "mediaURL": "https://static.inaturalist.org/photos/4015309/original.jpg?1465956660",
+  "eolMediaURL": "https://content.eol.org/data/media/3a/05/a4/18.https___www_inaturalist_org_photos_4015309.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/3a/05/a4/18.https___www_inaturalist_org_photos_4015309.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "iNaturalist",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "EOL-media-607-http://bioimages.vanderbilt.edu/baskauf/11613",
+  "dataObjectVersionID": 9278175,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-10-02T15:01:59.000Z",
+  "modified": "2018-10-20T13:50:30.000Z",
+  "title": "Cornus florida (Cornaceae) - leaf - showing orientation on twig",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "license_id": 10,
+  "rightsHolder": "Steven J. Baskauf",
+  "source": "http://bioimages.vanderbilt.edu/baskauf/11613",
+  "mediaURL": "http://bioimages.vanderbilt.edu/gq/baskauf/gcofl2-lfon-branch11613.jpg",
+  "eolMediaURL": "https://content.eol.org/data/media/8f/05/6d/607.http___bioimages_vanderbilt_edu_baskauf_11613.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/8f/05/6d/607.http___bioimages_vanderbilt_edu_baskauf_11613.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "Steven J. Baskauf",
+      "homepage": null,
+      "role": "photographer"
+    },
+    {
+      "full_name": "Malcolm Storey",
+      "homepage": null,
+      "role": "compiler"
+    },
+    {
+      "full_name": "Bioimages Vanderbilt DwCA",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

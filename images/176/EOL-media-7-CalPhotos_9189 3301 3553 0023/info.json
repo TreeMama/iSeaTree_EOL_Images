@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:9189 3301 3553 0023",
+  "dataObjectVersionID": 8907488,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:49:28.000Z",
+  "modified": "2018-10-20T12:32:13.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2001 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=29552&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/9189_3301/3553/0023.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/88/79/aa/7.CalPhotos_9189_3301_3553_0023.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/88/79/aa/7.CalPhotos_9189_3301_3553_0023.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Robert+Potts&one=T'>Robert Potts</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Robert+Potts&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

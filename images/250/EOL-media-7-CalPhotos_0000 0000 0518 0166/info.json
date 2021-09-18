@@ -1,0 +1,33 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0518 0166",
+  "dataObjectVersionID": 8867131,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:43:54.000Z",
+  "modified": "2018-10-20T12:19:38.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2018 Al Keuter",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=808166&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0518/0166.jpeg",
+  "description": "At or very near holotype locality.",
+  "eolMediaURL": "https://content.eol.org/data/media/86/03/2a/7.CalPhotos_0000_0000_0518_0166.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/86/03/2a/7.CalPhotos_0000_0000_0518_0166.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Al+Keuter&one=T'>Al Keuter</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Al+Keuter&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

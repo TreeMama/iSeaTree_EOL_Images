@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:8076 3101 0667 0026",
+  "dataObjectVersionID": 8923044,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:50:39.000Z",
+  "modified": "2018-10-20T12:37:11.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "1998 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=14420&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/8076_3101/0667/0026.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/88/53/49/7.CalPhotos_8076_3101_0667_0026.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/88/53/49/7.CalPhotos_8076_3101_0667_0026.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Charles+Webber&one=T'>Charles Webber</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Charles+Webber&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

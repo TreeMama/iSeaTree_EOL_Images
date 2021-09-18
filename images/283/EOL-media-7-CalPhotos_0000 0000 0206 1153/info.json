@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:0000 0000 0206 1153",
+  "dataObjectVersionID": 8881177,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:45:06.000Z",
+  "modified": "2018-10-20T12:23:40.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+  "license_id": 2,
+  "rightsHolder": "2006 Steve Matson",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=183630&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0206/1153.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/85/18/4e/7.CalPhotos_0000_0000_0206_1153.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/85/18/4e/7.CalPhotos_0000_0000_0206_1153.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Steve+Matson&one=T'>Steve Matson</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Steve+Matson&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}

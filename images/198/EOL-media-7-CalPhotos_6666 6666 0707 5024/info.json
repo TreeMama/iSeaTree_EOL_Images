@@ -1,0 +1,32 @@
+{
+  "identifier": "EOL-media-7-CalPhotos:6666 6666 0707 5024",
+  "dataObjectVersionID": 8882886,
+  "dataType": "http://purl.org/dc/dcmitype/StillImage",
+  "dataSubtype": "jpg",
+  "vettedStatus": "Trusted",
+  "dataRatings": [],
+  "mediumType": "image",
+  "dataRating": "2.5",
+  "mimeType": "image/jpeg",
+  "created": "2018-06-05T11:45:14.000Z",
+  "modified": "2018-10-20T12:24:17.000Z",
+  "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "license_id": 5,
+  "rightsHolder": "2007 California Academy of Sciences",
+  "source": "http://calphotos.berkeley.edu/cgi/img_query?seq_num=70709&one=T",
+  "mediaURL": "http://calphotos.berkeley.edu/imgs/256x384/6666_6666/0707/5024.jpeg",
+  "eolMediaURL": "https://content.eol.org/data/media/88/3a/83/7.CalPhotos_6666_6666_0707_5024.jpg",
+  "eolThumbnailURL": "https://content.eol.org/data/media/88/3a/83/7.CalPhotos_6666_6666_0707_5024.98x68.jpg",
+  "agents": [
+    {
+      "full_name": "<a href='http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Gerald+and+Buff+Corsi&one=T'>Gerald and Buff Corsi</a>",
+      "homepage": "http://calphotos.berkeley.edu/cgi/photographer_query?where-name_full=Gerald+and+Buff+Corsi&one=T",
+      "role": "photographer"
+    },
+    {
+      "full_name": "CalPhotos",
+      "homepage": null,
+      "role": "provider"
+    }
+  ]
+}
