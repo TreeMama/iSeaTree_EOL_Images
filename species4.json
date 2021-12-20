@@ -7,8 +7,8 @@
     "ITREECODE": "PICO",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/228/LodgepolePine/pine%20full%20pic.jpeg",
+    "FULL_PIC": "/missing_images/228/LodgepolePine/pine%20thumb%20pic.jpeg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -19,7 +19,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Lodgepole pine is a species which grows throughout the west, as far north as the Yukon and south to Baja California. The needles are held in bundles of two. The cones of may be of either the closed or open type and remain on the tree for many years. The bark is relatively thin and susceptible to fire."
   },
   {
     "COMMON": "Shore Pine",
@@ -29,8 +29,8 @@
     "ITREECODE": "PICO",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/229/ShorePine/thumbpic%20shorepine.jpeg",
+    "FULL_PIC": "/missing_images/229/ShorePine/Fullpicshorepine.jpeg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -41,7 +41,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Shore Pine is commonly found along the Northwest coast, ranging from southern Alaska to Northern California. The 1-2 inch (2.5-5cm) long, paired needles are stiff and often twisted.  The cones are small and hard (about 1-2 inches long) with a sharp prickle at the tip of each scale."
   },
   {
     "COMMON": "Joshua tree",
@@ -51,8 +51,8 @@
     "ITREECODE": "YUBR",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/230/EOL-media-7-CalPhotos_0000 0000 0410 1899/full.jpg",
-    "FULL_PIC": "/230/EOL-media-7-CalPhotos_6666 6666 0112 0068/full.jpg",
+    "THUMB_PIC": "/230/EOL-media-7-CalPhotos_0000%0000%0410%1899/full.jpg",
+    "FULL_PIC": "/230/EOL-media-7-CalPhotos_6666%6666%0112%0068/full.jpg",
     "GENUS": "Yucca",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -66,7 +66,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Joshua tree, the largest of the yuccas, grows only in the Mojave Desert. The average lifespan for a Joshua tree is about 150 years, but some of the largest trees may be much older than that. The evergreen leaves are dark green, linear, bayonet-shaped. Flowers typically appear from February to late April, in panicles 30–55 cm tall and 30–38 cm broad."
   },
   {
     "COMMON": "Aloe yucca",
@@ -91,7 +91,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Aloe Yucca is native to the Atlantic and Gulf Coasts of the United States from southern Virginia south to Florida and west to the Texas Gulf Coast."
   },
   {
     "COMMON": "Screwbean mesquite",
@@ -102,7 +102,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "/232/EOL-media-509-1914145/full.jpg",
-    "FULL_PIC": "/232/EOL-media-7-CalPhotos_0000 0000 1116 1741/full.jpg",
+    "FULL_PIC": "/232/EOL-media-7-CalPhotos_0000%0000%1116%1741/full.jpg",
     "GENUS": "Prosopis",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -116,7 +116,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Spiny shrub or small tree with long, slender branches and odd, screwlike pods. American screwbean is a dainty, graceful tree barely reaching 30 ft."
   },
   {
     "COMMON": "Mesquite spp.",
@@ -141,7 +141,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Prosopis spp. are hardy evergreen and deciduous trees or shrubs. They tend to become shrubbier in poor, rocky soil, but can grow up to 30 feet tall in good conditions. "
   },
   {
     "COMMON": "Oak spp.",
@@ -151,8 +151,8 @@
     "ITREECODE": "QU",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/234/Oak%spp/oak-trees%thumb%pic.jpeg",
+    "FULL_PIC": "/missing_images/234/Oak%spp/oak%full%pic.jpeg",
     "GENUS": "Quercus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -166,7 +166,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Oaks (Quercus spp.) are woody plants that have worldwide distribution and encompass hundreds of species. Different species range from smaller shrubs to large trees."
   },
   {
     "COMMON": "Ginkgo",
@@ -191,7 +191,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Ginkgo (Ginkgo biloba) is a large tree with fan-shaped leaves that is native to China. It is one of the oldest living tree species. Ginkgo trees are classed as dioecious, meaning the male and female trees are separate trees. The differences between male and female ginkgo trees are the type of 'flowers' and the fleshy seed they produce. Female ginkgo trees are known for the messy fruit that smells bad."
   },
   {
     "COMMON": "Acacia spp.",
@@ -201,7 +201,7 @@
     "ITREECODE": "ACSP2",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/236/EOL-media-84-CalPhotos_4444 4444 0811 0831/full.jpg",
+    "THUMB_PIC": "/236/EOL-media-84-CalPhotos_4444%204444%200510%201018/full.jpg",
     "FULL_PIC": "/236/EOL-media-851-126030-1.jpg/full.jpg",
     "GENUS": "Acacia",
     "BARK_TYPE": "",
@@ -216,7 +216,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acacia, commonly known as the wattles or acacias, is a large genus of shrubs and trees in the subfamily Mimosoideae of the pea family Fabaceae."
   },
   {
     "COMMON": "Maple spp.",
@@ -241,7 +241,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Maple (Acer spp.) contains about 120 species native to Asia, North America, Mexico, Guatemala, and the European/Mediterranean region, with the rest in Eurasia, Malaysia and northern Africa. The Maples can be separated into two groups based on the ray widths of their microscopic anatomy, the soft maple group and the hard maple group."
   },
   {
     "COMMON": "Abelia spp.",
@@ -251,7 +251,7 @@
     "ITREECODE": "AB1",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/238/EOL-media-544-7ee2ba8cd842933272701dbce2d434c0/full.jpg,/238/EOL-media-509-10954525/full.jpg",
+    "THUMB_PIC": "/238/EOL-media-544-7ee2ba8cd842933272701dbce2d434c0/full.jpg, /238/EOL-media-509-10954525/full.jpg",
     "FULL_PIC": "/238/EOL-media-509-16940122/full.jpg",
     "GENUS": "Abelia",
     "BARK_TYPE": "",
@@ -266,7 +266,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Abelia is a genus of about 5 species of evergreen, and some deciduous, shrubs from eastern Asia and Mexico.In summer, Abelia plantss produce an abundance of tubular-shaped flowers in clusters for which they are grown."
   },
   {
     "COMMON": "Indian mallow spp.",
@@ -276,7 +276,7 @@
     "ITREECODE": "AB3",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/239/EOL-media-7-CalPhotos_0000 0000 0606 0539/full.jpg,/239/EOL-media-851-138810-2.jpg/full.jpg",
+    "THUMB_PIC": "/239/EOL-media-7-CalPhotos_0000%200000%200606%200539/full.jpg, /239/EOL-media-851-138810-2.jpg/full.jpg",
     "FULL_PIC": "/239/EOL-media-851-138810-1.jpg/full.jpg",
     "GENUS": "Abutilon",
     "BARK_TYPE": "",
@@ -291,7 +291,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Herbaceous perennial with several stems, woody at the base and much branched above, densely hairy, 2-3 ft. high. Leaves thickish, mostly ovate-cordate, sharp to tapering point, irregularly serrate, with minute star shaped hairs underneath, to 4\" long, smaller on the branchlets"
   },
   {
     "COMMON": "Adansonia spp.",
@@ -301,8 +301,8 @@
     "ITREECODE": "AB1",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/240/EOL-media-542-9574334779/full.jpg,/240/EOL-media-851-139770-12.jpg/full.jpg",
-    "FULL_PIC": "/240/EOL-media-7-CalPhotos_0000 0000 0113 2545/full.jpg",
+    "THUMB_PIC": "/240/EOL-media-542-9574334779/full.jpg, /240/EOL-media-851-139770-12.jpg/full.jpg",
+    "FULL_PIC": "/240/EOL-media-7-CalPhotos_0000%200000%200113%202545/full.jpg",
     "GENUS": "Adansonia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -316,7 +316,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Adansonia is a genus made up of eight species of medium to large deciduous trees known as baobabs Previously classified within the family Bombacaceae,"
   },
   {
     "COMMON": "Wild lime spp.",
@@ -326,8 +326,8 @@
     "ITREECODE": "AD2",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/241/EOL-media-7-CalPhotos_0000 0000 0217 0441/full.jpg,/241/EOL-media-539-MHPAC_BioBot00009-BB000032+1213797710.JPG/full.jpg",
-    "FULL_PIC": "/241/EOL-media-7-CalPhotos_0000 0000 0217 0443/full.jpg",
+    "THUMB_PIC": "/241/EOL-media-7-CalPhotos_0000%200000%200217%200441/full.jpg, /241/EOL-media-539-MHPAC_BioBot00009-BB000032+1213797710.JPG/full.jpg",
+    "FULL_PIC": "/241/EOL-media-7-CalPhotos_0000%200000%200217%200443/full.jpg",
     "GENUS": "Adelia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -341,7 +341,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Wild lime is an evergreen shrub to small tree that occurs naturally in hammocks throughout Central and South Florida."
   },
   {
     "COMMON": "Beadtree spp.",
@@ -351,7 +351,7 @@
     "ITREECODE": "AD3",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/242/EOL-media-84-CalPhotos_4444 4444 0510 1187/full.jpg",
+    "THUMB_PIC": "/242/EOL-media-84-CalPhotos_4444%204444%200510%201187/full.jpg",
     "FULL_PIC": "/242/EOL-media-542-5171050160/full.jpg",
     "GENUS": "Adenanthera",
     "BARK_TYPE": "",
@@ -366,7 +366,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Melia azedarach, a deciduous or semi-evergreen tree with poisonous fruit, native to India, Southeast Asia, and northern Australia."
   },
   {
     "COMMON": "Prickbush spp.",
@@ -377,7 +377,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "/243/EOL-media-542-15921848564/full.jpg",
-    "FULL_PIC": "/243/EOL-media-7-CalPhotos_0000 0000 0206 1073/full.jpg",
+    "FULL_PIC": "/243/EOL-media-7-CalPhotos_0000%200000%200206%201073/full.jpg",
     "GENUS": "Adolphia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -391,7 +391,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Adolphia (Prickbush) is a genus of plants in the family Rhamnaceae. These are rigid, thorny, flowering bushes. Their height is up to about 5 feet tall, and they are commonly found on rocky slopes and in chaparral habitat areas."
   },
   {
     "COMMON": "Buckeye spp.",
@@ -401,7 +401,7 @@
     "ITREECODE": "AE",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/244/EOL-media-542-4298066400/full.jpg,/244/EOL-media-913-121529/full.jpg",
+    "THUMB_PIC": "/244/EOL-media-542-4298066400/full.jpg, /244/EOL-media-913-121529/full.jpg",
     "FULL_PIC": "/244/EOL-media-542-4300033413/full.jpg",
     "GENUS": "Aesculus",
     "BARK_TYPE": "",
@@ -416,7 +416,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Buckeye refers to any of the six species of North American trees and shrubs in the genus Aesculus of the soapberry family (Sapindaceae). The name refers to the nutlike seed, which has a pale patch on a shiny red-brown surface, and resembles the eye of a deer."
   },
   {
     "COMMON": "Tree of Heaven (or Ailanthus spp.)",
@@ -426,7 +426,7 @@
     "ITREECODE": "AI1",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/245/EOL-media-542-4941302523/full.jpg,/245/EOL-media-542-11753578175/full.jpg",
+    "THUMB_PIC": "/245/EOL-media-542-4941302523/full.jpg, /245/EOL-media-542-11753578175/full.jpg",
     "FULL_PIC": "/245/EOL-media-542-11753565725/full.jpg",
     "GENUS": "Ailanthus",
     "BARK_TYPE": "",
@@ -441,7 +441,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Ailanthus altissima is commonly known as the 'Tree of Heaven'.  It is native to northeast and central China, and Taiwan. The tree grows rapidly, and is capable of reaching heights of 15 m (50 ft) in 25 years. While the species rarely lives more than 50 years, some specimens exceed 100 years of age. The bark is smooth and light grey, and the leaves are large (1 to 3 ft long), odd- or even-pinnately compound on the stem. It is considered one of the worst invasive plant species in Europe and North America."
   },
   {
     "COMMON": "Albizia spp.",
@@ -451,7 +451,7 @@
     "ITREECODE": "AL1",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/246/EOL-media-84-CalPhotos_4444 4444 0510 1049/full.jpg,/246/EOL-media-851-125580-1.jpg/full.jpg,/246/EOL-media-851-162710-1.jpg/full.jpg",
+    "THUMB_PIC": "/246/EOL-media-84-CalPhotos_4444%204444%200510%201049/full.jpg, /246/EOL-media-851-125580-1.jpg/full.jpg, /246/EOL-media-851-162710-1.jpg/full.jpg",
     "FULL_PIC": "/246/EOL-media-913-28340/full.jpg",
     "GENUS": "Albizia",
     "BARK_TYPE": "",
@@ -466,7 +466,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Albizia is a genus of more than 160 species of mostly fast-growing subtropical and tropical trees and shrubs in the subfamily Mimosoideae of the family Fabaceae. Albizia is an herb that was originally grown in southern and eastern Asia. The flowers and stem bark are frequently used to make medicine."
   },
   {
     "COMMON": "Alchorneopsis spp.",
@@ -491,7 +491,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Alchorneopsis is a genus of flowering plants in the family Euphorbiaceae first described as a genus in 1865."
   },
   {
     "COMMON": "Alhagi spp.",
@@ -501,7 +501,7 @@
     "ITREECODE": "AL6",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/248/EOL-media-509-11228873/full.jpg,/248/EOL-media-509-11228928/full.jpg",
+    "THUMB_PIC": "/248/EOL-media-509-11228873/full.jpg, /248/EOL-media-509-11228928/full.jpg",
     "FULL_PIC": "/248/EOL-media-542-14594364340/full.jpg",
     "GENUS": "Alhagi",
     "BARK_TYPE": "",
@@ -516,7 +516,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Alhagi is a genus of Old World plants in the family Fabaceae. They are commonly called camelthorns or manna trees."
   },
   {
     "COMMON": "Alder spp.",
@@ -541,18 +541,18 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Alders are trees comprising the genus Alnus in the birch family Betulaceae. The genus comprises about 35 species of monoecious trees and shrubs."
   },
   {
-    "COMMON": "Coast oak",
+    "COMMON": "Coast oak (aka Santa Cruz Island oak)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Quercus parvula",
     "ID": "250",
     "ITREECODE": "QUPA8",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/250/EOL-media-7-CalPhotos_0000 0000 0518 0166/full.jpg",
-    "FULL_PIC": "/250/EOL-media-7-CalPhotos_0000 0000 1117 0644/full.jpg",
+    "THUMB_PIC": "/250/EOL-media-7-CalPhotos_0000%200000%200518%200166/full.jpg",
+    "FULL_PIC": "/250/EOL-media-7-CalPhotos_0000%200000%201117%200644/full.jpg",
     "GENUS": "Quercus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -566,7 +566,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Quercus parvula, the Coast oak or the Santa Cruz Island oak, is an evergreen red oak found on north-facing Santa Cruz Island slopes and in the California Coast Ranges from Santa Barbara County north to Mendocino County."
   },
   {
     "COMMON": "Coastal live oak",
@@ -576,8 +576,8 @@
     "ITREECODE": "QUAG",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/184/CoastalLiveOak/coastal%20live%20oak%20tumb%20pic.jpeg",
+    "FULL_PIC": "/missing_images/184/CoastalLiveOak/coastal%20live%20oak%20full%20pic.jpeg",
     "GENUS": "Quercus/live",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -591,7 +591,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Coast Live Oak is a beautiful evergreen oak that grows predominantly west of the central valleys, as far north as Mendocino County, and as far south as northern Baja California in Mexico. This tree typically has a much-branched trunk and reaches a mature height of 10-25 meters. "
   },
   {
     "COMMON": "Evergreen pear",
@@ -601,8 +601,8 @@
     "ITREECODE": "PYKA",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/252/EOL-media-7-CalPhotos_0000 0000 0317 1637/full.jpg,/252/EOL-media-7-CalPhotos_0000 0000 1116 2784/full.jpg,/252/EOL-media-7-CalPhotos_0000 0000 1216 3693/full.jpg",
-    "FULL_PIC": "/252/EOL-media-7-CalPhotos_0000 0000 0317 1636/full.jpg",
+    "THUMB_PIC": "/252/EOL-media-7-CalPhotos_0000%200000%200317%201637/full.jpg, /252/EOL-media-7-CalPhotos_0000%200000%201116%202784/full.jpg, /252/EOL-media-7-CalPhotos_0000%200000%201216%203693/full.jpg",
+    "FULL_PIC": "/252/EOL-media-7-CalPhotos_0000%200000%200317%201636/full.jpg",
     "GENUS": "Pyrus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -616,7 +616,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Evergreen Pear Tree (Pyrus kawakamii) is prized for its beautiful winter color. Despite its name, in late December and January, the foliage turns a beautiful orange-red color. It grows moderately tall - from fifteen to thirty feet in height. The tree is native to China and Taiwan."
   },
   {
     "COMMON": "California palm",
@@ -626,8 +626,8 @@
     "ITREECODE": "WAFI",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/253/EOL-media-7-CalPhotos_0000 0000 0613 1535/full.jpg",
-    "FULL_PIC": "/253/EOL-media-7-CalPhotos_0000 0000 0508 2196/full.jpg",
+    "THUMB_PIC": "/253/EOL-media-7-CalPhotos_0000%200000%200613%201535/full.jpg",
+    "FULL_PIC": "/253/EOL-media-7-CalPhotos_0000%200000%200508%202196/full.jpg",
     "GENUS": "Washingtonia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -641,7 +641,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Washingtonia filifera, also known as desert fan palm, California fan palm, or California palm, is a flowering plant in the palm family native to the southwestern United States and Baja California. "
   },
   {
     "COMMON": "Mexican fan palm",
@@ -651,7 +651,7 @@
     "ITREECODE": "WARO",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/254/EOL-media-542-3139187251/full.jpg,/254/EOL-media-542-26686444445/full.jpg",
+    "THUMB_PIC": "/254/EOL-media-542-3139187251/full.jpg, /254/EOL-media-542-26686444445/full.jpg",
     "FULL_PIC": "/254/EOL-media-509-38234864/full.jpg",
     "GENUS": "Washingtonia",
     "BARK_TYPE": "",
@@ -666,7 +666,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Mexican Fan Palm Tree is one of the fastest growing of all palm tree varieties.  As the name suggests it originates in Mexico but it has spread widely throughout California and the rest of the United States."
   },
   {
     "COMMON": "Fan Palms (Washingtonia spp.)",
@@ -676,8 +676,8 @@
     "ITREECODE": "WA4",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/255/EOL-media-7-CalPhotos_0000 0000 0613 1533/full.jpg",
-    "FULL_PIC": "/255/EOL-media-7-CalPhotos_0000 0000 0613 1535",
+    "THUMB_PIC": "/255/EOL-media-7-CalPhotos_0000%200000%200613%201533/full.jpg",
+    "FULL_PIC": "/255/EOL-media-7-CalPhotos_0000%200000%200613%201535/full.jpg",
     "GENUS": "Washingtonia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -691,7 +691,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fan palm as a descriptive term can refer to any of several different kinds of palms (Arecaceae) in various genera with leaves that are palmately lobed (rather than pinnately compound)."
   },
   {
     "COMMON": "Yucca (Yucca spp.)",
@@ -716,7 +716,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Yucca is a genus of perennial shrubs and trees in the family Asparagaceae, subfamily Agavoideae. Its 40–50 species are notable for their rosettes of evergreen, tough, sword-shaped leaves and large terminal panicles of white or whitish flowers."
   },
   {
     "COMMON": "Silver dollar eucalyptus",
@@ -741,7 +741,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Botanically, the silver dollar eucalyptus is known as the Eucalyptus cinerea. It is also referred to as the Argyle apple and mealy stringybark. It can grow rapidly (6-8 feet in one season). The leaves are round, fragrant and an attractive silver color, hence the name."
   },
   {
     "COMMON": "Eucalyptus (Gum spp.)",
@@ -766,7 +766,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Eucalyptus is a fast-growing evergreen tree native to Australia. As an ingredient in many products, it is used to reduce symptoms of coughs, colds, and congestion. It also features in creams and ointments aimed at relieving muscle and joint pain."
   },
   {
     "COMMON": "Monterey pine",
@@ -788,7 +788,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Monterey pine (Pinus radiata) and Bishop pine (P. muricata) are the tree species most commonly infected by Pitch Canker in California."
   },
   {
     "COMMON": "Hawai'i poisonberry tree",
@@ -799,7 +799,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/260/poisonberry_tree.jpg",
     "GENUS": "Pittosporum",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -813,7 +813,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pittosporum Argentifolium, or more commonly know as Hawaii Poisonberry Tree, is a tree of the genus Pittosporum. It is endemic to the Hawaiian islands of Molokai and Maui. The total number of individuals is thought to be under 1,000 in an undetermined number of occurrences."
   },
   {
     "COMMON": "Corcho bobo",
@@ -824,7 +824,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/185/Corcho%20bobo/Corcho%20bobo%20full%20pic.jpeg",
     "GENUS": "Pisonia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -838,7 +838,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Corcho Bobo (Pisonia albida) is a deciduous shrub or a tree with a spreading crown; it can grow up to 9 metres tall (29.5 feet). The bole is 15 - 30cm in diameter; the base of the bole and the roots are often enlarged, suggesting an elephant's foot with toes. It has been reported that the sticky fruit clusters fallen on the ground can cause death of young birds that get tangled in them."
   },
   {
     "COMMON": "Aulu",
@@ -848,8 +848,8 @@
     "ITREECODE": "PISA5",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/262/aulu tree/aulu%20tree/aulu%20tree%20tgumb%20pic.jpeg",
+    "FULL_PIC": "/missing_images/262/aulu%20tree/aulu%20tree%20full%20pic.jpeg",
     "GENUS": "Pisonia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -863,7 +863,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Aulu (Kaulu) is a tree that is endemic to Hawaii. Shiny green leaves are entire and oppositely arranged or whorled. Greenish-white flowers grow in clusters."
   },
   {
     "COMMON": "Sierran palm",
@@ -873,8 +873,8 @@
     "ITREECODE": "PRAC",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/263/Sierran%20palm/sierran%20palm%20thumb%20pic.jpeg",
+    "FULL_PIC": "/missing_images/263/Sierran%20palm/sierran%20palm%20full%20pic.jpeg",
     "GENUS": "Prestoea",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -888,7 +888,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Prestoea acuminata (Sierran Palm) is a species of palms native to Central America, the West Indies, and South America. It was formerly widely harvested in Ecuador for palmito. However, the palm is now uncommon due to overharvesting and is no longer commercially harvested on a large scale."
   },
   {
     "COMMON": "Eastern white pine",
@@ -898,7 +898,7 @@
     "ITREECODE": "PIST",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/264/EOL-media-7-CalPhotos_0000 0000 0115 1471/full.jpg,/264/EOL-media-542-25430200723/full.jpg",
+    "THUMB_PIC": "/264/EOL-media-7-CalPhotos_0000%200000%200115%201471/full.jpg, /264/EOL-media-542-25430200723/full.jpg",
     "FULL_PIC": "/264/EOL-media-542-10772175994/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -910,7 +910,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Eastern white pine is a large pine native to eastern North America. It features clustered soft blue-green needles (occuring in fascicles/bundles of 5, or rarely 3 to 4). The seed cones are slender and rarely longer than 1-2 inches. It particularly likes moist, well-drained soils."
   },
   {
     "COMMON": "Pine (Pinus spp.)",
@@ -932,7 +932,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A pine is any conifer in the genus Pinus (/ˈpiːnuːs/) of the family Pinaceae."
   },
   {
     "COMMON": "Birch (Betula spp.)",
@@ -957,7 +957,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A birch is a thin-leaved deciduous hardwood tree of the genus Betula, in the family Betulaceae, which also includes alders, hazels, and hornbeams."
   },
   {
     "COMMON": "Hickory (Hickory spp.)",
@@ -967,7 +967,7 @@
     "ITREECODE": "CA1",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/267/EOL-media-851-164060-1.jpg/full.jpg,/267/EOL-media-509-20455432/full.jpg",
+    "THUMB_PIC": "/267/EOL-media-851-164060-1.jpg/full.jpg, /267/EOL-media-509-20455432/full.jpg",
     "FULL_PIC": "/267/EOL-media-542-4689369513/full.jpg",
     "GENUS": "Carya",
     "BARK_TYPE": "",
@@ -982,7 +982,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Hickory is a common name for trees composing the genus Carya, which includes around 18 species. Five or six species are native to China, Indochina, and India, as many as twelve are native to the United States, four are found in Mexico, and two to four are from Canada."
   },
   {
     "COMMON": "Chestnut (Chestnut spp.)",
@@ -992,7 +992,7 @@
     "ITREECODE": "CA4",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/268/EOL-media-913-12984/full.jpg,/268/EOL-media-851-167420-2.jpg/full.jpg",
+    "THUMB_PIC": "/268/EOL-media-913-12984/full.jpg, /268/EOL-media-851-167420-2.jpg/full.jpg",
     "FULL_PIC": "/268/EOL-media-913-116654/full.jpg",
     "GENUS": "Castanea",
     "BARK_TYPE": "",
@@ -1007,7 +1007,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The chestnuts are the deciduous trees and shrubs in the genus Castanea, in the beech family Fagaceae."
   },
   {
     "COMMON": "Golden Rain Tree (or Goldenrain 'Fastigiata')",
@@ -1018,7 +1018,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/269/wikipedia/1280px-KoelreuteriaPaniculata5.jpg",
     "GENUS": "Koelreuteria",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1032,7 +1032,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Native to eastern Asia, China and Korea, Koelreuteria paniculata 'Fastigiata' is a cultivar with a particularly narrow, columnar habit and handsome pinnate (feather-like) foliage. The leaves are pale green and turn a beautiful golden-yellow in a good, crisp autumn before falling."
   },
   {
     "COMMON": "Katsura tree spp.",
@@ -1042,7 +1042,7 @@
     "ITREECODE": "CE17",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/270/EOL-media-7-CalPhotos_0000 0000 0313 3769/full.jpg,/270/EOL-media-542-11327039696/full.jpg,/270/EOL-media-913-67612/full.jpg",
+    "THUMB_PIC": "/270/EOL-media-7-CalPhotos_0000%200000%200313%203769/full.jpg, /270/EOL-media-542-11327039696/full.jpg, /270/EOL-media-913-67612/full.jpg",
     "FULL_PIC": "/270/EOL-media-542-34375017863/full.jpg",
     "GENUS": "Cercidiphyllum",
     "BARK_TYPE": "",
@@ -1057,7 +1057,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The katsura tree, native to Japan and China. It is a handsome ornamental tree planted widely for its broadly oval form; it grows up to 15 m (50 feet) tall in cultivation."
   },
   {
     "COMMON": "Elm (Elm spp.)",
@@ -1082,7 +1082,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Elms are deciduous and semi-deciduous trees comprising the flowering plant genus Ulmus in the plant family Ulmaceae"
   },
   {
     "COMMON": "Spruce (Spruce spp.)",
@@ -1104,7 +1104,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A spruce is a tree of the genus Picea, a genus of about 35 species of coniferous evergreen trees in the family Pinaceae, found in the northern temperate and boreal regions of the Earth."
   },
   {
     "COMMON": "Fir (Fir spp.)",
@@ -1114,7 +1114,7 @@
     "ITREECODE": "AB",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/273/EOL-media-913-5805/full.jpg,/273/EOL-media-913-5806/full.jpg",
+    "THUMB_PIC": "/273/EOL-media-913-5805/full.jpg, /273/EOL-media-913-5806/full.jpg",
     "FULL_PIC": "/273/EOL-media-542-5506811559/full.jpg",
     "GENUS": "Abies",
     "BARK_TYPE": "",
@@ -1126,7 +1126,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Firs (Abies) are a genus of 48–56 species of evergreen coniferous trees in the family Pinaceae. They are found throughout much of North and Central America."
   },
   {
     "COMMON": "Willow (Salix spp.)",
@@ -1136,8 +1136,8 @@
     "ITREECODE": "SA",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/274/EOL-media-542-6872776289/full.jpg,/274/EOL-media-7-CalPhotos_6666 6666 0611 0072/full.jpg",
-    "FULL_PIC": "/274/EOL-media-84-CalPhotos_4444 4444 1110 0236/full.jpg",
+    "THUMB_PIC": "/274/EOL-media-542-6872776289/full.jpg, /274/EOL-media-7-CalPhotos_6666%206666%200611%200072/full.jpg",
+    "FULL_PIC": "/274/EOL-media-84-CalPhotos_4444%204444%201110%200236/full.jpg",
     "GENUS": "Salix",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1151,7 +1151,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Willows, also called sallows and osiers, from the genus Salix, are around 400 species of deciduous trees and shrubs, found primarily on moist soils."
   },
   {
     "COMMON": "Pear (Pear spp.)",
@@ -1176,7 +1176,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The pear tree and shrub are a species of genus Pyrus, in the family Rosaceae, bearing the pomaceous fruit of the same name. Several species of pears are valued for their edible fruit and juices, while others are cultivated as trees."
   },
   {
     "COMMON": "Sassafras  (Sassafras spp.)",
@@ -1186,7 +1186,7 @@
     "ITREECODE": "SA23",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/276/EOL-media-542-4709010510/full.jpg,/276/EOL-media-542-1526243191/full.jpg",
+    "THUMB_PIC": "/276/EOL-media-542-4709010510/full.jpg, /276/EOL-media-542-1526243191/full.jpg",
     "FULL_PIC": "/276/EOL-media-542-5039318229/full.jpg",
     "GENUS": "Sassafras",
     "BARK_TYPE": "",
@@ -1201,7 +1201,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Sassafras is a genus of three extant and one extinct species of deciduous trees in the family Lauraceae, native to eastern North America and eastern Asia."
   },
   {
     "COMMON": "Ash  (Ash spp.)",
@@ -1226,7 +1226,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fraxinus is a genus of around 63 mostly deciduous trees in the Oleaceae family with a wide distribution across Europe, Asia and North America."
   },
   {
     "COMMON": "Limber pine  (or Rocky Mountain white pine)",
@@ -1236,7 +1236,7 @@
     "ITREECODE": "PIFL",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/278/EOL-media-643-13145033/full.jpg,/278/EOL-media-542-3486749229/full.jpg",
+    "THUMB_PIC": "/278/EOL-media-643-13145033/full.jpg, /278/EOL-media-542-3486749229/full.jpg",
     "FULL_PIC": "/278/EOL-media-542-17141881583/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1248,7 +1248,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus flexilis, the limber pine, is a species of pine tree-the family Pinaceae that occurs in the mountains of the Western United States, Mexico, and Canada. It is also called Rocky Mountain white pine. Its long needles (fascicles/bundles of five) are a dark, blueish green, its bark is heavily creased and dark grey. "
   },
   {
     "COMMON": "Coulter pine",
@@ -1258,7 +1258,7 @@
     "ITREECODE": "PICO2",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/279/EOL-media-509-20368748/full.jpg,/279/EOL-media-7-CalPhotos_0000 0000 0512 1910/full.jpg",
+    "THUMB_PIC": "/279/EOL-media-509-20368748/full.jpg, /279/EOL-media-7-CalPhotos_0000 0000 0512 1910/full.jpg",
     "FULL_PIC": "/279/EOL-media-509-16877/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1270,7 +1270,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Coulter pine or big-cone pine, Pinus coulteri, is a native of the coastal mountains of Southern California in the United States and northern Baja. Leaves (needles) grow in bundles of 3 per fascicle."
   },
   {
     "COMMON": "Intermountain bristlecone pine (or Great Basin bristlecone pine)",
@@ -1280,7 +1280,7 @@
     "ITREECODE": "PILO",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/280/EOL-media-7-CalPhotos_6666 6666 0216 0001/full.jpg,/280/EOL-media-542-20289114793/full.jpg",
+    "THUMB_PIC": "/280/EOL-media-7-CalPhotos_6666 6666 0216 0001/full.jpg, /280/EOL-media-542-20289114793/full.jpg",
     "FULL_PIC": "/280/EOL-media-542-3732696834/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1292,7 +1292,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus longaeva is a long-living species of bristlecone pine tree found in the higher mountains of California, Nevada, and Utah. "
   },
   {
     "COMMON": "Arizona pine",
@@ -1314,7 +1314,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus arizonica, commonly known as the Arizona pine, is a medium-sized pine in northern Mexico, southeast Arizona, southwest New Mexico, and western Texas."
   },
   {
     "COMMON": "Bristlecone pine",
@@ -1324,7 +1324,7 @@
     "ITREECODE": "PIAR",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/282/EOL-media-509-10733959/full.jpg,/282/EOL-media-542-3898018901/full.jpg",
+    "THUMB_PIC": "/282/EOL-media-509-10733959/full.jpg, /282/EOL-media-542-3898018901/full.jpg",
     "FULL_PIC": "/282/EOL-media-542-3799501297/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1336,7 +1336,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Ancient Bristlecone Pine Forest is home to the oldest trees in the world, bristlecone pines. Some of these living trees exceed 4000 years of age and exhibit spectacular growth forms of twisted and beautifully colored wood."
   },
   {
     "COMMON": "Mount diablo manzanita",
@@ -1344,7 +1344,7 @@
     "SCIENTIFIC": "Arctostaphylos auriculata",
     "ID": "283",
     "ITREECODE": "ARAU",
-    "LEVEL": "medium",
+    "LEVEL": "expert",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "/283/EOL-media-542-24608834246/full.jpg",
     "FULL_PIC": "/283/EOL-media-542-1277907807/full.jpg",
@@ -1361,7 +1361,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Arctostaphylos auriculata (Mount Diablo Manzanita) is an endangered species of Arctostaphylos, limited in geography to the area surrounding Mount Diablo."
   },
   {
     "COMMON": "Manilla palm",
@@ -1371,8 +1371,8 @@
     "ITREECODE": "ADME",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/284/Manilla palm/Manilla%palmThumbPic.jpeg",
+    "FULL_PIC": "/missing_images/284/Manilla palm/Manilla%palmfullPic.jpeg",
     "GENUS": "Adonidia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1386,7 +1386,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Adonidia merrillii, the Manila palm, is a palm tree species native to the Philippines (Palawan and Danjugan Island)."
   },
   {
     "COMMON": "California red fir",
@@ -1396,8 +1396,8 @@
     "ITREECODE": "ABMA",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/285/California%20red%20fir/California%20red%20firFullPic.jpeg",
+    "FULL_PIC": "/missing_images/285/California%20red%20fir/California%20red%20firFullPic.jpeg",
     "GENUS": "Abies",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -1408,7 +1408,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Trees to 77 m tall and 295 cm dbh with narrowly conical crowns that become cylindrical and irregular with age. Bark first smooth, thin, gray, with resin blisters; with age thickening, turning red-brown, and becoming deeply furrowed between broad ridges."
   },
   {
     "COMMON": "Bald cypress spp.",
@@ -1418,7 +1418,7 @@
     "ITREECODE": "TA10",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/286/EOL-media-542-4647935966/full.jpg,/286/EOL-media-643-13145022/full.jpg",
+    "THUMB_PIC": "/286/EOL-media-542-4647935966/full.jpg, /286/EOL-media-643-13145022/full.jpg",
     "FULL_PIC": "/286/EOL-media-913-72514/full.jpg",
     "GENUS": "Taxodium",
     "BARK_TYPE": "",
@@ -1430,7 +1430,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The baldcypress tree is the classic tree of southern swamps. There, in its native habitat, it displays a peculiar habit of raising conical 'knees' from its roots. "
   },
   {
     "COMMON": "Tamarind spp.",
@@ -1440,8 +1440,8 @@
     "ITREECODE": "TA7",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/287/EOL-media-539-MHPAC_BioBot01308-BB006949+1262880384.JPG/full.jpg,/287/EOL-media-539-MHPAC_BioBot01308-BB006951+1262880308.JPG/full.jpg,/287/EOL-media-851-126750-2.jpg/full.jpg",
-    "FULL_PIC": "/287/EOL-media-84-CalPhotos_4444 4444 0510 1389/full.jpg",
+    "THUMB_PIC": "/287/EOL-media-539-MHPAC_BioBot01308-BB006949+1262880384.JPG/full.jpg, /287/EOL-media-539-MHPAC_BioBot01308-BB006951+1262880308.JPG/full.jpg, /287/EOL-media-851-126750-2.jpg/full.jpg",
+    "FULL_PIC": "/287/EOL-media-84-CalPhotos_4444%204444%200510%201389/full.jpg",
     "GENUS": "Tamarindus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1455,7 +1455,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Tamarind (Tamarindus indica) is a leguminous tree bearing edible fruit that is indigenous to tropical Africa. The genus Tamarindus is monotypic, meaning that it contains only this species. It belongs to family of Fabaceae."
   },
   {
     "COMMON": "Cypress spp.",
@@ -1477,7 +1477,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Cupressaceae is a conifer family, the cypress family, with worldwide distribution. The family includes 27–30 genera (17 monotypic), which include the junipers and redwoods, with about 130–140 species in total."
   },
   {
     "COMMON": "Monterey cypress",
@@ -1499,7 +1499,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Monterey cypress is an evergreen coniferous tree, bearing male and female cones on the same tree. It is one of several species of cypress trees endemic to California. The foliage grows in dense sprays which are bright green in color. The leaves are scale-like, 2–5 mm (.07-.2 inches) long, and produced on rounded (not flattened) shoots; seedlings up to a year old have needle-like leaves 4–8 mm (0.1 - 0.3 inches) long."
   },
   {
     "COMMON": "Cedar spp.",
@@ -1509,7 +1509,7 @@
     "ITREECODE": "CE7",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/290/EOL-media-913-57307/full.jpg,/290/EOL-media-913-108775/full.jpg",
+    "THUMB_PIC": "/290/EOL-media-913-57307/full.jpg, /290/EOL-media-913-108775/full.jpg",
     "FULL_PIC": "/290/EOL-media-562-240910/full.jpg",
     "GENUS": "Cedrus",
     "BARK_TYPE": "",
@@ -1521,7 +1521,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Cedrus, common English name cedar, is a genus of coniferous trees in the plant family Pinaceae."
   },
   {
     "COMMON": "Magnolia spp.",
@@ -1532,7 +1532,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/291/wikimedia/Magnolia_wieseneri.jpg",
     "GENUS": "Magnolia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1546,7 +1546,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Magnolia trees are prized for their large flowers that perfume the balmy spring air with a sweet, heady fragrance."
   },
   {
     "COMMON": "Cottonwood (Cottonwood spp.)",
@@ -1571,7 +1571,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Cottonwoods (Populus deltoides) are massive shade trees that grow naturally throughout the United States."
   },
   {
     "COMMON": "Weeping willow",
@@ -1582,7 +1582,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/293/wikimedia/800px-Château_de_Chenonceau_-_jardin_Russell-Page_(01).jpg",
     "GENUS": "Salix",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1596,7 +1596,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Weeping willow trees have long been prized for their delicate, weeping branches that graze the ground with fluttering, silver-tinged leaves."
   },
   {
     "COMMON": "Sycamore (Sycamore spp.)",
@@ -1621,7 +1621,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "In North America, trees called sycamore belong to the genus Platanus, and are also called plane trees. There are about eight species of sycamore, six of them native to North America. Most are large, majestic trees with spreading canopies, large lobed deciduous leaves, and white bark peeling to reveal darker patches."
   },
   {
     "COMMON": "American sycamore",
@@ -1631,7 +1631,7 @@
     "ITREECODE": "PLOC",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/295/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_19392/full.jpg,/295/EOL-media-509-1291324/full.jpg",
+    "THUMB_PIC": "/295/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_19392/full.jpg, /295/EOL-media-509-1291324/full.jpg",
     "FULL_PIC": "/295/EOL-media-509-15781873/full.jpg",
     "GENUS": "Platanus",
     "BARK_TYPE": "",
@@ -1646,7 +1646,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The American sycamore is a wide-canopied, deciduous tree, 75-100 ft. tall, with a massive trunk and open crown of huge, crooked branches."
   },
   {
     "COMMON": "Loblolly pine",
@@ -1656,7 +1656,7 @@
     "ITREECODE": "PITA",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/296/EOL-media-542-139423428/full.jpg,/296/EOL-media-542-2531844086/full.jpg",
+    "THUMB_PIC": "/296/EOL-media-542-139423428/full.jpg, /296/EOL-media-542-2531844086/full.jpg",
     "FULL_PIC": "/296/EOL-media-542-5746324057/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1668,7 +1668,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Loblolly Pine is native in 15 southeastern states. Among the fastest-growing southern pines, it is extensively cultivated in forest plantations for pulpwood and lumber."
   },
   {
     "COMMON": "Golden Carolina poplar",
@@ -1679,7 +1679,7 @@
     "LEVEL": "expert",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/297/orto/populus-x-canadensis-aurea.jpg",
     "GENUS": "Populus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1693,7 +1693,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "'Aurea' is a vigorous, large deciduous tree to 25m or more, of broadly conical habit. Leaves ovate, bright golden-yellow in early summer, becoming greener in summer, but also having a good yellow autumn colour."
   },
   {
     "COMMON": "Longleaf pine",
@@ -1715,7 +1715,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The longleaf pine is a pine species native to the Southeastern United States, found along the coastal plain from East Texas to southern Virginia, extending into northern and central Florida."
   },
   {
     "COMMON": "Pond pine",
@@ -1737,7 +1737,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus serotina, the pond pine, marsh pine or pocosin pine, is a pine tree found along the Southeastern portion of the Atlantic coastal plain of the United States."
   },
   {
     "COMMON": "Red pine",
@@ -1747,7 +1747,7 @@
     "ITREECODE": "PIRE",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/300/EOL-media-509-19073949/full.jpg,/300/EOL-media-542-4106482314/full.jpg,/300/EOL-media-542-4633326861/full.jpg",
+    "THUMB_PIC": "/300/EOL-media-509-19073949/full.jpg, /300/EOL-media-542-4106482314/full.jpg, /300/EOL-media-542-4633326861/full.jpg",
     "FULL_PIC": "/300/EOL-media-542-4105718985/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1759,7 +1759,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus resinosa, known as red pine or Norway pine, is a pine native to North America. It occurs from Newfoundland west to Manitoba, and south to Pennsylvania."
   },
   {
     "COMMON": "Pitch pine",
@@ -1769,7 +1769,7 @@
     "ITREECODE": "PIRI",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/301/EOL-media-542-3284904943/full.jpg,/301/EOL-media-542-4978935369/full.jpg",
+    "THUMB_PIC": "/301/EOL-media-542-3284904943/full.jpg, /301/EOL-media-542-4978935369/full.jpg",
     "FULL_PIC": "/301/EOL-media-542-3284902755/full.jpg",
     "GENUS": "Pinus",
     "BARK_TYPE": "",
@@ -1781,7 +1781,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Pinus rigida, the pitch pine, is a small-to-medium-sized pine. It is native to eastern North America, from central Maine south to Georgia and as far west as Kentucky, and in two pockets along the St. Lawrence River in southern Quebec and Ontario."
   },
   {
     "COMMON": "White oak",
@@ -1791,7 +1791,7 @@
     "ITREECODE": "QUAL",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/302/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_15637/full.jpg,/302/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_11251/full.jpg",
+    "THUMB_PIC": "/302/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_15637/full.jpg, /302/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_11251/full.jpg",
     "FULL_PIC": "/302/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_12403/full.jpg",
     "GENUS": "Quercus",
     "BARK_TYPE": "",
@@ -1806,7 +1806,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The white oak is a large, strong, and imposing specimen. It has a short stocky trunk with massive horizontial limbs. White oak leaves are simple and arranged alternately on twigs. They are 7 to 9 lobed, 5 to 9 inches long with short petioles."
   },
   {
     "COMMON": "Carolina poplar (or Canadian poplar)",
@@ -1816,8 +1816,8 @@
     "ITREECODE": "POCA2",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/193/Canadian%20poplar/Canadian%20poplarThumbPic.jpeg",
+    "FULL_PIC": "/missing_images/193/Canadian%20poplar/Canadian%20poplarFullPic.jpeg",
     "GENUS": "Populus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1831,7 +1831,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Populus × canadensis, known as Canadian poplar or Carolina poplar, is a naturally occurring hybrid of Populus nigra and Populus deltoides. It is a vigorous, broadly columnar, deciduous tree growing to 40 m (131 feet)."
   },
   {
     "COMMON": "Victorian Box",
@@ -1856,7 +1856,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Victorian box (Pittosporum undulatum) is an evergreen tree native to Australia that grows moderately fast to about 50 feet high and wide."
   },
   {
     "COMMON": "Southern Redcedar",
@@ -1866,8 +1866,8 @@
     "ITREECODE": "JUSI",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/305/Southern%20Redcedar/SounthernRedcedarFullPic.jpeg",
+    "FULL_PIC": "missing_images/305/Southern%20Redcedar/Southern%20RedcedarThumbPic.jpeg",
     "GENUS": "Juniperus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -1878,7 +1878,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Red cedar (Juniperus virginiana) is a Florida native. Southern Red Cedar's are tolerant of salt, drought, and wind. They prefer well drained, sandy soils."
   },
   {
     "COMMON": "White Mulberry",
@@ -1888,8 +1888,8 @@
     "ITREECODE": "MOAL",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "missing_images/306/WhiteMulberry/WhiteMulberryThumbPic.jpeg",
+    "FULL_PIC": "missing_images/306/WhiteMulberry/WhiteMulberryFullPic.jpeg",
     "GENUS": "Morus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1903,7 +1903,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10–20 m. (32-65 feet)"
   },
   {
     "COMMON": "Red Mulberry",
@@ -1913,8 +1913,8 @@
     "ITREECODE": "MORU",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/307/RedMulberry/red%20mulberryThumPic.jpeg",
+    "FULL_PIC": "/missing_images/307/RedMulberry/redMulberryFullPic.jpeg",
     "GENUS": "Morus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1928,7 +1928,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Red Mulberry (Morus rubra) is a native understory tree that naturally occurs along streams and riverbanks and in woods."
   },
   {
     "COMMON": "Sugar Maple",
@@ -1938,8 +1938,8 @@
     "ITREECODE": "ACSA2",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/308/SugarMaple/sugarMapleThumbPic.jpeg",
+    "FULL_PIC": "/missing_images/308/SugarMaple/sugarMaplefullPic.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1953,7 +1953,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Sugar Maple tree grows in deep, well-drained, acidic to slightly alkaline soil. It prefers moist soil conditions but has moderate drought tolerance. It is native to the hardwood forests of eastern Canada and eastern United States. The tree is best known for being the primary source of maple syrup and for its brightly colored fall foliage."
   },
   {
     "COMMON": "Monkey Puzzle",
@@ -1963,8 +1963,8 @@
     "ITREECODE": "ARAR",
     "LEVEL": "easy",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "THUMB_PIC": "/missing_images/309/Monkey%20puzzle/monkey%20puzzle%20thumb%20pic.jpeg",
+    "FULL_PIC": "/missing_images/309/Monkey%20puzzle/monkey%20puzzle%20full%20pic.jpeg",
     "GENUS": "Araucaria",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -1975,6 +1975,6 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Araucaria araucana is an evergreen tree growing to 1–1.5 m (3-5 feet) in diameter and 30–40 m (98-131 feet) in height. It is native to central and southern Chile and western Argentina."
   }
 ]
