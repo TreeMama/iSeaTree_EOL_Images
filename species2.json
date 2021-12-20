@@ -6,7 +6,7 @@
     "ID": "76",
     "ITREECODE": "CRSU16",
     "LEVEL": "expert",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/76/EOL-media-509-55972012/full.jpg",
     "FULL_PIC": "/76/EOL-media-509-55972011/full.jpg",
     "GENUS": "Crataegus",
     "BARK_TYPE": "",
@@ -21,7 +21,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Suksdorf's hawthorn, formerly Crataegus douglasii var. suksdorfii, is a species of hawthorn found in the Pacific Northwest. It is diploid versus tetraploid for Crataegus douglasii."
   },
   {
     "COMMON": "Dove Tree (aka Ghost Tree or Pocket Handkerchief Tree)",
@@ -30,7 +30,7 @@
     "ID": "77",
     "ITREECODE": "DAIN",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/77/EOL-media-542-36546628511/full.jpg,/77/EOL-media-542-8758030908/full.jpg",
     "FULL_PIC": "/77/EOL-media-542-36638818456/full.jpg",
     "GENUS": "Davidia",
     "BARK_TYPE": "",
@@ -45,7 +45,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Davidia involucrata is a medium-sized deciduous tree in the family Nyssaceae. It is native to South Central and Southwest China from Hubei to southern Gansu, south to Guizhou, Sichuan and Yunnan, but is widely cultivated elsewhere."
   },
   {
     "COMMON": "Hardy Rubber Tree",
@@ -54,8 +54,8 @@
     "ID": "78",
     "ITREECODE": "EUUL",
     "LEVEL": "expert",
-    "THUMB_PIC": "",
-    "FULL_PIC": "/78/EOL-media-509-21601371/full.jpg",
+    "THUMB_PIC": "/78/EOL-media-509-21601371/full.jpg,/78/EOL-media-509-2045890/full.jpg",
+    "FULL_PIC": "/78/EOL-media-509-2879059/full.jpg",
     "GENUS": "Eucommia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -69,7 +69,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Eucommia ulmoides is a species of small tree native to China. It is considered vulnerable in the wild, but is widely cultivated in China for its bark and is highly valued in herbology such as traditional Chinese medicine."
   },
   {
     "COMMON": "European Beech (aka Green Beech)",
@@ -78,7 +78,7 @@
     "ID": "79",
     "ITREECODE": "FASY",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/79/EOL-media-542-2031725245/full.jpg",
     "FULL_PIC": "/79/EOL-media-542-10458935726/full.jpg",
     "GENUS": "Fagus",
     "BARK_TYPE": "",
@@ -90,7 +90,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fagus sylvatica is a deciduous tree belonging to the beech family Fagaceae."
   },
   {
     "COMMON": "Dawyck Purple Beech",
@@ -101,7 +101,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/80/plantstogrow/full.jpg"
     "GENUS": "Fagus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -112,7 +112,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fagus sylvatica ‘Dawyck Purple’ is a medium-sized, deciduous tree of columnar habit with broadly elliptic, lustrous, dark purple leaves."
   },
   {
     "COMMON": "Purple Oak Leaf Beech",
