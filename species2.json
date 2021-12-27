@@ -101,7 +101,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "/missing_images/80/plantstogrow/full.jpg"
+    "FULL_PIC": "/missing_images/80/flickr/full.jpg"
     "GENUS": "Fagus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -123,7 +123,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/81/flickr/full.jpg",
     "GENUS": "Fagus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -134,7 +134,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fagus sylvatica ‘Rohanii’ is a medium-sized, deciduous tree of pyramidal habit with broadly elliptic, lustrous, dark purple leaves."
   },
   {
     "COMMON": "Empire Ash (aka White Ash)",
@@ -143,7 +143,7 @@
     "ID": "82",
     "ITREECODE": "FRAM",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/82/EOL-media-509-2826564/full.jpg",
     "FULL_PIC": "/82/EOL-media-509-2826568/full.jpg",
     "GENUS": "Fraxinus",
     "BARK_TYPE": "",
@@ -155,7 +155,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fraxinus americana, the white ash or American ash, is a species of ash tree native to eastern and central North America. The name white ash derives from the glaucous undersides of the leaves."
   },
   {
     "COMMON": "Autumn Applause Ash",
@@ -165,7 +165,7 @@
     "ITREECODE": "FRAMAA",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/83/flickr/full.jpg",
     "GENUS": "Fraxinus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -176,7 +176,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "‘Autumn Applause’ is the cultivar of the White Ash species which is native to moist locations. The tree is almost pyramidal with a round top when young, but develops an oval shape when older."
   },
   {
     "COMMON": "Oregon Ash",
@@ -185,8 +185,8 @@
     "ID": "84",
     "ITREECODE": "FRLA",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
-    "FULL_PIC": "/84/EOL-media-7-CalPhotos:1338 3152 3388 0056/full.jpg",
+    "THUMB_PIC": "/84/EOL-media-509-16989358/full.jpg",
+    "FULL_PIC": "/84/EOL-media-7-CalPhotos:1338%3152%3388%0056/full.jpg",
     "GENUS": "Fraxinus",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -197,7 +197,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fraxinus latifolia is a medium-sized deciduous tree that can grow from heights of 65 ft to 80 ft."
   },
   {
     "COMMON": "Cimmaron Ash",
@@ -219,7 +219,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Fraxinus pennsylvanica 'Cimmzam' is a tall tree growing up to circa 20 meters. The dark green leaf has a striking stone-red to orange autumn colouring."
   },
   {
     "COMMON": "Patmore Ash",
@@ -243,6 +243,7 @@
     "DESCRIPTION": ""
   },
   {
+    "COMMON": "Urbanite Ash",
     "COMMON": "Urbanite Ash",
     "TYPE": "conifer",
     "SCIENTIFIC": "Fraxinus pennsylvanica ‘Urbanite’",
@@ -287,7 +288,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Gingko biloba is a species of tree native to China. It is the last living species in the order Ginkgoales, which first appeared over 290 million years ago."
   },
   {
     "COMMON": "Autumn Gold Gingko",
@@ -347,7 +348,7 @@
     "ITREECODE": "GYDI",
     "LEVEL": "easy",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/91/wikimedia/full.jpg",
     "GENUS": "Gymnocladus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -370,7 +371,7 @@
     "ID": "92",
     "ITREECODE": "HATE3",
     "LEVEL": "expert",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/92/EOL-media-509-4052167/full.jpg",
     "FULL_PIC": "/92/EOL-media-509-2878368/full.jpg",
     "GENUS": "Halesia",
     "BARK_TYPE": "",
@@ -385,7 +386,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Halesia tetraptera, commonly known as the mountain silverbell is a species in the family Styracaceae, native to the southeastern United States. It is cultivated as an ornamental tree."
   },
   {
     "COMMON": "Carolina Silverbell (aka COMMON Silverbell)",
@@ -395,7 +396,7 @@
     "ITREECODE": "HACA",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/93/flickr/full.jpg",
     "GENUS": "Halesia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -409,7 +410,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Halesia tetraptera, commonly known as the common silverbell or mountain silverbell is a species in the family Styracaceae, native to the southeastern United States. It is cultivated as an ornamental tree."
   },
   {
     "COMMON": "Chinese Witch Hazel (aka Orange Flowering Witch Hazel)",
@@ -433,7 +434,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Hamamelis mollis is a species of flowering plant in the witch hazel family native to central and eastern China. It is a deciduous large shrub or small tree growing to 26 ft tall."
   },
   {
     "COMMON": "Goldenrain Tree (aka Varnish Tree)",
@@ -443,7 +444,7 @@
     "ITREECODE": "KOPA",
     "LEVEL": "easy",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/95/flickr/full.jpg",
     "GENUS": "Koelreuteria",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -457,7 +458,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Koelreuteria paniculate is a species of flowering plant in the family Sapindaceae, native to eastern Asia. It is a small to medium-sized deciduous tree growing to 7 m (23 ft) tall, with a broad, dome-shaped crown."
   },
   {
     "COMMON": "Tuscarora Hybrid Crape Myrle",
@@ -491,7 +492,7 @@
     "ITREECODE": "LAEU",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/97/flickr/full.jpg",
     "GENUS": "Larix",
     "BARK_TYPE": "",
     "NEEDLE_TYPE": "",
@@ -502,7 +503,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Dunkeld Larch is a hybrid of European larch and Japanese larch."
   },
   {
     "COMMON": "Western Larch",
@@ -511,7 +512,7 @@
     "ID": "98",
     "ITREECODE": "LAOC",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/98/EOL-media-509-1348163/full.jpg",
     "FULL_PIC": "/98/EOL-media-509-1348175/full.jpg",
     "GENUS": "Larix",
     "BARK_TYPE": "",
@@ -523,7 +524,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The western larch is a species of larch native to the mountains of western North America. It is a large deciduous coniferous tree reaching 30 to 60 metres (98 to 197 feet) tall."
   },
   {
     "COMMON": "Alpine Larch (aka Subalpine Larch)",
@@ -532,7 +533,7 @@
     "ID": "99",
     "ITREECODE": "LALA2",
     "LEVEL": "medium",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/99/EOL-media-509-3100497/full.jpg",
     "FULL_PIC": "/99/EOL-media-509-14670380/full.jpg",
     "GENUS": "Larix",
     "BARK_TYPE": "",
@@ -544,7 +545,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Larix lyallii, the subalpine larch, or simply alpine larch, is a deciduous, coniferous tree native to northwestern North America. It is a small tree, growing from 10 to 25 m (33 to 82 ft) tall and shorter at higher elevations."
   },
   {
     "COMMON": "Sweet Gum",
@@ -553,8 +554,8 @@
     "ID": "100",
     "ITREECODE": "LIST",
     "LEVEL": "easy",
-    "THUMB_PIC": "",
-    "FULL_PIC": "/100/EOL-media-542-5286947628/full.jpg",
+    "THUMB_PIC": "/100/EOL-media-542-5286947628/full.jpg",
+    "FULL_PIC": "/100/EOL-media-509-175809/full.jpg",
     "GENUS": "Liquidambar",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -568,7 +569,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "American sweetgum (Liquidambar styraciflua) is a deciduous tree native to warm temperate areas of eastern North America and tropical montane regions of Mexico and Central America. It is recognizable by the combination of its five-pointed star-shaped leaves (similar to maple leaves) and its hard, spiked fruits."
   },
   {
     "COMMON": "Rotundiloba Sweetgum",
@@ -629,7 +630,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/103/flickr/full.jpg",
     "GENUS": "Liriodendron",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -643,7 +644,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Liriodendron tulipifera, also known as the tulip tree, is the North American representative of the two-species genus Liriodendron, and the tallest eastern hardwood. The flowers are pale green or yellow (rarely white), with an orange band on the tepals; they yield large quantities of nectar."
   },
   {
     "COMMON": "Columnar Tulip Tree",
@@ -654,7 +655,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/104/flickr/full.jpg",
     "GENUS": "Liriodendron",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -668,7 +669,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Tulip tree is the tallest-growing deciduous tree in North America. It grows rapidly when young, and can attain a height of over 150 feet. Its leaves are somewhat shaped like a tulip in outline."
   },
   {
     "COMMON": "Amur Maackia",
@@ -677,7 +678,7 @@
     "ID": "105",
     "ITREECODE": "MAAM9",
     "LEVEL": "medium",
-    "THUMB_PIC": "",
+    "THUMB_PIC": "/105/EOL-media-509-10441960/full.jpg",
     "FULL_PIC": "/105/EOL-media-509-18212506/full.jpg",
     "GENUS": "Maackia",
     "BARK_TYPE": "",
@@ -692,7 +693,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Only reaching about 15 feet (4.6 m) tall in the American midwest, Amur maackia tolerates severe dryness, cold and heavy soils. More interesting than the summer flowers are the unfolding buds in spring which appear silvery and showy like flowers with frost on them."
   },
   {
     "COMMON": "Elizabeth Magnolia",
@@ -703,7 +704,7 @@
     "LEVEL": "expert",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/106/full.jpg",
     "GENUS": "Magnolia",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -717,7 +718,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The cream to pale yellow flowered Magnolia 'Elizabeth' has gained the Royal Horticultural Society's Award of Garden Merit."
   },
   {
     "COMMON": "Yulan Magnolia",
@@ -741,7 +742,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Magnolia denudata is a rather low, rounded, thickly branched, and coarse-textured tree to 30 feet (9.1 m) tall. The leaves are ovate, bright green, 15 cm long and 8 cm wide."
   },
   {
     "COMMON": "Galaxy Magnolia",
