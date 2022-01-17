@@ -79,12 +79,12 @@
   {
     "COMMON": "Trident Maple (aka Three-Toothed Maple)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer buegerianum",
+    "SCIENTIFIC": "Acer buergerianum",
     "ID": "4",
     "ITREECODE": "ACBU",
     "LEVEL": "easy",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/4/wikimedia_commons/Morris_Arboretum_Acer_buergerianum.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -98,7 +98,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer buergerianum is a species of maple native to eastern China, Taiwan and Japan. The specific epithet is a patronym honoring Dutch plant hunter J. Buerger."
   },
   {
     "COMMON": "Hedge Maple (aka Field Maple)",
@@ -146,7 +146,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Tolerant of a wide range of conditions like the species, but more spire-like with uniform ascending branches; a good strong accent tree, especially for formal landscapes."
   },
   {
     "COMMON": "Vine Maple",
@@ -181,7 +181,7 @@
     "LEVEL": "expert",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/8/plantstogrow/00000257_390869406365741Acer_AutumnBlaze-02cm.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -195,7 +195,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer × freemanii, Freeman maple or Freeman's maple, is a naturally occurring hybrid maple that is the result of a cross between Acer rubrum (red maple) and Acer saccharinum (silver maple). Wild specimens are found in eastern North America where the parent species overlap."
   },
   {
     "COMMON": "Flame Amur Maple",
@@ -220,7 +220,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer ginnala 'Flame' Named after its fiery red color in the fall, the Flame ginnala maple (Acer ginnala 'Flame') makes a beautiful landscaping tree. This low-maintenance tree will grow well in direct sun or limited sun locations."
   },
   {
     "COMMON": "Rocky Mt. Glow Maple",
@@ -244,7 +244,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "This slow growing relative of the Sugar Maple is native to the Rocky Mountains. It is similar to Sugar Maple, but both leaves and tree are smaller. Intense fall color."
   },
   {
     "COMMON": "Paperbark Maple",
@@ -268,7 +268,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer griseum, the paperbark maple or blood-bark maple, is a species of flowering plant in the family Sapindaceae, native to central China. Acer griseum is found in the Chinese provinces of Gansu, Henan, Hubei, Hunan, Shaanxi, Shanxi and Sichuan, at altitudes of 1,500–2,000 m (4,921–6,562 ft)."
   },
   {
     "COMMON": "Big Leaf Maple",
@@ -316,7 +316,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer miyabei (Miyabe's or Miyabe maple) is a species of maple native to Japan, where it occurs in Hokkaidō and the Tōhoku region in northern Honshū.It is a small to medium-sized deciduous tree growing to 10–20 m tall, with a trunk 30–40 cm diameter with rough, grey-brown bark."
   },
   {
     "COMMON": "Green Column Black Maple",
@@ -398,7 +398,7 @@
     "ITREECODE": "ACPLCO",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/17/wikimedia_commons/Acer_platanoides_Columnarе.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -436,7 +436,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "This large deciduous shade tree grows to a height of 60’-70’, with a width of 35’-40’. It features a dense oval canopy. It bears simple leaves which are up to 7” across. They are set opposite from one another. Leaves are star-shaped and have 5 prominent sharp lobes. "
   },
   {
     "COMMON": "Globe Norway Maple",
@@ -447,7 +447,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/19/wikimedia_commons/Acer_platanoides_Globosum_B.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -461,7 +461,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer platanoides Globosum is a 'Lollypop' form of the Norway Maple, Acer platanoides, which is grafted at the top of the stem. Like the species, this tree has discrete yellow flowers that appear in spring, and bright green leaves which turn golden yellow and sometimes red in the autumn."
   },
   {
     "COMMON": "Parkway Norway Maple",
@@ -486,7 +486,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Acer platanoides, commonly known as the Norway maple, is a species of maple native to eastern and central Europe and western Asia, from Spain east to Russia, north to southern Scandinavia and southeast to northern Iran."
   },
   {
     "COMMON": "Spaethii Maple (aka Purple Leaf Sycamore or Wineleaf Sycamore Maple)",
@@ -496,7 +496,7 @@
     "ITREECODE": "ACPSSP",
     "LEVEL": "easy",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/21/wikimedia_commons/Acer_pseudoplatanus_'Atropurpureum'_JPG1.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -510,7 +510,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Large, vigorously growing tree with a wide conical crown. It can reach a height of 20 to 25 m. The 5-lobed, nicely coloured leaf has a dark green surface and a red-purple underside."
   },
   {
     "COMMON": "Red Maple (aka Swamp Maple)",
@@ -546,7 +546,7 @@
     "LEVEL": "expert",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/23/plantstogrow/00004003_423965591898148Acer%rubrum%Bowhall-02cm.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -560,7 +560,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A deciduous tree native to the low, wet areas of the eastern United States and Canada, this cultivar is distinguished by its upright columnar crown and brilliant fiery orange red fall color."
   },
   {
     "COMMON": "Karpick Maple",
@@ -585,7 +585,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "The Karpick is slightly wider than the Bowhall and is an excellent selection for use as a street tree."
   },
   {
     "COMMON": "Scarlet Sentinel Maple (aka Freeman Maple)",
@@ -610,7 +610,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A strong upright branch pattern gives Scarlet Sentinel® an oval to rectangular outline and a bold appearance that makes it an excellent tree for streets and parking lots."
   },
   {
     "COMMON": "Bonfire Sugar Maple",
@@ -620,7 +620,7 @@
     "ITREECODE": "ACSA2",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/26/plantstogrow/00001153_38680923900463Acer_saccharumBonifire-02cm.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -634,7 +634,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Sapindaceae, Aceraceae. 'Bonfire' Deciduous tree, broad oval form, to 50 ft high and 35 ft wide (15 m by 10 m); reportedly a rapid grower. Leaves are medium green in summer turning to yellow, orange, orange-red and red in fall. Color may very with cultural conditions."
   },
   {
     "COMMON": "Commemoration Sugar Maple",
@@ -645,7 +645,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/27/wikimedia_commons/Acer_saccharum_Commemoration_3zz.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -659,7 +659,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A choice shade tree for its spectacular fall colors which range from burnt orange to red, leaves are resistant to leaf tatter; shapely and neat, a truly stately tree; adaptable to soils, but dislikes air pollution and compaction."
   },
   {
     "COMMON": "Mountain Sugar Maple",
@@ -669,7 +669,7 @@
     "ITREECODE": "ACSA2GR",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/28/plantstogrow/00001151_386809266319444Acer_Greenmountain-04cm.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -683,7 +683,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "This cultivar of Sugar Maple grows rapidly to 50feet tall at maturity in a landscape. It grows about 1 foot each year in most soils but is sensitive to reflected heat, and to drought, turning the leaves brown (scorch) along their edges."
   },
   {
     "COMMON": "Legacy Sugar Maple",
@@ -694,7 +694,7 @@
     "LEVEL": "expert",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/29/wikimedia_commons/Acer_saccharum_Legacy_4zz.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -708,7 +708,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Its five-lobed leaves grow densely on an upright oval tree that can reach a height of 50 feet with a spread of 35 feet. The sugar maple is an excellent shade tree for lawns and parks. Tiny yellowish-green flowers appear in spring before the leaves emerge. The tree's winged fruit, or samaras, matures in the fall."
   },
   {
     "COMMON": "Three-Flowered Maple",
@@ -757,7 +757,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "An excellent, medium sized deciduous tree. Very useful urban tree where an adaptable but ornamentally attractive tree is required. Tolerates enclosed, confined root spaces."
   },
   {
     "COMMON": "Norwegian Sunset Maple",
@@ -768,7 +768,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/32/plantstogrow/00003678_419914338078704Acer%Norweigian%Sunset-05cm.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -782,7 +782,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Norwegian Sunset(r) Maple is a hybrid between a Norway Maple and the Shantung. This wonderful medium size tree has an upright oval form growing 35 feet tall and 25 feet wide. Foliage has a deep green color and the fall color will vary from yellowish-orange to red."
   },
   {
     "COMMON": "Red Horse Chestnuts",
@@ -792,7 +792,7 @@
     "ITREECODE": "AECABR",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/33/plantstogrow/00004414_428537831365741Aesculus%x%carnea%Briotti%07cmx.jpeg",
     "GENUS": "Aesculus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -806,7 +806,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Aesculus × carnea, or red horse-chestnut, is a medium-sized tree, an artificial hybrid between A. pavia and A. hippocastanum. Its origin uncertain, probably appearing in Germany before 1820."
   },
   {
     "COMMON": "Yellow Buckeye",
@@ -888,7 +888,7 @@
     "ITREECODE": "ALSI",
     "LEVEL": "easy",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/37/wikimedia_commons/Alnus_viridis_tree_Bulgaria.jpeg",
     "GENUS": "Alnus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -902,7 +902,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Alnus sinuata is a common tree widespread across much of Europe, Asia, and North America. It is a large shrub or small tree 3–12 m tall with smooth grey bark even in old age. The leaves are shiny green with light green undersurfaces, ovoid, 3–8 cm long and 2–6 cm broad."
   },
   {
     "COMMON": "Saskatoon Serviceberry (aka Western Serviceberry, Alder-Leave Shadbush, Western Juneberry, Pigeon Berry, or Chuckley Pear)",
@@ -936,7 +936,7 @@
     "ITREECODE": "AMGR",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/39/plantstogrow/00000630_397458639583333Amelancheir_Autumn%Brilliance-17cm.jpeg",
     "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -950,7 +950,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "A shrub or small tree prized for its brilliant orange-red fall color and disease resistance. Clusters of fragrant white flowers give way to small purplish black fruit often used in jams and jellies. Use in shrub borders or as a small tree. Deciduous."
   },
   {
     "COMMON": "Princess Diana Serviceberry",
@@ -960,7 +960,7 @@
     "ITREECODE": "AMAR",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/40/plantstogrow/00000638_00000000.jpeg",
     "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -974,7 +974,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Princess Diana Serviceberry is an open multi-stemmed deciduous tree with a more or less rounded form. Its relatively fine texture sets it apart from other landscape plants with less refined foliage. This is a relatively low maintenance tree, and is best pruned in late winter once the threat of extreme cold has passed."
   },
   {
     "COMMON": "Allegheny Serviceberry",
@@ -984,7 +984,7 @@
     "ITREECODE": "AMLA",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/41/plantstogrow/Amelanchier%laevis-021000cm.jpeg",
     "GENUS": "Amelanchier",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -998,7 +998,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Cumulus Allegheny serviceberry is an introduction from Princeton Nurseries in New Jersey. Its oval habit makes it a good candidate for narrower home spaces. The white blooms in spring followed by bird-friendly black fruit in summer and yellow to orange-scarlet fall color are typical of the species."
   },
   {
     "COMMON": "Pacific Madrone",
@@ -1046,7 +1046,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Arbutus 'Marina' (standard form) - A medium-sized evergreen tree, growing to 25-50 + feet tall with a broad dense crown. The tree's growth causes the older bark to peel away from the trunk and branches revealing the beautiful shiny red new bark underneath."
   },
   {
     "COMMON": "Pawpaw",
@@ -1081,7 +1081,7 @@
     "LEVEL": "easy",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/45/plantstogrow/Betula%albosinensis-041000cm.jpeg",
     "GENUS": "Betula",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1095,7 +1095,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Betula albosinensis var. septentrionalis is an exquisite Chinese red birch with a most attractive peeling bark, a lovely mix of coppery-pink and cinnamon-brown with translucent golden edges. The effect is most spectacular when backlit by the setting sun."
   },
   {
     "COMMON": "Jacquemontii Birch",
@@ -1496,7 +1496,7 @@
     "ITREECODE": "COCO4",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/63/wikimedia_commons/Cornus_controversa_'June_Snow'_(28701946732).jpeg",
     "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1510,7 +1510,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Deciduous tree, at maturity about 30 ft (9 m) tall and 40 ft (12 m) wide, horizontal branches, rounded. Leaves simple, alternate, dark green; fall color can range from orange-yellow, red, purple-red to purple."
   },
   {
     "COMMON": "Eddie’s White Wonder Dogwood",
@@ -1520,7 +1520,7 @@
     "ITREECODE": "",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/64/wikimedia_commons/Eddie's_White_Wonder_Dogwood_--_VanDusen_Botanical_Garden_--_Vancouver,_BC.jpeg",
     "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1534,7 +1534,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Cornus, Eddie's White Wonder A hybrid of the Pacific Northwest native dogwood, Cornus Nuttallii, and Cornus Florida, it grows taller and has larger flowers than those of the Cornus floida. It is also easier to grow, more resistant to anthracnose, and generally more adaptable than its other parent, Pacific Dogwood."
   },
   {
     "COMMON": "Kousa Dogwood (aka Chinese Dogwood)",
@@ -1544,7 +1544,7 @@
     "ITREECODE": "COKO",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/65/plantstogrow/00002457_405854540162037Cornus%kousa-04cm.jpeg",
     "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1558,7 +1558,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Attractive horizontal tiers of branches help make this small deciduous tree popular. Splendid white bracts followed in fall by hanging red fruit. Autumn leaves have red-scarlet tints. Special accent."
   },
   {
     "COMMON": "Cornelian Cherry",
@@ -1587,12 +1587,12 @@
   {
     "COMMON": "Pacific Dogwood (aka Canadian Dogwood or Mountain Dogwood)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Cornus nutallii",
+    "SCIENTIFIC": "Cornus nuttallii",
     "ID": "67",
     "ITREECODE": "CONU2",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/67/wikimedia_commons/Cornus_nuttallii_ies.jpeg",
     "GENUS": "Cornus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1606,7 +1606,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": " It is a small to medium-sized deciduous tree, reaching 7-20 meters tall, often with multiple trunks and and an irregular form. The leaves are opposite, simple oval, 8-12 centimeters long and 5-8 centimeters broad."
   },
   {
     "COMMON": "Red Osier Dogwood",
@@ -1736,7 +1736,7 @@
     "ITREECODE": "CRCRIN",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/73/plantstogrow/00001942_398284036111111Crataegus_crus-galli_inermis-014cm.jpeg",
     "GENUS": "Crataegus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1750,17 +1750,17 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "It is native to North Carolina as well as other places in North America. The tree grows to a medium-large size of around 20 to 30 feet in height with a 9 inch trunk and produces both flowers and small red berry fruits."
   },
   {
     "COMMON": "Lavalle Hawthorn",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Crataegus x lavalii",
+    "SCIENTIFIC": "Crataegus x lavalleei",
     "ID": "74",
     "ITREECODE": "CRLA",
     "LEVEL": "expert",
     "THUMB_PIC": "",
-    "FULL_PIC": "",
+    "FULL_PIC": "/missing_images/74/wikimedia_commons/'Crataegus_x_Lavallei'_-_Beale_Arboretum_-_West_Lodge_Park_-_Hadley_Wood_-_Enfield_London.jpeg",
     "GENUS": "Crataegus",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
@@ -1774,6 +1774,6 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": ""
+    "DESCRIPTION": "Crataegus × lavalleei, sometimes known as hybrid cockspurthorn or Lavallée's hawthorn, is a hybrid that arose between cultivated specimens of two species in the genus Crataegus. It is an ornamental small tree with glossy dark green unlobed leaves that is used horticulturally."
   }
 ]
