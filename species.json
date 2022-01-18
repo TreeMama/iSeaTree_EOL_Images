@@ -6657,15 +6657,15 @@
    "DESCRIPTION": "Arctostaphylos auriculata (Mount Diablo Manzanita) is an endangered species of Arctostaphylos, limited in geography to the area surrounding Mount Diablo."
  },
  {
-   "COMMON": "Manilla palm",
+   "COMMON": "Manilla palm (or The Christmas palm)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Adonidia merrilli",
    "ID": "284",
    "ITREECODE": "ADME",
    "LEVEL": "medium",
    "ITREECODE_APPROX": "n",
-   "THUMB_PIC": "/missing_images/284/Manilla palm/Manilla%palmThumbPic.jpeg",
-   "FULL_PIC": "/missing_images/284/Manilla palm/Manilla%palmfullPic.jpeg",
+   "THUMB_PIC": "/missing_images/284/Manilla%20palm/1068.jpeg,/missing_images/284/Manilla%20palm/449px-Stipe_-_Manila_palm.jpg",
+   "FULL_PIC": "/missing_images/284/Manilla%20palm/772px-Adonidia_merrillii%2C_the_Manila_Palm_(14253800498).jpg",
    "GENUS": "Adonidia",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -6679,7 +6679,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Adonidia merrillii, the Manila palm, is a palm tree species native to the Philippines (Palawan and Danjugan Island)."
+   "DESCRIPTION": "Adonidia merrillii, the Manila palm (or The Christmas palm), is a palm tree species native to the Philippines (Palawan and Danjugan Island). It is one of Hawai'i's (and the worlds) most widely grown palms. Its common name comes from the fact that its bright red fruit matures around Christmas time."
  },
  {
    "COMMON": "California red fir",
