@@ -10,6 +10,7 @@ NOTE:
 
 CHANGES:
 
-- As of 1/17/2022, species.json has been updated with the work from 'species1.json, species2.json, species3.json, species4.json'
-- As of 1/17/2022, everything has a description (see the DESCRIPTION_log.txt) and 25 items are missing a "FULL_PIC" (see FULL_PIC_log.txt)
+#AS of 1/18/2022, USE THE species.json for loading to firebase (species2,species3,species4 are now slightly out of date)
+
+- As of 1/18/2022, everything has a description (see the DESCRIPTION_log.txt) and 25 items are missing a "FULL_PIC" (see FULL_PIC_log.txt)
 - treemama notes: all images are sourced to either the '/images/' folder or '/missing_images/' folder  
