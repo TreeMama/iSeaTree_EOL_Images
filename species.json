@@ -5113,15 +5113,15 @@
    "DESCRIPTION": "Cotinus coggygria, syn. Rhus cotinus, the European smoketree, Eurasian smoketree, smoke tree, smoke bush, Venetian sumach, or dyer's sumach, is a species of flowering plant in the family Anacardiaceae, native to a large area from southern Europe, east across central Asia and the Himalayas to northern China."
  },
  {
-   "COMMON": "Leprechaun Ash",
+   "COMMON": "Hawthorn (Crataegus spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Fraxinus pennsylvanica 'Leprechaun'",
+   "SCIENTIFIC": "Crataegus spp.",
    "ID": "219",
-   "ITREECODE": "FRPE",
+   "ITREECODE": "CR",
    "LEVEL": "expert",
    "THUMB_PIC": "",
    "FULL_PIC": "",
-   "GENUS": "Fraxinus",
+   "GENUS": "Crataegus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -5134,7 +5134,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "A dwarf, globe-shaped variety of ash, typically grown on a standard stem, eventually looking like a large lollipop, with clean foliage and good fall color; the perfect accent in a mixed landscape composition, for solitary use only."
+   "DESCRIPTION": "Hawthorn is a small dense tree or shrub with over 380 species. The bark is smooth and gray-brown when young. Mature bark becomes dark gray and scaly. The twigs are slender and gray in color. The twigs have true terminal buds that are shiny and dark red. Most species of hawthorn have very obvious thorns that grow 1 to 3 inches in length."
  },
  {
    "COMMON": "Crimson Cloud Hawthorn",
