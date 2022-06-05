@@ -22,4 +22,4 @@ ID (182) in "new_species3.json", No FULL_PIC exist
 ID (191) in "new_species3.json", No FULL_PIC exist
 ID (194) in "new_species3.json", No FULL_PIC exist
 ID (201) in "new_species3.json", No FULL_PIC exist
-ID (219) in "new_species3.json", No FULL_PIC exist
+
