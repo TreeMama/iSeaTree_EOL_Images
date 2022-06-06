@@ -5437,7 +5437,7 @@
    "DESCRIPTION": "Prosopis spp. are hardy evergreen and deciduous trees or shrubs. They tend to become shrubbier in poor, rocky soil, but can grow up to 30 feet tall in good conditions. "
  },
  {
-   "COMMON": "Oak spp.",
+   "COMMON": "Oak (Oak spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Quercus",
    "ID": "234",
@@ -5487,7 +5487,7 @@
    "DESCRIPTION": "Ginkgo (Ginkgo biloba) is a large tree with fan-shaped leaves that is native to China. It is one of the oldest living tree species. Ginkgo trees are classed as dioecious, meaning the male and female trees are separate trees. The differences between male and female ginkgo trees are the type of 'flowers' and the fleshy seed they produce. Female ginkgo trees are known for the messy fruit that smells bad."
  },
  {
-   "COMMON": "Acacia spp.",
+   "COMMON": "Acacia (Acacia spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Acacia",
    "ID": "236",
@@ -5509,10 +5509,10 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Acacia, commonly known as the wattles or acacias, is a large genus of shrubs and trees in the subfamily Mimosoideae of the pea family Fabaceae."
+   "DESCRIPTION": "The best way to identify species of Acacia is by the leaves, pods, and flowers. Look for the long fern-like pinnate leaves (they resemble fern leaves or mimosa plant leaves). You can also check the flattened petioles to identify the variety of acacia trees. Usually, the easiest way to recognize an Acacia species is by the ball or spiked flowers. Each individual type of acacia usually only has flowers in one specific color. Also, the shape of the leaves is typically unique to each Acacia species. The seeds for this species have various shapes and colors, but are all stored in a similar 'peapod-like' pod sack."
  },
  {
-   "COMMON": "Maple spp.",
+   "COMMON": "Maple (Maple spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Acer",
    "ID": "237",
@@ -5534,10 +5534,10 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Maple (Acer spp.) contains about 120 species native to Asia, North America, Mexico, Guatemala, and the European/Mediterranean region, with the rest in Eurasia, Malaysia and northern Africa. The Maples can be separated into two groups based on the ray widths of their microscopic anatomy, the soft maple group and the hard maple group."
+   "DESCRIPTION": "Maple (Acer spp.) contains about 120+ species, most which are native to Asia. Maples can be separated into two groups, the soft maple group and the hard maple group. The best way to identify maple trees is by their leaves, bark, and fruit. Maple trees commonly have leaves with pointed lobes and with deep indentations between the lobes. The bark on maple trees starts smooth and gray before developing fissures and furrows. Maple tree fruit looks like small wing-shaped leaves."
  },
  {
-   "COMMON": "Abelia spp.",
+   "COMMON": "Abelia (Abelia spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Abelia",
    "ID": "238",
@@ -5562,7 +5562,7 @@
    "DESCRIPTION": "Abelia is a genus of about 5 species of evergreen, and some deciduous, shrubs from eastern Asia and Mexico.In summer, Abelia plantss produce an abundance of tubular-shaped flowers in clusters for which they are grown."
  },
  {
-   "COMMON": "Indian mallow spp.",
+   "COMMON": "Indian mallow (Indian mallow spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Abutilon",
    "ID": "239",
@@ -5587,7 +5587,7 @@
    "DESCRIPTION": "Herbaceous perennial with several stems, woody at the base and much branched above, densely hairy, 2-3 ft. high. Leaves thickish, mostly ovate-cordate, sharp to tapering point, irregularly serrate, with minute star shaped hairs underneath, to 4\" long, smaller on the branchlets"
  },
  {
-   "COMMON": "Adansonia spp.",
+   "COMMON": "Adansonia (Adansonia spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Adansonia",
    "ID": "240",
@@ -5612,7 +5612,7 @@
    "DESCRIPTION": "Adansonia is a genus made up of eight species of medium to large deciduous trees known as baobabs Previously classified within the family Bombacaceae,"
  },
  {
-   "COMMON": "Wild lime spp.",
+   "COMMON": "Wild lime (Wild lime spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Adelia",
    "ID": "241",
@@ -5637,7 +5637,7 @@
    "DESCRIPTION": "Wild lime is an evergreen shrub to small tree that occurs naturally in hammocks throughout Central and South Florida."
  },
  {
-   "COMMON": "Beadtree spp.",
+   "COMMON": "Beadtree (Beadtree spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Adenanthera",
    "ID": "242",
@@ -5662,7 +5662,7 @@
    "DESCRIPTION": "Melia azedarach, a deciduous or semi-evergreen tree with poisonous fruit, native to India, Southeast Asia, and northern Australia."
  },
  {
-   "COMMON": "Prickbush spp.",
+   "COMMON": "Prickbush (Prickbush spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Adolphia",
    "ID": "243",
@@ -5687,7 +5687,7 @@
    "DESCRIPTION": "Adolphia (Prickbush) is a genus of plants in the family Rhamnaceae. These are rigid, thorny, flowering bushes. Their height is up to about 5 feet tall, and they are commonly found on rocky slopes and in chaparral habitat areas."
  },
  {
-   "COMMON": "Buckeye spp.",
+   "COMMON": "Buckeye (Buckeye spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Aesculus",
    "ID": "244",
@@ -5712,7 +5712,7 @@
    "DESCRIPTION": "Buckeye refers to any of the six species of North American trees and shrubs in the genus Aesculus of the soapberry family (Sapindaceae). The name refers to the nutlike seed, which has a pale patch on a shiny red-brown surface, and resembles the eye of a deer."
  },
  {
-   "COMMON": "Tree of Heaven (or Ailanthus spp.)",
+   "COMMON": "Tree of Heaven (Ailanthus spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Ailanthus",
    "ID": "245",
@@ -5737,7 +5737,7 @@
    "DESCRIPTION": "Ailanthus altissima is commonly known as the 'Tree of Heaven'.  It is native to northeast and central China, and Taiwan. The tree grows rapidly, and is capable of reaching heights of 15 m (50 ft) in 25 years. While the species rarely lives more than 50 years, some specimens exceed 100 years of age. The bark is smooth and light grey, and the leaves are large (1 to 3 ft long), odd- or even-pinnately compound on the stem. It is considered one of the worst invasive plant species in Europe and North America."
  },
  {
-   "COMMON": "Albizia spp.",
+   "COMMON": "Albizia (Albizia spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Albizia",
    "ID": "246",
@@ -5762,7 +5762,7 @@
    "DESCRIPTION": "Albizia is a genus of more than 160 species of mostly fast-growing subtropical and tropical trees and shrubs in the subfamily Mimosoideae of the family Fabaceae. Albizia is an herb that was originally grown in southern and eastern Asia. The flowers and stem bark are frequently used to make medicine."
  },
  {
-   "COMMON": "Alchorneopsis spp.",
+   "COMMON": "Alchorneopsis (Alchorneopsis spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Alchorneopsis",
    "ID": "247",
@@ -5784,10 +5784,10 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Alchorneopsis is a genus of flowering plants in the family Euphorbiaceae first described as a genus in 1865."
+   "DESCRIPTION": "Alchorneopsis is a genus of flowering plants in the family Euphorbiaceae. The trees are small to medium sized evergreen trees, ranging from 20 to 50 feet (6 to 15 meters) in height with a trunk diameter near 1 ½ feet (3.8 centimeters). The outer bark is smooth, slightly grooved and gray in color. Branches are light-brown with fine hairs when immature. They feature elliptically shaped leaves, pointed at each end, that are thin, slightly shiny, and light-green to yellow-green in color. Also has small, greenish or yellow-green flowers bunched together on extremely short stalks – they are dioecious – with male and female flowers occuring on different trees."
  },
  {
-   "COMMON": "Alhagi spp.",
+   "COMMON": "Alhagi (Alhagi spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Alhagi",
    "ID": "248",
@@ -5809,10 +5809,10 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Alhagi is a genus of Old World plants in the family Fabaceae. They are commonly called camelthorns or manna trees."
+   "DESCRIPTION": "Alhagi is a genus of Old World plants in the family Fabaceae. They are commonly called camelthorns or manna trees. Proportionally, they have the deepest root system of any plants (a 1 m high shrub may have a main root more than 15 m long) and are well adapted to living in arid environments. They resemble a small perennial thorny shrub, with intricate branching patterns, and often have sharp yellow spines that are 1-2 inches (2.54 - 5.08 cm) in length."
  },
  {
-   "COMMON": "Alder spp.",
+   "COMMON": "Alder (Alder spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Alnus",
    "ID": "249",
@@ -5834,7 +5834,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Alders are trees comprising the genus Alnus in the birch family Betulaceae. The genus comprises about 35 species of monoecious trees and shrubs."
+   "DESCRIPTION": "Alders are trees comprising the genus Alnus in the birch family Betulaceae. The easiest way of recognizing an alder tree is by its distinctive little fruiting body, called a strobile. They appear in fall and look like 1 inch (2.5 cm.) long cones. The Alder leaf is rounded to ovate roundish and 6 – 12 cm (2.4 – 4.7 in) long and broad. The veins go opposite from the central axis of the leaf. The leaf has no peak. The leaf margin is double serrated."
  },
  {
    "COMMON": "Coast oak (aka Santa Cruz Island oak)",
