@@ -4536,15 +4536,15 @@
    "DESCRIPTION": "Tilia cordata, commonly called littleleaf linden, is native to Europe. It has been widely planted in the U.S. as an ornamental shade tree. It is a medium to large deciduous tree, typically growing to 50-70’ (less frequently to 100’) tall. Fragrant, creamy yellow flowers in drooping cymes appear in June."
  },
  {
-   "COMMON": "De Groot Littleleaf Linden",
+   "COMMON": "Lavender (Lavender spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Tilia cordata ‘De Groot’",
+   "SCIENTIFIC": "Lavandula",
    "ID": "194",
-   "ITREECODE": "TICO",
+   "ITREECODE": "LA15",
    "LEVEL": "easy",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/194/Lavender-standard---Patio-Classic-in-watering-pot_1b25899b-f046-47c9-8810-400f647e7e2f_533x.jpeg,/missing_images/194/1200x960.jpg",
+   "FULL_PIC": "/missing_images/194/1200px-Lavandula_stoechas_JPG1b.jpg",
    "GENUS": "Tilia",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -4558,7 +4558,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Tilia cordata De Groot A large-growing deciduous tree with small, heart-shaped, glossy green leaves. This selection is said to grow 60-70' tall and 30-40' wide with a broadly pyramidal outline. Flowers are small but very fragrant in June-July. Fall color is yellow."
+   "DESCRIPTION": "A lavender tree is a beautiful tall lavender plant with aromatic gray-green leaves and clusters of fragrant purple flowers growing on erect stems. Also called lavender topiary, the plant is a traditional lavender shrub trained to grow as a tree. Many members of the genus are cultivated extensively in temperate climates as ornamental plants for garden and landscape use, for use as culinary herbs, and also commercially for the extraction of essential oils."
  },
  {
    "COMMON": "Windmill Palm",
