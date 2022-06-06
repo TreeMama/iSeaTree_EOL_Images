@@ -3419,16 +3419,16 @@
    "DESCRIPTION": "'Thundercloud' is purple-leaved cultivar that typically grows as a dense, upright-spreading tree to 15-25' tall."
  },
  {
-   "COMMON": "Spire Cherry",
+   "COMMON": "American Holly",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Prunus x hillieri ‘Spire’",
+   "SCIENTIFIC": "Ilex opaca",
    "ID": "146",
-   "ITREECODE": "PR",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
+   "ITREECODE": "ILOP",
+   "LEVEL": "medium",
+   "ITREECODE_APPROX": "n",
    "THUMB_PIC": "",
    "FULL_PIC": "",
-   "GENUS": "Prunus",
+   "GENUS": "Ilex",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -3441,7 +3441,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Prunus x hillieri 'Spire' is a cherry tree with spring flowers, autumn colour and a slender, upright habit which, when young, spreads to more of a vase shape."
+   "DESCRIPTION": "American holly is the familiar Christmas holly with glossy green, spiny leaves, and bright red berries. Native to the bottomlands and swampy margin areas of the eastern and central U.S. This tree is dioecious, with separate male and female plants. Pollination from male pollen is necessary for the female trees to flower and produce the signature red or orange berries. This tree forms a pyramidal shape and can grow to notable size in the wild."
  },
  {
    "COMMON": "Columnar Sargent Cherry",
