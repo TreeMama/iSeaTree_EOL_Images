@@ -5712,9 +5712,9 @@
    "DESCRIPTION": "Buckeye refers to any of the six species of North American trees and shrubs in the genus Aesculus of the soapberry family (Sapindaceae). The name refers to the nutlike seed, which has a pale patch on a shiny red-brown surface, and resembles the eye of a deer."
  },
  {
-   "COMMON": "Tree of Heaven (Ailanthus spp.)",
+   "COMMON": "Tree of Heaven",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Ailanthus",
+   "SCIENTIFIC": "Ailanthus altissima",
    "ID": "245",
    "ITREECODE": "AI1",
    "LEVEL": "easy",
