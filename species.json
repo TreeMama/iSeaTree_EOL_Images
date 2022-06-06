@@ -2766,11 +2766,11 @@
    "DESCRIPTION": "Crabapples are small flowering trees. Malus ‘Lancelot’ is a dwarf cultivar, reported as highly disease resistant by the University of Illinois Extension."
  },
  {
-   "COMMON": "Apple",
+   "COMMON": "Apple (Apple spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Malus pumila",
+   "SCIENTIFIC": "Malus",
    "ID": "118",
-   "ITREECODE": "MAPU",
+   "ITREECODE": "MA2",
    "LEVEL": "easy",
    "THUMB_PIC": "",
    "FULL_PIC": "/images/118/EOL-media-542-26779415949/full.jpg",
@@ -4694,15 +4694,15 @@
    "DESCRIPTION": "Homestead elm is a hybrid elm with resistance to Dutch elm disease. Hybrids have been being developed since the Dutch Elm Disease killed many of the Elms and are hybrids between American, European and Asian varieties."
  },
  {
-   "COMMON": "Athena Classic Elm",
+   "COMMON": "Bay (Bay Tree spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Ulmus parvifolia ‘Emer I’",
+   "SCIENTIFIC": "Laurus spp.",
    "ID": "201",
-   "ITREECODE": "ULPAEV",
-   "LEVEL": "expert",
+   "ITREECODE": "LA14",
+   "LEVEL": "easy",
    "THUMB_PIC": "",
    "FULL_PIC": "",
-   "GENUS": "Ulmus",
+   "GENUS": "Laurus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -4715,7 +4715,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Ulmus parvifolia ‘Emer I’ is a small tree rarely exceeding 6 m in height, with a slightly broader, dense and rounded crown. The leaves are a medium, glossy green, turning drab brown in autumn. The exfoliating, mottled bark is considered very attractive."
+   "DESCRIPTION": "Laurus is a genus of evergreen trees or shrubs belonging to the laurel family, Lauraceae. The genus contains three or more species, including the bay laurel or sweet bay. They are slow-growing, large, evergreen aromatic shrubs or trees with alternate, ovate leaves and insignificant yellow male and female flowers borne on separate plants (dioecious)."
  },
  {
    "COMMON": "Allee Elm (aka Chinese Elm or Lacebark Elm)",
@@ -6328,7 +6328,7 @@
    "DESCRIPTION": "Native to eastern Asia, China and Korea, Koelreuteria paniculata 'Fastigiata' is a cultivar with a particularly narrow, columnar habit and handsome pinnate (feather-like) foliage. The leaves are pale green and turn a beautiful golden-yellow in a good, crisp autumn before falling."
  },
  {
-   "COMMON": "Katsura tree spp.",
+   "COMMON": "Katsura tree (Katsura tree spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Cercidiphyllum",
    "ID": "270",
