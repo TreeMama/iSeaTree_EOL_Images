@@ -4463,15 +4463,15 @@
    "DESCRIPTION": "Thuja plicata is an evergreen coniferous tree in the cypress family Cupressaceae, native to western North America. Its common name is western redcedar (western red cedar in the UK), and it is also called Pacific redcedar, giant arborvitae, western arborvitae, just cedar, giant cedar, or shinglewood."
  },
  {
-   "COMMON": "Redmond Linden",
+   "COMMON": "Beech (Beech spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Tilia americana ‘Redmond’",
+   "SCIENTIFIC": "Fagus",
    "ID": "191",
-   "ITREECODE": "TIAMRE",
-   "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Tilia",
+   "ITREECODE": "FA",
+   "LEVEL": "easy",
+   "THUMB_PIC": "/missing_images/191/800px-2014-10-30_13_24_34_American_Beech_foliage_during_autumn_in_the_woodlands_along_the_West_Branch_Shabakunk_Creek_in_Ewing%2C_New_Jersey.jpg,/missing_images/191/800px-Beech_with_Branches.jpg",
+   "FULL_PIC": "/missing_images/191/1024px-Fagus_grandifolia_beech_leaves_close.jpg",
+   "GENUS": "Fagus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -4484,7 +4484,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "‘Redmond’ American Linden grows 65 to 75 feet tall and 30 to 45 feet wide forming a pyramidal shape with upright branches and shiny leaves and is quite drought-tolerant (Fig. 1). It may also be known as Tilia x euchlora ‘Redmond’"
+   "DESCRIPTION": "Beech, (genus Fagus), is a genus of about 10 species of deciduous ornamental and timber trees native to the Northern Hemisphere. Beech trees are tall, round-headed, and wide-spreading. The thin bark is smooth and steel-gray in colour. The toothed parallel-veined leaves are shiny green and are borne alternately along the stem."
  },
  {
    "COMMON": "Greenspire Linden",
@@ -4545,7 +4545,7 @@
    "ITREECODE_APPROX": "n",
    "THUMB_PIC": "/missing_images/194/Lavender-standard---Patio-Classic-in-watering-pot_1b25899b-f046-47c9-8810-400f647e7e2f_533x.jpeg,/missing_images/194/1200x960.jpg",
    "FULL_PIC": "/missing_images/194/1200px-Lavandula_stoechas_JPG1b.jpg",
-   "GENUS": "Tilia",
+   "GENUS": "Lavandula",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
