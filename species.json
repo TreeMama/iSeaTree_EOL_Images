@@ -2741,16 +2741,16 @@
    "DESCRIPTION": "Malus fusca is a deciduous tree up to 13 metres (43 ft) tall. Leaves are up to 10 cm (4 inches) long. Flowers are white or pale pink, blooming in Spring. The fruits are small round apple-shaped pomes, red, yellow, or yellow-green."
  },
  {
-   "COMMON": "Lancelot Crabapple (aka Roseybloom)",
+   "COMMON": "Apricot (aka Prunus armeniaca)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Malus ‘Lancelot’ (aka ‘Lanzam’)",
+   "SCIENTIFIC": "Prunus armeniaca",
    "ID": "117",
-   "ITREECODE": "MA2",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Malus",
+   "ITREECODE": "PRAR",
+   "LEVEL": "easy",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/117/1280px-Packard_apricots.jpg,/missing_images/117/1280px-Apricot_tree_flowers.jpg",
+   "FULL_PIC": "/missing_images/117/Apricots.jpg",
+   "GENUS": "Prunus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -2763,7 +2763,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Crabapples are small flowering trees. Malus ‘Lancelot’ is a dwarf cultivar, reported as highly disease resistant by the University of Illinois Extension."
+   "DESCRIPTION": "Prunus Armeniaca is the most commonly cultivated apricot species. The specific epithet Armeniaca refers to the country of Armenia in western Asia. It is a small tree, 26-39 ft (8–12 m) tall, with a trunk up to 16 in (40 cm) in diameter and a dense, spreading canopy. The leaves are ovate, 2.0-3.5 in (5–9 cm) long and 1.6-3.1 in (4–8 cm) wide, with a rounded base, a pointed tip and a finely serrated margin. The flowers are 0.8–1.8 in (2-4.5 cm) in diameter, with five white to pinkish petals; they are produced singly or in pairs in early spring before the leaves. The fruit is a 'drupe' and similar to a small peach. The single seed is enclosed in a hard, stony shell, often called a 'stone', with a grainy, smooth texture except for three ridges running down one side."
  },
  {
    "COMMON": "Apple (Apple spp.)",
