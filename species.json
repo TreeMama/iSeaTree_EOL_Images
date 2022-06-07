@@ -3321,15 +3321,15 @@
    "DESCRIPTION": "Quaking aspen is a tall, fast growing tree, usually 20–25 m (65–80 ft) at maturity, with a trunk 20 to 80 cm (8 inches to 2 feet 7 inches) in diameter; records are 36.5 m (119 ft 9 in) in height and 1.37 m (4 ft 6 in) in diameter."
  },
  {
-   "COMMON": "Mt. St. Helens Plum",
+   "COMMON": "Almond or Sweet Almond",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Prunus cerasifera ‘Frankthrees’",
+   "SCIENTIFIC": "Prunus amygdalis var. dulcis",
    "ID": "142",
-   "ITREECODE": "PR",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
+   "ITREECODE": "PRAM2",
+   "LEVEL": "easy",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/142/Almond_tree_in_blossom_(Israel).jpg,/missing_images/142/1280px-Flowering_Almond.jpg,/missing_images/142/Green_almonds.jpg",
+   "FULL_PIC": "/missing_images/142/1280px-Kulturmandel_unreife_Fruchte.jpg",
    "GENUS": "Prunus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -3343,7 +3343,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Prunus cerasifera ‘Frankthrees’ have a dense rounded crown and grow about 20 feet tall and wide."
+   "DESCRIPTION": "The Almond (or Sweet Almond) is a deciduous tree, growing 4–10 m (13–33 ft) in height, with a trunk of up to 30 cm (12 in) in diameter. The young twigs are green at first, becoming purplish where exposed to sunlight, then grey in their second year. The leaves are 8–13 cm (3–5 in) long,[8] with a serrated margin and a 2.5 cm (1 in) petiole. The flowers are white to pale pink, 3–5 cm (1–2 in) diameter with five petals, produced singly or in pairs and appearing before the leaves in early spring."
  },
  {
    "COMMON": "Vesuvius Flowering Plum",
@@ -3370,15 +3370,15 @@
    "DESCRIPTION": "Prunus cerasifera ‘Krauter Vesuvius’ is a small, sometimes spiny, deciduous tree typically growing to 15-30’ tall with a shrubby, spreading, rounded habit."
  },
  {
-   "COMMON": "Newport Plum",
+   "COMMON": "Plum or Cherry or Peaches (Prunus spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Prunus cerasifera ‘Newportii'",
+   "SCIENTIFIC": "Prunus spp.",
    "ID": "144",
    "ITREECODE": "PR",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
+   "LEVEL": "easy",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/144/1280px-Fruhling_bluhender_Kirschenbaum.jpg,/missing_images/144/2013-365-191_Plum_Rady_(9257792455).jpg,/missing_images/144/22.8.20_1_Lcovice_to_Malenice_26_(50256481232).jpg,/missing_images/144/800px-In_bloom_(33791676526).jpg,/missing_images/144/800px-Prunus_avium_fruit.jpg,/missing_images/144/Cherry_blossom_appearance.jpg",
+   "FULL_PIC": "/missing_images/144/Cherry_blossoms_in_Seattle.jpg",
    "GENUS": "Prunus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -3392,7 +3392,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Prunus cerasifera ‘Newportii' is a small, rounded, deciduous tree or large shrub which grows 15-20' tall."
+   "DESCRIPTION": "Prunus is a genus of trees and shrubs, which includes (among many others) the fruits plums, cherries, peaches, nectarines, apricots, and almonds.  A few species have spiny stems. The leaves are simple, alternate, usually lanceolate, unlobed, and often with nectaries on the leaf stalk along with stipules. The flowers are usually white to pink, sometimes red, with five petals and five sepals. The fruit is a fleshy drupe (a prune) with a single relatively large, hard-coated seed (a stone)."
  },
  {
    "COMMON": "Thundercloud Plum",
@@ -3465,7 +3465,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Prunus sargentii is an ornamental flowering cherry tree that typically grows 20-30’ (less frequently to 45’) tall with a dense, broad-rounded crown. 'Columnaris' is an upright form with columnar to narrow vase-shaped branching."
+   "DESCRIPTION": "Prunus sargentii is an ornamental flowering cherry tree that typically grows 20-30 ft (less frequently to 45 ft) tall with a dense, broad-rounded crown. 'Columnaris' is an upright form with columnar to narrow vase-shaped branching."
  },
  {
    "COMMON": "Amanogawa Flowering Cherry",
@@ -3583,7 +3583,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Pterostyrax hispidus, the epaulette tree or fragrant epaulette tree, is a species of flowering plant in the family Styracaceae, native to China and Japan. Growing to 15 m (49 ft) tall by 12 m (39 ft) broad, it is a substantial, spreading, deciduous shrub with oval leaves up to 20 cm (8 in) long, and clusters of pure white, fragrant, pendent flowers in summer."
+   "DESCRIPTION": "Pterostyrax Hispidus, the Epaulette tree or Fragrant Epaulette tree, is a species of flowering plant in the family Styracaceae, native to China and Japan. Growing to 15 m (49 ft) tall by 12 m (39 ft) broad, it is a substantial, spreading, deciduous shrub with oval leaves up to 20 cm (8 in) long, and clusters of pure white, fragrant, pendent flowers in summer."
  },
  {
    "COMMON": "Aristocrat Pear",
@@ -3603,11 +3603,11 @@
    "TREE_SHAPE": "columnar",
    "FRUIT_SEED": "",
    "BARK_COLOR": "",
-   "LEAF_COLOR": "red, green, orange, purple",
+   "LEAF_COLOR": "red, green, orange",
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Vigorous and upright with a dominant central trunk excellent for lining streets or drives or as a specimen for smaller spaces. Adapts to a wide range of soils, including heavy clay."
+   "DESCRIPTION": "The Aristocrat Pear is a vigorous and upright tree with a dominant central trunk. It has a pyramidal shape, and white flowers. Leaves are dark green, glossy, and heart-shaped. In the fall, its foilage turns into an outstanding deep red color."
  },
  {
    "COMMON": "Cambridge Pear",
@@ -3632,7 +3632,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "A tall upright narrow Callery Pear with increased cold hardiness with glossy green leaves which turn orange yellow in the fall."
+   "DESCRIPTION": "The Callery Pear 'Cambridge' is a tall upright narrow tree with glossy green leaves which turn orange yellow in the fall."
  },
  {
    "COMMON": "Chanticleer (aka Cleveland Select Pear)",
