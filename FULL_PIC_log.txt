@@ -15,8 +15,7 @@ ID (111) in "new_species2.json", No FULL_PIC exist
 ID (117) in "new_species2.json", No FULL_PIC exist
 ID (128) in "new_species2.json", No FULL_PIC exist
 ID (138) in "new_species2.json", No FULL_PIC exist
-ID (142) in "new_species2.json", No FULL_PIC exist
-ID (144) in "new_species2.json", No FULL_PIC exist
+
 
 
 
