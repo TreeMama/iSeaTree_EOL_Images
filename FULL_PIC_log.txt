@@ -9,7 +9,7 @@ ID (24) in "new_species1.json", No FULL_PIC exist
 ID (25) in "new_species1.json", No FULL_PIC exist
 ID (31) in "new_species1.json", No FULL_PIC exist
 ID (86) in "new_species2.json", No FULL_PIC exist
-ID (89) in "new_species2.json", No FULL_PIC exist
+
 
 
 
