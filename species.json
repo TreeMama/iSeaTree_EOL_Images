@@ -1330,7 +1330,7 @@
    "DESCRIPTION": "Cercidiphyllum japonicum, known as the katsura, is a species of flowering tree in the family Cercidiphyllaceae native to China and Japan. It is sometimes called caramel tree for the light caramel smell it emits during leaf fall."
  },
  {
-   "COMMON": "Redbud Tree",
+   "COMMON": "Redbud Tree (or Eastern Redbud)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Cercis canadensis",
    "ID": "56",
@@ -1351,7 +1351,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Cercis canadensis, the eastern redbud, is a large deciduous shrub or small tree, native to eastern North America from southern Michigan south to central Mexico, east to New Jersey. Species thrive as far west as California and as far north as southern Ontario, roughly corresponding to USDA hardiness zone 6b."
+   "DESCRIPTION": "Cercis canadensis, the Eastern Redbud, is a large deciduous shrub or small tree, native to eastern North America from southern Michigan south to central Mexico, east to New Jersey. Species thrive as far west as California and as far north as southern Ontario, roughly corresponding to USDA hardiness zone 6b."
  },
  {
    "COMMON": "Judas Tree",
@@ -2594,15 +2594,15 @@
    "DESCRIPTION": "Magnolia grandiflora ‘Little Gem’ is a small and slow growing cultivar that typically grows as a compact upright multi-stemmed shrub or small tree to 20' tall over the first 20 years. It features glossy green leaves that are bronze-brown underneath."
  },
  {
-   "COMMON": "Wada’s Memory Magnolia",
+   "COMMON": "American Elm (or White Elm or Water Elm)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Magnolia Kobus ‘Wada’s Memory’",
+   "SCIENTIFIC": "Ulmus Americana",
    "ID": "111",
-   "ITREECODE": "MAKO",
+   "ITREECODE": "ULAM",
    "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Magnolia",
+   "THUMB_PIC": "/missing_images/111/Ulmus_americana_(5101983801).jpg,/missing_images/111/1280px-American_Elm_Tree%2C_Old_South_Street%2C_Northampton%2C_MA_-_October_2019.jpg,/missing_images/111/1280px-Elm_Tree_in_Massachusetts_June_2012.jpg,/missing_images/111/1920px-ElmBark.jpg,/missing_images/111/American_Elm_-_Ulmus_americana%2C_Occoquan_Regional_Park%2C_Lorton%2C_Virginia.jpg",
+   "FULL_PIC": "/missing_images/111/Ulmus_americana_(5102579562).jpg",
+   "GENUS": "Ulmus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -2615,7 +2615,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Magnolia Kobus ‘Wada’s Memory’ has black-green leaves, large, six-inch, fragrant white blooms which appear before the leaves, and an upright or columnar growth habit."
+   "DESCRIPTION": "The American elm is a deciduous hermaphroditic tree which, before the introduction of DED (Dutch Elm Disease), commonly grew to more than 100 feet (30 m) tall with a trunk whose diameter at breast height was more than 4 feet (1.2 m), supporting a high, spreading umbrella-like canopy. The leaves are alternate, 2.7-7.8 inches (7–20 cm) long, with double-serrate margins and an oblique base."
  },
  {
    "COMMON": "Loebner Magnolia",
@@ -4666,7 +4666,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "The U.S. National Arboretum presents Ulmus ‘Frontier’, an elm tree of moderate stature with attractive red fall color. ‘Frontier’ hybrid elm combines a high level of tolerance to Dutch elm disease, moderate resistance to elm leaf beetle, small leaves, and a lovely red-purple autumn coloration. "
+   "DESCRIPTION": "The Ulmus ‘Frontier’ is an elm tree of moderate stature with attractive red fall color. The ‘Frontier’ hybrid elm has a high level of tolerance to DED (Dutch elm disease), and moderate resistance to elm leaf beetle. It has small leaves, and a lovely red-purple autumn coloration."
  },
  {
    "COMMON": "Homestead Elm",
