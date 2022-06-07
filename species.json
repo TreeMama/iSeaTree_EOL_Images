@@ -3224,15 +3224,15 @@
    "DESCRIPTION": "Platanus x acerifolia ‘Bloodgood’ is a large tree with a broad open crown and bark that exfoliates to reveal patches that may be creamy white, yellow, or olive-colored. "
  },
  {
-   "COMMON": "Yarwood London Planetree",
+   "COMMON": "Old World Sycamore or Oriental Plane Tree (aka Oriental planetree),
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Platanus x acerifolia ‘Yarwood’",
+   "SCIENTIFIC": "Platanus orientalis",
    "ID": "138",
-   "ITREECODE": "PL1",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
+   "ITREECODE": "PLOR",
+   "LEVEL": "medium",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/138/Platanus_orientalis_tree.JPG",
+   "FULL_PIC": "/missing_images/138/800px-Fruits_of_Platanus_orientalis.jpg",
    "GENUS": "Platanus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -3246,7 +3246,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Platanus x acerifolia ‘Yarwood’ is a fast growing tree with a big round-headed canopy. It has very big medium-green palmate-shaped leaves turn yellow/brown in fall."
+   "DESCRIPTION": "Platanus orientalis, the Old World sycamore or Oriental plane,[2] is a large, deciduous tree of the Platanaceae family, growing to 30 m (98 ft) or more,[3] and known for its longevity and spreading crown. In autumn its deep green leaves may change to blood red, amber, and yellow."
  },
  {
    "COMMON": "Balsam Poplar",
