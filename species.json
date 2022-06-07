@@ -6842,7 +6842,7 @@
    "DESCRIPTION": "Magnolia trees are prized for their large flowers that perfume the balmy spring air with a sweet, heady fragrance."
  },
  {
-   "COMMON": "Cottonwood (Cottonwood spp.)",
+   "COMMON": "Cottonwood, Poplar, Aspen trees (Cottonwood spp.)",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Populus",
    "ID": "292",
@@ -6864,7 +6864,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Cottonwoods (Populus deltoides) are massive shade trees that grow naturally throughout the United States."
+   "DESCRIPTION": "Cottonwoods (Populus spp.) are massive shade trees that grow naturally throughout the United States. The leaves are spirally arranged, and vary in shape from triangular to circular or (rarely) lobed, and with a long petiole. The flowers are mostly dioecious (rarely monoecious) and appear in early spring before the leaves. They are borne in long, drooping, pedunculate catkins produced from buds formed in the axils of the leaves from the previous year."
  },
  {
    "COMMON": "Weeping willow",
