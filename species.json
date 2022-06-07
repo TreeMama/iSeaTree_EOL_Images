@@ -2067,16 +2067,16 @@
    "DESCRIPTION": "Gingko biloba is a species of tree native to China. It is the last living species in the order Ginkgoales, which first appeared over 290 million years ago."
  },
  {
-   "COMMON": "Autumn Gold Gingko",
+   "COMMON": "American Basswood",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Gingko biloba ‘Autumn Gold’",
+   "SCIENTIFIC": "Tilia americana",
    "ID": "89",
-   "ITREECODE": "GICLASS",
+   "ITREECODE": "TIAM",
    "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Gingko",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/89/800px-Tilia_americana%2C_Arnold_Arboretum_-_IMG_5911.jpg,/missing_images/89/Tlilia_americana_map.jpg",
+   "FULL_PIC": "/missing_images/89/Tilia_americana_(American_Linden)_(28268263222).jpg",
+   "GENUS": "Tilia",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -2089,7 +2089,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "'Autumn Gold' is an all-male Gingko biloba cultivar typically growing to 40-50' with a symmetrical, broadly spreading habit. Leaves turn a uniform golden yellow in autumn and persist for several weeks."
+   "DESCRIPTION": "The American basswood is a medium-sized to large deciduous tree reaching a height of 60 to 120 ft (18 to 37 m) with exceptional trees reaching 128 ft (39 m). It has an average trunk diameter of 3-5 ft (1–1.5 m) at maturity. It grows faster than many North American hardwoods, often twice the annual growth rate of American beech and many birch species. The flowers are small, fragrant, yellowish-white, 13/32 - 9/16 inch (10–14 mm) in diameter. The leaves are simple, alternately arranged, ovate to cordate, asymmetrical, unequal at the base (the side nearest to the branch being the largest)."
  },
  {
    "COMMON": "Hackberry (or Hackberry spp.)",
