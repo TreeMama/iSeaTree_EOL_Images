@@ -2092,16 +2092,16 @@
    "DESCRIPTION": "'Autumn Gold' is an all-male Gingko biloba cultivar typically growing to 40-50' with a symmetrical, broadly spreading habit. Leaves turn a uniform golden yellow in autumn and persist for several weeks."
  },
  {
-   "COMMON": "Magyar Gingko",
+   "COMMON": "Hackberry (or Hackberry spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Gingko biloba ‘Magyar’",
+   "SCIENTIFIC": "Celtis",
    "ID": "90",
-   "ITREECODE": "GICLASS",
-   "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Gingko",
+   "ITREECODE": "CE2",
+   "LEVEL": "medium",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/90/1280px-Celtis_sinensis3.jpg,/missing_images/90/800px-Celtis_sinensis%3DChinese_Hackberry.jpg",
+   "FULL_PIC": "/missing_images/90/800px-Celtis_occidentalis_leaf.jpg",
+   "GENUS": "Celtis",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -2114,7 +2114,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "‘Magyar’ is a male Ginko biloba cultivar. It is a narrow upright form with ascending branching that matures over time to as much as 60’ tall and 30’ wide. Green leaves turn a uniform and very showy golden yellow in autumn. Insignificant greenish male flowers bloom in catkins in spring."
+   "DESCRIPTION": "Celtis species are generally medium-sized trees, reaching 35-80 ft (10–25 m) tall, rarely up to 130 ft (40 m) tall. The leaves are alternate, simple, 1+1⁄4–6 in (3-15 cm) long, ovate-acuminate, and evenly serrated margins. Diagnostically, Celtis can be very similar to trees in the Rosaceae and other rose motif families."
  },
  {
    "COMMON": "Espresso Kentucky Coffee",
