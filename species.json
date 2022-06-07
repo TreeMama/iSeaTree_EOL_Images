@@ -1999,15 +1999,15 @@
    "DESCRIPTION": "Fraxinus pennsylvanica 'Cimmzam' is a tall tree growing up to circa 20 meters. The dark green leaf has a striking stone-red to orange autumn colouring."
  },
  {
-   "COMMON": "Patmore Ash",
+   "COMMON": "Subalpine fir (or Rocky Mountain fir)",
    "TYPE": "conifer",
-   "SCIENTIFIC": "Fraxinus pennsylvanica ‘Patmore’",
+   "SCIENTIFIC": "Abies lasiocarpa",
    "ID": "86",
-   "ITREECODE": "FRPEPA",
+   "ITREECODE": "ABLA",
    "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Fraxinus",
+   "THUMB_PIC": "/missing_images/86/Abies_lasiocarpa_7458.jpg,/missing_images/86/800px-Abies_lasiocarpa_range_map_1.jpg",
+   "FULL_PIC": "/missing_images/86/800px-Abies_lasiocarpa_26008.jpg",
+   "GENUS": "Abies",
    "BARK_TYPE": "",
    "NEEDLE_TYPE": "",
    "NEEDLE_SHARP": "",
@@ -2017,7 +2017,7 @@
    "BARK_COLOR": "",
    "NEEDLE_COLOR": "",
    "NEEDLE_ARRANGEMENT": "",
-   "DESCRIPTION": "Fraxinus pennsylvanica, commonly called green ash, has the largest growing range of any of the native ashes, extending from Nova Scotia to Alberta south to Florida and Texas. It is a medium sized tree, typically growing 50-70’ tall."
+   "DESCRIPTION": "Abies lasiocarpa is a medium-sized evergreen conifer with a very narrow conic crown, growing to 66 ft (20 m) tall, with exceptional heights around 130-160 ft (40–50 m), with a trunk DBH up to 3 ft 3 in (1 m) thick. The leaves are flat and needle-like, 1.5–3 centimetres (5⁄8–1+1⁄8 in) long, glaucous green above with a broad stripe of stomata, and two blue-white stomatal bands below. They are arranged spirally on the shoot, but with the leaf bases twisted to be arranged to the sides of and above the shoot, with few or none below the shoot. The cones are 6–12 cm (2+1⁄4–4+3⁄4 in) long, and dark purple or yellow-brown."
  },
  {
    "COMMON": "Urbanite Ash",
