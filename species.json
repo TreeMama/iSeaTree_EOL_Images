@@ -735,15 +735,15 @@
    "DESCRIPTION": "Acer triflorum, the three-flowered maple, is a species of maple native to hills of northeastern China and Korea. It is a deciduous tree that reaches a height of about 25 metres but is usually smaller. It is a trifoliate maple related to such other species as Manchurian Maple and Paperbark Maple."
  },
  {
-   "COMMON": "‘Warrenred’ Pacific Sunset Maple",
+   "COMMON": "Boxelder (or Box Elder or Boxelder Maple)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Acer truncatum x A. platanoides",
+   "SCIENTIFIC": "Acer negundo",
    "ID": "31",
-   "ITREECODE": "AC",
+   "ITREECODE": "ACNE",
    "LEVEL": "expert",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/31/Acer_negundo_44809168.jpg,/missing_images/31/1280px-2014-10-11_12_48_07_Box_Elder_Maple_foliage_during_autumn_in_Elko%2C_Nevada.jpg,/missing_images/31/800px-Acer_negundo_range_map.jpg",
+   "FULL_PIC": "/missing_images/31/Boxelder_(Acer_negudo)_with_young_fruit_-_Flickr_-_Jay_Sturner.jpg",
    "GENUS": "Acer",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -757,7 +757,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "An excellent, medium sized deciduous tree. Very useful urban tree where an adaptable but ornamentally attractive tree is required. Tolerates enclosed, confined root spaces."
+   "DESCRIPTION": "Acer negundo, the box elder, boxelder maple, Manitoba maple or ash-leaved maple, is a species of maple native to North America. It is a fast-growing, short-lived tree with pinnately compound leaves that usually have three to seven leaflets. Simple leaves are also occasionally present; technically, these are single-leaflet compound leaves. It features yellow-green flowers that are small and appear in early spring."
  },
  {
    "COMMON": "Norwegian Sunset Maple",
