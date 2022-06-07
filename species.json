@@ -3005,15 +3005,15 @@
    "DESCRIPTION": "Parrotia persica grows swiftly when young, maturing in gardens to 30 m (98 ft) tall and 8–15 m (26–49 ft) broad, multi-stemmed and naturally somewhat congested but prunable to a single trunk up to 150 cm (59 in) in diameter. The bark is smooth, pinkish-brown flaking/peeling to leave a mosaic of cinnamon, pink, green, and pale yellow patches in a similar manner to plane trees."
  },
  {
-   "COMMON": "Macho Cork Tree",
+   "COMMON": "Cork Oak (aka Quercus/live suber or Quercus suber)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Phellodendron amurense ‘Macho’",
+   "SCIENTIFIC": "Quercus suber",
    "ID": "128",
-   "ITREECODE": "PHAM",
+   "ITREECODE": "QUSU",
    "LEVEL": "medium",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Phellodendron",
+   "THUMB_PIC": "/missing_images/128/1280px-Quercus_suber_Blatt.jpg,/missing_images/128/800px-Denuded_cork_oak_(2874384025).jpg,/missing_images/128/800px-Quercus_suber_-_San_Luis_Obispo_Botanical_Garden_-_DSC05998.jpg,/missing_images/128/Quercus_suber_MHNT.BOT.2021.17.19.jpg,/missing_images/128/Quercus_suber_g4.jpg",
+   "FULL_PIC": "/missing_images/128/Quercus_fg04.jpg",
+   "GENUS": "Quercus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -3026,7 +3026,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Phellodendron amurense, commonly called Amur cork tree, is a deciduous tree with a rounded, broad-spreading crown. It is noted for its attractive shape, bark and foliage. 'Macho' is a male cultivar."
+   "DESCRIPTION": "The cork oak grows as an evergreen tree, reaching an average height of 33 to 49 feet (10 to 15 metres) or in rare cases up to 82 ft (25 m) and a trunk diameter (DBH) of 20 to 35 inches (50 to 90 centimetres). It forms a dense and asymmetrical crown that starts at a height of  6–10 ft (approx. 2-3 m) and spreads widely in free-standing trees. The crown can be divided into several separate, rounded partial crowns. The young twigs are densely hairy light gray or whitish. Older branches are strong and knotty. The thick, longitudinally cracked cork layers of the gray-brown trunk bark are characteristic of the cork oak. The light and spongy cork fabric shows vertical cracks and is white on the outside and red to red-brown on the inside. Its leathery leaves are alternate and are 1 to 4 (2.5 to 10 cm) long and 1⁄2 to 2+1⁄2 in (1.2 to 6.5 cm) wide."
  },
  {
    "COMMON": "Sitka Spruce",
