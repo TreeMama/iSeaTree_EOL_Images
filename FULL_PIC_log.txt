@@ -1,6 +1,5 @@
 ID (0) in "new_species1.json", No FULL_PIC exist
 ID (6) in "new_species1.json", No FULL_PIC exist
-ID (9) in "new_species1.json", No FULL_PIC exist
 ID (10) in "new_species1.json", No FULL_PIC exist
 
 
