@@ -295,15 +295,15 @@
    "DESCRIPTION": "Acer macrophyllum, the bigleaf maple or Oregon maple, is a large deciduous tree in the genus Acer. Big Leaf Maple can grow up to 48.10 metres tall, but more commonly reaches 15–20 m tall. It is native to western North America, mostly near the Pacific coast, from southernmost Alaska to southern California."
  },
  {
-   "COMMON": "State Street Maple",
+   "COMMON": "Morus (Mulberry spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Acer miyabei ‘Morton’",
+   "SCIENTIFIC": "Morus",
    "ID": "13",
-   "ITREECODE": "ACMI1",
-   "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Acer",
+   "ITREECODE": "MO",
+   "LEVEL": "easy",
+   "THUMB_PIC": "/missing_images/13/Immature_mulberry_fruit.jpg",
+   "FULL_PIC": "/missing_images/13/Morus_alba_FrJPG.jpg",
+   "GENUS": "Morus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -316,7 +316,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Acer miyabei (Miyabe's or Miyabe maple) is a species of maple native to Japan, where it occurs in Hokkaidō and the Tōhoku region in northern Honshū.It is a small to medium-sized deciduous tree growing to 10–20 m tall, with a trunk 30–40 cm diameter with rough, grey-brown bark."
+   "DESCRIPTION": "Morus, a genus of flowering plants, consists of a diverse species of deciduous trees commonly known as mulberries. Mulberries are fast-growing when young, and can grow to 80 ft (24 m) tall. The leaves are alternately arranged, simple, and often lobed and serrated on the margin. The fruit has a collective of clusters and turns from pink to red while ripening, then dark purple or black, and has a sweet flavor when fully ripe."
  },
  {
    "COMMON": "Green Column Black Maple",
