@@ -588,16 +588,16 @@
    "DESCRIPTION": "The Karpick is slightly wider than the Bowhall and is an excellent selection for use as a street tree."
  },
  {
-   "COMMON": "Scarlet Sentinel Maple (aka Freeman Maple)",
+   "COMMON": "Amorpha (False indigo spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Acer rubrum ‘Scarsen’",
+   "SCIENTIFIC": "Amorpha",
    "ID": "25",
-   "ITREECODE": "AC",
+   "ITREECODE": "AM5",
    "LEVEL": "medium",
-   "ITREECODE_APPROX": "y",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Acer",
+   "ITREECODE_APPROX": "n",
+   "THUMB_PIC": "/missing_images/25/Amorpha_fruticosa-flowers.jpg",
+   "FULL_PIC": "/missing_images/25/800px-Amorpha_fruiticosa.jpg",
+   "GENUS": "Amorpha",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -610,7 +610,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "A strong upright branch pattern gives Scarlet Sentinel an oval to rectangular outline and a bold appearance that makes it an excellent tree for streets and parking lots."
+   "DESCRIPTION": "Amorpha is a genus of plants in the pea family, Fabaceae. Generally considered a 'bushy shrub', its average height is 9-16 ft (3-5 m). The name Amorpha means 'deformed' or 'without form' in Greek and was given because flowers of this genus only have one petal, unlike the usual 'pea-shaped' flowers of the Faboideae subfamily."
  },
  {
    "COMMON": "Bonfire Sugar Maple",
