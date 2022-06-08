@@ -415,15 +415,16 @@
    "DESCRIPTION": "An old French cultivar which has an egg-shaped crown at first. When maturing the branches grow more upright and it becomes a columnar shaped tree. Spread up to circa 6 m.These usually grow as multi-stemmed trees. The leaves are lobed and are of the species."
  },
  {
-   "COMMON": "Emerald Queen Norway Maple",
+   "COMMON": "Snowberry or Common Snowberry or Waxberry (Symphoricarpos spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Acer platanoides ‘Emerald Queen’",
+   "SCIENTIFIC": "Symphoricarpos",
    "ID": "18",
-   "ITREECODE": "ACPLQE",
-   "LEVEL": "expert",
+   "ITREECODE": "SY2",
+   "LEVEL": "medium",
+   "ITREECODE_APPROX": "n",
    "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Acer",
+   "FULL_PIC": "/missing_images/18/Symphoricarpos_albus_7927.jpg",
+   "GENUS": "Symphoricarpos",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -436,7 +437,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "This large deciduous shade tree grows to a height of 60’-70’, with a width of 35’-40’. It features a dense oval canopy. It bears simple leaves which are up to 7” across. They are set opposite from one another. Leaves are star-shaped and have 5 prominent sharp lobes. "
+   "DESCRIPTION": "Symphoricarpos, commonly known as the snowberry, waxberry, or ghostberry, is a small genus of about 15 species of deciduous shrubs in the honeysuckle family, Caprifoliaceae. The fruit is conspicuous, 0.5-1 in (1–2 cm) in diameter, soft, and varying in colors from white, pink, red, and in one species (S. sinensis), blackish purple."
  },
  {
    "COMMON": "Globe Norway Maple",
