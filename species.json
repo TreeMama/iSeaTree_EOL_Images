@@ -125,15 +125,15 @@
    "DESCRIPTION": "Acer campestre, known as the field maple, is a flowering plant species in the family Sapindaceae. It is native to much of continental Europe, Britain, southwest Asia from Turkey to the Caucasus, and north Africa in the Atlas Mountains."
  },
  {
-   "COMMON": "Queen Elizabeth Hedge Maple",
+   "COMMON": "Rosa (Rose spp.)",
    "TYPE": "broadleaf",
-   "SCIENTIFIC": "Acer campestre ‘Evelyn’",
+   "SCIENTIFIC": "Rosa",
    "ID": "6",
-   "ITREECODE": "ACCAQU",
-   "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "",
-   "GENUS": "Acer",
+   "ITREECODE": "RO",
+   "LEVEL": "easy",
+   "THUMB_PIC": "/missing_images/6/Rose%2C_Buff_Beauty%2C_(15853678901).jpg,/missing_images/6/1024px-Rosa_rubiginosa_1.jpg",
+   "FULL_PIC": "/missing_images/6/Rosa_rubiginosa_hips.jpg",
+   "GENUS": "Rosa",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
    "LEAF_VEINS": "",
@@ -146,7 +146,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Tolerant of a wide range of conditions like the species, but more spire-like with uniform ascending branches; a good strong accent tree, especially for formal landscapes."
+   "DESCRIPTION": "The rose genus (Rosa spp.) includes tree roses as well as flowering shrubs. In this genus, the leaves are borne alternately on the stem. In most species the leaves are 2.0 to 5.9 inches (5 to 15 cm) long, pinnate, with (3–) 5–9 (–13) leaflets and basal stipules; the leaflets usually have a serrated margin, and often a few small prickles (thorns) on the underside of the stem. The flowers of most Rosa species have five petals."
  },
  {
    "COMMON": "Vine Maple",
