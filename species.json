@@ -4509,8 +4509,8 @@
    "ID": "192",
    "ITREECODE": "TICOGR",
    "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "/missing_images/192/wikimedia_commons/CBG_Rose_Garden_Terrace,_clipped_ailee_of_Tilia_cordata_Greenspire_150620_(20142487369).jpeg",
+   "THUMB_PIC": "/missing_images/192/wikimedia_commons/CBG_Rose_Garden_Terrace%2C_clipped_ailee_of_Tilia_cordata_Greenspire_150620_(20142487369).jpeg",
+   "FULL_PIC": "/missing_images/192/wikimedia_commons/233713292c87b66f7c1d3361a709dd9a8.jpg",
    "GENUS": "Tilia",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -4520,7 +4520,7 @@
    "TREE_SHAPE": "",
    "FRUIT_SEED": "",
    "BARK_COLOR": "",
-   "LEAF_COLOR": "",
+   "LEAF_COLOR": "green,yellow",
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
@@ -4765,7 +4765,7 @@
    "ITREECODE": "ZESE",
    "LEVEL": "medium",
    "THUMB_PIC": "",
-   "FULL_PIC": "/missing_images/203/wikimedia_commons/Zelkova_serrata,_Clementina.jpeg",
+   "FULL_PIC": "/missing_images/203/wikimedia_commons/Zelkova_serrata%2C_Clementina.jpeg",
    "GENUS": "Zelkova",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -5015,8 +5015,8 @@
    "ID": "214",
    "ITREECODE": "ACGI",
    "LEVEL": "expert",
-   "THUMB_PIC": "",
-   "FULL_PIC": "/missing_images/214/wikimedia_commons/Acer_ginnala_leaves,_flowers,_and_samaras.jpeg",
+   "THUMB_PIC": "/missing_images/214/wikimedia_commons/Acer_ginnala_leaves%2C_flowers%2C_and_samaras.jpeg",
+   "FULL_PIC": "/missing_images/214/flickr/30744465456_693c0bcc18_o.jpg",
    "GENUS": "Acer",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -5024,13 +5024,13 @@
    "LEAF_EDGES": "",
    "LEAF_TYPE": "",
    "TREE_SHAPE": "",
-   "FRUIT_SEED": "",
+   "FRUIT_SEED": "winged",
    "BARK_COLOR": "",
    "LEAF_COLOR": "",
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Acer ginnala, the Amur maple, is a  plant species with woody stems native to northeastern Asia from easternmost Mongolia east to Korea and Japan, and north to the Russian Far East in the Amur River valley."
+   "DESCRIPTION": "Acer ginnala, the Amur maple, Amur maple is a small tree up to 20 feet high with a broad crown, but is sometimes pruned as a hedge. Twigs are smooth and light colored. Mature bark is faint gray developing thin vertical stripes.  Leaves have three lobes, and the middle lobe is much longer than the side lobes. Leaf edges are toothed, and leaves are dark green in summer, sometimes changing to yellow or red in fall (fall foliage color varies by cultivar and planting situation). Considered invasive in some areas of the USA."
  },
  {
    "COMMON": "Rocky Mountain Maple",
@@ -5039,8 +5039,8 @@
    "ID": "215",
    "ITREECODE": "ACGL",
    "LEVEL": "easy",
-   "THUMB_PIC": "",
-   "FULL_PIC": "/missing_images/215/wikimedia_commons/Acer_glabrum_in_Botanical_garden,_Minsk_01.jpeg",
+   "THUMB_PIC": "/missing_images/215/wikimedia_commons/Acer_glabrum_in_Botanical_garden%2C_Minsk_01.jpeg",
+   "FULL_PIC": "/missing_images/215/wikimedia_commons/573px-Autumn_Rocky_Mountain_Maple_Leaf.jpg",
    "GENUS": "Acer",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -5054,7 +5054,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Acer glabrum is a species of maple native to western North America, from southeastern Alaska, British Columbia and western Alberta, east to western Nebraska, and south through Washington, Oregon, Idaho, Montana and Colorado to California, Arizona and New Mexico."
+   "DESCRIPTION": "The Acer glabrum - Rocky Mountain Maple - is a small, multi-stemmed, deciduous tree native to the western United States. Coarsely toothed 5-lobed leaves turn yellow, orange, or red in the fall. Miniscule green flowers give way to winged seeds. Red branches and stems provide winter interest. Tolerant of a wide range of soils. Tolerant of drought once established."
  },
  {
    "COMMON": "Weeping Katsura Tree",
@@ -5087,8 +5087,8 @@
    "ID": "217",
    "ITREECODE": "COFL",
    "LEVEL": "easy",
-   "THUMB_PIC": "",
-   "FULL_PIC": "/missing_images/217/wikimedia_commons/Cornus_florida_kz03.jpeg",
+   "THUMB_PIC": "/missing_images/217/wiki/1280px-Benthamidia_florida8.jpg,/missing_images/217/wikimedia_commons/Cornus_florida_kz03.jpeg,/missing_images/217/wiki/1024px-Cornus_florida_range_map_.jpg",
+   "FULL_PIC": "/missing_images/217/wiki/Flowering_Dogwood_Cornus_florida_Flower_High_DoF_Cropped.JPG",
    "GENUS": "Cornus",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -5102,7 +5102,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Cornus Florida, the Flowering Dogwood, is a species of flowering tree in the family Cornaceae native to eastern North America and northern Mexico. An endemic population once spanned from southernmost coastal Maine south to northern Florida and west to the Mississippi River."
+   "DESCRIPTION": "Cornus Florida, the Flowering Dogwood, is a species of flowering tree in the family Cornaceae native to eastern North America and northern Mexico. Flowering dogwood is a small deciduous tree growing to 33 ft (10 m) high, often wider than it is tall. The trunk diameter at maturity can be up to 1 ft (30 cm). The leaves are opposite, simple, ovate, 2.4–5.1 in (6–13 cm ) long and 1.6–2.4 in (4–6 cm) broad, with a very finely toothed margin (usually can only see teeth under a lens). The leaves turn a rich red-brown in fall."
  },
  {
    "COMMON": "European Smoke Tree (aka European Smoketree)",
@@ -5126,7 +5126,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Cotinus coggygria, syn. Rhus cotinus, the European smoketree, Eurasian smoketree, smoke tree, smoke bush, Venetian sumach, or dyer's sumach, is a species of flowering plant in the family Anacardiaceae, native to a large area from southern Europe, east across central Asia and the Himalayas to northern China."
+   "DESCRIPTION": "Cotinus coggygria - the European smoketree or Eurasian smoketree - is a multiple-branching deciduous shrub growing to 5–7 m (16–23 ft) tall with an open, spreading, irregular habit, only rarely forming a small tree. The leaves are 3–8 cm long rounded ovals, green with a waxy glaucous sheen. The autumn colour can be strikingly varied, from peach and yellow to scarlet."
  },
  {
    "COMMON": "Hawthorn (Crataegus spp.)",
