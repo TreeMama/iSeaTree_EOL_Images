@@ -319,14 +319,14 @@
    "DESCRIPTION": "Morus, a genus of flowering plants, consists of a diverse species of deciduous trees commonly known as mulberries. Mulberries are fast-growing when young, and can grow to 80 ft (24 m) tall. The leaves are alternately arranged, simple, and often lobed and serrated on the margin. The fruit has a collective of clusters and turns from pink to red while ripening, then dark purple or black, and has a sweet flavor when fully ripe."
  },
  {
-   "COMMON": "Green Column Black Maple",
+   "COMMON": "Green Column Black Maple or Black Maple",
    "TYPE": "broadleaf",
    "SCIENTIFIC": "Acer nigrum",
    "ID": "14",
    "ITREECODE": "ACNI",
-   "LEVEL": "medium",
-   "THUMB_PIC": "/images/14/EOL-media-509-23478753/full.jpg,/images/14/EOL-media-509-29401862/full.jpg",
-   "FULL_PIC": "/images/14/EOL-media-509-19814597/full.jpg",
+   "LEVEL": "expert",
+   "THUMB_PIC": "/images/14/EOL-media-509-23478753/full.jpg,/images/14/EOL-media-509-19814597/full.jpg",
+   "FULL_PIC": "/images/14/EOL-media-509-29401862/full.jpg",
    "GENUS": "Acer",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
@@ -340,7 +340,7 @@
    "LEAF_ARRANGEMENT": "",
    "LEAF_UNDERSIDE_COLOR": "",
    "LEAF_TEXTURE": "",
-   "DESCRIPTION": "Acer nigrum, the black maple, is a species of maple closely related to A. saccharum, and treated by some authors as a subspecies of it, as Acer saccharum subsp. nigrum. Identification can be confusing due to the tendency of the two species to form hybrids."
+   "DESCRIPTION": "Acer nigrum, the black maple, is a species of maple closely related to A. saccharum (Sugar Maple), and treated by some authors as a subspecies of it. Identification can be confusing due to the tendency of the two species to form hybrids. The simplest and most accurate method for distinguishing between the two trees is the generally three-lobed leaves of the black maple versus the generally five-lobed leaves of the sugar maple. The leaves of the black maple also tend to have a drooping appearance. Other differences that are not as pronounced include darker, more deeply grooved bark, slightly smaller seeds, a downy underside, and thicker petioles."
  },
  {
    "COMMON": "Japanese Maple",
@@ -6010,8 +6010,8 @@
    "ITREECODE": "YU1",
    "LEVEL": "medium",
    "ITREECODE_APPROX": "n",
-   "THUMB_PIC": "/images/256/EOL-media-543-yucca_003_avp.tif/full.jpg",
-   "FULL_PIC": "/images/256/EOL-media-543-yucca_005_avp.tif/full.jpg",
+   "THUMB_PIC": "/missing_images/256/Yucca_filamentosa.jpg,/images/256/EOL-media-543-yucca_005_avp.tif/full.jpg",
+   "FULL_PIC": "/missing_images/256/800px-Yucca_aloifolia_4.jpg",
    "GENUS": "Yucca",
    "BARK_TYPE": "",
    "LEAF_SHAPE": "",
