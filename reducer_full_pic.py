@@ -12,12 +12,16 @@ def resize_image(pic_path):
 
     # save
     pic_name, ext = pic_path.rsplit('.', 1)
+    
+    pic_name = 'new_images/' + pic_name.split('/', 1)[-1]
+    
+    os.makedirs(pic_name.rsplit('/', 1)[0], exist_ok=True)
+
     pic_75x75.save(pic_name + '_75x75.' + ext)
     pic_1024x768.save(pic_name + '_1024x768.' + ext)
 
     return (pic_name + '_75x75.' + ext, pic_name + '_1024x768.' + ext)
 
-# def main():
 # open json file
 species = json.load(open('species.json', 'r'))
 
@@ -30,19 +34,20 @@ for specie in tqdm(species):
     
     # split the images by the ','
     for pic_path in specie['FULL_PIC'].split(','):
+        pic_path = pic_path.lstrip('/')
         
         # check if image is available
-        if os.path.exists(os.getcwd()+pic_path) and pic_path:
+        if os.path.exists(pic_path) and pic_path:
             # resize image and output the new images names
-            pic_75x75, pic_1024x768 = resize_image(os.getcwd()+pic_path)
+            pic_75x75, pic_1024x768 = resize_image(pic_path)
             # append the new names
             full_pic_75x75.append(pic_75x75)
             full_pic_1024x768.append(pic_1024x768)
         
         # incase of images with url encodings fix (35 error)
-        elif os.path.exists(os.getcwd()+urllib.parse.unquote(pic_path)) and pic_path:
+        elif os.path.exists(urllib.parse.unquote(pic_path)) and pic_path:
             # resize image and output the new images names
-            pic_75x75, pic_1024x768 = resize_image(os.getcwd()+urllib.parse.unquote(pic_path))
+            pic_75x75, pic_1024x768 = resize_image(urllib.parse.unquote(pic_path))
             # append the new names
             full_pic_75x75.append(pic_75x75)
             full_pic_1024x768.append(pic_1024x768)
