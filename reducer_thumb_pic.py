@@ -12,13 +12,13 @@ def resize_image(pic_path):
     # # save
     pic_name, ext = pic_path.rsplit('.', 1)
     
-    pic_name = 'new_images/' + pic_name.split('/', 1)[-1]
+    pic_name = 'new_images/'+pic_name.split('/', 1)[-1]
     
     os.makedirs(pic_name.rsplit('/', 1)[0], exist_ok=True)
 
-    pic_1024x768.save(pic_name + '_1024x768.' + ext)
+    pic_1024x768.save(pic_name + '_1024x768.png', format='png')
 
-    return pic_name + '_1024x768.' + ext
+    return pic_name + '_1024x768.png'
 
 # def main():
 # open json file
