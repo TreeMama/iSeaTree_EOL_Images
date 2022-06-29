@@ -1,4 +1,4 @@
-import os, json, urllib.parse
+import os, json, urllib.parse, re
 from PIL import Image
 from tqdm import tqdm
 
@@ -14,6 +14,8 @@ def resize_image(pic_path):
     
     pic_name = 'new_images/'+pic_name.split('/', 1)[-1]
     
+    pic_name = re.sub(r'[^A-Za-z0-9/\-_. ]+', '', pic_name)
+
     os.makedirs(pic_name.rsplit('/', 1)[0], exist_ok=True)
 
     pic_1024x768.save(pic_name + '_1024x768.png', format='png')
