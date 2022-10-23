@@ -5047,7 +5047,7 @@
   {
     "COMMON": "Beech (Beech spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fagus",
+    "SCIENTIFIC": "Fagus spp.",
     "ID": "191",
     "ITREECODE": "FA",
     "LEVEL": "easy",
@@ -5129,7 +5129,7 @@
   {
     "COMMON": "Lavender (Lavender spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Lavandula",
+    "SCIENTIFIC": "Lavandula spp.",
     "ID": "194",
     "ITREECODE": "LA15",
     "LEVEL": "easy",
@@ -5781,7 +5781,7 @@
   {
     "COMMON": "Hawthorn (Crataegus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Crataegus",
+    "SCIENTIFIC": "Crataegus spp.",
     "ID": "219",
     "ITREECODE": "CR",
     "LEVEL": "expert",
@@ -6119,7 +6119,7 @@
   {
     "COMMON": "Mesquite (Mesquite spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prosopis",
+    "SCIENTIFIC": "Prosopis spp.",
     "ID": "233",
     "ITREECODE": "PR6",
     "LEVEL": "medium",
@@ -6147,7 +6147,7 @@
   {
     "COMMON": "Oak (Oak spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Quercus",
+    "SCIENTIFIC": "Quercus spp.",
     "ID": "234",
     "ITREECODE": "QU",
     "LEVEL": "easy",
@@ -6203,7 +6203,7 @@
   {
     "COMMON": "Acacia (Acacia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acacia",
+    "SCIENTIFIC": "Acacia spp.",
     "ID": "236",
     "ITREECODE": "ACSP2",
     "LEVEL": "easy",
@@ -6231,7 +6231,7 @@
   {
     "COMMON": "Maple (Maple spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer",
+    "SCIENTIFIC": "Acer spp.",
     "ID": "237",
     "ITREECODE": "AC",
     "LEVEL": "easy",
@@ -6259,7 +6259,7 @@
   {
     "COMMON": "Abelia (Abelia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Abelia",
+    "SCIENTIFIC": "Abelia spp.",
     "ID": "238",
     "ITREECODE": "AB1",
     "LEVEL": "easy",
@@ -6285,9 +6285,9 @@
     "THUMB_PIC_1024x768": "new_images/238/EOL-media-544-7ee2ba8cd842933272701dbce2d434c0/full_1024x768.png,new_images/238/EOL-media-509-10954525/full_1024x768.png"
   },
   {
-    "COMMON": "Indian mallow (Indian mallow spp.)",
+    "COMMON": "Indian mallow (Abutilon spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Abutilon",
+    "SCIENTIFIC": "Abutilon spp.",
     "ID": "239",
     "ITREECODE": "AB3",
     "LEVEL": "easy",
@@ -6315,7 +6315,7 @@
   {
     "COMMON": "Baobabs (Adansonia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Adansonia",
+    "SCIENTIFIC": "Adansonia spp.",
     "ID": "240",
     "ITREECODE": "AB1",
     "LEVEL": "easy",
@@ -6341,9 +6341,9 @@
     "THUMB_PIC_1024x768": "new_images/240/EOL-media-542-9574334779/full_1024x768.png,new_images/240/EOL-media-851-139770-12.jpg/full_1024x768.png"
   },
   {
-    "COMMON": "Wild lime (Wild lime spp.)",
+    "COMMON": "Wild lime (Adelia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Adelia",
+    "SCIENTIFIC": "Adelia spp.",
     "ID": "241",
     "ITREECODE": "AD2",
     "LEVEL": "easy",
@@ -6369,9 +6369,9 @@
     "THUMB_PIC_1024x768": "new_images/241/EOL-media-7-CalPhotos_0000 0000 0217 0441/full_1024x768.png,new_images/241/EOL-media-539-MHPAC_BioBot00009-BB0000321213797710.JPG/full_1024x768.png"
   },
   {
-    "COMMON": "Beadtree (Beadtree spp.)",
+    "COMMON": "Beadtree (Adenanthera spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Adenanthera",
+    "SCIENTIFIC": "Adenanthera spp.",
     "ID": "242",
     "ITREECODE": "AD3",
     "LEVEL": "easy",
@@ -6397,9 +6397,9 @@
     "THUMB_PIC_1024x768": "new_images/242/EOL-media-84-CalPhotos_4444 4444 0510 1187/full_1024x768.png"
   },
   {
-    "COMMON": "Prickbush (Prickbush spp.)",
+    "COMMON": "Prickbush (Adolphia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Adolphia",
+    "SCIENTIFIC": "Adolphia spp.",
     "ID": "243",
     "ITREECODE": "AD6",
     "LEVEL": "easy",
@@ -6425,9 +6425,9 @@
     "THUMB_PIC_1024x768": "new_images/243/EOL-media-542-15921848564/full_1024x768.png"
   },
   {
-    "COMMON": "Buckeye (Buckeye spp.)",
+    "COMMON": "Buckeye (Aesculus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Aesculus",
+    "SCIENTIFIC": "Aesculus spp.",
     "ID": "244",
     "ITREECODE": "AE",
     "LEVEL": "easy",
@@ -6483,7 +6483,7 @@
   {
     "COMMON": "Albizia (Albizia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Albizia",
+    "SCIENTIFIC": "Albizia spp.",
     "ID": "246",
     "ITREECODE": "AL1",
     "LEVEL": "easy",
@@ -6511,7 +6511,7 @@
   {
     "COMMON": "Alchorneopsis (Alchorneopsis spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Alchorneopsis",
+    "SCIENTIFIC": "Alchorneopsis spp.",
     "ID": "247",
     "ITREECODE": "AL2",
     "LEVEL": "easy",
@@ -6539,7 +6539,7 @@
   {
     "COMMON": "Alhagi (Alhagi spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Alhagi",
+    "SCIENTIFIC": "Alhagi spp.",
     "ID": "248",
     "ITREECODE": "AL6",
     "LEVEL": "easy",
@@ -6565,9 +6565,9 @@
     "THUMB_PIC_1024x768": "new_images/248/EOL-media-509-11228873/full_1024x768.png,new_images/248/EOL-media-509-11228928/full_1024x768.png"
   },
   {
-    "COMMON": "Alder (Alder spp.)",
+    "COMMON": "Alder (Alnus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Alnus",
+    "SCIENTIFIC": "Alnus spp.",
     "ID": "249",
     "ITREECODE": "AL",
     "LEVEL": "easy",
@@ -6735,7 +6735,7 @@
   {
     "COMMON": "Fan Palms (Washingtonia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Washingtonia",
+    "SCIENTIFIC": "Washingtonia spp.",
     "ID": "255",
     "ITREECODE": "WA4",
     "LEVEL": "medium",
@@ -6763,7 +6763,7 @@
   {
     "COMMON": "Yucca (Yucca spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Yucca",
+    "SCIENTIFIC": "Yucca spp.",
     "ID": "256",
     "ITREECODE": "YU1",
     "LEVEL": "medium",
@@ -6819,7 +6819,7 @@
   {
     "COMMON": "Eucalyptus (Gum spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Eucalyptus",
+    "SCIENTIFIC": "Eucalyptus (Gum spp.)",
     "ID": "258",
     "ITREECODE": "EU1",
     "LEVEL": "easy",
@@ -7009,7 +7009,7 @@
   {
     "COMMON": "Pine (Pinus spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Pinus",
+    "SCIENTIFIC": "Pinus spp.",
     "ID": "265",
     "ITREECODE": "PI2",
     "LEVEL": "easy",
@@ -7034,7 +7034,7 @@
   {
     "COMMON": "Birch (Betula spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Betula",
+    "SCIENTIFIC": "Betula spp.",
     "ID": "266",
     "ITREECODE": "BE",
     "LEVEL": "easy",
@@ -7060,7 +7060,7 @@
     "THUMB_PIC_1024x768": "new_images/266/EOL-media-539-MLTVP_TE2013-I_113a1373739972.JPG/full_1024x768.png"
   },
   {
-    "COMMON": "Hickory (Hickory spp.)",
+    "COMMON": "Hickory (Carya spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Carya",
     "ID": "267",
@@ -7088,9 +7088,9 @@
     "THUMB_PIC_1024x768": "new_images/267/EOL-media-851-164060-1.jpg/full_1024x768.png,new_images/267/EOL-media-509-20455432/full_1024x768.png"
   },
   {
-    "COMMON": "Chestnut (Chestnut spp.)",
+    "COMMON": "Chestnut (Castanea spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Castanea",
+    "SCIENTIFIC": "Castanea spp.",
     "ID": "268",
     "ITREECODE": "CA4",
     "LEVEL": "easy",
@@ -7144,9 +7144,9 @@
     "THUMB_PIC_1024x768": ""
   },
   {
-    "COMMON": "Katsura tree (Katsura tree spp.)",
+    "COMMON": "Katsura tree (Cercidiphyllum spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Cercidiphyllum",
+    "SCIENTIFIC": "Cercidiphyllum spp.",
     "ID": "270",
     "ITREECODE": "CE17",
     "LEVEL": "easy",
@@ -7172,9 +7172,9 @@
     "THUMB_PIC_1024x768": "new_images/270/EOL-media-7-CalPhotos_0000 0000 0313 3769/full_1024x768.png,new_images/270/EOL-media-542-11327039696/full_1024x768.png,new_images/270/EOL-media-913-67612/full_1024x768.png"
   },
   {
-    "COMMON": "Elm (Elm spp.)",
+    "COMMON": "Elm (Ulmus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Ulmus",
+    "SCIENTIFIC": "Ulmus spp.",
     "ID": "271",
     "ITREECODE": "ULS",
     "LEVEL": "easy",
@@ -7200,9 +7200,9 @@
     "THUMB_PIC_1024x768": "new_images/271/EOL-media-913-23072/full_1024x768.png"
   },
   {
-    "COMMON": "Spruce (Spruce spp.)",
+    "COMMON": "Spruce (Picea spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Picea",
+    "SCIENTIFIC": "Picea spp.",
     "ID": "272",
     "ITREECODE": "PI1",
     "LEVEL": "easy",
@@ -7225,9 +7225,9 @@
     "THUMB_PIC_1024x768": "new_images/272/EOL-media-7-CalPhotos_0000 0000 1208 1025/full_1024x768.png,new_images/272/EOL-media-913-107887/full_1024x768.png"
   },
   {
-    "COMMON": "Fir (Fir spp.)",
+    "COMMON": "Fir (Abies spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Abies",
+    "SCIENTIFIC": "Abies spp.",
     "ID": "273",
     "ITREECODE": "AB",
     "LEVEL": "easy",
@@ -7252,7 +7252,7 @@
   {
     "COMMON": "Willow (Salix spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Salix",
+    "SCIENTIFIC": "Salix spp.",
     "ID": "274",
     "ITREECODE": "SA",
     "LEVEL": "easy",
@@ -7278,9 +7278,9 @@
     "THUMB_PIC_1024x768": "new_images/274/EOL-media-542-6872776289/full_1024x768.png,new_images/274/EOL-media-7-CalPhotos_6666 6666 0611 0072/full_1024x768.png"
   },
   {
-    "COMMON": "Pear (Pear spp.)",
+    "COMMON": "Pear (Pyrus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Pyrus",
+    "SCIENTIFIC": "Pyrus spp.",
     "ID": "275",
     "ITREECODE": "PY",
     "LEVEL": "easy",
@@ -7308,7 +7308,7 @@
   {
     "COMMON": "Sassafras  (Sassafras spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Sassafras",
+    "SCIENTIFIC": "Sassafras spp.",
     "ID": "276",
     "ITREECODE": "SA23",
     "LEVEL": "easy",
@@ -7334,9 +7334,9 @@
     "THUMB_PIC_1024x768": "new_images/276/EOL-media-542-4709010510/full_1024x768.png,new_images/276/EOL-media-542-1526243191/full_1024x768.png"
   },
   {
-    "COMMON": "Ash  (Ash spp.)",
+    "COMMON": "Ash  (Fraxinus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fraxinus",
+    "SCIENTIFIC": "Fraxinus spp.",
     "ID": "277",
     "ITREECODE": "FR",
     "LEVEL": "easy",
@@ -7568,9 +7568,9 @@
     "THUMB_PIC_1024x768": "new_images/285/California red fir/California red firFullPic_1024x768.png"
   },
   {
-    "COMMON": "Bald cypress spp.",
+    "COMMON": "Bald cypress (Taxodium spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Taxodium",
+    "SCIENTIFIC": "Taxodium spp.",
     "ID": "286",
     "ITREECODE": "TA10",
     "LEVEL": "easy",
@@ -7595,7 +7595,7 @@
   {
     "COMMON": "Tamarind spp.",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Tamarindus",
+    "SCIENTIFIC": "Tamarindus spp.",
     "ID": "287",
     "ITREECODE": "TA7",
     "LEVEL": "easy",
@@ -7621,9 +7621,9 @@
     "THUMB_PIC_1024x768": "new_images/287/EOL-media-539-MHPAC_BioBot01308-BB0069491262880384.JPG/full_1024x768.png,new_images/287/EOL-media-539-MHPAC_BioBot01308-BB0069511262880308.JPG/full_1024x768.png,new_images/287/EOL-media-851-126750-2.jpg/full_1024x768.png"
   },
   {
-    "COMMON": "Cypress spp.",
+    "COMMON": "Cypress (Cupressus spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Cupressus",
+    "SCIENTIFIC": "Cupressus spp.",
     "ID": "288",
     "ITREECODE": "CU",
     "LEVEL": "easy",
@@ -7671,9 +7671,9 @@
     "THUMB_PIC_1024x768": "new_images/289/EOL-media-542-484096931/full_1024x768.png"
   },
   {
-    "COMMON": "Cedar spp.",
+    "COMMON": "Cedar (Cedrus spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Cedrus",
+    "SCIENTIFIC": "Cedrus spp.",
     "ID": "290",
     "ITREECODE": "CE7",
     "LEVEL": "easy",
@@ -7698,7 +7698,7 @@
   {
     "COMMON": "Magnolia (Magnolia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Magnolia",
+    "SCIENTIFIC": "Magnolia spp.",
     "ID": "291",
     "ITREECODE": "MA1",
     "LEVEL": "easy",
@@ -7724,9 +7724,9 @@
     "THUMB_PIC_1024x768": ""
   },
   {
-    "COMMON": "Cottonwood, Poplar, Aspen trees (Cottonwood spp.)",
+    "COMMON": "Cottonwood, Poplar, Aspen trees (Populus spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Populus",
+    "SCIENTIFIC": "Populus spp.",
     "ID": "292",
     "ITREECODE": "PO",
     "LEVEL": "easy",
@@ -7782,7 +7782,7 @@
   {
     "COMMON": "Sycamore (Sycamore spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Platanus",
+    "SCIENTIFIC": "Platanus spp.",
     "ID": "294",
     "ITREECODE": "PL3",
     "LEVEL": "easy",
@@ -8297,8 +8297,8 @@
     "ITREECODE": "CA14",
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
-    "THUMB_PIC": "/missing_images/309/Monkey%20puzzle/1200px-Araucaria_en_Parque_Nacional_Conguillio.jpg",
-    "FULL_PIC": "/missing_images/309/Monkey%20puzzle/Araucaria_araucana0.jpg",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
     "GENUS": "Calocedrus",
     "BARK_TYPE": "",
     "NEEDLE_TRAITS": "",
@@ -8310,9 +8310,35 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Calocedrus is a genus of coniferous trees in the cypress family Cupressaceae. It was first described as a genus in 1873, and is related to the Thuja, and has similar overlapping scale-leaves. Calocedrus differs from Thuja in the scale leaves being whorls of four (actually opposite decussate pairs like Thuja, but NOT as evenly spaced apart as in Thuja). Species in the Calocedrus genus have scales with successive pairs placed closely together, rather than distantly spaced. Also the cones have just 2–3 pairs of moderately thin, erect scales, rather than 4–6 pairs of very thin scales which are featured in the Thuja genus.",
-    "FULL_PIC_180x110": "new_images/309/Monkey puzzle/Araucaria_araucana0_180x110.png",
-    "FULL_PIC_1024x768": "new_images/309/Monkey puzzle/Araucaria_araucana0_1024x768.png",
-    "THUMB_PIC_1024x768": "new_images/309/Monkey puzzle/1200px-Araucaria_en_Parque_Nacional_Conguillio_1024x768.png"
+    "FULL_PIC_180x110": ,
+    "FULL_PIC_1024x768": ,
+    "THUMB_PIC_1024x768": 
   },
-  
+  {
+    "COMMON": "Hornbeam (Carpinus spp.)",
+    "TYPE": "broadleaf",
+    "SCIENTIFIC": "Carpinus spp.",
+    "ID": "313",
+    "ITREECODE": "CA40",
+    "LEVEL": "medium",
+    "ITREECODE_APPROX": "n",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Carpinus",
+    "BARK_TYPE": "",
+    "LEAF_SHAPE": "",
+    "LEAF_VEINS": "",
+    "LEAF_EDGES": "",
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": "The Carpinus is a genus of small trees (family Corylaceae) of the northern hemisphere having smooth fluted beechlike bark, straight-veined leaves, fruit that is a nut in the axil of a leaflike lobed bract, and very hard strong wood.", 
+    "FULL_PIC_1024x768": ,
+    "THUMB_PIC_1024x768": 
+  }   
 ]
