@@ -143,9 +143,9 @@
     "THUMB_PIC_1024x768": "new_images/5/EOL-media-8-6029401782/full_1024x768.png,new_images/5/EOL-media-542-5169387887/full_1024x768.png,new_images/5/EOL-media-542-40954042034/full_1024x768.png,new_images/5/EOL-media-549-BI-image-18476/full_1024x768.png,new_images/5/EOL-media-549-BI-image-18477/full_1024x768.png"
   },
   {
-    "COMMON": "Rosa (Rose spp.)",
+    "COMMON": "Rose (Rosa spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Rosa",
+    "SCIENTIFIC": "Rosa spp.",
     "ID": "6",
     "ITREECODE": "RO",
     "LEVEL": "easy",
@@ -3135,7 +3135,7 @@
     "THUMB_PIC_1024x768": "new_images/117/1280px-Packard_apricots_1024x768.png,new_images/117/1280px-Apricot_tree_flowers_1024x768.png"
   },
   {
-    "COMMON": "Apple (Apple spp.)",
+    "COMMON": "Apple (Malus spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Malus spp.",
     "ID": "118",
@@ -3156,7 +3156,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The apple is a deciduous tree, generally standing 2 to 4.5 m (6 to 15 ft) tall in cultivation and up to 9 m (30 ft) in the wild. When cultivated, the size, shape and branch density are determined by rootstock selection and trimming method. The leaves are alternately arranged dark green-colored simple ovals with serrated margins and slightly downy undersides.",
+    "DESCRIPTION": "The apple is a deciduous tree, generally standing 6 to 15 feet (2 to 4.5 m) tall in cultivation and up to 30 feet (9 m) in the wild. When cultivated, the size, shape and branch density are determined by rootstock selection and trimming method. The leaves are alternately arranged dark green-colored simple ovals with serrated margins and slightly downy undersides.",
     "FULL_PIC_180x110": "new_images/118/EOL-media-542-26779415949/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/118/EOL-media-542-26779415949/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -6229,7 +6229,7 @@
     "THUMB_PIC_1024x768": "new_images/236/EOL-media-84-CalPhotos_4444 4444 0510 1018/full_1024x768.png"
   },
   {
-    "COMMON": "Maple (Maple spp.)",
+    "COMMON": "Maple (Acer spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Acer spp.",
     "ID": "237",
