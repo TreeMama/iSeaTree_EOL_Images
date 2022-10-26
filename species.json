@@ -634,7 +634,7 @@
   {
     "COMMON": "Larch (Larix spp.)",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Larix",
+    "SCIENTIFIC": "Larix spp.",
     "ID": "24",
     "ITREECODE": "LA10",
     "LEVEL": "medium",
