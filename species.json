@@ -8473,5 +8473,32 @@
     "DESCRIPTION": "The Hazel (Corylus) is a genus of deciduous trees and large shrubs native to the temperate Northern Hemisphere. The genus is usually placed in the birch family Betulaceae, although some botanists split the 'Hazels' (along with the 'Hornbeams') into a separate family - Corylaceae.",
     "FULL_PIC_1024x768": ,
     "THUMB_PIC_1024x768": 
+  },
+  {
+    "COMMON": "Smoketree (Cotinus spp.)",
+    "TYPE": "broadleaf",
+    "SCIENTIFIC": "Cotinus spp.",
+    "ID": "320",
+    "ITREECODE": "CO39",
+    "LEVEL": "medium",
+    "ITREECODE_APPROX": "n",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Cotinus",
+    "BARK_TYPE": "",
+    "LEAF_SHAPE": "ovate, obovate",
+    "LEAF_VEINS": "",
+    "LEAF_EDGES": "",
+    "LEAF_TYPE": "simple",
+    "TREE_SHAPE": "open-head irregular, shruby",
+    "FRUIT_SEED": "",
+    "BARK_COLOR": "grey, black",
+    "LEAF_COLOR": "green, purple, black, peach, yellow, red",
+    "LEAF_ARRANGEMENT": "alternate",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": "waxy",
+    "DESCRIPTION": "Cotinus - the smoketree or smoke bush - is a genus of 7 species of flowering plants in the family Anacardiaceae. These species are closely related to the sumacs (Rhus).",
+    "FULL_PIC_1024x768": ,
+    "THUMB_PIC_1024x768": 
   }
 ]
