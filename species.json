@@ -9452,5 +9452,29 @@
     "FULL_PIC_180x110": "",
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
-  }
+  },
+  {
+    "COMMON": "Juniper (Juniperus spp.)",
+    "TYPE": "conifer",
+    "SCIENTIFIC": "Juniperus spp.",
+    "ID": "357",
+    "ITREECODE": "JU",
+    "LEVEL": "easy",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Juniperus",
+    "BARK_TYPE": "",
+    "NEEDLE_TRAITS": "scale-like, awl-shaped",
+    "NEEDLE_DIRECTION": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": "Junipers are coniferous trees and shrubs in the genus Juniperus of the cypress family Cupressaceae. Depending on the taxonomy, there are between 50 and 67 species of junipers widely distributed throughout the Northern Hemisphere. Their native climates range from the Artic to tropical Africa. The species in this genus vary in size and shape. Some species are large trees, reaching up to 20–40 metres (66–131 feet) in height. Other species are tightly columnar or low-spreading shrubs with long, trailing branches. Junipers are evergreen with needle-like and/or scale-like leaves. The female seed cones are very distinctive, with fleshy, fruit-like coalescing scales which fuse together to form a berrylike structure.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
+  },
 ]
