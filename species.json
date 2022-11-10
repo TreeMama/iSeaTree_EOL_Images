@@ -9320,7 +9320,7 @@
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
   },
-    {
+  {
     "COMMON": "Windmill Palm (Trachycarpus spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Trachycarpus spp.",
@@ -9343,6 +9343,30 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Trachycarpus is a genus of eleven species of palms native to Asia, from the Himalaya east to eastern China. They are fan palms (subfamily Coryphoideae), with the leaves with a bare petiole terminating in a rounded fan of numerous leaflets.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
+  },
+  {
+    "COMMON": "Hemlock (Tsuga spp.)",
+    "TYPE": "conifer",
+    "SCIENTIFIC": "Tsuga spp.",
+    "ID": "353",
+    "ITREECODE": "TS",
+    "LEVEL": "medium",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Tsuga",
+    "BARK_TYPE": "",
+    "NEEDLE_TRAITS": "",
+    "NEEDLE_DIRECTION": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": "Tsuga is a genus of conifers in the subfamily Abietoideae of Pinaceae, the pine family. The common name hemlock is derived from a perceived similarity in the smell of its crushed foliage to that of the unrelated plant poison hemlock. Unlike the latter, Tsuga species are not poisonous.",
     "FULL_PIC_180x110": "",
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
