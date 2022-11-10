@@ -8980,5 +8980,32 @@
     "FULL_PIC_180x110": "",
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
+  },
+  {
+    "COMMON": "Epaulette tree (Pterostyrax spp.)",
+    "TYPE": "broadleaf",
+    "SCIENTIFIC": "Pterostyrax spp.",
+    "ID": "339",
+    "ITREECODE": "PT",
+    "LEVEL": "easy",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Pterostyrax",
+    "BARK_TYPE": "",
+    "LEAF_SHAPE": "",
+    "LEAF_VEINS": "",
+    "LEAF_EDGES": "",
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": "There are about 4 species of deciduous shrubs and trees in the Pterostyrax genus. Members of this genus can reach sizes of 49.2 feet (15 m) tall, and they produce slender branches that carry serrated leaves which are bright green and oval. The flowers are creamy white with fluffy flowers.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
   }
 ]
