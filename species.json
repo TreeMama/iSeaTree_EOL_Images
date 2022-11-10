@@ -9614,4 +9614,28 @@
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
   },
+  {
+    "COMMON": "Araucaria (Araucaria spp.)",
+    "TYPE": "conifer",
+    "SCIENTIFIC": "Araucaria spp.",
+    "ID": "363",
+    "ITREECODE": "AR7",
+    "LEVEL": "easy",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Araucaria",
+    "BARK_TYPE": "",
+    "NEEDLE_TRAITS": "awl-shaped, lanceolate",
+    "NEEDLE_DIRECTION": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": "whorled",
+    "DESCRIPTION": "Araucaria is a genus of evergreen coniferous trees in the family Araucariaceae. There are 20 extant species in New Caledonia (where 14 species are endemic), Norfolk Island, eastern Australia, New Guinea, East Argentina, South Brazil, Chile and Paraguay. No distinct vernacular name exists for the genus. Many are called 'Pine', although they are only distantly related to true pines, in the genus Pinus.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
+  }
 ]
