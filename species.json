@@ -470,7 +470,7 @@
   {
     "COMMON": "Snowberry or Common Snowberry or Waxberry (Symphoricarpos spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Symphoricarpos",
+    "SCIENTIFIC": "Symphoricarpos spp.",
     "ID": "18",
     "ITREECODE": "SY2",
     "LEVEL": "medium",
@@ -659,7 +659,7 @@
   {
     "COMMON": "Amorpha (False indigo spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Amorpha",
+    "SCIENTIFIC": "Amorpha spp.",
     "ID": "25",
     "ITREECODE": "AM5",
     "LEVEL": "medium",
@@ -2379,7 +2379,7 @@
   {
     "COMMON": "Hackberry (or Hackberry spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Celtis",
+    "SCIENTIFIC": "Celtis spp.",
     "ID": "90",
     "ITREECODE": "CE2",
     "LEVEL": "medium",
@@ -4811,7 +4811,7 @@
   {
     "COMMON": "Hazelnut or Hazel (Hazelnut spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Corylus",
+    "SCIENTIFIC": "Corylus spp.",
     "ID": "182",
     "ITREECODE": "CO2",
     "LEVEL": "medium",
@@ -6175,7 +6175,7 @@
   {
     "COMMON": "Ginkgo (Ginkgo spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Ginkgoopsida",
+    "SCIENTIFIC": "Ginkgoopsida spp.",
     "ID": "235",
     "ITREECODE": "GICLASS",
     "LEVEL": "easy",
@@ -7062,7 +7062,7 @@
   {
     "COMMON": "Hickory (Carya spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Carya",
+    "SCIENTIFIC": "Carya spp.",
     "ID": "267",
     "ITREECODE": "CA1",
     "LEVEL": "easy",
