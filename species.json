@@ -8957,4 +8957,28 @@
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
   },
+  {
+    "COMMON": "Douglas-Fir (Pseudotsuga spp.)",
+    "TYPE": "conifer",
+    "SCIENTIFIC": "Pseudotsuga spp.",
+    "ID": "338",
+    "ITREECODE": "PS12",
+    "LEVEL": "easy",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Pseudotsuga",
+    "BARK_TYPE": "",
+    "NEEDLE_TRAITS": "",
+    "NEEDLE_DIRECTION": "",
+    "TREE_SHAPE": "",
+    "CONE": "",
+    "FASCICLE_NO": "",
+    "BARK_COLOR": "",
+    "NEEDLE_COLOR": "",
+    "NEEDLE_ARRANGEMENT": "",
+    "DESCRIPTION": "Pseudotsuga is a genus with around 4 hardy, evergreen coniferous trees from forest habitats in China, Japan, Taiwan, Western North America and Mexico. These species are tall-growing, reaching a height range of 65-393 ft (20-120 m) and serve as important sources of commercial timber.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
+  }
 ]
