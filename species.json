@@ -8873,5 +8873,32 @@
     "FULL_PIC_180x110": "",
     "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
-  }
+  },
+  {
+    "COMMON": "Ironwood or Hop Hornbeam or Hophornbeam (Ostrya spp.)",
+    "TYPE": "broadleaf",
+    "SCIENTIFIC": "Ostrya spp.",
+    "ID": "335",
+    "ITREECODE": "OS4",
+    "LEVEL": "easy",
+    "THUMB_PIC": "",
+    "FULL_PIC": "",
+    "GENUS": "Ostrya",
+    "BARK_TYPE": "",
+    "LEAF_SHAPE": "",
+    "LEAF_VEINS": "",
+    "LEAF_EDGES": "",
+    "LEAF_TYPE": "",
+    "TREE_SHAPE": "",
+    "FRUIT_SEED": "",
+    "BARK_COLOR": "",
+    "LEAF_COLOR": "",
+    "LEAF_ARRANGEMENT": "",
+    "LEAF_UNDERSIDE_COLOR": "",
+    "LEAF_TEXTURE": "",
+    "DESCRIPTION": "Ostrya is a genus of eight to 10 small deciduous trees belonging to the birch family Betulaceae. Common names include Hop-hornbeam and Hophornbeam. It may also be called 'Ironwood', a name shared with a number of other plants.",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
+    "THUMB_PIC_1024x768": ""
+  },
 ]
