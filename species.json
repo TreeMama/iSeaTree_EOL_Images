@@ -113,7 +113,7 @@
     "DESCRIPTION": "Acer buergerianum is a species of maple native to eastern China, Taiwan and Japan. The specific epithet is a patronym honoring Dutch plant hunter J. Buerger. The trident maple grows to a height of 20–35 feet (6-10.6 meters) and a spread of 20–30 feet (6-9 meters) at maturity. This tree features distinctive, 3-lobed leaves that are 2–4 inches (5-10.16 cm) long and closely resemble a trident. his tree tends to grow as a multi-stemmed, low-branching specimen, but it can be pruned to a single stem. The exfoliating bark reveals an orange-brown inner bark, which adds interest. The fall color can be variable, sometimes yellows but usually reds and oranges.",
     "FULL_PIC_180x110": "new_images/4/wikimedia_commons/Morris_Arboretum_Acer_buergerianum_180x110.png",
     "FULL_PIC_1024x768": "new_images/4/wikimedia_commons/Morris_Arboretum_Acer_buergerianum_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/4/Acer_buergerianum_leaf_1024x768.png,new_images/4/Trident_Maple_Acer_buegerianum_Bark_Horizontal_1024x768.png,new_images/4/Acer_buergerianum_seeds_1024x768.png"
   },
   {
     "COMMON": "Hedge Maple (aka Field Maple)",
@@ -194,7 +194,7 @@
     "DESCRIPTION": "Acer circinatum, the Vine Maple, is a species of maple native to western North America. It ranges from southwest British Columbia to northern California. Leaves have 7 to 9 lobes and are almost circular. They range in size from 2.5 inches to 4.5 inches in width, and have toothed margins. The foliage is borne on twisted, spreading limbs (hence the term vine). Trunks tend to be thin and crooked, and greenish in color when they are young, but age to reddish-brown. The Vine Maple flourishs as an understory tree in moist woods with dappled shade and along stream banks.",
     "FULL_PIC_180x110": "new_images/7/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_40880/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/7/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_40880/full_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/7/1024px-Acer_circinatum_9468_1024x768.png,new_images/7/800px-Acer_circinatum_range_map_1024x768.png"
   },
   {
     "COMMON": "Autumn Blaze Maple",
@@ -277,7 +277,7 @@
     "DESCRIPTION": "This tree is a slow growing cultivar of the Bigtooth Maple, which is native to the Rocky Mountains. This cultivar is grafted to Sugar Maple rootstock, making it less adapted to alkaline soils habitated by the Bigtooth Maples.  Both the leaves and the tree are smaller then Sugar Maples, and at maturity the tree can average 25-35 ft (7 - 10 m) in height. The leaves have an intense sunset-like color in the fall, and a light to darker green color in the summer.",
     "FULL_PIC_180x110": "new_images/10/48138938302_bdeb140f7d_k_180x110.png",
     "FULL_PIC_1024x768": "new_images/10/48138938302_bdeb140f7d_k_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/10/Acer-grandidentatum-Schmidt---Rocky-Mountain-Glow-Maple-1-_1024x768.png"
   },
   {
     "COMMON": "Paperbark Maple",
@@ -303,7 +303,8 @@
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Acer griseum, the Paperbark Maple or Blood-Bark Maple, is a species of flowering plant in the family Sapindaceae, native to central China. They are small trees that grow to 35 feet (11 m.) over some 20 years. The beautiful bark is a deep shade of cinnamon and it peels off in thin, papery sheets. In some places it is polished, smooth, and shiny. In summer the leaves are a soft shade of blue green on the upper side, and a frosty white on the underside.",
     "FULL_PIC_1024x768": "new_images/11/EOL-media-18-https___www.inaturalist.org_photos_6353932/full_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/11/EOL-media-18-https___www.inaturalist.org_photos_6353932/full_180x110.png"
   },
   {
     "COMMON": "Big Leaf Maple",
@@ -1333,7 +1334,7 @@
     "DESCRIPTION": "Calocedrus decurrens, with the common names Incense cedar and California Incense-cedar, is a species of conifer native to western North America. It is the most widely known species in the genus, and is often simply called 'Incense Cedar' without the regional qualifier. It should be noted that the Incense cedar is NOT a true cedar (i.e. genus Cedrus), and is actually a member of the cypress family (Cupressaceae). The foliage in this tree is flattened sprays with scale-like leaves 0.08 to 0.6 inches (2–15 millimeters) long.  They are arranged in opposing decussate pairs, with the successive pairs closely then distantly spaced, so forming apparent whorls of four; the facial pairs are flat, with the lateral pairs folded over their bases. Before opening, the small hanging female cones have ends that are tapered into a hook-shape. This tree is the preferred host of a Wood Wasp, Syntexis libocedrii a living fossil species which lays its eggs in the smoldering wood immediately after a forest fire. The tree is also host to Incense-Cedar Mistletoe (Phoradendron libocedri), a parasitic plant which can often be found hanging from its branches.",
     "FULL_PIC_180x110": "new_images/49/EOL-media-7-CalPhotos_0000 0000 1208 0701/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/49/EOL-media-7-CalPhotos_0000 0000 1208 0701/full_1024x768.png",
-    "THUMB_PIC_1024x768": "new_images/49/EOL-media-542-4930055641/full_1024x768.png,new_images/49/EOL-media-542-5032426704/full_1024x768.png"
+    "THUMB_PIC_1024x768": "new_images/49/EOL-media-542-4930055641/full_1024x768.png,new_images/49/EOL-media-542-5032426704/full_1024x768.png,new_images/49/calocedrus_decurrens_1024x768.png,new_images/49/52490725674_f7841ef067_o_1024x768.png"
   },
   {
     "COMMON": "Fastigiate Hornbeam (aka Pyramidal European Hornbeam)",
@@ -1591,7 +1592,7 @@
     "DESCRIPTION": "Callitropsis nootkatensis (formerly known as Cupressus nootkatensis) is a species of trees in the cypress family native to the coastal regions of northwestern North America. Even though it is sometimes referred to as the 'Yellow Cedar' - it is neither yellow or a cedar. In its native habitat, this tree is most likely to be confused with Thuja plicata (Western Red Cedar). However, the mature trees are easily distinguished by their bark - the Western Red Cedar has more of a red-grey bark, while the Yellow Cedar is mostly white-grey. The female cones are also distinctly different- with the Western Red Cedar having a more open oval shape and the Yellow Cedar having a more tightly round - globose - shape with a hooked end.",
     "FULL_PIC_180x110": "new_images/59/EOL-media-7-CalPhotos_0000 0000 1016 0663/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/59/EOL-media-7-CalPhotos_0000 0000 1016 0663/full_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/59/Cupressus_nootkatensis_5879_1024x768.png,new_images/59/Chamaecyparis_Nootkatensis_1024x768.png,new_images/59/800px-Cupressus_nootkatensis_bark_1024x768.png"
   },
   {
     "COMMON": "Sawara Cypress",
@@ -5042,7 +5043,7 @@
     "DESCRIPTION": "Thuja plicata is an evergreen coniferous tree in the cypress family Cupressaceae, native to western North America. Its common name is Western Red Cedar, but it is also called Pacific Red Cedar and Western Arborvitae. The latin term 'plicata' means 'folded' and this refers to the folding of the lateral scale leaves around the base of the facial scale leaves - which in some ways resemble origami folds. Another distinguishing feature are the white markings ('butterfly' pattern) that can be occasionally seen on the underside of the leaf spray. Cones are also a good clue, the Western Red Cedar female cones are .31-.39 inches (8-10mm) long and slightly oval in shape with a woody texture. They occur in clusters, and are carried usually upright on the lower branches of the tree. The Western Red Cedar has been called the 'corner stone of northwest coast Indian culture'. Its wood is easily split and rot resistant and was used to make important cultural items including, dugout canoes, paddles, house planks, baskets, spears, arrow shafts, and many other implements. The bark was stripped and dried from in the spring for making baskets, ropes, and mates. Red Cedar was considered an excellent fuel - especially for drying fish - because it burns with little smoke.",
     "FULL_PIC_180x110": "new_images/190/wikimedia_commons/Thuja_plicata_kz01_180x110.png",
     "FULL_PIC_1024x768": "new_images/190/wikimedia_commons/Thuja_plicata_kz01_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/190/52490725674_f7841ef067_o_1024x768.png"
   },
   {
     "COMMON": "Beech (Fagus spp.)",
@@ -5177,8 +5178,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Trachycarpus fortunei, the Chinese windmill palm, windmill palm or Chusan palm, is a species of hardy evergreen palm tree in the family Arecaceae, native to parts of China, Japan, Myanmar and India.",
-    "FULL_PIC_180x110": "new_images/195/wikimedia_commons/Arecaceae_Trachycarpus_fortunei_2_180x110.png",
-    "FULL_PIC_1024x768": "new_images/195/wikimedia_commons/Arecaceae_Trachycarpus_fortunei_2_1024x768.png",
+    "FULL_PIC_180x110": "",
+    "FULL_PIC_1024x768": "",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -5644,7 +5645,7 @@
     "DESCRIPTION": "Laburnum × watereri (or Laburnum watereri), is a naturally occurring hybrid species of Laburnum, native to Central Europe. It is a small deciduous tree that can grow to 15 feet (4.5 meters) in height and 10 feet (3 meters) in width. When the Goldenchain tree is in bloom during spring - usually for a period of 2 weeks - it features a bright yellow string of flowers that eventually morph into small flattened pods. The drooping flower clusters are 24 inches (60 centimeters) long, fragrant, and favored by hummingbirds. However, much of the tree - including the seeds - are extremely poisonous, and dangerous for both humans and animals to consume. The leaves are odd-fingered with three oblong single leaves.",
     "FULL_PIC_180x110": "new_images/213/wikimedia_commons/Laburnum_x_watereri_Vossii_5zz_180x110.png",
     "FULL_PIC_1024x768": "new_images/213/wikimedia_commons/Laburnum_x_watereri_Vossii_5zz_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "THUMB_PIC_1024x768": "new_images/213/Laburnum_1024x768.png"
   },
   {
     "COMMON": "Amur Maple",
@@ -6369,7 +6370,7 @@
     "DESCRIPTION": "Wild lime is a genus of evergreen shrubs and flowering plants from the spurge family: Euphorbiaceae. It is native to Latin America and the Caribbean, with one species (Vasey's Wild Lime i.e. Adelia vasey) extending northward into the southernmost part of Texas. Plants of this genus also occur naturally throughout Central and Southern Florida. There are individual species in this shrubby genus that actually grow to be very tall - even upwards to 13.7 ft (4.2 m). Species in the 'Wild lime' genus bloom year-round, with peak flowering occuring in winter and spring. Its dense foliage provides cover, and food, for many birds and small wildlife. Also, this genus of tree is a noted foodplant for many butterflies- including the Giant Swallowtail, one of the largest known butterflies. Despite its common name, 'Wild lime' is merely a cousin of culinary limes and other citrus fruit. However ,it is worth noting that 'Wild lime' flowers and crushed leaves really do smell distinctively like lime. Another notable trait about the species in this genus is that they have trunks and branches armed with sharp hooked thorns.",
     "FULL_PIC_180x110": "new_images/241/EOL-media-7-CalPhotos_0000 0000 0217 0443/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/241/EOL-media-7-CalPhotos_0000 0000 0217 0443/full_1024x768.png",
-    "THUMB_PIC_1024x768": "new_images/241/EOL-media-7-CalPhotos_0000 0000 0217 0441/full_1024x768.png,new_images/241/EOL-media-539-MHPAC_BioBot00009-BB0000321213797710.JPG/full_1024x768.png"
+    "THUMB_PIC_1024x768": "new_images/241/EOL-media-7-CalPhotos_0000 0000 0217 0441/full_1024x768.png,new_images/241/EOL-media-539-MHPAC_BioBot00009-BB0000321213797710.JPG/full_1024x768.png,new_images/241/Zanthoxylum_fagara_homeredwardprice_001_1024x768.png"
   },
   {
     "COMMON": "Beadtree (Adenanthera spp.)",
@@ -8233,9 +8234,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Amelanchier is a genus of shrubs and small trees found wild in Europe, Asia, and most abundantly in N. America. The species in this genus are all deciduous, and have alternate simple leaves with white flowers. They all bear small black or purplish fruits - that are globose or pear-shaped - and contain around five to ten seeds. Amelanchiers are found to be attractive due to the pure whiteness and abundance of their flowers. Their red, and sometimes yellow, leaves are also very eye-catching. Although individual species in this genus can be easy to identify - the complete and agreed upon taxonomic classification of the Serviceberry (Amelanchier spp.) remains unclear. Depending on the source, the number of species in the Amelanchier genus can vary greatly: from 6 to 33 species.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/310/Amelanchier_ovalis3_180x110.png",
+    "FULL_PIC_1024x768": "new_images/310/Amelanchier_ovalis3_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/310/Amelanchier_grandiflora2_1024x768.png,new_images/310/800px-Amelanchier_alnifolia_6338_1024x768.png"
   },
   {
     "COMMON": "Madrone (Arbutus spp.)",
@@ -8261,11 +8262,11 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Arbutus is a genus of 12 accepted species of broad-leaved evergreen shrubs or trees within the 'Heath' family (Ericaceae). Species in this genus are native to the warm temperate regions of the Mediterranean, western Europe, the Canary Islands and North America. The defining characteristic of the trees and shrubs within this genus are the red flaking bark and edible red berries.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/311/1280px-Arbutus__andrachnoides_180x110.png",
+    "FULL_PIC_1024x768": "new_images/311/1280px-Arbutus__andrachnoides_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/311/800px-Arbutus_menziesii_3208s_1024x768.png"
   },
-    {
+  {
     "COMMON": "Pawpaw (Asimina spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Asimina spp.",
@@ -8288,11 +8289,12 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Asimina is the only temperate genus in the tropical and subtropical flowering plant family, Annonaceae (also known as the 'Custard Apple' family). Asimina has large simple leaves and large fruit. It is native to eastern North America and collectively referred to as Pawpaw. Pawpaw fruits are the largest edible fruit indigenous to the United States. They grow to a height of 35 ft (11 m), and occasionally tall as 45 ft (14 m), with trunks 8–12 in (20–30 cm) or more in diameter.", 
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "DESCRIPTION": "Asimina is the only temperate genus in the tropical and subtropical flowering plant family, Annonaceae (also known as the 'Custard Apple' family). Asimina has large simple leaves and large fruit. It is native to eastern North America and collectively referred to as Pawpaw. Pawpaw fruits are the largest edible fruit indigenous to the United States. They grow to a height of 35 ft (11 m), and occasionally tall as 45 ft (14 m), with trunks 8–12 in (20–30 cm) or more in diameter.",
+    "FULL_PIC_1024x768": "new_images/312/Asimina_triloba3_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/312/Asimina_triloba3_180x110.png"
   },
- {
+  {
     "COMMON": "Incense Cedar (Calocedrus spp.)",
     "TYPE": "conifer",
     "SCIENTIFIC": "Calocedrus spp.",
@@ -8313,9 +8315,9 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Calocedrus is a genus of coniferous trees in the cypress family Cupressaceae. It was first described as a genus in 1873, and is related to the Thuja, and has similar overlapping scale-leaves. Calocedrus differs from Thuja in the scale leaves being whorls of four (actually opposite decussate pairs like Thuja, but NOT as evenly spaced apart as in Thuja). Species in the Calocedrus genus have scales with successive pairs placed closely together, rather than distantly spaced. Also the cones have just 2–3 pairs of moderately thin, erect scales, rather than 4–6 pairs of very thin scales which are featured in the Thuja genus.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/313/calocedrus_decurrens_180x110.png",
+    "FULL_PIC_1024x768": "new_images/313/calocedrus_decurrens_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/313/Calocedrus_decurrens_7947_1024x768.png"
   },
   {
     "COMMON": "Hornbeam (Carpinus spp.)",
@@ -8340,11 +8342,12 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Carpinus is a genus of small trees (family Corylaceae) of the northern hemisphere having smooth fluted beechlike bark, straight-veined leaves, fruit that is a nut in the axil of a leaflike lobed bract, and very hard strong wood.", 
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "DESCRIPTION": "The Carpinus is a genus of small trees (family Corylaceae) of the northern hemisphere having smooth fluted beechlike bark, straight-veined leaves, fruit that is a nut in the axil of a leaflike lobed bract, and very hard strong wood.",
+    "FULL_PIC_1024x768": "new_images/314/Carpinus_fruit_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/314/Coppicephoto_1024x768.png",
+    "FULL_PIC_180x110": "new_images/314/Carpinus_fruit_180x110.png"
   },
-   {
+  {
     "COMMON": "Redbud (Cercis spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Cercis spp.",
@@ -8368,10 +8371,11 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Cercis is a genus of about 10 species (from the pea family - Fabaceae) native to warm temperate regions. They are characterised by simple, rounded to heart-shaped leaves and pinkish-red flowers borne in the early spring on bare leafless shoots, on both branches and trunk.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/315/Xylocopa_9789_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/315/1024px-Western_red_bud_near_Briceburg_2019-04-14_1024x768.png",
+    "FULL_PIC_180x110": "new_images/315/Xylocopa_9789_180x110.png"
   },
- {
+  {
     "COMMON": "False Cypress (Chamaecyparis spp.)",
     "TYPE": "conifer",
     "SCIENTIFIC": "Chamaecyparis spp.",
@@ -8392,8 +8396,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Chamaecyparis, common names cypress or false cypress (to distinguish it from related cypresses), is a genus of conifers in the cypress family Cupressaceae, native to eastern Asia (Japan and Taiwan) and to the western and eastern margins of the United States.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/316/Sawara_180x110.png",
+    "FULL_PIC_1024x768": "new_images/316/Sawara_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -8420,8 +8424,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Cladrastis spp. is a genus of 9 species (from the pea family - Fabaceae) native to eastern Asia and southeastern North America. Species of Cladrastis are small to medium-sized deciduous trees typically growing 33 to 65 ft (10–20 m) tall, exceptionally to 88.5 ft (27 m) tall.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/317/Cladrastis-kentukea-00_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/317/Cladrastis-kentukea-00_180x110.png"
   },
   {
     "COMMON": "Dogwood (Cornus spp.)",
@@ -8447,10 +8452,11 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Cornus is a genus of about 30–60 species of woody plants in the family Cornaceae, commonly known as 'Dogwoods', which can generally be distinguished by their blossoms, berries, and distinctive bark. The typical dogwood leaf is oval and measures between 3 and 6 inches (7.6 - 15 cm) long, and grows in an opposite arrangement on the stems (although there are Dogwood leaves that grow in an alternate arrangement). The leaves have visible veins that curve parallel to the margins. Dogwood flowers are typically white, but some species produce yellow, pale red or pink blossoms.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/318/Blooming_Dogwood_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/318/Blooming_Dogwood_180x110.png"
   },
-    {
+  {
     "COMMON": "Hazel (Corylus spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Corylus spp.",
@@ -8474,8 +8480,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "The Hazel (Corylus) is a genus of deciduous trees and large shrubs native to the temperate Northern Hemisphere. The genus is usually placed in the birch family Betulaceae, although some botanists split the 'Hazels' (along with the 'Hornbeams') into a separate family - Corylaceae.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/319/1024px-Corylus_americana1_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/319/1024px-Corylus_americana1_180x110.png"
   },
   {
     "COMMON": "Smoketree (Cotinus spp.)",
@@ -8501,8 +8508,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "waxy, smooth",
     "DESCRIPTION": "Cotinus - the smoketree or smoke bush - is a genus of 7 species of flowering plants in the family Anacardiaceae. These species are closely related to the sumacs (Rhus).",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/320/1280px-Cotinus_coggygria33_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/320/1280px-Cotinus_coggygria33_180x110.png"
   },
   {
     "COMMON": "Dovetree (Davidia spp.)",
@@ -8528,8 +8536,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Davidia is a genus of flowering trees with a single species, Davidia involucrata.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/321/800px-DavidiaInvolucrataLeaf_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/321/800px-DavidiaInvolucrataBark_1024x768.png,new_images/321/800px-DavidiaInvolucrataTree_1024x768.png",
+    "FULL_PIC_180x110": "new_images/321/800px-DavidiaInvolucrataLeaf_180x110.png"
   },
   {
     "COMMON": "Hardy rubber tree (Eucommia spp.)",
@@ -8555,8 +8564,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
     "DESCRIPTION": "Eucommia is a genus of small trees now native to China, with a fossil record that shows a much wider distribution. The single living species, Eucommia ulmoides, is near threatened in the wild, but is widely cultivated in China for its bark.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/322/Eucommia-ulmoides_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/322/Eucommia-ulmoides_180x110.png"
   },
   {
     "COMMON": "Coffeetree (Gymnocladus spp.)",
@@ -8582,8 +8592,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Coffeetree (Gymnocladus spp.) is a small genus of leguminous trees which contains only 3 species. Gymnocladus species are very large, deciduous trees with bipinnate leaves. The greenish-white flowers only appear after long periods of warm weather. Very long legumes are formed that hang from the branches of the species in this genus.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/323/1280px-Gymnocladus_dioicus_1_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/323/Gymnocladus_dioicus_Desoto_1024x768.png",
+    "FULL_PIC_180x110": "new_images/323/1280px-Gymnocladus_dioicus_1_180x110.png"
   },
   {
     "COMMON": "Silverbell or Snowdrop (Halesia spp.)",
@@ -8609,8 +8620,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Halesia, also known as 'Silverbell' or 'Snowdrop' tree, is a small genus of four or five species of deciduous large shrubs or small trees in the family Styracaceae. They are native to eastern Asia and eastern North America. They grow to 16-66 ft (5–20 m) tall - and rarely to 128 ft (39 m) tall. Species in this genus have alternate, simple ovate leaves 2 - 6.2 in (5–16 cm) long and 1.1 - 3.1 in (3–8 cm) broad.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/324/Halesia_carolina0_1024x768.png",
+    "THUMB_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/324/Halesia_carolina0_180x110.png"
   },
   {
     "COMMON": "Witch hazels (Hamamelis spp.)",
@@ -8636,8 +8648,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Witch-hazels or witch hazels (Hamamelis) are a genus of flowering plants in the family Hamamelidaceae. There are 3 species in North America (H. ovalis, H. virginiana, and H. vernalis), one in Japan (H. japonica), and one in China (H. mollis). The North American species are occasionally called winterbloom. The leaves are alternately arranged, oval, 1.9 to 5.9 in (5 to 15 cm) long, and 1 to 3.9 in (2.5 to 10 cm) wide. The leaves can have a smooth or wavy margin. The genus name, Hamamelis, means 'together with fruit', referring to the simultaneous occurrence of flowers with the maturing fruit from the previous year.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/325/1280px-Hamamelis_molis_JPG1Fub_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/325/Hamamelis_Diane_flowers_002_1024x768.png,new_images/325/800px-Colonial_Park_Arboretum_and_Gardens_-_Hamamelis_1024x768.png",
+    "FULL_PIC_180x110": "new_images/325/1280px-Hamamelis_molis_JPG1Fub_180x110.png"
   },
   {
     "COMMON": "Koelreuteria (Koelreuteria spp.)",
@@ -8663,8 +8676,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Koelreuteria is a genus of 3 species of flowering plants in the family Sapindaceae. Species in this genus are native to southern and eastern Asia. They are medium-sized deciduous trees growing to 33–66 ft (10–20 m) tall, with spirally arranged pinnate or bipinnate leaves. The fruit is a three-lobed inflated papery capsule 1.1 - 2.3 in (3–6 cm) long, containing several hard nut-like seeds 5–10 mm diameter.",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_1024x768": "new_images/326/800px-Leafage_of_Koelreuteria_paniculata_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/326/Koelreutheria-paniculata_1024x768.png",
+    "FULL_PIC_180x110": "new_images/326/800px-Leafage_of_Koelreuteria_paniculata_180x110.png"
   },
   {
     "COMMON": "Crape myrtle or Crepe myrtle (Lagerstroemia spp.)",
@@ -8689,9 +8703,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "crinkled",
     "DESCRIPTION": "Crape myrtle is a genus of around 50 species of deciduous and evergreen trees. It is native to India, Australia, Asia and parts of Oceania. It prefers warmer climates, and its commonly cultivated by gardeners for its ornamental flowers. It is commonly identified by its shrubby, multi-stemmed form with a cloud of dense foliage on the upper portion and no foliage towards the base. It has handsome multi-colored, peeling bark. It commonly grows to 15-25 feet (4.5 - 7.62 m) tall, but this also varies. Leaves are opposite and privet-like (rounded at the base, entire margins, elliptic to oblong). Flowers are borne in summer (and autumn) in panicles of crinkled flowers with a crepe-like texture. Lagerstroemia species are used as food plants by many of the larvae of the Lepidoptera (moth and butterfly) species",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/327/Red_Crepe_Myrtle_--_Lagerstroemia_180x110.png",
+    "FULL_PIC_1024x768": "new_images/327/Red_Crepe_Myrtle_--_Lagerstroemia_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/327/Lagerstroemia_speciosa_2_1024x768.png,new_images/327/354777837_d28f56b312_o_1024x768.png"
   },
   {
     "COMMON": "Sweet Gum or Star Gum (Liquidambar spp.)",
@@ -8716,8 +8730,8 @@
     "LEAF_UNDERSIDE_COLOR": "green",
     "LEAF_TEXTURE": "glossy",
     "DESCRIPTION": "Liquidambar spp. are deciduous trees and grow from 25 to 60 feet (7.62 - 18.2 meters). Trees have spiny pods that hang through the winter and drop in the spring. They are known for their brilliant fall color variations of reds, purples, oranges, and yellows. The fragrant leaves grow between 3 - 6 inches (7.5 – 15 cm) long and wide. The Sweet Gum species is a foodplant for various moths and catepillars, including the invasive 'Gypsy moth' (Lymantria dispar).",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/328/champaign_illinois_sweetgum2_180x110.png",
+    "FULL_PIC_1024x768": "new_images/328/champaign_illinois_sweetgum2_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -8743,8 +8757,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Tulip Tree or Tuliptree (Liriodendron spp.) is a genus of two species of characteristically large trees - deciduous over most of their populations - in the magnolia family (Magnoliaceae). Liriodendron are some of the tallest known trees in Eastern North America, and the tree is known to reach the height of 191.8 feet (58.49 meters). It is named for its cup-shaped, tulip-like flowers that bloom in late spring to early summer. They are easily recognized by their leaves, which are distinctive, having four lobes in most cases and a cross-cut notched or straight apex.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/329/Liriodendron_tulipifera_180x110.png",
+    "FULL_PIC_1024x768": "new_images/329/Liriodendron_tulipifera_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -8770,9 +8784,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Maackia is a genus of shrubs, small trees, and flowering plants in the legume family, Fabaceae. There are about 12 species, all native to eastern Asia, with six endemic to China.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/330/8635_A630-0628051cs_180x110.png",
+    "FULL_PIC_1024x768": "new_images/330/8635_A630-0628051cs_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/330/maackia-amurensis-bark_1024x768.png,new_images/330/maackia-amurensis-flowers-3_1024x768.png,new_images/330/maackia-amurensis-tree-2_1024x768.png"
   },
   {
     "COMMON": "Callitropsis (Callitropsis spp.)",
@@ -8795,9 +8809,9 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "The genus Callitropsis is in the family Cupressaceae. The genus contains 2 species; 1 from northwest North America and 1 newly discovered (as of 2002) species from Vietnam. Although the genus is newly formed, the name of the genus was initially proposed in 1865 by the Danish botanist named Anders S. Orsted. Orsted suggested this genus because the 'Yellow Cedar' (Callitropsis nootkatensis - known then as the Cupressus nootkatensis) had features that differed significantly from other species in the Cupressus genera.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/331/Cupressus_nootkatensis_5879_180x110.png",
+    "FULL_PIC_1024x768": "new_images/331/Cupressus_nootkatensis_5879_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/331/800px-Cupressus_nootkatensis_bark_1024x768.png,new_images/331/Chamaecyparis_Nootkatensis_1024x768.png"
   },
   {
     "COMMON": "Dawn Redwood (Metasequoia spp.)",
@@ -8819,9 +8833,9 @@
     "NEEDLE_COLOR": "red, brown, green",
     "NEEDLE_ARRANGEMENT": "opposite",
     "DESCRIPTION": "Metasequoia (Dawn Redwood) is a fast-growing, deciduous conifer tree genus. The sole living species of this genus - also known as Dawn Redwood - is the Metasequoia glyptostroboides species.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/332/MetaseqLeaves_180x110.png",
+    "FULL_PIC_1024x768": "new_images/332/MetaseqLeaves_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/332/SJSU_Dawn_Redwood_1024x768.png,new_images/332/800px-Dawn_Redwood_-_Autumn_1024x768.png"
   },
   {
     "COMMON": "Southern Beech (Nothofagus spp.)",
@@ -8846,9 +8860,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
     "DESCRIPTION": "Nothofagus - also known as the Southern Beeches - is a genus of 43 species of trees and shrubs native to the Southern Hemisphere. This genus has a rich fossil record of leaves, cupules, and pollen, with fossils extending into the late Cretaceous period.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/333/Nothofagus_pumilio_leaves_180x110.png",
+    "FULL_PIC_1024x768": "new_images/333/Nothofagus_pumilio_leaves_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/333/Nothofagus_obliqua_Shoot_LeavesCupules_1024x768.png"
   },
   {
     "COMMON": "Tupelo (Nyssa spp.)",
@@ -8873,9 +8887,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "The Tupelo genus - Nyssa spp. - is a small genus of deciduous trees with alternate, simple leaves. It is sometimes included in the subfamily Nyssoideae of the dogwood family, Cornaceae, but is placed by other authorities in the family Nyssaceae.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/334/1920px-Nyssa_sylvatica_flowers_180x110.png",
+    "FULL_PIC_1024x768": "new_images/334/1920px-Nyssa_sylvatica_flowers_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/334/2014-11-02_12_47_05_Black_Tupelo_during_autumn_at_The_College_of_New_Jersey_in_Ewing_New_Jersey_1024x768.png,new_images/334/800px-NyssaSylvaticaTrunk_1024x768.png"
   },
   {
     "COMMON": "Ironwood or Hop Hornbeam or Hophornbeam (Ostrya spp.)",
@@ -8900,8 +8914,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Ostrya is a genus of eight to 10 small deciduous trees belonging to the birch family Betulaceae. Common names include Hop-hornbeam and Hophornbeam. It may also be called 'Ironwood', a name shared with a number of other plants.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/335/Ostrya_virginiana_180x110.png",
+    "FULL_PIC_1024x768": "new_images/335/Ostrya_virginiana_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -8927,9 +8941,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
     "DESCRIPTION": "This genus only contains one species - the Sourwood (Oxydendrum arboreum) - and it is found in the woodlands and along streams of eastern North America. Sourwood (named for the sour taste of its leaves) forms a pyramidal tree to 30 feet (9.1 m) tall, with canoe-shaped, glossy leaves that turn vivid maroon, yellow, or purple in autumn.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/336/800px-Oxydendron_arboreum-foliage_180x110.png",
+    "FULL_PIC_1024x768": "new_images/336/800px-Oxydendron_arboreum-foliage_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -8955,10 +8968,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Parrotia is a small genus containing 1 or 2 species of deciduous trees in the Hamamelidaceae family, one species, P. persica, or Persian ironwood, native to Iran and Azerbaijan and another, P. subaequalis, Chinese ironwood, native to eastern China. They are often multi-stemmed trees grown for their broad oval leaves that have striking and intense Autumn colours. Flowers are abundant and deep red, resembling those of the closely-related Witch hazel (Hamamelis spp.), and also produced in late winter before the foliage develops.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/337/Parrotia_persica_Morton_180x110.png",
+    "FULL_PIC_1024x768": "new_images/337/Parrotia_persica_Morton_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/337/1280px-Parrotia_persica_leave_red_1024x768.png,new_images/337/800px-Persian_Ironwood_Parrotia_persica_Branches_2000px_1024x768.png,new_images/337/Morlanwelz_Mariemont_JPG22a_1024x768.png"
   },
   {
     "COMMON": "Douglas-Fir (Pseudotsuga spp.)",
@@ -8980,9 +8992,9 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Pseudotsuga is a genus with around 4 hardy, evergreen coniferous trees from forest habitats in China, Japan, Taiwan, Western North America and Mexico. These species are tall-growing, reaching a height range of 65-393 ft (20-120 m) and serve as important sources of commercial timber.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/338/Pseudotsuga_menziesii_28236_180x110.png",
+    "FULL_PIC_1024x768": "new_images/338/Pseudotsuga_menziesii_28236_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/338/Pseudotsuga_menziesii_cone_1024x768.png"
   },
   {
     "COMMON": "Epaulette tree (Pterostyrax spp.)",
@@ -9007,8 +9019,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "There are about 4 species of deciduous shrubs and trees in the Pterostyrax genus. Members of this genus can reach sizes of 49.2 feet (15 m) tall, and they produce slender branches that carry serrated leaves which are bright green and oval. The flowers are creamy white with fluffy flowers.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/339/Pterostyrax_hispida2_180x110.png",
+    "FULL_PIC_1024x768": "new_images/339/Pterostyrax_hispida2_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9034,8 +9046,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Rhamnus is a genus of about 110 accepted species of shrubs or small trees, commonly known as 'Buckthorns', in the family Rhamnaceae.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/340/Rhamnus_cathartica_fr_Wikipedia_180x110.png",
+    "FULL_PIC_1024x768": "new_images/340/Rhamnus_cathartica_fr_Wikipedia_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9061,8 +9073,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Robinia is a genus of flowering plants in the family Fabaceae, tribe Robinieae, native to North America. Commonly known as 'Locusts', they are deciduous trees and shrubs growing 4–25 metres (13–82 ft) tall. The leaves are pinnate with 7–21 oval leaflets. The flowers are white or pink, in usually pendulous racemes. Many species have thorny shoots, and several have sticky hairs on the shoots. Also, because this plant can spread aggressively by root suckers it is considered invasive in many areas of North America. The leaves of this species of tree are very poisonous if ingested.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/341/Robina9146_180x110.png",
+    "FULL_PIC_1024x768": "new_images/341/Robina9146_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9085,9 +9097,9 @@
     "NEEDLE_COLOR": "green",
     "NEEDLE_ARRANGEMENT": "whorled",
     "DESCRIPTION": "The genus Sciadopitys currently contains only one known species - the Sciadopitys verticillata (Japanese Umbrella Pine). The Sciadopitys verticillata is a living fossil dating back to the Late Cretaceous age. The Sciadopitys verticillata has no close relatives and is endemic to Japan. The genus name Sciadopitys comes from Greek word meaning 'umbrella'.",
-    "FULL_PIC_180x110": "new_images/175/EOL-media-542-5896687190/full_180x110.png",
-    "FULL_PIC_1024x768": "new_images/175/EOL-media-542-5896687190/full_1024x768.png",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/342/1280px-Sciadopitys_verticillata3_180x110.png",
+    "FULL_PIC_1024x768": "new_images/342/1280px-Sciadopitys_verticillata3_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/342/Sciadopitys_verticillata_cones_Rogw_1024x768.png,new_images/342/Sciadopitys_verticillata_1024x768.png"
   },
   {
     "COMMON": "Sequoiadendron (Sequoiadendron spp.)",
@@ -9109,8 +9121,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Sequoiadendron is a genus of evergreen trees, with two species, only one of which survives presently - the endangered Giant Sequoia (Sequoiadendron giganteum).",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/343/800px-Giant_sequoias_in_Sequoia_National_Park_02_2013_180x110.png",
+    "FULL_PIC_1024x768": "new_images/343/800px-Giant_sequoias_in_Sequoia_National_Park_02_2013_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9133,8 +9145,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Sequoia is a genus of redwood coniferous trees in the subfamily Sequoioideae of the family Cupressaceae. The only species of this genus is the Coast Redwood (Sequoia sempervirens) which can be found growing wild in Northern California and Southwestern Oregon. Plantings have been known to grow in Washington state as well.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/344/800px-Icicle_Tree_-_Armstrong_Redwoods_State_Reserve_180x110.png",
+    "FULL_PIC_1024x768": "new_images/344/800px-Icicle_Tree_-_Armstrong_Redwoods_State_Reserve_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9160,8 +9172,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Sophora is a genus containing 61 small deciduous tree and shrub species in the pea family, Fabaceae. This genus is widely distributed and many of these species have a long use in traditional Chinese medicine.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/345/220px-Starr_081014-0282_Sophora_chrysophylla_180x110.png",
+    "FULL_PIC_1024x768": "new_images/345/220px-Starr_081014-0282_Sophora_chrysophylla_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9187,8 +9199,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Sorbus is a genus of over 100 species of trees and shrubs in the rose family, Rosaceae. Species of Sorbus are commonly known as Whitebeam, Rowan (Mountain Ash) and Service tree.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/346/800px-Sorbus_aucuparia_aka_rowan_180x110.png",
+    "FULL_PIC_1024x768": "new_images/346/800px-Sorbus_aucuparia_aka_rowan_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9214,8 +9226,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Stewartia spp. is a genus of 8-20 species of flowering plants in the family Theaceae. Most of the species are native to eastern Asia and southeast North America. They shrubs and trees are mostly deciduous, though some species (e.g. S. pteropetiolata) are evergreen. The bark is very distinctive, smooth orange to yellow-brown, and peeling in fine flakes.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/347/1280pxStewartia_pseudocamellia_01_180x110.png",
+    "FULL_PIC_1024x768": "new_images/347/1280pxStewartia_pseudocamellia_01_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9241,8 +9253,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "The Styrax (also known as Snowbell) genus contains about 130 species of large shrubs or small trees in the family Styracaceae. Most of the species are native to the warm and tropical regions of the Northern Hemisphere, with the majority residing in eastern and southeastern Asia and a few in the southeastern USA.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/348/Styrax_platanifolius_180x110.png",
+    "FULL_PIC_1024x768": "new_images/348/Styrax_platanifolius_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9265,8 +9277,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "whorled",
     "DESCRIPTION": "Yew (Taxus spp.) is a tree distributed throughout many regions of the world. The antitumor drug 'Paclitaxel (taxol)' can be extracted from the Taxus genus. That said, the plant itself is largely considered poisonous. Horses and cattle are most often poisoned with Yew trimmings. The Japanese yew (T. cuspidata) and English yew (T. baccata) grow throughout North America and are widely used as ornamentals. Species in this genus are relatively slow-growing and can be very long-lived. They commonly reach heights of 2.5–20 m (8.2–65.6 ft), with trunk girth averaging 5 m (16 ft).",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/349/Taxus_baccata_MHNT_flowers_male_180x110.png",
+    "FULL_PIC_1024x768": "new_images/349/Taxus_baccata_MHNT_flowers_male_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9289,9 +9301,9 @@
     "NEEDLE_COLOR": "yellow, green",
     "NEEDLE_ARRANGEMENT": "opposite",
     "DESCRIPTION": "The genus name, Thuja, is the Greek name for a 'kind of juniper'. There are five species in the genus, two native to North America and three native to eastern Asia. Many of the members of this genu are evergreen, but some of the species in this genus change colors in the fall (i.e. the Thuja 'Rheingold') .",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/350/Thuja_standishii_180x110.png",
+    "FULL_PIC_1024x768": "new_images/350/Thuja_standishii_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/350/Thuja_Rheingold_1024x768.png,new_images/350/Podlaskie_-_Suprasl_-_Kopna_Gora_-_Arboretum_-_Thuja_occidentalis_Smaragd_-_plant_1024x768.png"
   },
   {
     "COMMON": "Basswood or Linden or Lime Tree (Tilia spp.)",
@@ -9316,9 +9328,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Tilia is a genus of about 30 species of trees or bushes, native throughout most of the temperate Northern Hemisphere. The tree is known as Linden for the European species, and Basswood for the North American species.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/351/1280px-Tilia_x_cordata_leaf_underside_180x110.png",
+    "FULL_PIC_1024x768": "new_images/351/1280px-Tilia_x_cordata_leaf_underside_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/351/800px-Tilia_tomentosa_1024x768.png"
   },
   {
     "COMMON": "Windmill Palm (Trachycarpus spp.)",
@@ -9343,9 +9355,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Trachycarpus is a genus of eleven species of palms native to Asia, from the Himalaya east to eastern China. They are fan palms (subfamily Coryphoideae), with the leaves with a bare petiole terminating in a rounded fan of numerous leaflets.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/352/800px-Takil_Rom_180x110.png",
+    "FULL_PIC_1024x768": "new_images/352/800px-Takil_Rom_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/352/120px-Trachycarpus_princeps_1024x768.png"
   },
   {
     "COMMON": "Hemlock (Tsuga spp.)",
@@ -9367,8 +9379,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
     "DESCRIPTION": "Tsuga is a genus of conifers in the subfamily Abietoideae of Pinaceae, the pine family. The common name hemlock is derived from a perceived similarity in the smell of its crushed foliage to that of the unrelated plant poison hemlock. Unlike the latter, Tsuga species are not poisonous.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/353/Tsuga_heterophylla1_180x110.png",
+    "FULL_PIC_1024x768": "new_images/353/Tsuga_heterophylla1_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9394,8 +9406,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "The 'Zelkova' genus name comes from the Georgian word for 'stone pillar'. Zelkova is a genus of six species of deciduous trees in the elm family Ulmaceae, native to southern Europe, and southwest and eastern Asia.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/354/800px-Zelkova_serrata6_180x110.png",
+    "FULL_PIC_1024x768": "new_images/354/800px-Zelkova_serrata6_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9422,8 +9434,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "smooth, hairy",
     "DESCRIPTION": "Laburnum, sometimes called Golden Chain or Golden Rain, is a genus of two species of small trees in the subfamily Faboideae of the pea family Fabaceae.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/355/Laburnum_anagyroides2_180x110.png",
+    "FULL_PIC_1024x768": "new_images/355/Laburnum_anagyroides2_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9449,9 +9461,9 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "The Sumac (Rhus) genus comprises of 35 species of flowering plants and related trees within in the cashew family (Anacardiaceae). Sumacs grow in subtropical and temperate regions throughout the world, including East Asia, Africa, and North America.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/356/Sumac_Drupes_180x110.png",
+    "FULL_PIC_1024x768": "new_images/356/Sumac_Drupes_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/356/SumacFruit_1024x768.png"
   },
   {
     "COMMON": "Juniper (Juniperus spp.)",
@@ -9473,9 +9485,9 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "whorled",
     "DESCRIPTION": "Junipers are coniferous trees and shrubs in the genus Juniperus of the cypress family Cupressaceae. Depending on the taxonomy, there are between 50 and 67 species of junipers widely distributed throughout the Northern Hemisphere. Their native climates range from the Artic to tropical Africa. The species in this genus vary in size and shape. Some species are large trees, reaching up to 20–40 metres (66–131 feet) in height. Other species are tightly columnar or low-spreading shrubs with long, trailing branches. Junipers are evergreen with needle-like and/or scale-like leaves. The female seed cones are very distinctive, with fleshy, fruit-like coalescing scales which fuse together to form a berrylike structure.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
-    "THUMB_PIC_1024x768": ""
+    "FULL_PIC_180x110": "new_images/357/Juniperus_communis_cones_180x110.png",
+    "FULL_PIC_1024x768": "new_images/357/Juniperus_communis_cones_1024x768.png",
+    "THUMB_PIC_1024x768": "new_images/357/Jun_chin_close_1024x768.png"
   },
   {
     "COMMON": "Cheesewood (Pittosporum spp.)",
@@ -9500,8 +9512,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "leathery",
     "DESCRIPTION": "Pittosporum is a large group of evergreen shrubs and trees that are characterised by simple, leathery, often wavy leaves and small, sometimes fragrant, 5-petalled flowers.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/358/Pittosporum_phillyreoides_4_180x110.png",
+    "FULL_PIC_1024x768": "new_images/358/Pittosporum_phillyreoides_4_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9510,9 +9522,8 @@
     "SCIENTIFIC": "Pisonia spp.",
     "ID": "359",
     "ITREECODE": "PISA5",
-    "ITREECODE_APPROX": "y",
-    "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
+    "LEVEL": "medium",
     "THUMB_PIC": "",
     "FULL_PIC": "/missing_images_pt2/359/PisoniaBrunoniana2.jpg",
     "GENUS": "Pisonia",
@@ -9529,8 +9540,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
     "DESCRIPTION": "Pisonia is a genus of flowering plants in the 'Four o'clock' flower family, Nyctaginaceae. It was named for Dutch physician and naturalist Willem Piso (1611–1678). Pisonia trees, also nicknamed “Bird-catchers”, are found in tropical habitats, mainly islands in the Caribbean and Indo-Pacific.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/359/PisoniaBrunoniana2_180x110.png",
+    "FULL_PIC_1024x768": "new_images/359/PisoniaBrunoniana2_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9556,8 +9567,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Prestoea is a genus of palms native to the Caribbean, Central and South America. Its range extends from Nicaragua and the Greater Antilles in the north to Brazil and Bolivia in the south.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/360/Prestoea_montana_180x110.png",
+    "FULL_PIC_1024x768": "new_images/360/Prestoea_montana_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9583,8 +9594,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "smooth, hairy",
     "DESCRIPTION": "The Arctostaphylos genus contains a selection of species that are shrubs or small trees. There are about 60 species in the genus, ranging from ground-hugging arctic, coastal, and mountain trees ranging up to 19 feet (6 m) in height.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/361/1280pxArctostaphylos_patula_08154_180x110.png",
+    "FULL_PIC_1024x768": "new_images/361/1280pxArctostaphylos_patula_08154_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9610,8 +9621,8 @@
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
     "DESCRIPTION": "Adonidia is a genus of flowering plants in the family Arecaceae, native to the Philippines and Borneo. The genus was originally described in 1919. In 1957, it was transferred to the genus Veitchia. In 2008, further study returned it to its own genus. At present there are two recognized species. The first species is the better known of the two. It is the Manila palm (Adonidia merrillii), which is native to the Philippines and is reportedly naturalized in the West Indies. The second species is 'Adonidia Dransfieldii' which is native to Borneo and was first described in 2015. Some palms sold in retail outlets as 'Adonidia' are in fact 'Alexander Palms' (Ptychosterma Elegans), which are similar but even thinner in form.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/362/800px-Starr_030612-0027_Veitchia_merrillii_180x110.png",
+    "FULL_PIC_1024x768": "new_images/362/800px-Starr_030612-0027_Veitchia_merrillii_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
@@ -9634,8 +9645,8 @@
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "whorled",
     "DESCRIPTION": "Araucaria is a genus of evergreen coniferous trees in the family Araucariaceae. There are 20 extant species in New Caledonia (where 14 species are endemic), Norfolk Island, eastern Australia, New Guinea, East Argentina, South Brazil, Chile and Paraguay. No distinct vernacular name exists for the genus. Many are called 'Pine', although they are only distantly related to true pines, in the genus Pinus.",
-    "FULL_PIC_180x110": "",
-    "FULL_PIC_1024x768": "",
+    "FULL_PIC_180x110": "new_images/363/800px-Araucaria_araucana_cones_180x110.png",
+    "FULL_PIC_1024x768": "new_images/363/800px-Araucaria_araucana_cones_1024x768.png",
     "THUMB_PIC_1024x768": ""
   }
 ]
