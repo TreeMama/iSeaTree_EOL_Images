@@ -1,0 +1,7 @@
+{
+[
+  "URL1": "https://www.flickr.com/photos/82133129@N00/52508361626/in/dateposted-public/",
+  "URL2": "https://www.flickr.com/photos/82133129@N00/52508840690/in/dateposted-public/",
+  "URL3": "https://www.flickr.com/photos/82133129@N00/52508841055/in/dateposted-public/"
+  ]
+}
