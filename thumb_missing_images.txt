@@ -2,7 +2,6 @@ ID: 0, image:
 ID: 7, image: updated_images/missing_images/7/2015-10-30_16_27_33_Vine_Maple_foliage_during_autumn_along_Old_Brockway_Road_in_Truckee%2C_California.jpg
 ID: 7, image: updated_images/missing_images/7/1024px-Acer_circinatum_9468.JPG
 ID: 7, image: updated_images/missing_images/7/800px-Acer_circinatum_range_map.jpeg
-ID: 7, image:  /missing_images_pt2/7/2015-10-30_16_27_33_Vine_Maple_foliage_during_autumn_along_Old_Brockway_Road_in_Truckee%2C_California.jpg
 ID: 8, image: 
 ID: 9, image: 
 ID: 11, image: 
@@ -20,7 +19,6 @@ ID: 33, image:
 ID: 39, image: 
 ID: 40, image: 
 ID: 41, image: 
-ID: 42, image:  /missing_images_pt2/42/Pacific_Madrone_Arbutus_menziesii_Branch_Fork_2120px.jpg
 ID: 45, image: 
 ID: 46, image: 
 ID: 65, image: 
@@ -38,8 +36,6 @@ ID: 94, image:
 ID: 95, image: 
 ID: 96, image: 
 ID: 97, image: 
-ID: 100, image:  /missing_images_pt2/100/champaign_illinois_sweetgum.jpeg
-ID: 100, image:  /missing_images_pt2/100/champaign_illinois_sweetgum2.jpeg
 ID: 101, image: 
 ID: 102, image: 
 ID: 103, image: 
@@ -140,9 +136,7 @@ ID: 269, image:
 ID: 291, image: 
 ID: 293, image: 
 ID: 297, image: 
-ID: 311, image:  /missing_images_pt2/311/Arbutus_canariensis_kz7.JPG
 ID: 312, image: 
-ID: 313, image:  /missing_images_pt2/313/52490725674_f7841ef067_o.jpg
 ID: 316, image: 
 ID: 317, image: 
 ID: 318, image: 
