@@ -1,7 +1,0 @@
-{
-[
-  "URL1": "https://en.wikipedia.org/wiki/Juglans#/media/File:P4260728.jpg/",
-  "URL2": "https://en.wikipedia.org/wiki/Juglans#/media/File:Juglans_californica_2c.JPG",
-  "URL3": "https://en.wikipedia.org/wiki/Juglans_nigra#/media/File:2014-10-30_10_16_45_Black_Walnut_foliage_during_autumn_along_Fireside_Avenue_in_Ewing,_New_Jersey.JPG"
-  ]
-}
