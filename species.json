@@ -110,7 +110,7 @@
     "LEAF_ARRANGEMENT": "opposite",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Acer buergerianum is a species of maple native to eastern China, Taiwan and Japan. The specific epithet is a patronym honoring Dutch plant hunter J. Buerger. The trident maple grows to a height of 20\u201335 feet (6-10.6 meters) and a spread of 20\u201330 feet (6-9 meters) at maturity. This tree features distinctive, 3-lobed leaves that are 2\u20134 inches (5-10.16 cm) long and closely resemble a trident. his tree tends to grow as a multi-stemmed, low-branching specimen, but it can be pruned to a single stem. The exfoliating bark reveals an orange-brown inner bark, which adds interest. The fall color can be variable, sometimes yellows but usually reds and oranges.",
+    "DESCRIPTION": "Acer buergerianum is a species of maple native to eastern China, Taiwan and Japan. The specific epithet is a patronym honoring Dutch plant hunter J. Buerger. The trident maple grows to a height of 20–35 feet (6-10.6 meters) and a spread of 20–30 feet (6-9 meters) at maturity. This tree features distinctive, 3-lobed leaves that are 2–4 inches (5-10.16 cm) long and closely resemble a trident. his tree tends to grow as a multi-stemmed, low-branching specimen, but it can be pruned to a single stem. The exfoliating bark reveals an orange-brown inner bark, which adds interest. The fall color can be variable, sometimes yellows but usually reds and oranges.",
     "FULL_PIC_180x110": "new_images/4/wikimedia_commons/Morris_Arboretum_Acer_buergerianum_180x110.png",
     "FULL_PIC_1024x768": "new_images/4/wikimedia_commons/Morris_Arboretum_Acer_buergerianum_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/4/Acer_buergerianum_leaf_1024x768.png,new_images/4/Trident_Maple_Acer_buegerianum_Bark_Horizontal_1024x768.png,new_images/4/Acer_buergerianum_seeds_1024x768.png"
@@ -164,7 +164,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The rose genus (Rosa spp.) includes tree roses as well as flowering shrubs. In this genus, the leaves are borne alternately on the stem. In most species the leaves are 2.0 to 5.9 inches (5 to 15 cm) long, pinnate, with (3\u2013) 5\u20139 (\u201313) leaflets and basal stipules; the leaflets usually have a serrated margin, and often a few small prickles (thorns) on the underside of the stem. The flowers of most Rosa species have five petals.",
+    "DESCRIPTION": "The rose genus (Rosa spp.) includes tree roses as well as flowering shrubs. In this genus, the leaves are borne alternately on the stem. In most species the leaves are 2.0 to 5.9 inches (5 to 15 cm) long, pinnate, with (3–) 5–9 (–13) leaflets and basal stipules; the leaflets usually have a serrated margin, and often a few small prickles (thorns) on the underside of the stem. The flowers of most Rosa species have five petals.",
     "FULL_PIC_180x110": "new_images/6/Rosa_rubiginosa_hips_180x110.png",
     "FULL_PIC_1024x768": "new_images/6/Rosa_rubiginosa_hips_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/6/Rose_Buff_Beauty_15853678901_1024x768.png,new_images/6/1024px-Rosa_rubiginosa_1_1024x768.png"
@@ -199,7 +199,7 @@
   {
     "COMMON": "Autumn Blaze Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer freemanii \u2018Autumn Blaze\u2019",
+    "SCIENTIFIC": "Acer freemanii ‘Autumn Blaze’",
     "ID": "8",
     "ITREECODE": "AC",
     "LEVEL": "expert",
@@ -219,7 +219,7 @@
     "LEAF_ARRANGEMENT": "opposite",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Acer \u00d7 freemanii, Freeman maple or Freeman's maple, is a naturally occurring hybrid maple that is the result of a cross between Acer rubrum (red maple) and Acer saccharinum (silver maple). Wild specimens are found in eastern North America where the parent species overlap. Because it's a hybrid maple, it rarely flowers. However, if the tree blooms, it may produce yellowish-green or red clusters of drooping flowers. After blooming it will produce fruit (in the form of winged seeds called samaras). However, it is rare to find an 'Autumn Blaze' maple that produces flowers and seeds. Orange-red is the best color to describe the fall color of 'Autumn Blaze' leaves.",
+    "DESCRIPTION": "Acer × freemanii, Freeman maple or Freeman's maple, is a naturally occurring hybrid maple that is the result of a cross between Acer rubrum (red maple) and Acer saccharinum (silver maple). Wild specimens are found in eastern North America where the parent species overlap. Because it's a hybrid maple, it rarely flowers. However, if the tree blooms, it may produce yellowish-green or red clusters of drooping flowers. After blooming it will produce fruit (in the form of winged seeds called samaras). However, it is rare to find an 'Autumn Blaze' maple that produces flowers and seeds. Orange-red is the best color to describe the fall color of 'Autumn Blaze' leaves.",
     "FULL_PIC_180x110": "new_images/8/plantstogrow/00000257_390869406365741Acer_AutumnBlaze-02cm_180x110.png",
     "FULL_PIC_1024x768": "new_images/8/plantstogrow/00000257_390869406365741Acer_AutumnBlaze-02cm_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -227,7 +227,7 @@
   {
     "COMMON": "Flame Amur Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer ginnala \u2018Flame\u2019",
+    "SCIENTIFIC": "Acer ginnala ‘Flame’",
     "ID": "9",
     "ITREECODE": "AC",
     "LEVEL": "expert",
@@ -255,7 +255,7 @@
   {
     "COMMON": "Rocky Mt. Glow Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer grandidentatum \u2018Schmidt\u2019",
+    "SCIENTIFIC": "Acer grandidentatum ‘Schmidt’",
     "ID": "10",
     "ITREECODE": "ACGR3",
     "LEVEL": "expert",
@@ -328,7 +328,7 @@
     "LEAF_ARRANGEMENT": "opposite",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Acer macrophyllum, the Big Leaf maple or Oregon maple, is the largest tree in the genus Acer in Northern America. Big Leaf Maple can grow up to 157 ft (48.10 m) tall, but more commonly reaches 49-65 ft (15\u201320 m) tall. It is most commonly recognized by its large 5-lobed leaves\u2013 often 12-inches (30cm) or more across! It is native to western North America, mostly near the Pacific coast, from southernmost Alaska to southern California.",
+    "DESCRIPTION": "Acer macrophyllum, the Big Leaf maple or Oregon maple, is the largest tree in the genus Acer in Northern America. Big Leaf Maple can grow up to 157 ft (48.10 m) tall, but more commonly reaches 49-65 ft (15–20 m) tall. It is most commonly recognized by its large 5-lobed leaves– often 12-inches (30cm) or more across! It is native to western North America, mostly near the Pacific coast, from southernmost Alaska to southern California.",
     "FULL_PIC_180x110": "new_images/12/EOL-media-542-28926256444/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/12/EOL-media-542-28926256444/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/12/EOL-media-509-10049470/full_1024x768.png,new_images/12/EOL-media-509-10049875/full_1024x768.png,new_images/12/EOL-media-542-30233020426/full_1024x768.png"
@@ -444,12 +444,12 @@
   {
     "COMMON": "Columnare Norway Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer platanoides \u2018Columnare\u2019",
+    "SCIENTIFIC": "Acer platanoides ‘Columnare’",
     "ID": "17",
     "ITREECODE": "ACPLCO",
     "LEVEL": "medium",
     "THUMB_PIC": "",
-    "FULL_PIC": "/missing_images/17/wikimedia_commons/Acer_platanoides_Columnar\u0435.jpeg",
+    "FULL_PIC": "/missing_images/17/wikimedia_commons/Acer_platanoides_Columnarе.jpeg",
     "GENUS": "Acer",
     "BARK_TYPE": "smooth, ridges or furrowed",
     "LEAF_SHAPE": "palmate, lobed",
@@ -491,7 +491,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Symphoricarpos, commonly known as the snowberry, waxberry, or ghostberry, is a small genus of about 15 species of deciduous shrubs in the honeysuckle family, Caprifoliaceae. The fruit is conspicuous, 0.5-1 in (1\u20132 cm) in diameter, soft, and varying in colors from white, pink, red, and in one species (S. sinensis), blackish purple.",
+    "DESCRIPTION": "Symphoricarpos, commonly known as the snowberry, waxberry, or ghostberry, is a small genus of about 15 species of deciduous shrubs in the honeysuckle family, Caprifoliaceae. The fruit is conspicuous, 0.5-1 in (1–2 cm) in diameter, soft, and varying in colors from white, pink, red, and in one species (S. sinensis), blackish purple.",
     "FULL_PIC_180x110": "new_images/18/Symphoricarpos_albus_7927_180x110.png",
     "FULL_PIC_1024x768": "new_images/18/Symphoricarpos_albus_7927_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -499,7 +499,7 @@
   {
     "COMMON": "Globe Norway Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer platanoides \u2018Globosum\u2019",
+    "SCIENTIFIC": "Acer platanoides ‘Globosum’",
     "ID": "19",
     "ITREECODE": "AC",
     "LEVEL": "medium",
@@ -544,7 +544,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "The white spruce is a large evergreen conifer which normally grows to 50 to 100 ft (15 to 30 metres) tall, but can grow up to 130 ft (40 m) tall with a trunk diameter of up to 3 ft 3 in (1 m). The bark is thin and scaly, flaking off in small circular plates 2 to 4 in (5 to 10 cm) across. The crown is narrow \u2013 conical in young trees, becoming cylindrical in older trees. The needles are four-sided, with a blue-white and blue-green striped appearance. Cones are cylindrical and slender, and have thin, flexible scales 1/2 inch (15 mm) long with a smoothly rounded margins.",
+    "DESCRIPTION": "The white spruce is a large evergreen conifer which normally grows to 50 to 100 ft (15 to 30 metres) tall, but can grow up to 130 ft (40 m) tall with a trunk diameter of up to 3 ft 3 in (1 m). The bark is thin and scaly, flaking off in small circular plates 2 to 4 in (5 to 10 cm) across. The crown is narrow – conical in young trees, becoming cylindrical in older trees. The needles are four-sided, with a blue-white and blue-green striped appearance. Cones are cylindrical and slender, and have thin, flexible scales 1/2 inch (15 mm) long with a smoothly rounded margins.",
     "FULL_PIC_180x110": "new_images/20/800px-Picea_glauca_twig_Denali_NP_AK_180x110.png",
     "FULL_PIC_1024x768": "new_images/20/800px-Picea_glauca_twig_Denali_NP_AK_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/20/Picea_glauca_Fairbanks_1024x768.png,new_images/20/Picea_glauca-bark_1024x768.png,new_images/20/1024px-Picea_glauca_levila_map_1024x768.png"
@@ -552,7 +552,7 @@
   {
     "COMMON": "Spaethii Maple (aka Purple Leaf Sycamore or Wineleaf Sycamore Maple)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer pseudoplatanus \u2018Atropupureum\u2019",
+    "SCIENTIFIC": "Acer pseudoplatanus ‘Atropupureum’",
     "ID": "21",
     "ITREECODE": "ACPSSP",
     "LEVEL": "easy",
@@ -607,7 +607,7 @@
   {
     "COMMON": "Bowhall Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer rubrum \u2018Bowhall\u2019",
+    "SCIENTIFIC": "Acer rubrum ‘Bowhall’",
     "ID": "23",
     "ITREECODE": "AC",
     "LEVEL": "expert",
@@ -652,7 +652,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "The larches (Larix spp.) are unusual conifers, in that they are deciduous and drop all their leaves each autumn, unlike their evergreen cousins. They grow to be 65 to 150 ft (20 to 45 metres) tall. The male flowers (the smallest cones) are orange-yellowish and fall after pollination. The female flowers (or cones) are 1\u20139 cm (1\u20442\u20133+1\u20442 in) long, and are green, purple, or brown when ripen.",
+    "DESCRIPTION": "The larches (Larix spp.) are unusual conifers, in that they are deciduous and drop all their leaves each autumn, unlike their evergreen cousins. They grow to be 65 to 150 ft (20 to 45 metres) tall. The male flowers (the smallest cones) are orange-yellowish and fall after pollination. The female flowers (or cones) are 1–9 cm (1\u20442–3+1\u20442 in) long, and are green, purple, or brown when ripen.",
     "FULL_PIC_180x110": "new_images/24/Larix_decidua0_180x110.png",
     "FULL_PIC_1024x768": "new_images/24/Larix_decidua0_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/24/SubalpineLarch_7735tl_1024x768.png,new_images/24/1280px-Larix_laricina_range_map_1024x768.png"
@@ -688,7 +688,7 @@
   {
     "COMMON": "Bonfire Sugar Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer saccharum \u2018Bonfire\u2019",
+    "SCIENTIFIC": "Acer saccharum ‘Bonfire’",
     "ID": "26",
     "ITREECODE": "ACSA2",
     "LEVEL": "expert",
@@ -715,7 +715,7 @@
   {
     "COMMON": "Commemoration Sugar Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer saccharum \u2018Commemoration\u2019",
+    "SCIENTIFIC": "Acer saccharum ‘Commemoration’",
     "ID": "27",
     "ITREECODE": "AC",
     "LEVEL": "medium",
@@ -743,7 +743,7 @@
   {
     "COMMON": "Mountain Sugar Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer saccharum \u2018Green Mountain\u2019",
+    "SCIENTIFIC": "Acer saccharum ‘Green Mountain’",
     "ID": "28",
     "ITREECODE": "ACSA2GR",
     "LEVEL": "expert",
@@ -770,7 +770,7 @@
   {
     "COMMON": "Legacy Sugar Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer saccharum \u2018Legacy\u2019",
+    "SCIENTIFIC": "Acer saccharum ‘Legacy’",
     "ID": "29",
     "ITREECODE": "AC",
     "LEVEL": "expert",
@@ -853,7 +853,7 @@
   {
     "COMMON": "Norwegian Sunset Maple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Acer truncatum x A. platanoides \u2018Keithsform\u2019",
+    "SCIENTIFIC": "Acer truncatum x A. platanoides ‘Keithsform’",
     "ID": "32",
     "ITREECODE": "AC",
     "LEVEL": "medium",
@@ -881,7 +881,7 @@
   {
     "COMMON": "Red Horse Chestnut (or Red horse-chestnut)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Aesculus x carnea \u2018Briottii\u2019",
+    "SCIENTIFIC": "Aesculus x carnea ‘Briottii’",
     "ID": "33",
     "ITREECODE": "AECABR",
     "LEVEL": "medium",
@@ -900,7 +900,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Aesculus \u00d7 carnea, or Red horse-chestnut, is a medium-sized tree, an artificial hybrid between A. pavia and A. hippocastanum. Its origin uncertain, probably appearing in Germany before 1820. Its distinctive, rose-red, cone-shaped flower clusters bloom in May. It has prickly seed pods that open to contain 2 to 3 glossy brown nuts in capsules that are poisonous. When it is young, its bark is a smooth pinky grey. As it matures, the bark darkens and develops a scalier, more fissured texture. The Red Horse Chestnut tends to be shorter then the common horse chestnut, with mature heights of 30 to 40 feet (9-12 m).",
+    "DESCRIPTION": "Aesculus × carnea, or Red horse-chestnut, is a medium-sized tree, an artificial hybrid between A. pavia and A. hippocastanum. Its origin uncertain, probably appearing in Germany before 1820. Its distinctive, rose-red, cone-shaped flower clusters bloom in May. It has prickly seed pods that open to contain 2 to 3 glossy brown nuts in capsules that are poisonous. When it is young, its bark is a smooth pinky grey. As it matures, the bark darkens and develops a scalier, more fissured texture. The Red Horse Chestnut tends to be shorter then the common horse chestnut, with mature heights of 30 to 40 feet (9-12 m).",
     "FULL_PIC_180x110": "new_images/33/plantstogrow/00004414_428537831365741Aesculus x carnea Briotti 07cmx_180x110.png",
     "FULL_PIC_1024x768": "new_images/33/plantstogrow/00004414_428537831365741Aesculus x carnea Briotti 07cmx_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -1008,7 +1008,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Alnus sinuata is a common tree widespread across much of Europe, Asia, and North America. Its range is very similar to the Red Alder (Alnus rubra). Versions of its scientific name reveals much about its appearance: 'viridis' means green, and 'sinuata' means curving - probably for its wavy leaves. It is a large shrub or small tree 3\u201312 m tall with smooth grey bark even in old age. The leaves are shiny green with light green undersurfaces, ovoid, 1-3 inches (3\u20138 cm) long and .7-2 inches (2\u20136 cm) broad.",
+    "DESCRIPTION": "Alnus sinuata is a common tree widespread across much of Europe, Asia, and North America. Its range is very similar to the Red Alder (Alnus rubra). Versions of its scientific name reveals much about its appearance: 'viridis' means green, and 'sinuata' means curving - probably for its wavy leaves. It is a large shrub or small tree 3–12 m tall with smooth grey bark even in old age. The leaves are shiny green with light green undersurfaces, ovoid, 1-3 inches (3–8 cm) long and .7-2 inches (2–6 cm) broad.",
     "FULL_PIC_180x110": "new_images/37/wikipedia/800px-Alnus_alnobetula_kz02_180x110.png",
     "FULL_PIC_1024x768": "new_images/37/wikipedia/800px-Alnus_alnobetula_kz02_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/37/wikimedia_commons/Alnus_viridis_tree_Bulgaria_1024x768.png"
@@ -1043,7 +1043,7 @@
   {
     "COMMON": "Autumn Brilliance Serviceberry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Amelanchier x grandiflora \u2018Autumn Brilliance\u2019 (Amelanchier canadensis x Amelanchier laevis)",
+    "SCIENTIFIC": "Amelanchier x grandiflora ‘Autumn Brilliance’ (Amelanchier canadensis x Amelanchier laevis)",
     "ID": "39",
     "ITREECODE": "AMGR",
     "LEVEL": "medium",
@@ -1070,7 +1070,7 @@
   {
     "COMMON": "Princess Diana Serviceberry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Amelanchier x grandiflora \u2018Princess Diana\u2019 (Amelanchier arborea x Amelanchier laevis)",
+    "SCIENTIFIC": "Amelanchier x grandiflora ‘Princess Diana’ (Amelanchier arborea x Amelanchier laevis)",
     "ID": "40",
     "ITREECODE": "AMAR",
     "LEVEL": "medium",
@@ -1097,7 +1097,7 @@
   {
     "COMMON": "Allegheny Serviceberry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Amelanchier laevis \u2018Cumulus\u2019",
+    "SCIENTIFIC": "Amelanchier laevis ‘Cumulus’",
     "ID": "41",
     "ITREECODE": "AMLA",
     "LEVEL": "medium",
@@ -1331,7 +1331,7 @@
     "BARK_COLOR": "orange, brown",
     "NEEDLE_COLOR": "green",
     "NEEDLE_ARRANGEMENT": "opposite",
-    "DESCRIPTION": "Calocedrus decurrens, with the common names Incense cedar and California Incense-cedar, is a species of conifer native to western North America. It is the most widely known species in the genus, and is often simply called 'Incense Cedar' without the regional qualifier. It should be noted that the Incense cedar is NOT a true cedar (i.e. genus Cedrus), and is actually a member of the cypress family (Cupressaceae). The foliage in this tree is flattened sprays with scale-like leaves 0.08 to 0.6 inches (2\u201315 millimeters) long.  They are arranged in opposing decussate pairs, with the successive pairs closely then distantly spaced, so forming apparent whorls of four; the facial pairs are flat, with the lateral pairs folded over their bases. Before opening, the small hanging female cones have ends that are tapered into a hook-shape. This tree is the preferred host of a Wood Wasp, Syntexis libocedrii a living fossil species which lays its eggs in the smoldering wood immediately after a forest fire. The tree is also host to Incense-Cedar Mistletoe (Phoradendron libocedri), a parasitic plant which can often be found hanging from its branches.",
+    "DESCRIPTION": "Calocedrus decurrens, with the common names Incense cedar and California Incense-cedar, is a species of conifer native to western North America. It is the most widely known species in the genus, and is often simply called 'Incense Cedar' without the regional qualifier. It should be noted that the Incense cedar is NOT a true cedar (i.e. genus Cedrus), and is actually a member of the cypress family (Cupressaceae). The foliage in this tree is flattened sprays with scale-like leaves 0.08 to 0.6 inches (2–15 millimeters) long.  They are arranged in opposing decussate pairs, with the successive pairs closely then distantly spaced, so forming apparent whorls of four; the facial pairs are flat, with the lateral pairs folded over their bases. Before opening, the small hanging female cones have ends that are tapered into a hook-shape. This tree is the preferred host of a Wood Wasp, Syntexis libocedrii a living fossil species which lays its eggs in the smoldering wood immediately after a forest fire. The tree is also host to Incense-Cedar Mistletoe (Phoradendron libocedri), a parasitic plant which can often be found hanging from its branches.",
     "FULL_PIC_180x110": "new_images/49/EOL-media-7-CalPhotos_0000 0000 1208 0701/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/49/EOL-media-7-CalPhotos_0000 0000 1208 0701/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/49/EOL-media-542-4930055641/full_1024x768.png,new_images/49/EOL-media-542-5032426704/full_1024x768.png,new_images/49/calocedrus_decurrens_1024x768.png,new_images/new_version_1024x768.png"
@@ -1412,7 +1412,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Carpinus japonica, the Japanese hornbeam, is a hornbeam endemic to Japan but cultivated elsewhere as an ornamental. It is a deciduous tree growing to 12\u201315 metres tall with leaves that are longer and darker than the European hornbeam.",
+    "DESCRIPTION": "Carpinus japonica, the Japanese hornbeam, is a hornbeam endemic to Japan but cultivated elsewhere as an ornamental. It is a deciduous tree growing to 12–15 metres tall with leaves that are longer and darker than the European hornbeam.",
     "FULL_PIC_180x110": "new_images/52/EOL-media-509-11998705/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/52/EOL-media-509-11998705/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/52/EOL-media-509-2587639/full_1024x768.png,new_images/52/EOL-media-509-33046780/full_1024x768.png"
@@ -1460,7 +1460,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Cedrus deodara, the deodar cedar, Himalayan cedar, or deodar, is a species of cedar native to the western Himalayas. It grows at altitudes of 1,500\u20133,200 m.",
+    "DESCRIPTION": "Cedrus deodara, the deodar cedar, Himalayan cedar, or deodar, is a species of cedar native to the western Himalayas. It grows at altitudes of 1,500–3,200 m.",
     "FULL_PIC_180x110": "new_images/54/EOL-media-542-3485206030/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/54/EOL-media-542-3485206030/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/54/EOL-media-542-3331783896/full_1024x768.png,new_images/54/EOL-media-542-4222117217/full_1024x768.png,new_images/54/EOL-media-542-26387972076/full_1024x768.png,new_images/54/EOL-media-542-36130872300/full_1024x768.png"
@@ -1547,7 +1547,7 @@
     "THUMB_PIC_1024x768": "new_images/57/EOL-media-509-10214332/full_1024x768.png,new_images/57/EOL-media-542-8709412492/full_1024x768.png,new_images/57/EOL-media-542-8708289681/full_1024x768.png"
   },
   {
-    "COMMON": "Port Orford Cedar (aka Lawson\u2019s Cypress)",
+    "COMMON": "Port Orford Cedar (aka Lawson’s Cypress)",
     "TYPE": "conifer",
     "SCIENTIFIC": "Chamaecyparis lawsoniana",
     "ID": "58",
@@ -1675,7 +1675,7 @@
   {
     "COMMON": "Giant Dogwood",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Cornus controversa \u2018June Snow\u2019",
+    "SCIENTIFIC": "Cornus controversa ‘June Snow’",
     "ID": "63",
     "ITREECODE": "COCO4",
     "LEVEL": "expert",
@@ -1700,9 +1700,9 @@
     "THUMB_PIC_1024x768": "new_images/63/wikimedia_commons/coconjs081A_1024x768.png"
   },
   {
-    "COMMON": "Eddie\u2019s White Wonder Dogwood",
+    "COMMON": "Eddie’s White Wonder Dogwood",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Cornus \u2018Eddie\u2019s White Wonder\u2019",
+    "SCIENTIFIC": "Cornus ‘Eddie’s White Wonder’",
     "ID": "64",
     "ITREECODE": "CO1",
     "LEVEL": "expert",
@@ -1729,7 +1729,7 @@
   {
     "COMMON": "Kousa Dogwood (aka Chinese Dogwood)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Cornus kousa \u2018chinensis\u2019",
+    "SCIENTIFIC": "Cornus kousa ‘chinensis’",
     "ID": "65",
     "ITREECODE": "COKO",
     "LEVEL": "expert",
@@ -1918,7 +1918,7 @@
   {
     "COMMON": "Thornless Cockspur Hawthorn",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Crataegus crus-galli \u2018Inermis\u2019",
+    "SCIENTIFIC": "Crataegus crus-galli ‘Inermis’",
     "ID": "73",
     "ITREECODE": "CRCRIN",
     "LEVEL": "expert",
@@ -1964,13 +1964,13 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Crataegus \u00d7 lavalleei, sometimes known as hybrid cockspurthorn or Lavall\u00e9e's hawthorn, is a hybrid that arose between cultivated specimens of two species in the genus Crataegus. It is an ornamental small tree with glossy dark green unlobed leaves that is used horticulturally.",
+    "DESCRIPTION": "Crataegus × lavalleei, sometimes known as hybrid cockspurthorn or Lavall\u00e9e's hawthorn, is a hybrid that arose between cultivated specimens of two species in the genus Crataegus. It is an ornamental small tree with glossy dark green unlobed leaves that is used horticulturally.",
     "FULL_PIC_180x110": "new_images/74/wikimedia_commons/Crataegus_x_Lavallei_-_Beale_Arboretum_-_West_Lodge_Park_-_Hadley_Wood_-_Enfield_London_180x110.png",
     "FULL_PIC_1024x768": "new_images/74/wikimedia_commons/Crataegus_x_Lavallei_-_Beale_Arboretum_-_West_Lodge_Park_-_Hadley_Wood_-_Enfield_London_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
-    "COMMON": "Suksdorf\u2019s Hawthorn",
+    "COMMON": "Suksdorf’s Hawthorn",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Crataegus suksdorfii",
     "ID": "76",
@@ -2080,7 +2080,7 @@
   {
     "COMMON": "Dawyck Purple Beech",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fagus sylvatica \u2018Dawyck Purple\u2019",
+    "SCIENTIFIC": "Fagus sylvatica ‘Dawyck Purple’",
     "ID": "80",
     "ITREECODE": "FA",
     "LEVEL": "easy",
@@ -2100,7 +2100,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Fagus sylvatica \u2018Dawyck Purple\u2019 is a medium-sized, deciduous tree of columnar habit with broadly elliptic, lustrous, dark purple leaves.",
+    "DESCRIPTION": "Fagus sylvatica ‘Dawyck Purple’ is a medium-sized, deciduous tree of columnar habit with broadly elliptic, lustrous, dark purple leaves.",
     "FULL_PIC_180x110": "new_images/80/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/80/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2108,7 +2108,7 @@
   {
     "COMMON": "Purple Oak Leaf Beech",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fagus sylvatica \u2018Rohanii\u2019",
+    "SCIENTIFIC": "Fagus sylvatica ‘Rohanii’",
     "ID": "81",
     "ITREECODE": "FA",
     "LEVEL": "easy",
@@ -2128,7 +2128,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Fagus sylvatica \u2018Rohanii\u2019 is a medium-sized, deciduous tree of pyramidal habit with broadly elliptic, lustrous, dark purple leaves.",
+    "DESCRIPTION": "Fagus sylvatica ‘Rohanii’ is a medium-sized, deciduous tree of pyramidal habit with broadly elliptic, lustrous, dark purple leaves.",
     "FULL_PIC_180x110": "new_images/81/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/81/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2163,7 +2163,7 @@
   {
     "COMMON": "Autumn Applause Ash",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fraxinus Americana \u2018Autumn Applause\u2019",
+    "SCIENTIFIC": "Fraxinus Americana ‘Autumn Applause’",
     "ID": "83",
     "ITREECODE": "FRAMAA",
     "LEVEL": "expert",
@@ -2182,7 +2182,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "\u2018Autumn Applause\u2019 is the cultivar of the White Ash species which is native to moist locations. The tree is almost pyramidal with a round top when young, but develops an oval shape when older.",
+    "DESCRIPTION": "‘Autumn Applause’ is the cultivar of the White Ash species which is native to moist locations. The tree is almost pyramidal with a round top when young, but develops an oval shape when older.",
     "FULL_PIC_180x110": "new_images/83/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/83/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2217,7 +2217,7 @@
   {
     "COMMON": "Cimmaron Ash",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fraxinus pennsylvanica \u2018Cimmzam\u2019",
+    "SCIENTIFIC": "Fraxinus pennsylvanica ‘Cimmzam’",
     "ID": "85",
     "ITREECODE": "FR",
     "LEVEL": "expert",
@@ -2261,7 +2261,7 @@
     "BARK_COLOR": "gray, white",
     "NEEDLE_COLOR": "green, white",
     "NEEDLE_ARRANGEMENT": "whorled or spiral, clustering (most needles on upper side of twig)",
-    "DESCRIPTION": "Subalpine Fir (Abies lasiocarpa) is a medium-sized evergreen conifer with a very narrow conic crown. Overall, the entire tree looks very similar to a church spire. It is common in many interior forests, and is a major tree species in the high elevation forests from the Yukon to Arizona. It can be found growing to 66 ft (20 m) tall, with exceptional heights around 130-160 ft (40\u201350 m), with a trunk DBH up to 3 ft 3 in (1 m) thick. The leaves are single on a twig, and flat and needle-like. They are up to 3/4 of an inch (2 cm) in length. They have a glaucous green above with a broad stripe of stomata, and two blue-white stomatal bands below. They are arranged as a whorl on the shoot, but with the leaf bases twisted to be arranged to the sides of and above the shoot, with few or none below the shoot. The cones are 2 1/4- 4 3/4 inches (6\u201312 cm) long, and dark purple or yellow-brown in color.",
+    "DESCRIPTION": "Subalpine Fir (Abies lasiocarpa) is a medium-sized evergreen conifer with a very narrow conic crown. Overall, the entire tree looks very similar to a church spire. It is common in many interior forests, and is a major tree species in the high elevation forests from the Yukon to Arizona. It can be found growing to 66 ft (20 m) tall, with exceptional heights around 130-160 ft (40–50 m), with a trunk DBH up to 3 ft 3 in (1 m) thick. The leaves are single on a twig, and flat and needle-like. They are up to 3/4 of an inch (2 cm) in length. They have a glaucous green above with a broad stripe of stomata, and two blue-white stomatal bands below. They are arranged as a whorl on the shoot, but with the leaf bases twisted to be arranged to the sides of and above the shoot, with few or none below the shoot. The cones are 2 1/4- 4 3/4 inches (6–12 cm) long, and dark purple or yellow-brown in color.",
     "FULL_PIC_180x110": "new_images/86/800px-Abies_lasiocarpa_26008_180x110.png",
     "FULL_PIC_1024x768": "new_images/86/800px-Abies_lasiocarpa_26008_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/86/Abies_lasiocarpa_7458_1024x768.png,new_images/86/800px-Abies_lasiocarpa_range_map_1_1024x768.png"
@@ -2269,7 +2269,7 @@
   {
     "COMMON": "Urbanite Ash",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Fraxinus pennsylvanica \u2018Urbanite\u2019",
+    "SCIENTIFIC": "Fraxinus pennsylvanica ‘Urbanite’",
     "ID": "87",
     "ITREECODE": "FR",
     "LEVEL": "expert",
@@ -2289,7 +2289,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Fraxinus pennsylvanica \u2018Urbanite\u2019 is a deciduous tree with a shapely oval form. The compound leaves turn an outstanding coppery-bronze in the fall.",
+    "DESCRIPTION": "Fraxinus pennsylvanica ‘Urbanite’ is a deciduous tree with a shapely oval form. The compound leaves turn an outstanding coppery-bronze in the fall.",
     "FULL_PIC_180x110": "new_images/87/SpecialtyTrees/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/87/SpecialtyTrees/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2345,7 +2345,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The American basswood is a medium-sized to large deciduous tree reaching a height of 60 to 120 ft (18 to 37 m) with exceptional trees reaching 128 ft (39 m). It has an average trunk diameter of 3-5 ft (1\u20131.5 m) at maturity. It grows faster than many North American hardwoods, often twice the annual growth rate of American beech and many birch species. The flowers are small, fragrant, yellowish-white, 13/32 - 9/16 inch (10\u201314 mm) in diameter. The leaves are simple, alternately arranged, ovate to cordate, asymmetrical, unequal at the base (the side nearest to the branch being the largest).",
+    "DESCRIPTION": "The American basswood is a medium-sized to large deciduous tree reaching a height of 60 to 120 ft (18 to 37 m) with exceptional trees reaching 128 ft (39 m). It has an average trunk diameter of 3-5 ft (1–1.5 m) at maturity. It grows faster than many North American hardwoods, often twice the annual growth rate of American beech and many birch species. The flowers are small, fragrant, yellowish-white, 13/32 - 9/16 inch (10–14 mm) in diameter. The leaves are simple, alternately arranged, ovate to cordate, asymmetrical, unequal at the base (the side nearest to the branch being the largest).",
     "FULL_PIC_180x110": "new_images/89/Tilia_americana_American_Linden_28268263222_180x110.png",
     "FULL_PIC_1024x768": "new_images/89/Tilia_americana_American_Linden_28268263222_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/89/800px-Tilia_americana_Arnold_Arboretum_-_IMG_5911_1024x768.png,new_images/89/Tlilia_americana_map_1024x768.png"
@@ -2373,7 +2373,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Celtis species are generally medium-sized trees, reaching 35-80 ft (10\u201325 m) tall, rarely up to 130 ft (40 m) tall. The leaves are alternate, simple, 1+1\u20444\u20136 in (3-15 cm) long, ovate-acuminate, and evenly serrated margins. Diagnostically, Celtis can be very similar to trees in the Rosaceae and other rose motif families.",
+    "DESCRIPTION": "Celtis species are generally medium-sized trees, reaching 35-80 ft (10–25 m) tall, rarely up to 130 ft (40 m) tall. The leaves are alternate, simple, 1+1\u20444–6 in (3-15 cm) long, ovate-acuminate, and evenly serrated margins. Diagnostically, Celtis can be very similar to trees in the Rosaceae and other rose motif families.",
     "FULL_PIC_180x110": "new_images/90/800px-Celtis_occidentalis_leaf_180x110.png",
     "FULL_PIC_1024x768": "new_images/90/800px-Celtis_occidentalis_leaf_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/90/1280px-Celtis_sinensis3_1024x768.png,new_images/90/800px-Celtis_sinensisChinese_Hackberry_1024x768.png"
@@ -2381,7 +2381,7 @@
   {
     "COMMON": "Espresso Kentucky Coffee",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Gymnocladus diocicus \u2018Espresso\u2019",
+    "SCIENTIFIC": "Gymnocladus diocicus ‘Espresso’",
     "ID": "91",
     "ITREECODE": "GYDI",
     "LEVEL": "easy",
@@ -2400,7 +2400,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Gymnocladus dioica, commonly called Kentucky coffeetree or coffeetree, is a tall deciduous tree with rough, scaly gray-brown bark and large bipinnate compound leaves. \u2018Espresso\u2019 is a male cultivar.",
+    "DESCRIPTION": "Gymnocladus dioica, commonly called Kentucky coffeetree or coffeetree, is a tall deciduous tree with rough, scaly gray-brown bark and large bipinnate compound leaves. ‘Espresso’ is a male cultivar.",
     "FULL_PIC_180x110": "new_images/91/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/91/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2516,7 +2516,7 @@
   {
     "COMMON": "Tuscarora Hybrid Crape Myrle",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Lagerstroemia indica \u2018tuscarora\u2019",
+    "SCIENTIFIC": "Lagerstroemia indica ‘tuscarora’",
     "ID": "96",
     "ITREECODE": "LATU",
     "LEVEL": "medium",
@@ -2535,7 +2535,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Lagerstroemia indica \u2018tuscarora\u2019 is a small deciduous tree that produces a profusion of crepe-like coral-pink flower clusters. The bright green summer foliage leads to orange-red coloring in the fall.",
+    "DESCRIPTION": "Lagerstroemia indica ‘tuscarora’ is a small deciduous tree that produces a profusion of crepe-like coral-pink flower clusters. The bright green summer foliage leads to orange-red coloring in the fall.",
     "FULL_PIC_180x110": "new_images/96/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/96/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2642,7 +2642,7 @@
   {
     "COMMON": "Rotundiloba Sweet Gum",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Liquidambar styraciflua \u2018Rotundiloba\u2019",
+    "SCIENTIFIC": "Liquidambar styraciflua ‘Rotundiloba’",
     "ID": "101",
     "ITREECODE": "LI9",
     "LEVEL": "medium",
@@ -2662,7 +2662,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "green",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Liquidambar styraciflua \u2018Rotundiloba\u2019 is a narrowly pyramidal, deciduous tree which typically grows 60-75' tall. Foliage turns yellow to burgundy in fall. Non-showy, apetalous, monoecious flowers appear in small clusters in spring.",
+    "DESCRIPTION": "Liquidambar styraciflua ‘Rotundiloba’ is a narrowly pyramidal, deciduous tree which typically grows 60-75' tall. Foliage turns yellow to burgundy in fall. Non-showy, apetalous, monoecious flowers appear in small clusters in spring.",
     "FULL_PIC_180x110": "new_images/101/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/101/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2670,7 +2670,7 @@
   {
     "COMMON": "Moraine Sweet Gum",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Liquidambar styraciflua \u2018Moraine\u2019",
+    "SCIENTIFIC": "Liquidambar styraciflua ‘Moraine’",
     "ID": "102",
     "ITREECODE": "LI9",
     "LEVEL": "medium",
@@ -2690,7 +2690,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "green",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Liquidambar styraciflua \u2018Moraine\u2019 is a narrow pyramidal tree that grows to a height of 60 feet when young and may reach an additional 40 feet at maturity. It is a cold-hardy cultivar, and the 'Moraine' is eminently suitable as an avenue and street tree because of the regular, slim, pyramidal shape of its crown. The 5-lobed (sometimes 7-lobed) leaves are larger than those of the species. The leaves are glossy green in the summer, making 'Moraine' easy to distinguish from seedlings. The autumn colour is yellow to reddish-violet.",
+    "DESCRIPTION": "Liquidambar styraciflua ‘Moraine’ is a narrow pyramidal tree that grows to a height of 60 feet when young and may reach an additional 40 feet at maturity. It is a cold-hardy cultivar, and the 'Moraine' is eminently suitable as an avenue and street tree because of the regular, slim, pyramidal shape of its crown. The 5-lobed (sometimes 7-lobed) leaves are larger than those of the species. The leaves are glossy green in the summer, making 'Moraine' easy to distinguish from seedlings. The autumn colour is yellow to reddish-violet.",
     "FULL_PIC_180x110": "new_images/102/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/102/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2726,7 +2726,7 @@
   {
     "COMMON": "Columnar Tulip Tree",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Liriodendron tulipifera \u2018Fastigiatum\u2019",
+    "SCIENTIFIC": "Liriodendron tulipifera ‘Fastigiatum’",
     "ID": "104",
     "ITREECODE": "LI10",
     "LEVEL": "medium",
@@ -2773,7 +2773,7 @@
     "LEAF_ARRANGEMENT": "opposite, odd pinnate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Amur Maackia species is native to eastern Russia, northeastern China, Japan, and the Korean peninsula. The small to medium-sized tree grows toward 50 feet (15.24 m) in height. As a member of the pea family (Fabaceae), Amur Maackia has flower panicles that resemble those of a pea plant. They grow in long clusters like a bunch of grapes on a structure known as a raceme. The flowers can be seen emerging around mid-July. The buds are smooth and dark brown, and the fruit of the tree is a legume. The bark of the tree is described by some as 'zombie skin' because of its amber color, peeling texture, and green undertones. Amur Maackia is able to fix nitrogen from the atmosphere through a symbiotic relationship with bacteria from the Bradyrhizobium genus. Nodules form on the tree\u2019s roots where the bacteria have penetrated through the root hairs into the main root.",
+    "DESCRIPTION": "The Amur Maackia species is native to eastern Russia, northeastern China, Japan, and the Korean peninsula. The small to medium-sized tree grows toward 50 feet (15.24 m) in height. As a member of the pea family (Fabaceae), Amur Maackia has flower panicles that resemble those of a pea plant. They grow in long clusters like a bunch of grapes on a structure known as a raceme. The flowers can be seen emerging around mid-July. The buds are smooth and dark brown, and the fruit of the tree is a legume. The bark of the tree is described by some as 'zombie skin' because of its amber color, peeling texture, and green undertones. Amur Maackia is able to fix nitrogen from the atmosphere through a symbiotic relationship with bacteria from the Bradyrhizobium genus. Nodules form on the tree’s roots where the bacteria have penetrated through the root hairs into the main root.",
     "FULL_PIC_180x110": "new_images/105/EOL-media-509-18212506/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/105/EOL-media-509-18212506/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/105/EOL-media-509-10441960/full_1024x768.png"
@@ -2781,7 +2781,7 @@
   {
     "COMMON": "Elizabeth Magnolia",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Magnolia x brooklynensis \u2018Elizabeth\u2019",
+    "SCIENTIFIC": "Magnolia x brooklynensis ‘Elizabeth’",
     "ID": "106",
     "ITREECODE": "MA1",
     "LEVEL": "expert",
@@ -2836,7 +2836,7 @@
   {
     "COMMON": "Galaxy Magnolia",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Magnolia \u2018Galaxy\u2019 (M. liliiflora \u2018Nigra\u2019 x M. sprengeri \u2018Diva\u2019)",
+    "SCIENTIFIC": "Magnolia ‘Galaxy’ (M. liliiflora ‘Nigra’ x M. sprengeri ‘Diva’)",
     "ID": "108",
     "ITREECODE": "MASOGA",
     "LEVEL": "expert",
@@ -2855,7 +2855,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Magnolia \u2018Galaxy\u2019 is a single-stemmed, tree-form cultivated magnolia with ascending branches. In spring, dark red-purple flowers appear after danger of frost.",
+    "DESCRIPTION": "Magnolia ‘Galaxy’ is a single-stemmed, tree-form cultivated magnolia with ascending branches. In spring, dark red-purple flowers appear after danger of frost.",
     "FULL_PIC_180x110": "new_images/108/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/108/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2883,7 +2883,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Magnolia grandiflora is a medium to large evergreen tree which may grow 120 ft (37 m) tall. It typically has a single stem (or trunk) and a pyramidal shape. The leaves are simple and broadly ovate, 12\u201320 cm long and 6\u201312 cm broad, with smooth margins. They are dark green, stiff and leathery, and often scurfy underneath with yellow-brown pubescence.",
+    "DESCRIPTION": "Magnolia grandiflora is a medium to large evergreen tree which may grow 120 ft (37 m) tall. It typically has a single stem (or trunk) and a pyramidal shape. The leaves are simple and broadly ovate, 12–20 cm long and 6–12 cm broad, with smooth margins. They are dark green, stiff and leathery, and often scurfy underneath with yellow-brown pubescence.",
     "FULL_PIC_180x110": "new_images/109/EOL-media-509-20332196/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/109/EOL-media-509-20332196/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/109/EOL-media-542-14885108261/full_1024x768.png"
@@ -2891,7 +2891,7 @@
   {
     "COMMON": "Little Gem Magnolia",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Magnolia grandiflora \u2018Little Gem\u2019",
+    "SCIENTIFIC": "Magnolia grandiflora ‘Little Gem’",
     "ID": "110",
     "ITREECODE": "MAGRLG",
     "LEVEL": "expert",
@@ -2910,7 +2910,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Magnolia grandiflora \u2018Little Gem\u2019 is a small and slow growing cultivar that typically grows as a compact upright multi-stemmed shrub or small tree to 20' tall over the first 20 years. It features glossy green leaves that are bronze-brown underneath.",
+    "DESCRIPTION": "Magnolia grandiflora ‘Little Gem’ is a small and slow growing cultivar that typically grows as a compact upright multi-stemmed shrub or small tree to 20' tall over the first 20 years. It features glossy green leaves that are bronze-brown underneath.",
     "FULL_PIC_180x110": "new_images/110/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/110/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2937,7 +2937,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The American elm is a deciduous hermaphroditic tree which, before the introduction of DED (Dutch Elm Disease), commonly grew to more than 100 feet (30 m) tall with a trunk whose diameter at breast height was more than 4 feet (1.2 m), supporting a high, spreading umbrella-like canopy. The leaves are alternate, 2.7-7.8 inches (7\u201320 cm) long, with double-serrate margins and an oblique base.",
+    "DESCRIPTION": "The American elm is a deciduous hermaphroditic tree which, before the introduction of DED (Dutch Elm Disease), commonly grew to more than 100 feet (30 m) tall with a trunk whose diameter at breast height was more than 4 feet (1.2 m), supporting a high, spreading umbrella-like canopy. The leaves are alternate, 2.7-7.8 inches (7–20 cm) long, with double-serrate margins and an oblique base.",
     "FULL_PIC_180x110": "new_images/111/Ulmus_americana_5102579562_180x110.png",
     "FULL_PIC_1024x768": "new_images/111/Ulmus_americana_5102579562_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/111/Ulmus_americana_5101983801_1024x768.png,new_images/111/1280px-American_Elm_Tree_Old_South_Street_Northampton_MA_-_October_2019_1024x768.png,new_images/111/1280px-Elm_Tree_in_Massachusetts_June_2012_1024x768.png,new_images/111/1920px-ElmBark_1024x768.png,new_images/111/American_Elm_-_Ulmus_americana_Occoquan_Regional_Park_Lorton_Virginia_1024x768.png"
@@ -2965,7 +2965,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Magnolia \u00d7 loebneri Kache is a hybrid of two Magnolia species, the Japanese Magnolia kobus and M. stellata. It is a small tree typically growing to 20-30\u2019 tall with a rounded crown.",
+    "DESCRIPTION": "Magnolia × loebneri Kache is a hybrid of two Magnolia species, the Japanese Magnolia kobus and M. stellata. It is a small tree typically growing to 20-30’ tall with a rounded crown.",
     "FULL_PIC_180x110": "new_images/112/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/112/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -2992,7 +2992,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Magnolia sieboldii is a large deciduous shrub or small tree 5\u201310 m (16\u201333 ft) tall. The stalks, young leaves, young twigs and young buds are downy. The leaves are elliptical to ovate-oblong, 9\u201316 cm (rarely 25 cm) long and 4\u201310 cm (rarely 12 cm) broad, with a 1.5-4.5 cm petiole.",
+    "DESCRIPTION": "Magnolia sieboldii is a large deciduous shrub or small tree 5–10 m (16–33 ft) tall. The stalks, young leaves, young twigs and young buds are downy. The leaves are elliptical to ovate-oblong, 9–16 cm (rarely 25 cm) long and 4–10 cm (rarely 12 cm) broad, with a 1.5-4.5 cm petiole.",
     "FULL_PIC_180x110": "new_images/113/EOL-media-509-2188908/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/113/EOL-media-509-2188908/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3000,7 +3000,7 @@
   {
     "COMMON": "Adirondack Crabapple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Malus \u2018Adirondack\u2019",
+    "SCIENTIFIC": "Malus ‘Adirondack’",
     "ID": "114",
     "ITREECODE": "MA2",
     "LEVEL": "expert",
@@ -3028,7 +3028,7 @@
   {
     "COMMON": "Donald Wyman Crabapple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Malus \u2018Donald Wyman\u2019",
+    "SCIENTIFIC": "Malus ‘Donald Wyman’",
     "ID": "115",
     "ITREECODE": "MA2",
     "LEVEL": "expert",
@@ -3103,7 +3103,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Prunus Armeniaca is the most commonly cultivated apricot species. The specific epithet Armeniaca refers to the country of Armenia in western Asia. It is a small tree, 26-39 ft (8\u201312 m) tall, with a trunk up to 16 in (40 cm) in diameter and a dense, spreading canopy. The leaves are ovate, 2.0-3.5 in (5\u20139 cm) long and 1.6-3.1 in (4\u20138 cm) wide, with a rounded base, a pointed tip and a finely serrated margin. The flowers are 0.8\u20131.8 in (2-4.5 cm) in diameter, with five white to pinkish petals; they are produced singly or in pairs in early spring before the leaves. The fruit is a 'drupe' and similar to a small peach. The single seed is enclosed in a hard, stony shell, often called a 'stone', with a grainy, smooth texture except for three ridges running down one side.",
+    "DESCRIPTION": "Prunus Armeniaca is the most commonly cultivated apricot species. The specific epithet Armeniaca refers to the country of Armenia in western Asia. It is a small tree, 26-39 ft (8–12 m) tall, with a trunk up to 16 in (40 cm) in diameter and a dense, spreading canopy. The leaves are ovate, 2.0-3.5 in (5–9 cm) long and 1.6-3.1 in (4–8 cm) wide, with a rounded base, a pointed tip and a finely serrated margin. The flowers are 0.8–1.8 in (2-4.5 cm) in diameter, with five white to pinkish petals; they are produced singly or in pairs in early spring before the leaves. The fruit is a 'drupe' and similar to a small peach. The single seed is enclosed in a hard, stony shell, often called a 'stone', with a grainy, smooth texture except for three ridges running down one side.",
     "FULL_PIC_180x110": "new_images/117/Apricots_180x110.png",
     "FULL_PIC_1024x768": "new_images/117/Apricots_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/117/1280px-Packard_apricots_1024x768.png,new_images/117/1280px-Apricot_tree_flowers_1024x768.png"
@@ -3138,7 +3138,7 @@
   {
     "COMMON": "Red Barron Crabapple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Malus \u2018Red Barron\u2019",
+    "SCIENTIFIC": "Malus ‘Red Barron’",
     "ID": "119",
     "ITREECODE": "MA2",
     "LEVEL": "expert",
@@ -3166,7 +3166,7 @@
   {
     "COMMON": "Golden Raindrops Crabapple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Malus transitoria \u2018Schmidtcutleaf\u2019",
+    "SCIENTIFIC": "Malus transitoria ‘Schmidtcutleaf’",
     "ID": "120",
     "ITREECODE": "MA2",
     "LEVEL": "expert",
@@ -3186,7 +3186,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Malus transitoria \u2018Schmidtcutleaf\u2019 is a fine textured tree with elegant, slender limbs spreading horizontally from upright branches. It grows abundant tiny golden yellow fruit.",
+    "DESCRIPTION": "Malus transitoria ‘Schmidtcutleaf’ is a fine textured tree with elegant, slender limbs spreading horizontally from upright branches. It grows abundant tiny golden yellow fruit.",
     "FULL_PIC_180x110": "new_images/120/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/120/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3194,7 +3194,7 @@
   {
     "COMMON": "Tschonoskii Crabapple",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Malus \u2018Tschonoskii\u2019",
+    "SCIENTIFIC": "Malus ‘Tschonoskii’",
     "ID": "121",
     "ITREECODE": "MATS",
     "LEVEL": "expert",
@@ -3264,7 +3264,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Nothofagus antarctica is a deciduous tree native to southern Chile and Argentina, where it grows mainly in the diminishing temperate rainforest. It typically grows 5\u201325 m (12\u201380 ft) tall and has a slender trunk with scaly bark. The leaves are simple and alternate, growing 2-4.5 cm long, and often viscid, with a sweetly scented wax.",
+    "DESCRIPTION": "Nothofagus antarctica is a deciduous tree native to southern Chile and Argentina, where it grows mainly in the diminishing temperate rainforest. It typically grows 5–25 m (12–80 ft) tall and has a slender trunk with scaly bark. The leaves are simple and alternate, growing 2-4.5 cm long, and often viscid, with a sweetly scented wax.",
     "FULL_PIC_180x110": "new_images/123/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/123/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3291,7 +3291,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Nyssa sylvatica is a medium-sized deciduous tree native to eastern North America that grows to 20\u201325 metres (66\u201382 ft) tall with a trunk diameter of 50\u2013100 centimetres (20\u201339 in). These trees typically have a straight trunk with the branches extending outward at right angles.",
+    "DESCRIPTION": "Nyssa sylvatica is a medium-sized deciduous tree native to eastern North America that grows to 20–25 metres (66–82 ft) tall with a trunk diameter of 50–100 centimetres (20–39 in). These trees typically have a straight trunk with the branches extending outward at right angles.",
     "FULL_PIC_180x110": "new_images/124/EOL-media-542-4646555170/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/124/EOL-media-542-4646555170/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/124/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_d0997/full_1024x768.png"
@@ -3318,7 +3318,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "American hophornbeam is a small deciduous understory tree growing to 18 m (59 ft) tall and 20\u201350 centimetres (8\u201320 in) trunk diameter. The bark is brown to gray-brown, with narrow shaggy plates flaking off, while younger twigs and branches are smoother and gray, with small lenticels.",
+    "DESCRIPTION": "American hophornbeam is a small deciduous understory tree growing to 18 m (59 ft) tall and 20–50 centimetres (8–20 in) trunk diameter. The bark is brown to gray-brown, with narrow shaggy plates flaking off, while younger twigs and branches are smoother and gray, with small lenticels.",
     "FULL_PIC_180x110": "new_images/125/EOL-media-509-16889188/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/125/EOL-media-509-16889188/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/125/EOL-media-542-2720439076/full_1024x768.png"
@@ -3345,7 +3345,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Sourwood is a small tree or large shrub, growing to 10\u201320 m (33\u201366 ft), native to eastern North America. The bark is gray with a reddish tinge, deeply furrowed and scaly. Branchlets at first are light yellow green, but later turn reddish brown.",
+    "DESCRIPTION": "Sourwood is a small tree or large shrub, growing to 10–20 m (33–66 ft), native to eastern North America. The bark is gray with a reddish tinge, deeply furrowed and scaly. Branchlets at first are light yellow green, but later turn reddish brown.",
     "FULL_PIC_180x110": "new_images/126/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_27550/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/126/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_27550/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/126/EOL-media-607-http___bioimages.vanderbilt.edu_baskauf_11618/full_1024x768.png"
@@ -3372,7 +3372,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Parrotia persica grows swiftly when young, maturing in gardens to 30 m (98 ft) tall and 8\u201315 m (26\u201349 ft) broad, multi-stemmed and naturally somewhat congested but prunable to a single trunk up to 150 cm (59 in) in diameter. The bark is smooth, pinkish-brown flaking/peeling to leave a mosaic of cinnamon, pink, green, and pale yellow patches in a similar manner to plane trees.",
+    "DESCRIPTION": "Parrotia persica grows swiftly when young, maturing in gardens to 30 m (98 ft) tall and 8–15 m (26–49 ft) broad, multi-stemmed and naturally somewhat congested but prunable to a single trunk up to 150 cm (59 in) in diameter. The bark is smooth, pinkish-brown flaking/peeling to leave a mosaic of cinnamon, pink, green, and pale yellow patches in a similar manner to plane trees.",
     "FULL_PIC_180x110": "new_images/127/EOL-media-509-15294779/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/127/EOL-media-509-15294779/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/127/EOL-media-509-2097539/full_1024x768.png"
@@ -3399,7 +3399,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The cork oak grows as an evergreen tree, reaching an average height of 33 to 49 feet (10 to 15 metres) or in rare cases up to 82 ft (25 m) and a trunk diameter (DBH) of 20 to 35 inches (50 to 90 centimetres). It forms a dense and asymmetrical crown that starts at a height of  6\u201310 ft (approx. 2-3 m) and spreads widely in free-standing trees. The crown can be divided into several separate, rounded partial crowns. The young twigs are densely hairy light gray or whitish. Older branches are strong and knotty. The thick, longitudinally cracked cork layers of the gray-brown trunk bark are characteristic of the cork oak. The light and spongy cork fabric shows vertical cracks and is white on the outside and red to red-brown on the inside. Its leathery leaves are alternate and are 1 to 4 (2.5 to 10 cm) long and 1\u20442 to 2+1\u20442 in (1.2 to 6.5 cm) wide.",
+    "DESCRIPTION": "The cork oak grows as an evergreen tree, reaching an average height of 33 to 49 feet (10 to 15 metres) or in rare cases up to 82 ft (25 m) and a trunk diameter (DBH) of 20 to 35 inches (50 to 90 centimetres). It forms a dense and asymmetrical crown that starts at a height of  6–10 ft (approx. 2-3 m) and spreads widely in free-standing trees. The crown can be divided into several separate, rounded partial crowns. The young twigs are densely hairy light gray or whitish. Older branches are strong and knotty. The thick, longitudinally cracked cork layers of the gray-brown trunk bark are characteristic of the cork oak. The light and spongy cork fabric shows vertical cracks and is white on the outside and red to red-brown on the inside. Its leathery leaves are alternate and are 1 to 4 (2.5 to 10 cm) long and 1\u20442 to 2+1\u20442 in (1.2 to 6.5 cm) wide.",
     "FULL_PIC_180x110": "new_images/128/Quercus_fg04_180x110.png",
     "FULL_PIC_1024x768": "new_images/128/Quercus_fg04_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/128/1280px-Quercus_suber_Blatt_1024x768.png,new_images/128/800px-Denuded_cork_oak_2874384025_1024x768.png,new_images/128/800px-Quercus_suber_-_San_Luis_Obispo_Botanical_Garden_-_DSC05998_1024x768.png,new_images/128/Quercus_suber_MHNT.BOT.2021.17.19_1024x768.png,new_images/128/Quercus_suber_g4_1024x768.png"
@@ -3431,7 +3431,7 @@
   {
     "COMMON": "Umbrella Pine",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Pinus densiflora \u2018Umbraculifera\u2019",
+    "SCIENTIFIC": "Pinus densiflora ‘Umbraculifera’",
     "ID": "130",
     "ITREECODE": "PIDE",
     "LEVEL": "medium",
@@ -3447,7 +3447,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Pinus densiflora is a large pine native to rocky slopes that will grow to 100 feet in the wild, but in cultivation is more likely to reach 40-60 feet tall. \u2018Umbraculifera\u2019 is a slow-growing dwarf cultivar that is grown as either a small tree or shrub. As the cultivar name suggests, it is noted for its umbrella-like crown.",
+    "DESCRIPTION": "Pinus densiflora is a large pine native to rocky slopes that will grow to 100 feet in the wild, but in cultivation is more likely to reach 40-60 feet tall. ‘Umbraculifera’ is a slow-growing dwarf cultivar that is grown as either a small tree or shrub. As the cultivar name suggests, it is noted for its umbrella-like crown.",
     "FULL_PIC_180x110": "new_images/130/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/130/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3471,7 +3471,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Pinus monticola is a large tree, regularly growing to 30\u201350 meters (98 - 164 feet). Its leaves ('needles') are in fascicles (bundles) of five, with a deciduous sheath. The needles are finely serrated, and 5\u201313 cm (2\u20135 in) long.",
+    "DESCRIPTION": "Pinus monticola is a large tree, regularly growing to 30–50 meters (98 - 164 feet). Its leaves ('needles') are in fascicles (bundles) of five, with a deciduous sheath. The needles are finely serrated, and 5–13 cm (2–5 in) long.",
     "FULL_PIC_180x110": "new_images/131/EOL-media-7-CalPhotos_8076 3101 3973 0036/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/131/EOL-media-7-CalPhotos_8076 3101 3973 0036/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3495,7 +3495,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Pinus nigra is a large coniferous evergreen tree, growing to 20\u201355 metres (66\u2013180 ft) high at maturity and spreading to 20 to 40 feet wide. The bark is grey to yellow-brown, and is widely split by flaking fissures into scaly plates, becoming increasingly fissured with age.",
+    "DESCRIPTION": "Pinus nigra is a large coniferous evergreen tree, growing to 20–55 metres (66–180 ft) high at maturity and spreading to 20 to 40 feet wide. The bark is grey to yellow-brown, and is widely split by flaking fissures into scaly plates, becoming increasingly fissured with age.",
     "FULL_PIC_180x110": "new_images/132/EOL-media-509-10117390/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/132/EOL-media-509-10117390/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3519,7 +3519,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "The stone pine is a coniferous evergreen tree that typically grows to 12\u201320 m (40\u201365 ft). In youth, it is a bushy globe, in mid-age an umbrella canopy on a thick trunk, and, in maturity, a broad and flat crown over 8 m (26 ft) in width. The bark is thick, red-brown and deeply fissured into broad vertical plates.",
+    "DESCRIPTION": "The stone pine is a coniferous evergreen tree that typically grows to 12–20 m (40–65 ft). In youth, it is a bushy globe, in mid-age an umbrella canopy on a thick trunk, and, in maturity, a broad and flat crown over 8 m (26 ft) in width. The bark is thick, red-brown and deeply fissured into broad vertical plates.",
     "FULL_PIC_180x110": "new_images/133/EOL-media-542-8705791004/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/133/EOL-media-542-8705791004/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3594,7 +3594,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The London plane is a large deciduous tree growing 20\u201330 m (66\u201398 ft), exceptionally over 40 m (131 ft) tall, with a trunk up to 3 m (10 ft) or more in circumference.",
+    "DESCRIPTION": "The London plane is a large deciduous tree growing 20–30 m (66–98 ft), exceptionally over 40 m (131 ft) tall, with a trunk up to 3 m (10 ft) or more in circumference.",
     "FULL_PIC_180x110": "new_images/136/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/136/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3602,7 +3602,7 @@
   {
     "COMMON": "Bloodgood London Planetree",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Platanus x acerifolia \u2018Bloodgood\u2019",
+    "SCIENTIFIC": "Platanus x acerifolia ‘Bloodgood’",
     "ID": "137",
     "ITREECODE": "PLACBL",
     "LEVEL": "expert",
@@ -3621,7 +3621,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Platanus x acerifolia \u2018Bloodgood\u2019 is a large tree with a broad open crown and bark that exfoliates to reveal patches that may be creamy white, yellow, or olive-colored. ",
+    "DESCRIPTION": "Platanus x acerifolia ‘Bloodgood’ is a large tree with a broad open crown and bark that exfoliates to reveal patches that may be creamy white, yellow, or olive-colored. ",
     "FULL_PIC_180x110": "new_images/137/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/137/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3703,7 +3703,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Lombardy Poplar is a medium- to large-sized deciduous tree, reaching 65-98 ft (20\u201330 m) in height. Rarely, but occassionally, there have also been records of it growing 131 ft (40 m) tall. Normally, their trunks achieve up to ~5 ft (1.5 m) in diameter (DBH). Their leaves are diamond-shaped to triangular, and are 2-3 in (5\u20138 cm) long.",
+    "DESCRIPTION": "The Lombardy Poplar is a medium- to large-sized deciduous tree, reaching 65-98 ft (20–30 m) in height. Rarely, but occassionally, there have also been records of it growing 131 ft (40 m) tall. Normally, their trunks achieve up to ~5 ft (1.5 m) in diameter (DBH). Their leaves are diamond-shaped to triangular, and are 2-3 in (5–8 cm) long.",
     "FULL_PIC_180x110": "new_images/140/EOL-media-542-5390634059/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/140/EOL-media-542-5390634059/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3730,7 +3730,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Quaking aspen is a tall, fast growing tree, usually 20\u201325 m (65\u201380 ft) at maturity, with a trunk 20 to 80 cm (8 inches to 2 feet 7 inches) in diameter; records are 36.5 m (119 ft 9 in) in height and 1.37 m (4 ft 6 in) in diameter.",
+    "DESCRIPTION": "Quaking aspen is a tall, fast growing tree, usually 20–25 m (65–80 ft) at maturity, with a trunk 20 to 80 cm (8 inches to 2 feet 7 inches) in diameter; records are 36.5 m (119 ft 9 in) in height and 1.37 m (4 ft 6 in) in diameter.",
     "FULL_PIC_180x110": "new_images/141/EOL-media-543-potr5_006_ahp.tif/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/141/EOL-media-543-potr5_006_ahp.tif/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3758,7 +3758,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Almond (or Sweet Almond) is a deciduous tree, growing 4\u201310 m (13\u201333 ft) in height, with a trunk of up to 30 cm (12 in) in diameter. The young twigs are green at first, becoming purplish where exposed to sunlight, then grey in their second year. The leaves are 8\u201313 cm (3\u20135 in) long,[8] with a serrated margin and a 2.5 cm (1 in) petiole. The flowers are white to pale pink, 3\u20135 cm (1\u20132 in) diameter with five petals, produced singly or in pairs and appearing before the leaves in early spring.",
+    "DESCRIPTION": "The Almond (or Sweet Almond) is a deciduous tree, growing 4–10 m (13–33 ft) in height, with a trunk of up to 30 cm (12 in) in diameter. The young twigs are green at first, becoming purplish where exposed to sunlight, then grey in their second year. The leaves are 8–13 cm (3–5 in) long,[8] with a serrated margin and a 2.5 cm (1 in) petiole. The flowers are white to pale pink, 3–5 cm (1–2 in) diameter with five petals, produced singly or in pairs and appearing before the leaves in early spring.",
     "FULL_PIC_180x110": "new_images/142/1280px-Kulturmandel_unreife_Fruchte_180x110.png",
     "FULL_PIC_1024x768": "new_images/142/1280px-Kulturmandel_unreife_Fruchte_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/142/Almond_tree_in_blossom_Israel_1024x768.png,new_images/142/1280px-Flowering_Almond_1024x768.png,new_images/142/Green_almonds_1024x768.png"
@@ -3766,7 +3766,7 @@
   {
     "COMMON": "Vesuvius Flowering Plum",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prunus cerasifera \u2018Krauter Vesuvius\u2019",
+    "SCIENTIFIC": "Prunus cerasifera ‘Krauter Vesuvius’",
     "ID": "143",
     "ITREECODE": "PRCEKV",
     "LEVEL": "expert",
@@ -3785,7 +3785,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Prunus cerasifera \u2018Krauter Vesuvius\u2019 is a small, sometimes spiny, deciduous tree typically growing to 15-30\u2019 tall with a shrubby, spreading, rounded habit.",
+    "DESCRIPTION": "Prunus cerasifera ‘Krauter Vesuvius’ is a small, sometimes spiny, deciduous tree typically growing to 15-30’ tall with a shrubby, spreading, rounded habit.",
     "FULL_PIC_180x110": "new_images/143/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/143/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3793,7 +3793,7 @@
   {
     "COMMON": "Thundercloud Plum",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prunus cerasifera \u2018Thundercloud\u2019",
+    "SCIENTIFIC": "Prunus cerasifera ‘Thundercloud’",
     "ID": "145",
     "ITREECODE": "PRCETH",
     "LEVEL": "expert",
@@ -3848,7 +3848,7 @@
   {
     "COMMON": "Columnar Sargent Cherry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prunus sargentii \u2018Columnaris\u2019",
+    "SCIENTIFIC": "Prunus sargentii ‘Columnaris’",
     "ID": "147",
     "ITREECODE": "PRSA",
     "LEVEL": "medium",
@@ -3875,7 +3875,7 @@
   {
     "COMMON": "Amanogawa Flowering Cherry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prunus serrulata \u2018Amanogawa\u2019",
+    "SCIENTIFIC": "Prunus serrulata ‘Amanogawa’",
     "ID": "148",
     "ITREECODE": "PRSEAM",
     "LEVEL": "expert",
@@ -3894,7 +3894,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Prunus serrulata \u2018Amanogawa\u2019 is a small, culumnar deciduous tree with profuse, semi-double pale pink flowers.",
+    "DESCRIPTION": "Prunus serrulata ‘Amanogawa’ is a small, culumnar deciduous tree with profuse, semi-double pale pink flowers.",
     "FULL_PIC_180x110": "new_images/148/wikimedia/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/148/wikimedia/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3902,7 +3902,7 @@
   {
     "COMMON": "Snow Goose Cherry",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Prunus serrulata \u2018Snowgoose\u2019",
+    "SCIENTIFIC": "Prunus serrulata ‘Snowgoose’",
     "ID": "149",
     "ITREECODE": "PRSE2",
     "LEVEL": "expert",
@@ -3949,7 +3949,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Prunus \u00d7 yedoensis is a small, deciduous tree that grows to be 5 to 12 meters (16\u201339 ft) tall at maturity.",
+    "DESCRIPTION": "Prunus × yedoensis is a small, deciduous tree that grows to be 5 to 12 meters (16–39 ft) tall at maturity.",
     "FULL_PIC_180x110": "new_images/150/flickr/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/150/flickr/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -4008,7 +4008,7 @@
   {
     "COMMON": "Aristocrat Pear",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Pyrus calleryana \u2018Aristocrat\u2019",
+    "SCIENTIFIC": "Pyrus calleryana ‘Aristocrat’",
     "ID": "154",
     "ITREECODE": "PYCAAR",
     "LEVEL": "expert",
@@ -4035,7 +4035,7 @@
   {
     "COMMON": "Cambridge Pear",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Pyrus calleryana \u2018Cambridge\u2019",
+    "SCIENTIFIC": "Pyrus calleryana ‘Cambridge’",
     "ID": "155",
     "ITREECODE": "PY",
     "LEVEL": "expert",
@@ -4063,7 +4063,7 @@
   {
     "COMMON": "Chanticleer (aka Cleveland Select Pear)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Pyrus calleryana \u2018Glen\u2019s Form\u2019",
+    "SCIENTIFIC": "Pyrus calleryana ‘Glen’s Form’",
     "ID": "156",
     "ITREECODE": "PYCACH",
     "LEVEL": "expert",
@@ -4090,7 +4090,7 @@
   {
     "COMMON": "Redspire Pear",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Pyrus calleryana \u2018Redspire\u2019",
+    "SCIENTIFIC": "Pyrus calleryana ‘Redspire’",
     "ID": "157",
     "ITREECODE": "PYCARS",
     "LEVEL": "expert",
@@ -4109,7 +4109,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Originated as a seedling of Pyrus \u2018Bradford\u2019 but stays smaller and narrower. A mass of large white flowers in large clusters. An excellent street tree. Well adapted to urban growing conditions and atmospheric pollution. Foliage is glossy and leathery.",
+    "DESCRIPTION": "Originated as a seedling of Pyrus ‘Bradford’ but stays smaller and narrower. A mass of large white flowers in large clusters. An excellent street tree. Well adapted to urban growing conditions and atmospheric pollution. Foliage is glossy and leathery.",
     "FULL_PIC_180x110": "new_images/157/wikimedia_commons/Redspire-pear-tree_180x110.png",
     "FULL_PIC_1024x768": "new_images/157/wikimedia_commons/Redspire-pear-tree_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/157/wikimedia_commons/PYCR-Pyrus-Redspire-shape_1024x768.png,new_images/157/wikimedia_commons/PYCR-Pyrus-Redspire-fall-leaves-768x1024_1024x768.png"
@@ -4407,7 +4407,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "\u2018Fastigiata\u2019 or Upright English Oak is an upright, columnar, deciduous tree that matures into a dense elongated oval shape with a short trunk and makes a striking landscape specimen.",
+    "DESCRIPTION": "‘Fastigiata’ or Upright English Oak is an upright, columnar, deciduous tree that matures into a dense elongated oval shape with a short trunk and makes a striking landscape specimen.",
     "FULL_PIC_180x110": "new_images/168/boethingtreeland/quercus-robur-fastigiata-skyrocket_180x110.png",
     "FULL_PIC_1024x768": "new_images/168/boethingtreeland/quercus-robur-fastigiata-skyrocket_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -4542,13 +4542,13 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Salix lucida, the shining willow, Pacific willow, red willow, or whiplash willow, is a species of willow native to northern and western North America, occurring in wetland habitats. It is a deciduous large shrub or small tree growing to 4\u201311 m (13\u201336 ft) tall. The shoots are greenish-brown to grey-brown. The leaves are narrow elliptic to lanceolate.",
+    "DESCRIPTION": "Salix lucida, the shining willow, Pacific willow, red willow, or whiplash willow, is a species of willow native to northern and western North America, occurring in wetland habitats. It is a deciduous large shrub or small tree growing to 4–11 m (13–36 ft) tall. The shoots are greenish-brown to grey-brown. The leaves are narrow elliptic to lanceolate.",
     "FULL_PIC_180x110": "new_images/173/EOL-media-18-https___www.inaturalist.org_photos_3365223/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/173/EOL-media-18-https___www.inaturalist.org_photos_3365223/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
   },
   {
-    "COMMON": "Scouler\u2019s Willow",
+    "COMMON": "Scouler’s Willow",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Salix scouleriana",
     "ID": "174",
@@ -4617,7 +4617,7 @@
     "BARK_COLOR": "red, brown",
     "NEEDLE_COLOR": "green, blue",
     "NEEDLE_ARRANGEMENT": "whorled or spiral",
-    "DESCRIPTION": "Sequoiadendron giganteum (Giant Sequoia) is also known as: Giant Redwood, Sierra Redwood, Sierran Redwood, and Wellingtonia. It has also been called simply 'Big Tree' \u2014 a nickname which was used by the conservationist John Muir. It is the sole living species in the genus Sequoiadendron, and one of three species of coniferous trees known as Redwoods, classified in the family Cupressaceae with the Sequoia Sempervirens (Coast Redwood) and Metasequoia Glyptostroboides (Dawn Redwood). Giant sequoia specimens are some of the most massive trees on Earth, grow 250 to 300 feet (76 - 91.44 m) in the wild. An etymological study published in 2012 concluded that an Austrian writer, Stephen L. Endlicher, originated the genus name. A linguist and botanist, Endlicher corresponded with experts in the Cherokee language including Sequoyah, who was a Native American polymath from the Cherokee Nation, and is also credited as the inventor of the Cherokee syllabary. Endlicher realized that - coincidentally - the genus could be described in Latin as 'sequi' (meaning 'to follow') because the number of seeds per cone in the newly classified genus aligned in mathematical sequence with the other four genera in the suborder. Endlicher thus coined the name 'Sequoia' as both a description of the tree's genus and an honor to the indigenous man he admired. Giant sequoias are among the oldest living organisms on Earth, and are the verified third longest-lived tree species after the Great Basin Bristlecone Pine and Alerce. The oldest known giant sequoia is 3,200\u20133,266 years old based on dendrochronology.",
+    "DESCRIPTION": "Sequoiadendron giganteum (Giant Sequoia) is also known as: Giant Redwood, Sierra Redwood, Sierran Redwood, and Wellingtonia. It has also been called simply 'Big Tree' \u2014 a nickname which was used by the conservationist John Muir. It is the sole living species in the genus Sequoiadendron, and one of three species of coniferous trees known as Redwoods, classified in the family Cupressaceae with the Sequoia Sempervirens (Coast Redwood) and Metasequoia Glyptostroboides (Dawn Redwood). Giant sequoia specimens are some of the most massive trees on Earth, grow 250 to 300 feet (76 - 91.44 m) in the wild. An etymological study published in 2012 concluded that an Austrian writer, Stephen L. Endlicher, originated the genus name. A linguist and botanist, Endlicher corresponded with experts in the Cherokee language including Sequoyah, who was a Native American polymath from the Cherokee Nation, and is also credited as the inventor of the Cherokee syllabary. Endlicher realized that - coincidentally - the genus could be described in Latin as 'sequi' (meaning 'to follow') because the number of seeds per cone in the newly classified genus aligned in mathematical sequence with the other four genera in the suborder. Endlicher thus coined the name 'Sequoia' as both a description of the tree's genus and an honor to the indigenous man he admired. Giant sequoias are among the oldest living organisms on Earth, and are the verified third longest-lived tree species after the Great Basin Bristlecone Pine and Alerce. The oldest known giant sequoia is 3,200–3,266 years old based on dendrochronology.",
     "FULL_PIC_180x110": "new_images/176/Sequoiadendrongiganteumneedle2_180x110.png",
     "FULL_PIC_1024x768": "new_images/176/Sequoiadendrongiganteumneedle2_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/176/Sequoiadendron giganteum_9237_1024x768.png,new_images/176/EOL-media-542-2856867477/full_1024x768.png,new_images/176/EOL-media-7-CalPhotos_0000 0000 0113 1395/full_1024x768.png,new_images/176/EOL-media-7-CalPhotos_0000 0000 0113 1396/full_1024x768.png,new_images/176/EOL-media-7-CalPhotos_9189 3301 3553 0023/full_1024x768.png"
@@ -4641,7 +4641,7 @@
     "BARK_COLOR": "red, brown, grey",
     "NEEDLE_COLOR": "green, blue, white",
     "NEEDLE_ARRANGEMENT": "alternate, whorled or spiral",
-    "DESCRIPTION": "Sequoia sempervirens is the sole living species of the genus Sequoia in the cypress family Cupressaceae (formerly treated in Taxodiaceae). Common names include coast redwood, coastal redwood, and California redwood. It is an evergreen, long-lived, monoecious tree living 1,200\u20132,200 years or more. This species includes the tallest living trees on Earth, reaching up to 115.5 meters.",
+    "DESCRIPTION": "Sequoia sempervirens is the sole living species of the genus Sequoia in the cypress family Cupressaceae (formerly treated in Taxodiaceae). Common names include coast redwood, coastal redwood, and California redwood. It is an evergreen, long-lived, monoecious tree living 1,200–2,200 years or more. This species includes the tallest living trees on Earth, reaching up to 115.5 meters.",
     "FULL_PIC_180x110": "new_images/177/EOL-media-542-908736276/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/177/EOL-media-542-908736276/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -4703,7 +4703,7 @@
   {
     "COMMON": "Red Cascade Mountain Ash",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Sorbus americana \u2018Dwarfcrown\u2019",
+    "SCIENTIFIC": "Sorbus americana ‘Dwarfcrown’",
     "ID": "180",
     "ITREECODE": "SOAM",
     "LEVEL": "expert",
@@ -4777,7 +4777,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Hazels have simple, rounded leaves with double-serrate margins. The flowers are produced very early in spring before the leaves, and are monoecious, with single-sex catkins. The male catkins are pale yellow and 5\u201312 cm long, and the female ones are very small and largely concealed in the buds, with only the bright-red, 1-to-3 mm-long styles visible. The fruits are nuts 1\u20132.5 cm long and 1\u20132 cm diameter, surrounded by an involucre (husk) which partly to fully encloses the nut. The fruit of the hazel is the hazelnut.",
+    "DESCRIPTION": "Hazels have simple, rounded leaves with double-serrate margins. The flowers are produced very early in spring before the leaves, and are monoecious, with single-sex catkins. The male catkins are pale yellow and 5–12 cm long, and the female ones are very small and largely concealed in the buds, with only the bright-red, 1-to-3 mm-long styles visible. The fruits are nuts 1–2.5 cm long and 1–2 cm diameter, surrounded by an involucre (husk) which partly to fully encloses the nut. The fruit of the hazel is the hazelnut.",
     "FULL_PIC_180x110": "new_images/182/TurkHazel_180x110.png",
     "FULL_PIC_1024x768": "new_images/182/TurkHazel_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/182/800px-Corylus_fargesii_Arnold_Arboretum_-_IMG_6165_1024x768.png,new_images/182/1024px-Hazel_Flower_Female_1024x768.png,new_images/182/1024px-Hazelnuts_1024x768.png,new_images/182/800px-Hazel_Catkins_1024x768.png"
@@ -4921,7 +4921,7 @@
   {
     "COMMON": "Brave Bald Cypress",
     "TYPE": "conifer",
-    "SCIENTIFIC": "Taxodium distichum \u2018Mickeslon\u2019 Shawnee",
+    "SCIENTIFIC": "Taxodium distichum ‘Mickeslon’ Shawnee",
     "ID": "188",
     "ITREECODE": "TADI",
     "LEVEL": "medium",
@@ -5020,7 +5020,7 @@
   {
     "COMMON": "Greenspire Linden",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Tilia cordata \u2018Greenspire\u2019",
+    "SCIENTIFIC": "Tilia cordata ‘Greenspire’",
     "ID": "192",
     "ITREECODE": "TICOGR",
     "LEVEL": "expert",
@@ -5047,7 +5047,7 @@
   {
     "COMMON": "Chancelor Linden (aka Little-leaf Linden)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Tilia cordata \u2018Chancole\u2019",
+    "SCIENTIFIC": "Tilia cordata ‘Chancole’",
     "ID": "193",
     "ITREECODE": "TICO",
     "LEVEL": "expert",
@@ -5067,7 +5067,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Tilia cordata, commonly called littleleaf linden, is native to Europe. It has been widely planted in the U.S. as an ornamental shade tree. It is a medium to large deciduous tree, typically growing to 50-70\u2019 (less frequently to 100\u2019) tall. Fragrant, creamy yellow flowers in drooping cymes appear in June.",
+    "DESCRIPTION": "Tilia cordata, commonly called littleleaf linden, is native to Europe. It has been widely planted in the U.S. as an ornamental shade tree. It is a medium to large deciduous tree, typically growing to 50-70’ (less frequently to 100’) tall. Fragrant, creamy yellow flowers in drooping cymes appear in June.",
     "FULL_PIC_180x110": "new_images/193/plantstogrow/00000972_00000002_180x110.png",
     "FULL_PIC_1024x768": "new_images/193/plantstogrow/00000972_00000002_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5202,7 +5202,7 @@
   {
     "COMMON": "Frontier Elm",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Ulmus \u2018Frontier\u2019",
+    "SCIENTIFIC": "Ulmus ‘Frontier’",
     "ID": "199",
     "ITREECODE": "ULFR",
     "LEVEL": "expert",
@@ -5221,7 +5221,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Ulmus \u2018Frontier\u2019 is an elm tree of moderate stature with attractive red fall color. The \u2018Frontier\u2019 hybrid elm has a high level of tolerance to DED (Dutch elm disease), and moderate resistance to elm leaf beetle. It has small leaves, and a lovely red-purple autumn coloration.",
+    "DESCRIPTION": "The Ulmus ‘Frontier’ is an elm tree of moderate stature with attractive red fall color. The ‘Frontier’ hybrid elm has a high level of tolerance to DED (Dutch elm disease), and moderate resistance to elm leaf beetle. It has small leaves, and a lovely red-purple autumn coloration.",
     "FULL_PIC_180x110": "new_images/199/plantstogrow/Ulmus Frontier-031000cmx_180x110.png",
     "FULL_PIC_1024x768": "new_images/199/plantstogrow/Ulmus Frontier-031000cmx_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5229,7 +5229,7 @@
   {
     "COMMON": "Homestead Elm",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Ulmus \u2018Homestead\u2019",
+    "SCIENTIFIC": "Ulmus ‘Homestead’",
     "ID": "200",
     "ITREECODE": "ULS",
     "LEVEL": "expert",
@@ -5284,7 +5284,7 @@
   {
     "COMMON": "Allee Elm (aka Chinese Elm or Lacebark Elm)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Ulmus parviflolia \u2018Emer II\u2019",
+    "SCIENTIFIC": "Ulmus parviflolia ‘Emer II’",
     "ID": "202",
     "ITREECODE": "ULPAEM",
     "LEVEL": "expert",
@@ -5303,7 +5303,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Ulmus parviflolia \u2018Elmer II\u2019 can reach a height of about 15 m, with a more upright crown shape than its stablemate Athena, its spread approximately 13 m, with arching branches bearing medium green, glossy leaves turning orange to rust red in autumn.",
+    "DESCRIPTION": "Ulmus parviflolia ‘Elmer II’ can reach a height of about 15 m, with a more upright crown shape than its stablemate Athena, its spread approximately 13 m, with arching branches bearing medium green, glossy leaves turning orange to rust red in autumn.",
     "FULL_PIC_180x110": "new_images/202/wikimedia_commons/Ulmus_parvifolia_Emer_II_7zz_180x110.png",
     "FULL_PIC_1024x768": "new_images/202/wikimedia_commons/Ulmus_parvifolia_Emer_II_7zz_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5338,7 +5338,7 @@
   {
     "COMMON": "Green Vase Zelkova",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Zelkova serrata \u2018Green vase\u2019",
+    "SCIENTIFIC": "Zelkova serrata ‘Green vase’",
     "ID": "204",
     "ITREECODE": "ZESE",
     "LEVEL": "expert",
@@ -5366,7 +5366,7 @@
   {
     "COMMON": "Village Green Zelkova",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Zelkova serrata \u2018Village Green\u2019",
+    "SCIENTIFIC": "Zelkova serrata ‘Village Green’",
     "ID": "205",
     "ITREECODE": "ZESEVG",
     "LEVEL": "expert",
@@ -5560,7 +5560,7 @@
     "BARK_COLOR": "red, grey, brown",
     "NEEDLE_COLOR": "gold, green, silver, blue",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "The Leyland cypress, Cupressus \u00d7 leylandii, often referred to simply as Leylandii, is a fast-growing coniferous evergreen tree much used in horticulture, primarily for hedges and screens. It is a hybrid of two Pacific Coast species - Monterey cypress and Alaska-cedar. This hybrid species is sterile and must be propagated vegetatively. Leyland cypress is now grown in all southern states, and is becoming desirable for use as a Christmas tree species in that region.",
+    "DESCRIPTION": "The Leyland cypress, Cupressus × leylandii, often referred to simply as Leylandii, is a fast-growing coniferous evergreen tree much used in horticulture, primarily for hedges and screens. It is a hybrid of two Pacific Coast species - Monterey cypress and Alaska-cedar. This hybrid species is sterile and must be propagated vegetatively. Leyland cypress is now grown in all southern states, and is becoming desirable for use as a Christmas tree species in that region.",
     "FULL_PIC_180x110": "new_images/212/wikimedia_commons/Cupressus_leylandii0_180x110.png",
     "FULL_PIC_1024x768": "new_images/212/wikimedia_commons/Cupressus_leylandii0_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5587,7 +5587,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "smooth, hairy",
-    "DESCRIPTION": "Laburnum \u00d7 watereri (or Laburnum watereri), is a naturally occurring hybrid species of Laburnum, native to Central Europe. It is a small deciduous tree that can grow to 15 feet (4.5 meters) in height and 10 feet (3 meters) in width. When the Goldenchain tree is in bloom during spring - usually for a period of 2 weeks - it features a bright yellow string of flowers that eventually morph into small flattened pods. The drooping flower clusters are 24 inches (60 centimeters) long, fragrant, and favored by hummingbirds. However, much of the tree - including the seeds - are extremely poisonous, and dangerous for both humans and animals to consume. The leaves are odd-fingered with three oblong single leaves.",
+    "DESCRIPTION": "Laburnum × watereri (or Laburnum watereri), is a naturally occurring hybrid species of Laburnum, native to Central Europe. It is a small deciduous tree that can grow to 15 feet (4.5 meters) in height and 10 feet (3 meters) in width. When the Goldenchain tree is in bloom during spring - usually for a period of 2 weeks - it features a bright yellow string of flowers that eventually morph into small flattened pods. The drooping flower clusters are 24 inches (60 centimeters) long, fragrant, and favored by hummingbirds. However, much of the tree - including the seeds - are extremely poisonous, and dangerous for both humans and animals to consume. The leaves are odd-fingered with three oblong single leaves.",
     "FULL_PIC_180x110": "new_images/213/wikimedia_commons/Laburnum_x_watereri_Vossii_5zz_180x110.png",
     "FULL_PIC_1024x768": "new_images/213/wikimedia_commons/Laburnum_x_watereri_Vossii_5zz_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/213/Laburnum_1024x768.png"
@@ -5695,7 +5695,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "waxy",
-    "DESCRIPTION": "Cotinus coggygria - the European smoketree or Eurasian smoketree - is a multiple-branching deciduous shrub growing to 16\u201323 ft (5\u20137 m) tall with an open, spreading, irregular habit, only rarely forming a small tree. The leaves are 1-3 inches (3\u20138 cm) long rounded ovals, green with a waxy glaucous sheen. The autumn colour can be strikingly varied - from peach and yellow to scarlet - and the leaves when crushed can smell like a radish. However, people should take care when touching this plant, this plant is in the same family as poison ivy (Anacardiaceae) and contact with its sap may cause contact dermatitis.",
+    "DESCRIPTION": "Cotinus coggygria - the European smoketree or Eurasian smoketree - is a multiple-branching deciduous shrub growing to 16–23 ft (5–7 m) tall with an open, spreading, irregular habit, only rarely forming a small tree. The leaves are 1-3 inches (3–8 cm) long rounded ovals, green with a waxy glaucous sheen. The autumn colour can be strikingly varied - from peach and yellow to scarlet - and the leaves when crushed can smell like a radish. However, people should take care when touching this plant, this plant is in the same family as poison ivy (Anacardiaceae) and contact with its sap may cause contact dermatitis.",
     "FULL_PIC_180x110": "new_images/218/wikimedia_commons/Cotinus_coggygria_smoke_tree_in_Arboretum_of_Goodnestone_Park_Kent_England_3_180x110.png",
     "FULL_PIC_1024x768": "new_images/218/wikimedia_commons/Cotinus_coggygria_smoke_tree_in_Arboretum_of_Goodnestone_Park_Kent_England_3_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5827,7 +5827,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Acer \u00d7 freemanii, Freeman maple or Freeman's maple, is a naturally occurring hybrid maple that is the result of a cross between Acer rubrum (red maple) and Acer saccharinum (silver maple).",
+    "DESCRIPTION": "Acer × freemanii, Freeman maple or Freeman's maple, is a naturally occurring hybrid maple that is the result of a cross between Acer rubrum (red maple) and Acer saccharinum (silver maple).",
     "FULL_PIC_180x110": "new_images/223/wikimedia_commons/Acer_freemanii_Autumn_Blaze_0zz_180x110.png",
     "FULL_PIC_1024x768": "new_images/223/wikimedia_commons/Acer_freemanii_Autumn_Blaze_0zz_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5899,7 +5899,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Juniperus chinensis, the Chinese juniper is a species of plant in the cypress family Cupressaceae, native to China, Myanmar, Japan, Korea and the Russian Far East. Growing 1\u201320 m tall, it is a very variable coniferous evergreen tree or shrub.",
+    "DESCRIPTION": "Juniperus chinensis, the Chinese juniper is a species of plant in the cypress family Cupressaceae, native to China, Myanmar, Japan, Korea and the Russian Far East. Growing 1–20 m tall, it is a very variable coniferous evergreen tree or shrub.",
     "FULL_PIC_180x110": "new_images/226/wikimedia_commons/JuniperusChinensis_180x110.png",
     "FULL_PIC_1024x768": "new_images/226/wikimedia_commons/JuniperusChinensis_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -5977,7 +5977,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "The Joshua tree, the largest of the yuccas, grows only in the Mojave Desert. The average lifespan for a Joshua tree is about 150 years, but some of the largest trees may be much older than that. The evergreen leaves are dark green, linear, bayonet-shaped. Flowers typically appear from February to late April, in panicles 30\u201355 cm tall and 30\u201338 cm broad.",
+    "DESCRIPTION": "The Joshua tree, the largest of the yuccas, grows only in the Mojave Desert. The average lifespan for a Joshua tree is about 150 years, but some of the largest trees may be much older than that. The evergreen leaves are dark green, linear, bayonet-shaped. Flowers typically appear from February to late April, in panicles 30–55 cm tall and 30–38 cm broad.",
     "FULL_PIC_180x110": "new_images/230/EOL-media-7-CalPhotos_6666 6666 0112 0068/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/230/EOL-media-7-CalPhotos_6666 6666 0112 0068/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/230/EOL-media-7-CalPhotos_0000 0000 0410 1899/full_1024x768.png"
@@ -6453,7 +6453,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Alchorneopsis is a genus of flowering plants in the family Euphorbiaceae. The trees are small to medium sized evergreen trees, ranging from 20 to 50 feet (6 to 15 meters) in height with a trunk diameter near 1 \u00bd feet (3.8 centimeters). The outer bark is smooth, slightly grooved and gray in color. Branches are light-brown with fine hairs when immature. They feature elliptically shaped leaves, pointed at each end, that are thin, slightly shiny, and light-green to yellow-green in color. Also has small, greenish or yellow-green flowers bunched together on extremely short stalks \u2013 they are dioecious \u2013 with male and female flowers occuring on different trees.",
+    "DESCRIPTION": "Alchorneopsis is a genus of flowering plants in the family Euphorbiaceae. The trees are small to medium sized evergreen trees, ranging from 20 to 50 feet (6 to 15 meters) in height with a trunk diameter near 1 \u00bd feet (3.8 centimeters). The outer bark is smooth, slightly grooved and gray in color. Branches are light-brown with fine hairs when immature. They feature elliptically shaped leaves, pointed at each end, that are thin, slightly shiny, and light-green to yellow-green in color. Also has small, greenish or yellow-green flowers bunched together on extremely short stalks – they are dioecious – with male and female flowers occuring on different trees.",
     "FULL_PIC_180x110": "new_images/247/EOL-media-542-11486568505/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/247/EOL-media-542-11486568505/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -6509,7 +6509,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Alders are trees comprising the genus Alnus in the birch family Betulaceae. The easiest way of recognizing an alder tree is by its distinctive little fruiting body, called a strobile. They appear in fall and look like 1 inch (2.5 cm.) long cones. The Alder leaf is rounded to ovate roundish and 6 \u2013 12 cm (2.4 \u2013 4.7 in) long and broad. The veins go opposite from the central axis of the leaf. The leaf has no peak. The leaf margin is double serrated.",
+    "DESCRIPTION": "Alders are trees comprising the genus Alnus in the birch family Betulaceae. The easiest way of recognizing an alder tree is by its distinctive little fruiting body, called a strobile. They appear in fall and look like 1 inch (2.5 cm.) long cones. The Alder leaf is rounded to ovate roundish and 6 – 12 cm (2.4 – 4.7 in) long and broad. The veins go opposite from the central axis of the leaf. The leaf has no peak. The leaf margin is double serrated.",
     "FULL_PIC_180x110": "new_images/249/EOL-media-913-5062/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/249/EOL-media-913-5062/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/249/EOL-media-913-5061/full_1024x768.png"
@@ -6705,7 +6705,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Yucca is a genus of perennial shrubs and trees in the family Asparagaceae, subfamily Agavoideae. Its 40\u201350 species are notable for their rosettes of evergreen, tough, sword-shaped leaves and large terminal panicles of white or whitish flowers.",
+    "DESCRIPTION": "Yucca is a genus of perennial shrubs and trees in the family Asparagaceae, subfamily Agavoideae. Its 40–50 species are notable for their rosettes of evergreen, tough, sword-shaped leaves and large terminal panicles of white or whitish flowers.",
     "FULL_PIC_180x110": "new_images/256/800px-Yucca_aloifolia_4_180x110.png",
     "FULL_PIC_1024x768": "new_images/256/800px-Yucca_aloifolia_4_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/256/Yucca_filamentosa_1024x768.png,new_images/256/EOL-media-543-yucca_005_avp.tif/full_1024x768.png"
@@ -7166,7 +7166,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Firs (Abies) are a genus of 48\u201356 species of evergreen coniferous trees in the family Pinaceae. They are found throughout much of North and Central America. These large trees, although closely related to cedars, can be distinguished from other conifers by their soft cones that perch upright like candles.",
+    "DESCRIPTION": "Firs (Abies) are a genus of 48–56 species of evergreen coniferous trees in the family Pinaceae. They are found throughout much of North and Central America. These large trees, although closely related to cedars, can be distinguished from other conifers by their soft cones that perch upright like candles.",
     "FULL_PIC_180x110": "new_images/273/EOL-media-542-5506811559/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/273/EOL-media-542-5506811559/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/273/EOL-media-913-5805/full_1024x768.png,new_images/273/EOL-media-913-5806/full_1024x768.png"
@@ -7587,7 +7587,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Monterey cypress is an evergreen coniferous tree, bearing male and female cones on the same tree. It is one of several species of cypress trees endemic to California. The foliage grows in dense sprays which are bright green in color. The leaves are scale-like, 2\u20135 mm (.07-.2 inches) long, and produced on rounded (not flattened) shoots; seedlings up to a year old have needle-like leaves 4\u20138 mm (0.1 - 0.3 inches) long.",
+    "DESCRIPTION": "Monterey cypress is an evergreen coniferous tree, bearing male and female cones on the same tree. It is one of several species of cypress trees endemic to California. The foliage grows in dense sprays which are bright green in color. The leaves are scale-like, 2–5 mm (.07-.2 inches) long, and produced on rounded (not flattened) shoots; seedlings up to a year old have needle-like leaves 4–8 mm (0.1 - 0.3 inches) long.",
     "FULL_PIC_180x110": "new_images/289/EOL-media-542-6276126769/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/289/EOL-media-542-6276126769/full_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/289/EOL-media-542-484096931/full_1024x768.png"
@@ -7936,7 +7936,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Populus \u00d7 canadensis, known as Canadian poplar or Carolina poplar, is a naturally occurring hybrid of Populus nigra and Populus deltoides. It is a vigorous, broadly columnar, deciduous tree growing to 40 m (131 feet).",
+    "DESCRIPTION": "Populus × canadensis, known as Canadian poplar or Carolina poplar, is a naturally occurring hybrid of Populus nigra and Populus deltoides. It is a vigorous, broadly columnar, deciduous tree growing to 40 m (131 feet).",
     "FULL_PIC_180x110": "new_images/303/Canadian poplar/800px-Populier_Populus_canadensis_180x110.png",
     "FULL_PIC_1024x768": "new_images/303/Canadian poplar/800px-Populier_Populus_canadensis_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/303/Canadian poplar/Canadian poplarThumbPic_1024x768.png"
@@ -8017,7 +8017,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10\u201320 m. (32-65 feet)",
+    "DESCRIPTION": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10–20 m. (32-65 feet)",
     "FULL_PIC_180x110": "new_images/306/WhiteMulberry/WhiteMulberryFullPic_180x110.png",
     "FULL_PIC_1024x768": "new_images/306/WhiteMulberry/WhiteMulberryFullPic_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/306/WhiteMulberry/WhiteMulberryThumbPic_1024x768.png"
@@ -8140,7 +8140,7 @@
     "LEVEL": "medium",
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "/missing_images_pt2/311/800px-Arbutus_menziesii_3208s.jpg,/missing_images_pt2/311/Arbutus_canariensis_kz7.JPG",
-    "FULL_PIC": "/missing_images_pt2/311/1280px-Arbutus_\u00d7_andrachnoides.jpg",
+    "FULL_PIC": "/missing_images_pt2/311/1280px-Arbutus_×_andrachnoides.jpg",
     "GENUS": "Arbutus",
     "BARK_TYPE": "peeling, mottled",
     "LEAF_SHAPE": "ovate, lanceolate",
@@ -8182,7 +8182,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Asimina is the only temperate genus in the tropical and subtropical flowering plant family, Annonaceae (also known as the 'Custard Apple' family). Asimina has large simple leaves and large fruit. It is native to eastern North America and collectively referred to as Pawpaw. Pawpaw fruits are the largest edible fruit indigenous to the United States. They grow to a height of 35 ft (11 m), and occasionally tall as 45 ft (14 m), with trunks 8\u201312 in (20\u201330 cm) or more in diameter.",
+    "DESCRIPTION": "Asimina is the only temperate genus in the tropical and subtropical flowering plant family, Annonaceae (also known as the 'Custard Apple' family). Asimina has large simple leaves and large fruit. It is native to eastern North America and collectively referred to as Pawpaw. Pawpaw fruits are the largest edible fruit indigenous to the United States. They grow to a height of 35 ft (11 m), and occasionally tall as 45 ft (14 m), with trunks 8–12 in (20–30 cm) or more in diameter.",
     "FULL_PIC_1024x768": "new_images/312/Asimina_triloba3_1024x768.png",
     "THUMB_PIC_1024x768": "",
     "FULL_PIC_180x110": "new_images/312/Asimina_triloba3_180x110.png"
@@ -8207,7 +8207,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "",
-    "DESCRIPTION": "Calocedrus is a genus of coniferous trees in the cypress family Cupressaceae. It was first described as a genus in 1873, and is related to the Thuja, and has similar overlapping scale-leaves. Calocedrus differs from Thuja in the scale leaves being whorls of four (actually opposite decussate pairs like Thuja, but NOT as evenly spaced apart as in Thuja). Species in the Calocedrus genus have scales with successive pairs placed closely together, rather than distantly spaced. Also the cones have just 2\u20133 pairs of moderately thin, erect scales, rather than 4\u20136 pairs of very thin scales which are featured in the Thuja genus.",
+    "DESCRIPTION": "Calocedrus is a genus of coniferous trees in the cypress family Cupressaceae. It was first described as a genus in 1873, and is related to the Thuja, and has similar overlapping scale-leaves. Calocedrus differs from Thuja in the scale leaves being whorls of four (actually opposite decussate pairs like Thuja, but NOT as evenly spaced apart as in Thuja). Species in the Calocedrus genus have scales with successive pairs placed closely together, rather than distantly spaced. Also the cones have just 2–3 pairs of moderately thin, erect scales, rather than 4–6 pairs of very thin scales which are featured in the Thuja genus.",
     "FULL_PIC_180x110": "new_images/313/calocedrus_decurrens_180x110.png",
     "FULL_PIC_1024x768": "new_images/313/calocedrus_decurrens_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/313/Calocedrus_decurrens_7947_1024x768.png,new_images/new_version_1024x768.png"
@@ -8316,7 +8316,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Cladrastis spp. is a genus of 9 species (from the pea family - Fabaceae) native to eastern Asia and southeastern North America. Species of Cladrastis are small to medium-sized deciduous trees typically growing 33 to 65 ft (10\u201320 m) tall, exceptionally to 88.5 ft (27 m) tall.",
+    "DESCRIPTION": "Cladrastis spp. is a genus of 9 species (from the pea family - Fabaceae) native to eastern Asia and southeastern North America. Species of Cladrastis are small to medium-sized deciduous trees typically growing 33 to 65 ft (10–20 m) tall, exceptionally to 88.5 ft (27 m) tall.",
     "FULL_PIC_1024x768": "new_images/317/Cladrastis-kentukea-00_1024x768.png",
     "THUMB_PIC_1024x768": "",
     "FULL_PIC_180x110": "new_images/317/Cladrastis-kentukea-00_180x110.png"
@@ -8344,7 +8344,7 @@
     "LEAF_ARRANGEMENT": "alternate, opposite",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Cornus is a genus of about 30\u201360 species of woody plants in the family Cornaceae, commonly known as 'Dogwoods', which can generally be distinguished by their blossoms, berries, and distinctive bark. The typical dogwood leaf is oval and measures between 3 and 6 inches (7.6 - 15 cm) long, and grows in an opposite arrangement on the stems (although there are Dogwood leaves that grow in an alternate arrangement). The leaves have visible veins that curve parallel to the margins. Dogwood flowers are typically white, but some species produce yellow, pale red or pink blossoms.",
+    "DESCRIPTION": "Cornus is a genus of about 30–60 species of woody plants in the family Cornaceae, commonly known as 'Dogwoods', which can generally be distinguished by their blossoms, berries, and distinctive bark. The typical dogwood leaf is oval and measures between 3 and 6 inches (7.6 - 15 cm) long, and grows in an opposite arrangement on the stems (although there are Dogwood leaves that grow in an alternate arrangement). The leaves have visible veins that curve parallel to the margins. Dogwood flowers are typically white, but some species produce yellow, pale red or pink blossoms.",
     "FULL_PIC_1024x768": "new_images/318/Blooming_Dogwood_1024x768.png",
     "THUMB_PIC_1024x768": "",
     "FULL_PIC_180x110": "new_images/318/Blooming_Dogwood_180x110.png"
@@ -8372,7 +8372,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Ostryopsis is a small genus of deciduous shrubs native to China. Species in this genus are occasionally planted for erosion control in colder North America regions such as eastern Canada, the upper Midwest, and the northeastern United States. The Ostryopsis species/genus have no common English name, although 'Hazel-Hornbeam' has been suggested (reflecting their similarities to the closely related Hazels spp. and Hornbeams spp.). This genus is usually placed in the birch family Betulaceae, although some botanists split the 'Hazels' (along with the 'Hornbeams') into a separate family - Corylaceae. The shrubs reach 3\u20135 m (9.8 - 16.5 ft) tall, with alternate, double-toothed hazel-like leaves 2\u20137 cm (.8 - 2.7 in) long. The flowers are produced in spring, with separate male and female catkins. The fruit form in clusters 3\u20135 cm (1.1 - 2 in) long with 6-10 seeds; each seed is a small nut 4\u20136 mm (.04 - .2 in) long, fully enclosed in a sheath-like 'involucre' (i.e. a part of the leaf that's found directly below the flower/seed, and encloses the flower/seed with leaf-like petals).",
+    "DESCRIPTION": "Ostryopsis is a small genus of deciduous shrubs native to China. Species in this genus are occasionally planted for erosion control in colder North America regions such as eastern Canada, the upper Midwest, and the northeastern United States. The Ostryopsis species/genus have no common English name, although 'Hazel-Hornbeam' has been suggested (reflecting their similarities to the closely related Hazels spp. and Hornbeams spp.). This genus is usually placed in the birch family Betulaceae, although some botanists split the 'Hazels' (along with the 'Hornbeams') into a separate family - Corylaceae. The shrubs reach 3–5 m (9.8 - 16.5 ft) tall, with alternate, double-toothed hazel-like leaves 2–7 cm (.8 - 2.7 in) long. The flowers are produced in spring, with separate male and female catkins. The fruit form in clusters 3–5 cm (1.1 - 2 in) long with 6-10 seeds; each seed is a small nut 4–6 mm (.04 - .2 in) long, fully enclosed in a sheath-like 'involucre' (i.e. a part of the leaf that's found directly below the flower/seed, and encloses the flower/seed with leaf-like petals).",
     "FULL_PIC_1024x768": "new_images/319/1024px-Corylus_americana1_1024x768.png",
     "THUMB_PIC_1024x768": "",
     "FULL_PIC_180x110": "new_images/319/1024px-Corylus_americana1_180x110.png"
@@ -8512,7 +8512,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Halesia, also known as 'Silverbell' or 'Snowdrop' tree, is a small genus of four or five species of deciduous large shrubs or small trees in the family Styracaceae. They are native to eastern Asia and eastern North America. They grow to 16-66 ft (5\u201320 m) tall - and rarely to 128 ft (39 m) tall. Species in this genus have alternate, simple ovate leaves 2 - 6.2 in (5\u201316 cm) long and 1.1 - 3.1 in (3\u20138 cm) broad.",
+    "DESCRIPTION": "Halesia, also known as 'Silverbell' or 'Snowdrop' tree, is a small genus of four or five species of deciduous large shrubs or small trees in the family Styracaceae. They are native to eastern Asia and eastern North America. They grow to 16-66 ft (5–20 m) tall - and rarely to 128 ft (39 m) tall. Species in this genus have alternate, simple ovate leaves 2 - 6.2 in (5–16 cm) long and 1.1 - 3.1 in (3–8 cm) broad.",
     "FULL_PIC_1024x768": "new_images/324/Halesia_carolina0_1024x768.png",
     "THUMB_PIC_1024x768": "",
     "FULL_PIC_180x110": "new_images/324/Halesia_carolina0_180x110.png"
@@ -8568,7 +8568,7 @@
     "LEAF_ARRANGEMENT": "whorled or spiral, alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Koelreuteria is a genus of 3 species of flowering plants in the family Sapindaceae. Species in this genus are native to southern and eastern Asia. They are medium-sized deciduous trees growing to 33\u201366 ft (10\u201320 m) tall, with spirally arranged pinnate or bipinnate leaves. The fruit is a three-lobed inflated papery capsule 1.1 - 2.3 in (3\u20136 cm) long, containing several hard nut-like seeds 5\u201310 mm diameter.",
+    "DESCRIPTION": "Koelreuteria is a genus of 3 species of flowering plants in the family Sapindaceae. Species in this genus are native to southern and eastern Asia. They are medium-sized deciduous trees growing to 33–66 ft (10–20 m) tall, with spirally arranged pinnate or bipinnate leaves. The fruit is a three-lobed inflated papery capsule 1.1 - 2.3 in (3–6 cm) long, containing several hard nut-like seeds 5–10 mm diameter.",
     "FULL_PIC_1024x768": "new_images/326/800px-Leafage_of_Koelreuteria_paniculata_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/326/Koelreutheria-paniculata_1024x768.png",
     "FULL_PIC_180x110": "new_images/326/800px-Leafage_of_Koelreuteria_paniculata_180x110.png"
@@ -8622,7 +8622,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "green",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Liquidambar spp. are deciduous trees and grow from 25 to 60 feet (7.62 - 18.2 meters). Trees have spiny pods that hang through the winter and drop in the spring. They are known for their brilliant fall color variations of reds, purples, oranges, and yellows. The fragrant leaves grow between 3 - 6 inches (7.5 \u2013 15 cm) long and wide. The Sweet Gum species is a foodplant for various moths and catepillars, including the invasive 'Gypsy moth' (Lymantria dispar).",
+    "DESCRIPTION": "Liquidambar spp. are deciduous trees and grow from 25 to 60 feet (7.62 - 18.2 meters). Trees have spiny pods that hang through the winter and drop in the spring. They are known for their brilliant fall color variations of reds, purples, oranges, and yellows. The fragrant leaves grow between 3 - 6 inches (7.5 – 15 cm) long and wide. The Sweet Gum species is a foodplant for various moths and catepillars, including the invasive 'Gypsy moth' (Lymantria dispar).",
     "FULL_PIC_180x110": "new_images/328/champaign_illinois_sweetgum2_180x110.png",
     "FULL_PIC_1024x768": "new_images/328/champaign_illinois_sweetgum2_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -8965,7 +8965,7 @@
     "LEAF_ARRANGEMENT": "alternate, odd pinnate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Robinia is a genus of flowering plants in the family Fabaceae, tribe Robinieae, native to North America. Commonly known as 'Locusts', they are deciduous trees and shrubs growing 4\u201325 metres (13\u201382 ft) tall. The leaves are pinnate with 7\u201321 oval leaflets. The flowers are white or pink, in usually pendulous racemes. Many species have thorny shoots, and several have sticky hairs on the shoots. Also, because this plant can spread aggressively by root suckers it is considered invasive in many areas of North America. The leaves of this species of tree are very poisonous if ingested.",
+    "DESCRIPTION": "Robinia is a genus of flowering plants in the family Fabaceae, tribe Robinieae, native to North America. Commonly known as 'Locusts', they are deciduous trees and shrubs growing 4–25 metres (13–82 ft) tall. The leaves are pinnate with 7–21 oval leaflets. The flowers are white or pink, in usually pendulous racemes. Many species have thorny shoots, and several have sticky hairs on the shoots. Also, because this plant can spread aggressively by root suckers it is considered invasive in many areas of North America. The leaves of this species of tree are very poisonous if ingested.",
     "FULL_PIC_180x110": "new_images/341/Robina9146_180x110.png",
     "FULL_PIC_1024x768": "new_images/341/Robina9146_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -9169,7 +9169,7 @@
     "BARK_COLOR": "red, brown",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "whorled or spiral",
-    "DESCRIPTION": "Yew (Taxus spp.) is a tree distributed throughout many regions of the world. The antitumor drug 'Paclitaxel (taxol)' can be extracted from the Taxus genus. That said, the plant itself is largely considered poisonous. Horses and cattle are most often poisoned with Yew trimmings. The Japanese yew (T. cuspidata) and English yew (T. baccata) grow throughout North America and are widely used as ornamentals. Species in this genus are relatively slow-growing and can be very long-lived. They commonly reach heights of 2.5\u201320 m (8.2\u201365.6 ft), with trunk girth averaging 5 m (16 ft).",
+    "DESCRIPTION": "Yew (Taxus spp.) is a tree distributed throughout many regions of the world. The antitumor drug 'Paclitaxel (taxol)' can be extracted from the Taxus genus. That said, the plant itself is largely considered poisonous. Horses and cattle are most often poisoned with Yew trimmings. The Japanese yew (T. cuspidata) and English yew (T. baccata) grow throughout North America and are widely used as ornamentals. Species in this genus are relatively slow-growing and can be very long-lived. They commonly reach heights of 2.5–20 m (8.2–65.6 ft), with trunk girth averaging 5 m (16 ft).",
     "FULL_PIC_180x110": "new_images/349/Taxus_baccata_MHNT_flowers_male_180x110.png",
     "FULL_PIC_1024x768": "new_images/349/Taxus_baccata_MHNT_flowers_male_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -9377,7 +9377,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "",
     "NEEDLE_ARRANGEMENT": "whorled or spiral",
-    "DESCRIPTION": "Junipers are coniferous trees and shrubs in the genus Juniperus of the cypress family Cupressaceae. Depending on the taxonomy, there are between 50 and 67 species of junipers widely distributed throughout the Northern Hemisphere. Their native climates range from the Artic to tropical Africa. The species in this genus vary in size and shape. Some species are large trees, reaching up to 20\u201340 metres (66\u2013131 feet) in height. Other species are tightly columnar or low-spreading shrubs with long, trailing branches. Junipers are evergreen with needle-like and/or scale-like leaves. The female seed cones are very distinctive, with fleshy, fruit-like coalescing scales which fuse together to form a berrylike structure.",
+    "DESCRIPTION": "Junipers are coniferous trees and shrubs in the genus Juniperus of the cypress family Cupressaceae. Depending on the taxonomy, there are between 50 and 67 species of junipers widely distributed throughout the Northern Hemisphere. Their native climates range from the Artic to tropical Africa. The species in this genus vary in size and shape. Some species are large trees, reaching up to 20–40 metres (66–131 feet) in height. Other species are tightly columnar or low-spreading shrubs with long, trailing branches. Junipers are evergreen with needle-like and/or scale-like leaves. The female seed cones are very distinctive, with fleshy, fruit-like coalescing scales which fuse together to form a berrylike structure.",
     "FULL_PIC_180x110": "new_images/357/Juniperus_communis_cones_180x110.png",
     "FULL_PIC_1024x768": "new_images/357/Juniperus_communis_cones_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/357/Jun_chin_close_1024x768.png"
@@ -9432,7 +9432,7 @@
     "LEAF_ARRANGEMENT": "whorled or spiral, opposite",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "glossy",
-    "DESCRIPTION": "Pisonia is a genus of flowering plants in the 'Four o'clock' flower family, Nyctaginaceae. It was named for Dutch physician and naturalist Willem Piso (1611\u20131678). Pisonia trees, also nicknamed \u201cBird-catchers\u201d, are found in tropical habitats, mainly islands in the Caribbean and Indo-Pacific.",
+    "DESCRIPTION": "Pisonia is a genus of flowering plants in the 'Four o'clock' flower family, Nyctaginaceae. It was named for Dutch physician and naturalist Willem Piso (1611–1678). Pisonia trees, also nicknamed \u201cBird-catchers\u201d, are found in tropical habitats, mainly islands in the Caribbean and Indo-Pacific.",
     "FULL_PIC_180x110": "new_images/359/PisoniaBrunoniana2_180x110.png",
     "FULL_PIC_1024x768": "new_images/359/PisoniaBrunoniana2_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -9564,7 +9564,7 @@
     "LEAF_ARRANGEMENT": "alternate",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "coarse",
-    "DESCRIPTION": "Black Walnut (Juglans nigra) is an ornamental tree in the walnut family Juglandaceae. The enormous tree is identified by its irregular oval crown, pinnately compound leaves, dangling catkins, and clusters of edible nuts. Black walnut trees grow between 100 and 130 ft. (30 \u2013 40 m) and up to 70 ft. (21 m) wide. An identifying feature of a black walnut tree is its thick, dark gray-black bark that develops deep furrows and thin ridges. Looking at pictures of black walnut bark, you\u2019ll notice a distinct diamond-shaped patterning running up the tree trunk. You can also identify a Black Walnut tree by looking closely at the twigs. When the leaves drop, you will see a distinctive three-lobed scar that looks like a shamrock on the branch. Additionally, there will be few, if any, shrubs or small trees growing near a Black Walnut tree.",
+    "DESCRIPTION": "Black Walnut (Juglans nigra) is an ornamental tree in the walnut family Juglandaceae. The enormous tree is identified by its irregular oval crown, pinnately compound leaves, dangling catkins, and clusters of edible nuts. Black walnut trees grow between 100 and 130 ft. (30 – 40 m) and up to 70 ft. (21 m) wide. An identifying feature of a black walnut tree is its thick, dark gray-black bark that develops deep furrows and thin ridges. Looking at pictures of black walnut bark, you’ll notice a distinct diamond-shaped patterning running up the tree trunk. You can also identify a Black Walnut tree by looking closely at the twigs. When the leaves drop, you will see a distinctive three-lobed scar that looks like a shamrock on the branch. Additionally, there will be few, if any, shrubs or small trees growing near a Black Walnut tree.",
     "FULL_PIC_180x110": "new_images/364/IMG_5427_180x110.png",
     "FULL_PIC_1024x768": "new_images/364/IMG_5427_1024x768.png",
     "THUMB_PIC_1024x768": "new_images/364/IMG_5429_1024x768.png,new_images/364/IMG_5428_1024x768.png"
