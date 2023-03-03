@@ -658,7 +658,7 @@
     "THUMB_PIC_1024x768": "new_images/24/SubalpineLarch_7735tl_1024x768.png,new_images/24/1280px-Larix_laricina_range_map_1024x768.png"
   },
   {
-    "COMMON": "Amorpha (False indigo spp.)",
+    "COMMON": "False indigo (Amorpha spp.)",
     "TYPE": "broadleaf",
     "SCIENTIFIC": "Amorpha spp.",
     "ID": "25",
@@ -2322,16 +2322,16 @@
     "THUMB_PIC_1024x768": ""
   },
   {
-    "COMMON": "Gingko biloba",
+    "COMMON": "Ginkgo biloba",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Gingko biloba",
+    "SCIENTIFIC": "Ginkgo biloba",
     "ID": "88",
     "ITREECODE": "GICLASS",
     "LEVEL": "expert",
     "ITREECODE_APPROX": "y",
     "THUMB_PIC": "",
     "FULL_PIC": "/images/88/EOL-media-614-300920/full.jpg",
-    "GENUS": "Gingko",
+    "GENUS": "Ginkgo",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -2344,7 +2344,7 @@
     "LEAF_ARRANGEMENT": "",
     "LEAF_UNDERSIDE_COLOR": "",
     "LEAF_TEXTURE": "",
-    "DESCRIPTION": "Gingko biloba is a species of tree native to China. It is the last living species in the order Ginkgoales, which first appeared over 290 million years ago.",
+    "DESCRIPTION": "Ginkgo biloba is a species of tree native to China. It is the last living species in the order Ginkgoales, which first appeared over 290 million years ago. The tree was cultivated early in human history and remains commonly planted. Ginkgos are large trees, normally reaching a height of 66–115 ft (20–35 m), with some specimens in China being over 165 ft (50 m). The tree has an angular crown and long, somewhat erratic branches, and is usually deep-rooted and resistant to wind and snow damage. The leaves are unique among seed plants, being fan-shaped with veins radiating out into the leaf blade.",
     "FULL_PIC_180x110": "new_images/88/EOL-media-614-300920/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/88/EOL-media-614-300920/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -3272,7 +3272,7 @@
   {
     "COMMON": "Antarctic Beech",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Nothofagus antartica",
+    "SCIENTIFIC": "Nothofagus antarctica",
     "ID": "123",
     "ITREECODE": "NOAN",
     "LEVEL": "medium",
@@ -6186,7 +6186,7 @@
     "ITREECODE_APPROX": "n",
     "THUMB_PIC": "/images/235/EOL-media-913-113601/full.jpg",
     "FULL_PIC": "/images/235/EOL-media-913-64252/full.jpg",
-    "GENUS": "Gingko",
+    "GENUS": "Ginkgo",
     "BARK_TYPE": "",
     "LEAF_SHAPE": "",
     "LEAF_VEINS": "",
@@ -8683,7 +8683,7 @@
   {
     "COMMON": "Crape myrtle or Crepe myrtle (Lagerstroemia spp.)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Liquidambar spp.",
+    "SCIENTIFIC": "Lagerstroemia spp.",
     "ID": "327",
     "ITREECODE": "LA6",
     "LEVEL": "medium",
