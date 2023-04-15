@@ -5608,7 +5608,7 @@
     "GENUS": "Cupressus",
     "BARK_TYPE": "scaly, ridges or furrowed",
     "NEEDLE_TRAITS": "flattened sprays",
-    "NEEDLE_DIRECTION": "no",
+    "NEEDLE_DIRECTION": "",
     "TREE_SHAPE": "fastigiate, columnar, pyramidal",
     "CONE": "downward/outward (female), globose - round or spherical shape (female), grey/green/brown (female)",
     "FASCICLE_NO": "",
