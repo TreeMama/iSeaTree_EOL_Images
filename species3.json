@@ -478,7 +478,7 @@
     "BARK_COLOR": "",
     "NEEDLE_COLOR": "green",
     "NEEDLE_ARRANGEMENT": "whorled or spiral",
-    "DESCRIPTION": "Sciadopitys verticillata, the k�yamaki or Japanese umbrella-pine, is a unique conifer endemic to Japan. It is the sole member of the family Sciadopityaceae and genus Sciadopitys, a living fossil with no close relatives, and present in the fossil record for about 230 million years. The species name 'Verticillata' is a descriptive epithet meaning 'whorled'.",
+    "DESCRIPTION": "Sciadopitys verticillata, the kōyamaki or Japanese umbrella-pine, is a unique conifer endemic to Japan. It is the sole member of the family Sciadopityaceae and genus Sciadopitys, a living fossil with no close relatives, and present in the fossil record for about 230 million years. The species name 'Verticillata' is a descriptive epithet meaning 'whorled'.",
     "FULL_PIC_180x110": "new_images/175/EOL-media-542-5896687190/full_180x110.png",
     "FULL_PIC_1024x768": "new_images/175/EOL-media-542-5896687190/full_1024x768.png",
     "THUMB_PIC_1024x768": ""
@@ -932,7 +932,7 @@
   {
     "COMMON": "Chancelor Linden (aka Little-leaf Linden)",
     "TYPE": "broadleaf",
-    "SCIENTIFIC": "Tilia cordata ‘Chancole’",
+    "SCIENTIFIC": "Tilia cordata 'Chancellor'",
     "ID": "193",
     "ITREECODE": "TICO",
     "LEVEL": "expert",
